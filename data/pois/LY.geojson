@@ -1,0 +1,5352 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1108492326",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1811112,
+          32.8959247
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1108492326,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف السرايا الحمراء",
+        "tags": {
+          "alt_name:en": "Assaraya Alhamra Museum",
+          "alt_name:en2": "Archaeological Museum of Tripol",
+          "name": "متحف السرايا الحمراء",
+          "name:ar": "متحف السرايا الحمراء",
+          "name:de": "Museum des Roten Schlosses",
+          "name:en": "Red Castle Museum",
+          "name:es": "Museo del Castillo Rojo",
+          "name:fr": "Musée du Château Rouge",
+          "tourism": "museum",
+          "wikidata": "Q2498401",
+          "wikipedia": "ar:متحف السرايا الحمراء"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1207279002",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4831598,
+          32.8036995
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1207279002,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museo Romano Sabratha",
+        "tags": {
+          "description": "ruins of ancient roman city",
+          "name": "Museo Romano Sabratha",
+          "name:ar": "صبراتة",
+          "name:es": "Museo Romano",
+          "tourism": "museum",
+          "wikidata": "Q77845236"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2595775832",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.098397,
+          32.3777111
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2595775832,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "قرطاسية الجامع العالي",
+        "tags": {
+          "addr:street": "شارع قصر أحمد",
+          "amenity": "library",
+          "name": "قرطاسية الجامع العالي",
+          "name:ar": "قرطاسية الجامع العالي",
+          "opening_hours": "Sa-Th 07:30-22:45; Fr 16:00-22:45",
+          "phone": "0913226499"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2807111315",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5628357,
+          26.096607
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2807111315,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتب شركه الكهرباء",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتب شركه الكهرباء",
+          "name:ar": "مكتب شركه الكهرباء"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3711010007",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5634414,
+          32.4689714
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3711010007,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة بن حمودة",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة بن حمودة",
+          "name:ar": "مكتبة بن حمودة"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3711010008",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5637854,
+          32.469542
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3711010008,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة زليتن الشعبية / بن عائشة",
+        "tags": {
+          "addr:street": "شارع الخرطوم",
+          "amenity": "library",
+          "name": "مكتبة زليتن الشعبية / بن عائشة",
+          "name:ar": "مكتبة زليتن الشعبية / بن عائشة",
+          "name:en": "Zliten Popular Library - Benaisha",
+          "opening_hours": "Mo-Su 09:00-21:00",
+          "phone": "00218913206247"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4102508589",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0667011,
+          32.350819
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4102508589,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "كلية الهندسة",
+        "tags": {
+          "addr:street": "الطريق الساحلي مصراته-سرت Misrata-Sirte",
+          "amenity": "library",
+          "internet_access": "wlan",
+          "name": "كلية الهندسة",
+          "name:ar": "كلية الهندسة",
+          "name:en": "Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4114264589",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0932298,
+          32.3699709
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4114264589,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الوطنية",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة الوطنية",
+          "name:ar": "مكتبة الوطنية"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4130744689",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0937756,
+          32.3729808
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4130744689,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الشهيد عبدالرحمن الجعيدي",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة الشهيد عبدالرحمن الجعيدي",
+          "name:ar": "مكتبة الشهيد عبدالرحمن الجعيدي",
+          "name:en": "Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4140605492",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6684476,
+          32.7531913
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4140605492,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "الاوائل",
+        "tags": {
+          "addr:street": "الساحلي",
+          "amenity": "library",
+          "name": "الاوائل",
+          "name:ar": "الاوائل",
+          "opening_hours": "Sa-Th 08:30-21:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4250507913",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2572272,
+          32.8262434
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4250507913,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الزياني",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة الزياني",
+          "name:ar": "مكتبة الزياني"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4255473892",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.007844,
+          32.8184315
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4255473892,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة المناهل",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة المناهل",
+          "name:ar": "مكتبة المناهل"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4255656489",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1856203,
+          32.3744711
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4255656489,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المركز الثقافي ابن عبدالغالب المصراتي",
+        "tags": {
+          "addr:street": "الملايطة",
+          "amenity": "library",
+          "name": "المركز الثقافي ابن عبدالغالب المصراتي",
+          "name:ar": "المركز الثقافي ابن عبدالغالب المصراتي"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4259986691",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0309212,
+          32.8176225
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4259986691,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة المهندس",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة المهندس",
+          "name:ar": "مكتبة المهندس",
+          "name:en": "Bookstore"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4260548090",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0819495,
+          32.8335954
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4260548090,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الافق",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة الافق",
+          "name:ar": "مكتبة الافق"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4261142107",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0286191,
+          32.8170664
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4261142107,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة المهندس 2",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة المهندس 2",
+          "name:ar": "مكتبة المهندس 2",
+          "name:en": "Bookstore"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4264232092",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.012558,
+          32.8253189
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4264232092,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "قرطاسية المتفوق",
+        "tags": {
+          "amenity": "library",
+          "name": "قرطاسية المتفوق",
+          "name:ar": "قرطاسية المتفوق",
+          "name:en": "Stationery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4265714693",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.020859,
+          32.8257683
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4265714693,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة المهندس 4",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة المهندس 4",
+          "name:ar": "مكتبة المهندس 4"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4267972993",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0872724,
+          32.8502228
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4267972993,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة اجيال",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة اجيال",
+          "name:ar": "مكتبة اجيال"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4269921592",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0142755,
+          32.8265408
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4269921592,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة دار الهيثم",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة دار الهيثم",
+          "name:ar": "مكتبة دار الهيثم",
+          "name:en": "Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4295444484",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0401316,
+          32.8242525
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4295444484,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة ابورحاب",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة ابورحاب",
+          "name:ar": "مكتبة ابورحاب"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4304591792",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0124496,
+          32.820288
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4304591792,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة عالم المعرفة",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة عالم المعرفة",
+          "name:ar": "مكتبة عالم المعرفة"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4304593594",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2063586,
+          32.8412409
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4304593594,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المستقبل للقرطاسية",
+        "tags": {
+          "amenity": "library",
+          "name": "المستقبل للقرطاسية",
+          "name:ar": "المستقبل للقرطاسية"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4307231291",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1899789,
+          32.8897963
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4307231291,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة النافورة",
+        "tags": {
+          "addr:street": "شارع النصر",
+          "amenity": "library",
+          "name": "مكتبة النافورة",
+          "name:ar": "مكتبة النافورة",
+          "name:en": "Al Nafoura Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4307239292",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1899674,
+          32.8895722
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4307239292,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الفتح",
+        "tags": {
+          "addr:street": "شارع النصر",
+          "amenity": "library",
+          "name": "مكتبة الفتح",
+          "name:ar": "مكتبة الفتح",
+          "name:en": "Alfath Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4307239294",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1618611,
+          32.8814411
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4307239294,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "دار المنصورة",
+        "tags": {
+          "amenity": "library",
+          "name": "دار المنصورة",
+          "name:ar": "دار المنصورة"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4315506593",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1699082,
+          32.8428086
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4315506593,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة دار المختار",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة دار المختار",
+          "name:ar": "مكتبة دار المختار",
+          "name:en": "Dar Al Mukhtar Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4344540390",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0806919,
+          32.3667078
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4344540390,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "معرض الشهداء",
+        "tags": {
+          "addr:street": "شارع رمضان السويحلي - طرابلس",
+          "name": "معرض الشهداء",
+          "name:ar": "معرض الشهداء",
+          "name:en": "Martyrs monument",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4355149350",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2016769,
+          32.8754549
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4355149350,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة دار المختار",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة دار المختار",
+          "name:ar": "مكتبة دار المختار",
+          "name:en": "Dar Al mukhtar Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4386884990",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0800023,
+          32.8493407
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4386884990,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الإخلاص",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة الإخلاص",
+          "name:ar": "مكتبة الإخلاص"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4392680390",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3217409,
+          32.8223944
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4392680390,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "بن حيان",
+        "tags": {
+          "amenity": "library",
+          "name": "بن حيان",
+          "name:ar": "بن حيان"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4394143489",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9762143,
+          32.0886454
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4394143489,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الصحابة",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة الصحابة",
+          "name:ar": "مكتبة الصحابة",
+          "name:en": "Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4400885694",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7361603,
+          32.7815286
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4400885694,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "ديلة القرطاسية و الادوات المكتبية",
+        "tags": {
+          "amenity": "library",
+          "name": "ديلة القرطاسية و الادوات المكتبية",
+          "name:ar": "ديلة القرطاسية و الادوات المكتبية"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4408063493",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1353046,
+          32.8757121
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4408063493,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة ليبيا",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة ليبيا",
+          "name:ar": "مكتبة ليبيا",
+          "name:en": "Libya Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4408088891",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1360119,
+          32.8762697
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4408088891,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة اللموشي",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة اللموشي",
+          "name:ar": "مكتبة اللموشي",
+          "name:en": "Libya"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4408089594",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1356302,
+          32.8761731
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4408089594,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الفرجاني",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة الفرجاني",
+          "name:ar": "مكتبة الفرجاني",
+          "name:en": "Bookstore"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4408089595",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1425535,
+          32.8781233
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4408089595,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الوحدة العربية",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة الوحدة العربية",
+          "name:ar": "مكتبة الوحدة العربية"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4408121090",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1116992,
+          32.866908
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4408121090,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الفاهم",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة الفاهم",
+          "name:ar": "مكتبة الفاهم",
+          "name:en": "Bookstore"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4416500689",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7282379,
+          32.7519235
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4416500689,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "الازهران للقرطاسية و الادوات المكتبية",
+        "tags": {
+          "amenity": "library",
+          "name": "الازهران للقرطاسية و الادوات المكتبية",
+          "name:ar": "الازهران للقرطاسية و الادوات المكتبية"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4418636489",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1413136,
+          32.8711929
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4418636489,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة القدس",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة القدس",
+          "name:ar": "مكتبة القدس"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4418824897",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7266939,
+          32.7514001
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4418824897,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "العالمية للقرطاسية",
+        "tags": {
+          "amenity": "library",
+          "name": "العالمية للقرطاسية",
+          "name:ar": "العالمية للقرطاسية"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4419583592",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1406197,
+          32.7931456
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4419583592,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبه الصفاء العاب والقرطاسية",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبه الصفاء العاب والقرطاسية",
+          "name:ar": "مكتبه الصفاء العاب والقرطاسية",
+          "name:en": "Bookstore"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4420042391",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1264918,
+          32.872808
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4420042391,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة المختار",
+        "tags": {
+          "addr:street": "طريق قرقارش الرئيسي",
+          "amenity": "library",
+          "name": "مكتبة المختار",
+          "name:ar": "مكتبة المختار",
+          "name:en": "Al Mukhtar Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4420042392",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.066042,
+          32.8322763
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4420042392,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الإخلاص",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة الإخلاص",
+          "name:ar": "مكتبة الإخلاص"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4426315334",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7333074,
+          32.7636714
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4426315334,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة العصرية",
+        "tags": {
+          "amenity": "library",
+          "name": "المكتبة العصرية",
+          "name:ar": "المكتبة العصرية",
+          "name:fr": "Bibliothèque moderne"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4434732792",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0318439,
+          32.3540197
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4434732792,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "قرطاسية ابناء الاسطي",
+        "tags": {
+          "addr:street": "شارع الجابرية",
+          "amenity": "library",
+          "name": "قرطاسية ابناء الاسطي",
+          "name:ar": "قرطاسية ابناء الاسطي",
+          "opening_hours": "Mo-Su 10:00-22:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4449043091",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0643883,
+          32.8248221
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4449043091,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "عالم القرطاسية",
+        "tags": {
+          "amenity": "library",
+          "name": "عالم القرطاسية",
+          "name:ar": "عالم القرطاسية"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4450664799",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.011184,
+          32.8201835
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4450664799,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة المختار",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة المختار",
+          "name:ar": "مكتبة المختار"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4453223790",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0978736,
+          32.8478789
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4453223790,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة البذرة",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة البذرة",
+          "name:ar": "مكتبة البذرة"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4453223795",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0276626,
+          32.8283061
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4453223795,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف جنزور",
+        "tags": {
+          "addr:street": "Janzur جنزور",
+          "name": "متحف جنزور",
+          "name:ar": "متحف جنزور",
+          "name:en": "Muesem of Janzur",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4455281092",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0782799,
+          32.8527383
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4455281092,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المستقبل",
+        "tags": {
+          "amenity": "library",
+          "name": "المستقبل",
+          "name:ar": "المستقبل"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4456223792",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6942813,
+          32.0677462
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4456223792,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المركز الثقافي",
+        "tags": {
+          "amenity": "library",
+          "name": "المركز الثقافي",
+          "name:ar": "المركز الثقافي",
+          "name:en": "Culture Center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4462027789",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1925647,
+          32.8516898
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4462027789,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الراوي",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة الراوي",
+          "name:ar": "مكتبة الراوي",
+          "name:en": "Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4468999796",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3015716,
+          32.7799162
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4468999796,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "التلميذ",
+        "tags": {
+          "amenity": "library",
+          "name": "التلميذ",
+          "name:ar": "التلميذ"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4497086097",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2354336,
+          32.8413082
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4497086097,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المهندس",
+        "tags": {
+          "amenity": "library",
+          "name": "المهندس",
+          "name:ar": "المهندس"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4505966091",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1025658,
+          32.3568126
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4505966091,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "كليه الطب البشري (مكتبة كلية الطب)",
+        "tags": {
+          "addr:street": "شارع سَعْدُونْ السّويحْلِي",
+          "amenity": "library",
+          "name": "كليه الطب البشري (مكتبة كلية الطب)",
+          "name:ar": "كليه الطب البشري (مكتبة كلية الطب)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4510084789",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0451021,
+          32.8421189
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4510084789,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "اجيال القرطاسية",
+        "tags": {
+          "addr:street": "الطريق الدائري جنزور",
+          "amenity": "library",
+          "name": "اجيال القرطاسية",
+          "name:ar": "اجيال القرطاسية",
+          "name:en": "Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4510965990",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7351657,
+          32.7620951
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4510965990,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة العصرية الاولى",
+        "tags": {
+          "amenity": "library",
+          "name": "المكتبة العصرية الاولى",
+          "name:ar": "المكتبة العصرية الاولى",
+          "name:en": "Bookstore"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4516882790",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1267369,
+          32.8664362
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4516882790,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة السفير للقرطاسية والادوات المكتبة وتصوير المستندات",
+        "tags": {
+          "addr:street": "Gorji St/طريق قرجي",
+          "amenity": "library",
+          "name": "مكتبة السفير للقرطاسية والادوات المكتبة وتصوير المستندات",
+          "name:ar": "مكتبة السفير للقرطاسية والادوات المكتبة وتصوير المستندات",
+          "opening_hours": "Mo-Su 10:00-22:00",
+          "phone": "00218911395053"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4520459295",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2161155,
+          32.8242038
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4520459295,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "التلميذ",
+        "tags": {
+          "amenity": "library",
+          "name": "التلميذ",
+          "name:ar": "التلميذ",
+          "name:en": "Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4527880992",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3967752,
+          32.6309714
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4527880992,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف قصر ليبيا",
+        "tags": {
+          "name": "متحف قصر ليبيا",
+          "name:ar": "متحف قصر ليبيا",
+          "name:en": "QASR LIBYA Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4539296194",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1675364,
+          32.8476455
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4539296194,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة السلسبيل 2",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة السلسبيل 2",
+          "name:ar": "مكتبة السلسبيل 2",
+          "name:en": "Salsabil Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4561371803",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2645457,
+          32.8184647
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4561371803,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة النور",
+        "tags": {
+          "addr:street": "طريق عين زارة",
+          "amenity": "library",
+          "name": "مكتبة النور",
+          "name:ar": "مكتبة النور",
+          "name:en": "Al Nour Stationery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4561582600",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1453731,
+          32.8736959
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4561582600,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "قرجي للقرطاسية",
+        "tags": {
+          "amenity": "library",
+          "name": "قرجي للقرطاسية",
+          "name:ar": "قرجي للقرطاسية",
+          "name:en": "Stationery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4562844992",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1914313,
+          32.8767595
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4562844992,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة المنهل",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة المنهل",
+          "name:ar": "المنهل",
+          "name:en": "Al Manhil Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4564786391",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2429151,
+          32.8897426
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4564786391,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة سوق الجمعة للقرطاسية والأدوات المكتبية",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة سوق الجمعة للقرطاسية والأدوات المكتبية",
+          "name:ar": "مكتبة سوق الجمعة للقرطاسية والأدوات المكتبية",
+          "name:en": "Suq Al-jumaAh library for school supplies"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4589794690",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1273759,
+          32.8733057
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4589794690,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الاندلس للقرطاسية",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة الاندلس للقرطاسية",
+          "name:ar": "مكتبة الاندلس للقرطاسية",
+          "name:en": "al-andalus store"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4597067295",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0783941,
+          32.8446632
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4597067295,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "الأمل",
+        "tags": {
+          "amenity": "library",
+          "name": "الأمل",
+          "name:ar": "الأمل"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4597089890",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0075799,
+          32.8082727
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4597089890,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "اجيال",
+        "tags": {
+          "amenity": "library",
+          "name": "اجيال",
+          "name:ar": "اجيال"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4602089790",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7611363,
+          32.7689506
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4602089790,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "شركة العالمية الجديدة القرطاسية و الادوات المكتبية",
+        "tags": {
+          "amenity": "library",
+          "name": "شركة العالمية الجديدة القرطاسية و الادوات المكتبية",
+          "name:ar": "شركة العالمية الجديدة القرطاسية و الادوات المكتبية"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4646283792",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7190317,
+          32.7618722
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4646283792,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "addr:street": "شارع الخرطوم",
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4653804489",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2334152,
+          32.6904513
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4653804489,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "قرطاسية ومصور",
+        "tags": {
+          "addr:street": "جزيرة بئر التوتة",
+          "amenity": "library",
+          "name": "قرطاسية ومصور",
+          "name:ar": "قرطاسية ومصور",
+          "name:en": "Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4653842696",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1804571,
+          32.6865655
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4653842696,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مصور وقرطاسية",
+        "tags": {
+          "addr:street": "Qaser Bin Ghashir",
+          "amenity": "library",
+          "name": "مصور وقرطاسية",
+          "name:ar": "مصور وقرطاسية",
+          "name:en": "Photo Store & Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4664170996",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1990318,
+          30.7184732
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4664170996,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "المتحف الحربي اجدابيا",
+        "tags": {
+          "name": "المتحف الحربي اجدابيا",
+          "name:ar": "المتحف الحربي اجدابيا",
+          "name:en": "Military Museum Ajdabia",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4665575489",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1156868,
+          32.846837
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4665575489,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة المطاع",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة المطاع",
+          "name:ar": "مكتبة المطاع"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4671023289",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2250107,
+          30.7703869
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4671023289,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتب الاتقان تصوير مستندات",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتب الاتقان تصوير مستندات",
+          "name:ar": "مكتب الاتقان تصوير مستندات"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4678932090",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0176677,
+          32.1699347
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4678932090,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4709920090",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6336346,
+          32.4338959
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4709920090,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة باب المدينة",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة باب المدينة",
+          "name:ar": "مكتبة باب المدينة",
+          "name:en": "Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4719356191",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1668986,
+          32.8461202
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4719356191,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة وقرطاسية كراميش",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة وقرطاسية كراميش",
+          "name:ar": "مكتبة وقرطاسية كراميش",
+          "name:en": "Library",
+          "opening_hours": "Mo-Su 09:00-21:05"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4783951501",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.186937,
+          32.8811513
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4783951501,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة طرابلس العلمية العالمية",
+        "tags": {
+          "addr:street": "شارع الجمهورية",
+          "amenity": "library",
+          "name": "مكتبة طرابلس العلمية العالمية",
+          "name:ar": "مكتبة طرابلس العلمية العالمية",
+          "name:en": "Tripoli International Scientific Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4798147526",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2023424,
+          32.8550415
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4798147526,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الجسر",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة الجسر",
+          "name:ar": "مكتبة الجسر",
+          "name:en": "Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4806732824",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.613664,
+          32.4913472
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4806732824,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "رابش سيارات",
+        "tags": {
+          "addr:street": "شارع ازدو",
+          "name": "رابش سيارات",
+          "name:ar": "رابش سيارات",
+          "opening_hours": "Mo-Su 09:00-19:00",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4890036222",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.216999,
+          30.7612056
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4890036222,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "كلية الهندسه",
+        "tags": {
+          "addr:street": "طريق شعبيه اطلس",
+          "amenity": "library",
+          "internet_access": "wlan",
+          "name": "كلية الهندسه",
+          "name:ar": "كلية الهندسه",
+          "opening_hours": "Sa-Th 03:00-20:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4931107022",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3950797,
+          32.7783433
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4931107022,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4941546122",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1034133,
+          32.1354424
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4941546122,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "قرطاسية المهاري للادوات المدرسية",
+        "tags": {
+          "addr:street": "الطريق الدائري الثالث",
+          "amenity": "library",
+          "name": "قرطاسية المهاري للادوات المدرسية",
+          "name:ar": "قرطاسيه المهاري للادوات المدرسيه",
+          "name:en": "Stationery Shop"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5001823729",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1724401,
+          32.8609371
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5001823729,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة دار الأرقم",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة دار الأرقم",
+          "name:ar": "مكتبة دار الأرقم"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5053760922",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3398939,
+          32.8750194
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5053760922,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مطبعة الهناء لدعايه والاعلان",
+        "tags": {
+          "addr:housenumber": "0925434187",
+          "addr:street": "طريق تاجوراء الوسط",
+          "amenity": "library",
+          "internet_access": "wlan",
+          "name": "مطبعة الهناء لدعايه والاعلان",
+          "name:ar": "مطبعة الهناء لدعايه والاعلان",
+          "name:en": "مطبعة الهناء",
+          "opening_hours": "Mo-Su 10:00-14:00, 15:00-22:00",
+          "phone": "0925434187"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5098418524",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2272224,
+          32.8499656
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5098418524,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الطب البشري",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة الطب البشري",
+          "name:ar": "مكتبة الطب البشري",
+          "name:en": "Library of medical college"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5151662626",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0264706,
+          31.9599077
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5151662626,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف سليمان باشا الباروني الاثري",
+        "tags": {
+          "name": "متحف سليمان باشا الباروني الاثري",
+          "name:ar": "متحف سليمان باشا الباروني الاثري",
+          "name:en": "suliman basha baruni museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5289332036",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1811481,
+          32.8894866
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5289332036,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "دار ابن كثير للطباعة والنشر",
+        "tags": {
+          "addr:street": "Via Torino - شارع تورينو",
+          "amenity": "library",
+          "name": "دار ابن كثير للطباعة والنشر",
+          "name:ar": "دار ابن كثير للطباعة والنشر",
+          "name:en": "Dar Ibn Katheer for printing and publishing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5363043021",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5669455,
+          32.4739651
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5363043021,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف الغزالات",
+        "tags": {
+          "name": "متحف الغزالات",
+          "name:ar": "متحف الغزالات",
+          "name:en": "Gazalat Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5363161121",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1828669,
+          32.8866811
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5363161121,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الوفاق",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة الوفاق",
+          "name:ar": "مكتبة الوفاق",
+          "name:en": "Al Wifaq Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5432035721",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2173041,
+          30.7817995
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5432035721,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "محل باوا لدكور الجبس",
+        "tags": {
+          "amenity": "library",
+          "name": "محل باوا لدكور الجبس",
+          "name:ar": "محل باوا لدكور الجبس",
+          "name:en": "Decorative Gypsum",
+          "phone": "0944023985"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5529275025",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.188661,
+          32.8514336
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5529275025,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "library student",
+        "tags": {
+          "amenity": "library",
+          "name": "library student",
+          "name:en": "school stationery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5551353222",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0825334,
+          32.3748209
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5551353222,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "أطلس للدورات المنهجية",
+        "tags": {
+          "addr:street": "شارع عبد الله الغريب",
+          "amenity": "library",
+          "name": "أطلس للدورات المنهجية",
+          "name:ar": "أطلس للدورات المنهجية",
+          "opening_hours": "Sa-Th 09:00-18:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5692744165",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4817693,
+          32.8042331
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5692744165,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museo Púnico (Cartago)",
+        "tags": {
+          "name": "Museo Púnico (Cartago)",
+          "tourism": "museum",
+          "wikidata": "Q105300355"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5749984121",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1988943,
+          32.8891434
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5749984121,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "محل المهندس للطباعة المقات فوري",
+        "tags": {
+          "amenity": "library",
+          "name": "محل المهندس للطباعة المقات فوري",
+          "name:ar": "محل المهندس للطباعة المقات فوري",
+          "name:en": "Copy Shop"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5861084086",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1140843,
+          32.1329067
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5861084086,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الصحابة",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة الصحابة",
+          "name:ar": "مكتبة الصحابة"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5867469385",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1841162,
+          32.8861267
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5867469385,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة النصر",
+        "tags": {
+          "addr:street": "شارع النصر",
+          "amenity": "library",
+          "name": "مكتبة النصر",
+          "name:ar": "مكتبة النصر",
+          "name:en": "Victory Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5935508990",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1519461,
+          32.3732913
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5935508990,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "أحمد الزروق",
+        "tags": {
+          "addr:street": "طريق قصر أحمد Gaser Ahmed Road",
+          "amenity": "library",
+          "name": "أحمد الزروق",
+          "name:ar": "أحمد الزروق",
+          "name:en": "Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6086663887",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9766447,
+          32.0819124
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6086663887,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "المتحف الوطني",
+        "tags": {
+          "addr:street": "الخليج",
+          "name": "المتحف الوطني",
+          "name:ar": "المتحف الوطني",
+          "name:en": "the National Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6249962491",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1589101,
+          32.81683
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6249962491,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة الحديثة للقرطاسية و الألعاب و الأدوات المكتبية",
+        "tags": {
+          "amenity": "library",
+          "name": "المكتبة الحديثة للقرطاسية و الألعاب و الأدوات المكتبية",
+          "name:ar": "المكتبة الحديثة للقرطاسية و الألعاب و الأدوات المكتبية"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6264508386",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1872314,
+          32.8820766
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6264508386,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الوان",
+        "tags": {
+          "addr:street": "شارع الجمهورية",
+          "amenity": "library",
+          "name": "مكتبة الوان",
+          "name:ar": "مكتبة الوان",
+          "phone": "00218217225281"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6276417985",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1656027,
+          32.8140613
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6276417985,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة المعرفة للقرطاسية و الألعاب",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة المعرفة للقرطاسية و الألعاب",
+          "name:ar": "مكتبة المعرفة للقرطاسية و الألعاب"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6305484387",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9800716,
+          31.4409543
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6305484387,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "مركز مزدة التراث",
+        "tags": {
+          "name": "مركز مزدة التراث",
+          "name:ar": "مركز مزدة التراث",
+          "name:en": "Center for heritage",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6345001385",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.015895,
+          31.7481851
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6345001385,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة المنتاز",
+        "tags": {
+          "addr:street": "طريق اشميخ",
+          "amenity": "library",
+          "name": "مكتبة المنتاز",
+          "name:ar": "مكتبة الممتاز",
+          "name:en": "Library",
+          "opening_hours": "Sa-Th 09:00-19:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6349799586",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2111698,
+          32.8838355
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6349799586,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة إقرأ",
+        "tags": {
+          "amenity": "library",
+          "books:language:ar": "yes",
+          "language:ar": "main",
+          "name": "مكتبة إقرأ",
+          "name:ar": "مكتبة إقرأ"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6370257287",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9826357,
+          31.8648755
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6370257287,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف نالوت للديناصورات",
+        "tags": {
+          "addr:city": "نالوت",
+          "addr:street": "شارع خليفة بن عسكر KHALIFA ASKER STREET",
+          "name": "متحف نالوت للديناصورات",
+          "name:ar": "متحف نالوت للديناصورات",
+          "name:en": "Nalut museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6370292485",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9834527,
+          31.863558
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6370292485,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الربيع",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة الربيع",
+          "name:ar": "مكتبة الربيع",
+          "name:en": "Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6384432391",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.053835,
+          32.0572286
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6384432391,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة المركزية لجامعة بنغازي",
+        "tags": {
+          "amenity": "library",
+          "name": "المكتبة المركزية لجامعة بنغازي",
+          "name:ar": "المكتبة المركزية لجامعة بنغازي",
+          "name:en": "Central Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6426939576",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.06447,
+          32.1132996
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6426939576,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة جمال عبدالناصر",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة جمال عبدالناصر",
+          "name:ar": "مكتبة جمال عبدالناصر",
+          "name:fr": "Bibliothèque Gamal Abdel Nasser"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6453337386",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.224158,
+          30.7584936
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6453337386,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف اجدابيا",
+        "tags": {
+          "name": "متحف اجدابيا",
+          "name:ar": "متحف اجدابيا",
+          "name:en": "Ajdabia Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6460274585",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9726681,
+          32.0806883
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6460274585,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المركز الثقافي",
+        "tags": {
+          "amenity": "library",
+          "name": "المركز الثقافي",
+          "name:ar": "المركز الثقافي",
+          "name:en": "Culture Center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6507416485",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7417241,
+          32.7522443
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6507416485,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "إستشارات إدارية",
+        "tags": {
+          "addr:housenumber": "565",
+          "addr:postcode": "+218",
+          "addr:street": "الجهاد",
+          "amenity": "library",
+          "name": "إستشارات إدارية",
+          "name:ar": "إستشارات إدارية",
+          "name:en": "Management Consulting",
+          "opening_hours": "Su-Th 09:00-18:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6566321485",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9935415,
+          31.7417134
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6566321485,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الهدف لبيع الكتب و القرطاسيات",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة الهدف لبيع الكتب و القرطاسيات",
+          "name:ar": "مكتبة الهدف لبيع الكتب و القرطاسيات",
+          "name:en": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6589014985",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6475248,
+          32.7686549
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6589014985,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الملك ادريس",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة الملك ادريس",
+          "name:ar": "مكتبة الملك ادريس",
+          "name:en": "Idris King Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6759077886",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1576751,
+          32.3662633
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6759077886,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "مسجد الرعيضات",
+        "tags": {
+          "name": "مسجد الرعيضات",
+          "name:ar": "مسجد الرعيضات",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6772002387",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.124565,
+          32.3641728
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6772002387,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مركز اكسفورد",
+        "tags": {
+          "addr:street": "الدائرى الرابع",
+          "amenity": "library",
+          "name": "مركز اكسفورد",
+          "name:ar": "مركز اكسفورد",
+          "opening_hours": "Mo-Su 08:00-17:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6778855086",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6044542,
+          31.1761986
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6778855086,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة النجاح",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة النجاح",
+          "name:ar": "مكتبة النجاح",
+          "name:en": "Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6817293492",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1829893,
+          32.8774831
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6817293492,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "المتحف الإسلامي",
+        "tags": {
+          "addr:city": "طرابلس",
+          "addr:street": "شارع سيدي خليفة",
+          "name": "المتحف الإسلامي",
+          "name:ar": "المتحف الإسلامي",
+          "name:en": "Islamic Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6848077586",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1894024,
+          32.8880863
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6848077586,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "قصر الملك إدريس",
+        "tags": {
+          "amenity": "library",
+          "name": "قصر الملك إدريس",
+          "name:ar": "قصر الملك إدريس",
+          "name:en": "Pablo’ Palazzo"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6854384285",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.633791,
+          32.4338617
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6854384285,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الجزيرة",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة الجزيرة",
+          "name:ar": "مكتبة الجزيرة"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6854463785",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2403482,
+          32.8882997
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6854463785,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة سوق الجمعة",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة سوق الجمعة",
+          "name:ar": "مكتبة سوق الجمعة",
+          "name:en": "Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6893406985",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.356725,
+          32.0120077
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6893406985,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة سهل الجبل",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة سهل الجبل",
+          "name:ar": "مكتبة سهل الجبل",
+          "name:en": "Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6923551285",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0909132,
+          32.3750289
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6923551285,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "المتحف التاريخي",
+        "tags": {
+          "name": "المتحف التاريخي",
+          "name:ar": "المتحف التاريخي",
+          "name:en": "Historical Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7068087286",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7473641,
+          32.7608312
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7068087286,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مركز صقر للطباعه والتصوير",
+        "tags": {
+          "addr:street": "شارع جمال عبد الناصر",
+          "amenity": "library",
+          "name": "مركز صقر للطباعه والتصوير",
+          "name:ar": "مركز صقر للطباعه والتصوير",
+          "name:en": "Saqer cnter",
+          "opening_hours": "Sa-Th 09:00-20:00",
+          "phone": "0918999696"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7140400074",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0061894,
+          31.7434538
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7140400074,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الجامعة",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة الجامعة",
+          "opening_hours": "Su-Fr 09:00-15:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7204350885",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2214009,
+          30.7556215
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7204350885,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتب الرساله 1",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتب الرساله 1",
+          "name:ar": "مكتب الرساله 1",
+          "name:en": "تصوير مستندات"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7206329885",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5633831,
+          29.0268623
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7206329885,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "قرطاسية الشرداخ",
+        "tags": {
+          "addr:street": "شارع الرئيسي اللبة",
+          "amenity": "library",
+          "name": "قرطاسية الشرداخ",
+          "name:ar": "قرطاسية الشرداخ"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7270699788",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0419972,
+          32.5811777
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7270699788,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبات وقرطاسية",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبات وقرطاسية",
+          "name:ar": "مكتبات وقرطاسية"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7602926810",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.546898,
+          29.0317921
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7602926810,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7609132540",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9587101,
+          32.0816271
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7609132540,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7752824385",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9272346,
+          25.909094
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7752824385,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7799267985",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.010659,
+          32.1627577
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7799267985,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الصدارة",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة الصدارة",
+          "name:ar": "مكتبة الصدارة",
+          "name:en": "Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7799271485",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0094622,
+          32.1619741
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7799271485,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الاتحاد",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة الاتحاد",
+          "name:ar": "مكتبة الاتحاد"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7799273085",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0277348,
+          32.1743952
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7799273085,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة المهندس",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة المهندس",
+          "name:ar": "مكتبة المهندس",
+          "name:en": "Bookstore"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7969137785",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1753272,
+          32.8832175
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7969137785,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "اوقات يفرن",
+        "tags": {
+          "amenity": "library",
+          "name": "اوقات يفرن",
+          "name:ar": "اوقات يفرن",
+          "name:en": "Yafren Times"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7990217885",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2955145,
+          27.5311894
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7990217885,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8553644818",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1170514,
+          32.5346028
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8553644818,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الحبيشي",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة الحبيشي",
+          "name:en": "Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8555437317",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1549535,
+          32.3865139
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8555437317,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "مدرسة ابوتركية القرآنية",
+        "tags": {
+          "name": "مدرسة ابوتركية القرآنية",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8737585291",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3271998,
+          32.8076101
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8737585291,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8895993317",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0832046,
+          32.3683046
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8895993317,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الرشيد للكتب الدينية",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة الرشيد للكتب الدينية",
+          "phone": "+218918036667"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9072256915",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.986893,
+          31.8671558
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9072256915,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "قصر نالوت",
+        "tags": {
+          "addr:city": "نالوت",
+          "addr:street": "طريق قصر نالوت",
+          "name": "قصر نالوت",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9344758517",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9831956,
+          31.8626666
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9344758517,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف الديناصورات",
+        "tags": {
+          "name": "متحف الديناصورات",
+          "name:en": "dinosaurs museum",
+          "name:fr": "le musée des dinosaures",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9948161227",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8956794,
+          32.0767048
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9948161227,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10092960829",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0535777,
+          32.3684839
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10092960829,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "قرطاسيية بن طاهر",
+        "tags": {
+          "amenity": "library",
+          "name": "قرطاسيية بن طاهر"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10552837814",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5750366,
+          32.7548385
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10552837814,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف صرمان البلدي",
+        "tags": {
+          "name": "متحف صرمان البلدي",
+          "name:ar": "متحف صرمان البلدي",
+          "name:en": "Surman municipal Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11125684910",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2640238,
+          32.859474
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11125684910,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مركز بصيرة النسائي",
+        "tags": {
+          "addr:city": "tripoli",
+          "addr:place": "Alsaaba'a",
+          "amenity": "library",
+          "email": "baseraly1@gmail.com",
+          "internet_access": "yes",
+          "internet_access:fee": "yes",
+          "name": "مركز بصيرة النسائي",
+          "opening_hours": "Mo-Su 09:00-14:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11163350906",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0849691,
+          32.9335412
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11163350906,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "جمعية زوارة للهوية و التراث",
+        "tags": {
+          "name": "جمعية زوارة للهوية و التراث",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12450102601",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5740306,
+          32.7555528
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12450102601,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة طالب العلم",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة طالب العلم"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12478479861",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5175455,
+          29.7472878
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12478479861,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13023379463",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1010135,
+          31.122795
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13023379463,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/102548344",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1893115,
+          32.8880573
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 102548344,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف ليبيا",
+        "tags": {
+          "building": "yes",
+          "building:levels": "4",
+          "name": "متحف ليبيا",
+          "name:ar": "متحف ليبيا",
+          "name:en": "Libyan Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/264742768",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9836589,
+          32.3921326
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 264742768,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "منارة المحجوب",
+        "tags": {
+          "amenity": "library",
+          "name": "منارة المحجوب",
+          "name:ar": "منارة المحجوب"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/276162923",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0670102,
+          26.5255903
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 276162923,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف جرمة",
+        "tags": {
+          "addr:street": "طريق جرمه برجوج",
+          "building": "yes",
+          "name": "متحف جرمة",
+          "name:ar": "متحف جرمة",
+          "name:en": "Jirmah Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/276384573",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0090241,
+          26.5259378
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 276384573,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتب السجل المدني -الغريفة",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "مكتب السجل المدني -الغريفة",
+          "name:ar": "مكتب السجل المدني -الغريفة",
+          "name:en": "Civil Registry Office"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/288509939",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7786663,
+          26.5892772
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 288509939,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتب السجل المدني الرئيسي اوباري",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "مكتب السجل المدني الرئيسي اوباري",
+          "name:ar": "مكتب السجل المدني الرئيسي اوباري",
+          "name:en": "Office of Civil Registry"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/331175837",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4368696,
+          27.0360568
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 331175837,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة المركزية",
+        "tags": {
+          "amenity": "library",
+          "name": "المكتبة المركزية",
+          "name:ar": "المكتبه المركزيه",
+          "name:en": "The central library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/338693939",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6959298,
+          32.5494821
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 338693939,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/367182583",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2885874,
+          32.6343717
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 367182583,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Leptis Magna Museum",
+        "tags": {
+          "building": "yes",
+          "name": "Leptis Magna Museum",
+          "name:ar": "متحف لبدة الكبري",
+          "name:it": "Museo di Leptis Magna",
+          "tourism": "museum",
+          "wikidata": "Q6527955"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371428241",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2198967,
+          32.8533075
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 371428241,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة كلية العلوم",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "مكتبة كلية العلوم",
+          "name:ar": "مكتبة كلية العلوم",
+          "name:en": "Faculty of Science Library",
+          "operator": "University of Tripoli"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371485178",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2206315,
+          32.8521764
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 371485178,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكبة كلبة الهندسة",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "مكبة كلبة الهندسة",
+          "name:ar": "مكتبة كلية الهندسة",
+          "name:en": "Faculty of Engineering Library",
+          "operator": "University of Tripoli"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371485180",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2216417,
+          32.8505904
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 371485180,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة مبنى النووية",
+        "tags": {
+          "amenity": "library",
+          "building:part": "yes",
+          "name": "مكتبة مبنى النووية",
+          "name:ar": "مكتبة مبنى النووية",
+          "name:en": "Nuclear Building Library",
+          "operator": "University of Tripoli"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/452294767",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3462633,
+          32.8822579
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 452294767,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة الوطنية للعلوم والتقنية",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "المكتبة الوطنية للعلوم والتقنية",
+          "name:ar": "المكتبة الوطنية للعلوم والتقنية",
+          "name:en": "National Library of Science and Technology"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/456730988",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7121407,
+          32.7583457
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 456730988,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة جامعة عمر المختار",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "building:levels": "3",
+          "name": "مكتبة جامعة عمر المختار",
+          "name:ar": "مكتبة جامعة عمر المختار",
+          "name:en": "Omar Al - Mukhtar University Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/460316936",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1820489,
+          32.891443
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 460316936,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centralized National Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Centralized National Library",
+          "name:ar": "المكتبة الوطنية المركزية",
+          "name:en": "National Central Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/463046044",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4165318,
+          27.0439083
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 463046044,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name:ar": "مكتبة أهل الحديث الإسلامية",
+          "name:en": "Ahl Alhadeeth Islamic Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/477607861",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4288572,
+          27.0351464
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 477607861,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "building:levels": "3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/766911188",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0181157,
+          31.755305
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 766911188,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف بني وليد الأثري",
+        "tags": {
+          "building": "yes",
+          "building:levels": "2",
+          "fee": "no",
+          "name": "متحف بني وليد الأثري",
+          "name:ar": "متحف بني وليد الأثري",
+          "name:en": "Bani Walid Museum",
+          "tourism": "museum",
+          "wikipedia": "ar:متحف بني وليد الأثري"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/783490816",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0443594,
+          32.841533
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 783490816,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/783868803",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0537685,
+          32.0573256
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 783868803,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/785572271",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6474781,
+          32.7687709
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 785572271,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/884370862",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3622082,
+          32.8756736
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 884370862,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مركز الشيخ علي الغرياني للكتاب",
+        "tags": {
+          "air_conditioning": "yes",
+          "amenity": "library",
+          "building": "yes",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "internet_access:ssid": "شبكة الضيوف",
+          "name": "مركز الشيخ علي الغرياني للكتاب",
+          "name:ar": "مركز الشيخ علي الغرياني للكتاب",
+          "name:en": "Shab Center for Book",
+          "opening_hours": "Sa-Th 09:00-21:00",
+          "operator": "Higher Institute of Sharish Sciences",
+          "operator:type": "government",
+          "phone": "+218 21 334 6498",
+          "website": "https://www.shabcenter.net/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/962216268",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.86418,
+          32.8178119
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 962216268,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف المنحوتات",
+        "tags": {
+          "building": "yes",
+          "name": "متحف المنحوتات",
+          "name:ar": "متحف المنحوتات",
+          "name:en": "Shahhat Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/995425183",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9826499,
+          31.8648706
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 995425183,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف نالوت للديناصورات",
+        "tags": {
+          "addr:city": "نالوت",
+          "addr:street": "شارع خليفة بن عسكر KHALIFA ASKER STREET",
+          "building": "yes",
+          "name": "متحف نالوت للديناصورات",
+          "name:ar": "متحف نالوت للديناصورات",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1012565060",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9468574,
+          32.7301217
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1012565060,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1199542204",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2640242,
+          32.8594637
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1199542204,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مركز بصيرة النسائي",
+        "tags": {
+          "addr:city": "tripoli",
+          "addr:place": "Alsaaba'a",
+          "amenity": "library",
+          "building": "yes",
+          "internet_access": "yes",
+          "internet_access:fee": "no",
+          "name": "مركز بصيرة النسائي",
+          "opening_hours": "Mo-Su 09:00-14:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1417442279",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1520408,
+          31.4408934
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1417442279,
+        "country": "Libya",
+        "alpha_2": "LY",
+        "countries": [
+          "LY"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    }
+  ]
+}

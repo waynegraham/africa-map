@@ -1,0 +1,1491 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/380468499",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.4975013,
+          -20.1609058
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 380468499,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Blue Penny Museum",
+        "tags": {
+          "name": "Blue Penny Museum",
+          "tourism": "museum",
+          "website": "https://www.bluepennymuseum.com/en/",
+          "wheelchair": "no",
+          "wikidata": "Q495247",
+          "wikimedia_commons": "Category:Blue Penny Museum",
+          "wikipedia": "en:Blue Penny Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/440651071",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.7220636,
+          -20.374962
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 440651071,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Frederik Hendrik Museum",
+        "tags": {
+          "name": "Frederik Hendrik Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1668473792",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.478686,
+          -20.2648956
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1668473792,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Simone de Beauvoire",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Simone de Beauvoire"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2586894450",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.6581445,
+          -20.0420974
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2586894450,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "La Demeure Saint Antoine",
+        "tags": {
+          "name": "La Demeure Saint Antoine",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2637954996",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.5245676,
+          -20.5230742
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2637954996,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Robert Edward Hart Museum",
+        "tags": {
+          "name": "Robert Edward Hart Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2638507648",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.4176327,
+          -20.4259667
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2638507648,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museum Touche Du Bois",
+        "tags": {
+          "name": "Museum Touche Du Bois",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2639624995",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.5320737,
+          -20.3278804
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2639624995,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Domaine Des Aubineaux - Tea Museum",
+        "tags": {
+          "name": "Domaine Des Aubineaux - Tea Museum",
+          "source": "http://www.saintaubin.mu/larouteduthe/fr/domaine_des_aubineaux.aspx",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2788590044",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.5455371,
+          -20.5081779
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2788590044,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Saint Aubin Sugarcane Museum",
+        "tags": {
+          "name": "Saint Aubin Sugarcane Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2999870437",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.722552,
+          -20.1966677
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2999870437,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Librairie Caunhye",
+        "tags": {
+          "amenity": "library",
+          "name": "Librairie Caunhye"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3041963561",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.3707859,
+          -19.7576821
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3041963561,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3042011988",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.4217244,
+          -19.6814041
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3042011988,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3113610351",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.4674225,
+          -20.176982
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3113610351,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "UTM Resource Center",
+        "tags": {
+          "amenity": "library",
+          "name": "UTM Resource Center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3753993503",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.497051,
+          -20.2348698
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3753993503,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4875691877",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.5035001,
+          -20.1642184
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4875691877,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Photo Museum",
+        "tags": {
+          "addr:city": "Port-Louis",
+          "addr:street": "Rue du Vieux Conseil",
+          "fee": "yes",
+          "name": "Photo Museum",
+          "opening_hours": "Mo-Fr 10:00-15:00",
+          "tourism": "museum",
+          "wikidata": "Q2370529",
+          "wikimedia_commons": "Category:Port Louis Photography Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4875798485",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.5006531,
+          -20.1644332
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4875798485,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "National Library",
+        "tags": {
+          "addr:city": "Port Louis",
+          "addr:housenumber": "12",
+          "addr:street": "Edith Cavell Street",
+          "amenity": "library",
+          "level": "2",
+          "name": "National Library",
+          "phone": "+2302119894",
+          "wikidata": "Q6974161",
+          "wikipedia": "en:National Library of Mauritius"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4985899968",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.4129835,
+          -20.256887
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4985899968,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bambous Library",
+        "tags": {
+          "addr:city": "Bambous",
+          "addr:street": "Royal Road Bambous",
+          "addr:street:fr": "Route Royale Bambous",
+          "amenity": "library",
+          "name": "Bambous Library",
+          "name:fr": "Bibliothèque de Bambous"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5513122969",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.7227605,
+          -20.1862689
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5513122969,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6451983474",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.5258926,
+          -20.426392
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6451983474,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Bois Chéri Tea Museum",
+        "tags": {
+          "fee": "yes",
+          "name": "Bois Chéri Tea Museum",
+          "opening_hours": "Mo-Su 09:00-17:00",
+          "tourism": "museum",
+          "website": "https://www.saintaubin.mu/fr/bois_cheri.aspx"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7196710286",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.3278433,
+          -20.4593647
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7196710286,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "name:en": "Open air museum of Trou Chenille",
+          "opening_hours": "Mo-Su 07:00-14:30",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8253156817",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.5030019,
+          -20.1584951
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8253156817,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Aapravasi Ghat",
+        "tags": {
+          "alt_name:en": "Beekrumsing Ramlallah Interpretation Centre",
+          "alt_name:fr": "Centre d'interprétation Beekrumsing Ramlallah",
+          "museum": "history",
+          "name": "Aapravasi Ghat",
+          "name:ar": "آبرافاسي غات",
+          "name:en": "Aapravasi Ghat",
+          "name:fr": "Aapravasi Ghat",
+          "name:hi": "आप्रवासी घाट",
+          "name:ja": "アプラヴァシ・ガート",
+          "name:ru": "Ааправаси-Гхат",
+          "name:zh": "阿普拉瓦西•加特地区",
+          "opening_hours": "Mo-Fr 09:00-16:00; Sa 09:00-12:00 \"on appointment\"; Dec 24,Dec 31 09:00-12:00; Su off; PH off",
+          "start_date": "2014-11-03",
+          "tourism": "museum",
+          "website": "aapravasi.govmu.org"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9005960418",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.4118839,
+          -19.7426472
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9005960418,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre de Lecture Publique et d'Animation Culturelle Rivière Cocos",
+        "tags": {
+          "amenity": "library",
+          "name": "Centre de Lecture Publique et d'Animation Culturelle Rivière Cocos",
+          "short_name": "CELPAC Rivière Cocos"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9409903535",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.4527992,
+          -19.7377774
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9409903535,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Port Sud Est Public Library",
+        "tags": {
+          "addr:city": "Port Sud Est",
+          "amenity": "library",
+          "name": "Port Sud Est Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9446352220",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.4593315,
+          -19.7099838
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9446352220,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "CLAC",
+        "tags": {
+          "amenity": "library",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "name": "CLAC",
+          "operator": "RRA",
+          "operator:type": "public"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9974295621",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.4702036,
+          -20.176394
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9974295621,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Centre Culturel Nelson Mandela",
+        "tags": {
+          "museum": "history",
+          "name": "Centre Culturel Nelson Mandela",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10652232940",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.4250833,
+          -19.6800629
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10652232940,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Alliance Française",
+        "tags": {
+          "amenity": "library",
+          "name": "Alliance Française",
+          "operator": "Alliance Française"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12617340554",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.4277606,
+          -19.6778277
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12617340554,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de Rodrigues",
+        "tags": {
+          "addr:city": "Port Mathurin",
+          "addr:street": "Baie Lascar",
+          "loc_name": "Musée de Rodrigues",
+          "museum": "history",
+          "name": "Musée de Rodrigues",
+          "name:en": "Rodrigues Museum",
+          "name:fr": "Musée de Rodrigues",
+          "opening_hours": "Mo,Tu,Th,Fr 09:00-15:00; We 09:00-12:00",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14049955928",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.4782586,
+          -20.2427247
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 14049955928,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Médiathèque",
+        "tags": {
+          "access": "yes",
+          "addr:city": "Rose Hill",
+          "addr:housenumber": "30",
+          "addr:street": "Julius Nyerere Avenue",
+          "air_conditioning": "yes",
+          "amenity": "library",
+          "email": "mediatheque@ifmaurice.org",
+          "indoor_seating": "yes",
+          "level": "1",
+          "name": "Médiathèque",
+          "opening_hours": "Tu-We 13:00-17:00; Th-Fr 10:00-17:00; Sa 09:00-16:00; PH off",
+          "phone": "+230 465 52 22",
+          "website": "https://www.institutfrancais.mu/presentation-mediatheque/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/97937003",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.6175449,
+          -20.0717332
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 97937003,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Château de Labourdonnais",
+        "tags": {
+          "addr:city": "Domaine de Labourdonnais, Mapou",
+          "addr:street": "Beau Plateau Road",
+          "contact:email": "leisure@ddl.mu",
+          "museum": "history",
+          "name": "Château de Labourdonnais",
+          "opening_hours": "Mo-Su 09:00-16:00",
+          "operator": "Domaine de Labourdonnais",
+          "phone": "+2302663007",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/170362036",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.5741799,
+          -20.0976858
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 170362036,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "L'Aventure du Sucre",
+        "tags": {
+          "building": "yes",
+          "name": "L'Aventure du Sucre",
+          "tourism": "museum",
+          "wikidata": "Q18923518",
+          "wikimedia_commons": "Category:L'Aventure du Sucre",
+          "wikipedia": "fr:L'Aventure du Sucre"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/223529938",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.5260494,
+          -20.3190425
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 223529938,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Carnegie Library",
+        "tags": {
+          "amenity": "library",
+          "building": "service",
+          "name": "Carnegie Library",
+          "operator": "Municipal Council of Curepipe",
+          "wikidata": "Q2901269"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256686852",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.6977502,
+          -20.4040041
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 256686852,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Biscuiterie Rault",
+        "tags": {
+          "building": "yes",
+          "name": "Biscuiterie Rault",
+          "source": "http://biscuitmanioc.com/",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/306395387",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.5016508,
+          -20.1599339
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 306395387,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Postal Museum",
+        "tags": {
+          "addr:city": "Port Louis",
+          "addr:street": "Quay Street",
+          "building": "yes",
+          "name": "Postal Museum",
+          "opening_hours": "Mo-Fr 09:30-16:30; Sa 09:30-15:30",
+          "tourism": "museum",
+          "website": "https://www.mauritiuspost.mu/postal-museum",
+          "wikidata": "Q3329940",
+          "wikimedia_commons": "Category:Mauritius Postal Museum",
+          "wikipedia": "en:Mauritius Postal Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/459008714",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.3718904,
+          -20.4369297
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 459008714,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/470704952",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.4970264,
+          -20.2351575
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 470704952,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/495848217",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.5837059,
+          -20.0147507
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 495848217,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Grand baie Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Grand baie Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/495859071",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.4817302,
+          -20.2829379
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 495859071,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/524218213",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.5041886,
+          -20.1532365
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 524218213,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/586914250",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.6439089,
+          -20.0342257
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 586914250,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "public library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "public library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/589530431",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.7030065,
+          -20.4162831
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 589530431,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "National History Museum Mahebourg",
+        "tags": {
+          "addr:street": "Royal Road",
+          "building": "yes",
+          "museum": "history",
+          "name": "National History Museum Mahebourg",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/761291072",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.7218507,
+          -20.3749966
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 761291072,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Frederik Hendrik Museum",
+        "tags": {
+          "building": "yes",
+          "name": "Frederik Hendrik Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1182577225",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.4339122,
+          -20.1751761
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1182577225,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Four A Chaux De Petit Verger",
+        "tags": {
+          "building": "yes",
+          "name": "Four A Chaux De Petit Verger",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1222953224",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.498883,
+          -20.2832761
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1222953224,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Masonic Lodge",
+        "tags": {
+          "building": "museum",
+          "name": "Masonic Lodge",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1259007509",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.5020442,
+          -20.1588072
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1259007509,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "museum": "history",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1259007510",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.5018191,
+          -20.1590838
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1259007510,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée d'Histoire",
+        "tags": {
+          "building": "yes",
+          "museum": "history",
+          "name": "Musée d'Histoire",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1295387191",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.5435097,
+          -20.5006735
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1295387191,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Mainson de la vanille",
+        "tags": {
+          "building": "house",
+          "name": "Mainson de la vanille",
+          "name:en": "Vanilla House",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1295387192",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.5448837,
+          -20.5014375
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1295387192,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Maison du rhum & dégustation",
+        "tags": {
+          "building": "yes",
+          "name": "Maison du rhum & dégustation",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1376422728",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.6373468,
+          -20.0978533
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1376422728,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Château de Beau Sejour",
+        "tags": {
+          "name": "Château de Beau Sejour",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1435561509",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.4218173,
+          -20.2826097
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1435561509,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Milestones Motor Museum",
+        "tags": {
+          "addr:city": "Beaux Songes",
+          "addr:street": "Palma Road",
+          "building": "yes",
+          "museum": "transport",
+          "name": "Milestones Motor Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/14750287",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.5024585,
+          -20.1632519
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 14750287,
+        "country": "Mauritius",
+        "alpha_2": "MU",
+        "countries": [
+          "MU"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Natural History Museum",
+        "tags": {
+          "addr:city": "Port-Louis",
+          "addr:street": "Rue Poudrière",
+          "building": "yes",
+          "name": "Natural History Museum",
+          "name:fr": "Musée d'Histoire Naturelle",
+          "opening_hours": "Mo-Tu, Th-Sa 09:00-16:00; We 11:00-16:00",
+          "phone": "+230 289 2801",
+          "tourism": "museum",
+          "type": "multipolygon",
+          "wikidata": "Q110288946",
+          "wikipedia": "en:Natural History Museum, Port Louis"
+        }
+      }
+    }
+  ]
+}

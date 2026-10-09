@@ -1,0 +1,153 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/2278448049",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5771908,
+          4.3658505
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2278448049,
+        "country": "Central African Republic",
+        "alpha_2": "CF",
+        "countries": [
+          "CF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Alliance Française de Bangui",
+        "tags": {
+          "amenity": "library",
+          "name": "Alliance Française de Bangui",
+          "office": "foreign_national_agency"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12830116501",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5602171,
+          4.3818434
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12830116501,
+        "country": "Central African Republic",
+        "alpha_2": "CF",
+        "countries": [
+          "CF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "internet_access": "wlan"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13839212701",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5626916,
+          4.3784459
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13839212701,
+        "country": "Central African Republic",
+        "alpha_2": "CF",
+        "countries": [
+          "CF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "addr:street": "Rue de l'Université",
+          "amenity": "library",
+          "internet_access": "wlan"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188492702",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5770013,
+          4.3640957
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 188492702,
+        "country": "Central African Republic",
+        "alpha_2": "CF",
+        "countries": [
+          "CF"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée National Barthélémy Boganda",
+        "tags": {
+          "building": "yes",
+          "name": "Musée National Barthélémy Boganda",
+          "name:en": "National Museum Barthelemy Boganda",
+          "name:fr": "Musée National Barthélémy Boganda",
+          "source": "Mapbox",
+          "tourism": "museum",
+          "wikidata": "Q2688029"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/265035387",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7915337,
+          4.257503
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 265035387,
+        "country": "Central African Republic",
+        "alpha_2": "CF",
+        "countries": [
+          "CF"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Régional",
+        "tags": {
+          "building": "yes",
+          "name": "Musée Régional",
+          "tourism": "museum"
+        }
+      }
+    }
+  ]
+}

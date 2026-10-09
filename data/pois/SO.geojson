@@ -1,0 +1,279 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/2866183977",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0726318,
+          9.5621863
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2866183977,
+        "country": "Somalia",
+        "alpha_2": "SO",
+        "countries": [
+          "SO"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museum متحف",
+        "tags": {
+          "addr:city": "هرجيسا",
+          "name": "Museum متحف",
+          "name:ar": "متحف",
+          "name:en": "Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4692077889",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0357647,
+          9.5752516
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4692077889,
+        "country": "Somalia",
+        "alpha_2": "SO",
+        "countries": [
+          "SO"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "addr:street": "Xero Awr Road",
+          "amenity": "library",
+          "name:en": "New generation university collage",
+          "opening_hours": "24/7"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4830620521",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.2997072,
+          2.0413736
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4830620521,
+        "country": "Somalia",
+        "alpha_2": "SO",
+        "countries": [
+          "SO"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Shuceyb Center",
+        "tags": {
+          "name": "Shuceyb Center",
+          "name:en": "Shuceyb Center",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4959549623",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0491461,
+          9.563581
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4959549623,
+        "country": "Somalia",
+        "alpha_2": "SO",
+        "countries": [
+          "SO"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "addr:postcode": "252",
+          "email": "msaeedshukri@gmaul.com",
+          "name:en": "Saryan Museum",
+          "opening_hours": "Mo-Su 08:00-21:00",
+          "operator": "Saed Shukri",
+          "phone": "0634409399",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5807486153",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3741884,
+          2.0612118
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5807486153,
+        "country": "Somalia",
+        "alpha_2": "SO",
+        "countries": [
+          "SO"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Masjidka Ali Geedi",
+        "tags": {
+          "name": "Masjidka Ali Geedi",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1118069799",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.006445,
+          10.4349607
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1118069799,
+        "country": "Somalia",
+        "alpha_2": "SO",
+        "countries": [
+          "SO"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Berbera Public Library",
+        "tags": {
+          "amenity": "library",
+          "building": "public",
+          "name": "Berbera Public Library",
+          "wikidata": "Q85746652"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1347615515",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.066016,
+          9.561459
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1347615515,
+        "country": "Somalia",
+        "alpha_2": "SO",
+        "countries": [
+          "SO"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Somaliland National Museum",
+        "tags": {
+          "building": "yes",
+          "building:levels": "6",
+          "name": "Somaliland National Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/8696818",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3385698,
+          2.0367567
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 8696818,
+        "country": "Somalia",
+        "alpha_2": "SO",
+        "countries": [
+          "SO"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Maktabadda Qaranka",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Maktabadda Qaranka",
+          "name:en": "Somali National Library",
+          "name:es": "Biblioteca Nacional Somalí",
+          "type": "multipolygon"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/18919634",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3381688,
+          2.0377193
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 18919634,
+        "country": "Somalia",
+        "alpha_2": "SO",
+        "countries": [
+          "SO"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Somali National Museum",
+        "tags": {
+          "building": "yes",
+          "name": "Somali National Museum",
+          "name:es": "Museo Nacional Somalí",
+          "tourism": "museum",
+          "type": "multipolygon"
+        }
+      }
+    }
+  ]
+}

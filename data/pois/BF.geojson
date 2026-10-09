@@ -1,0 +1,1779 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/344604978",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5633409,
+          12.3962185
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 344604978,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque nationale",
+        "tags": {
+          "amenity": "library",
+          "created_by": "Potlatch 0.10f",
+          "name": "Bibliothèque nationale"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/647262549",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.297263,
+          11.1690441
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 647262549,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée du Houet",
+        "tags": {
+          "name": "Musée du Houet",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/964903675",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3001537,
+          12.5772251
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 964903675,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/996200553",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5090385,
+          12.7829967
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 996200553,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Manèga",
+        "tags": {
+          "name": "Manèga",
+          "name:fr": "Manèga",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1412070264",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.1751681,
+          10.6665432
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1412070264,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Public library / bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "name": "Public library / bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2386749510",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5335315,
+          12.337992
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2386749510,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "CSPS Centre de santé ICCV Nazemse",
+        "tags": {
+          "amenity": "library",
+          "name": "CSPS Centre de santé ICCV Nazemse"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2595081507",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1871673,
+          12.6922904
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2595081507,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Dimdolobsom",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Dimdolobsom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2651590076",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0794031,
+          12.6534611
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2651590076,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2655728466",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3225216,
+          11.1897735
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2655728466,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "ASPAC Musée de la Musique d'hier et aujourd'hui",
+        "tags": {
+          "addr:city": "Bobo-Dioulasso",
+          "addr:country": "BF",
+          "addr:street": "Boulevard de la Révolution",
+          "name": "ASPAC Musée de la Musique d'hier et aujourd'hui",
+          "office": "association",
+          "source": "GPS",
+          "tourism": "museum",
+          "website": "http://www.aspac-burkina.com/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2661205390",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2760745,
+          11.1709017
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2661205390,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Biblio-Brousse",
+        "tags": {
+          "addr:city": "Bobo-Dioulasso",
+          "addr:country": "BF",
+          "amenity": "library",
+          "contact:website": "https://www.facebook.com/bibliobrousse",
+          "is_in:city": "Bobo-Dioulasso",
+          "is_in:country": "Burkina Faso",
+          "is_in:country_code": "BF",
+          "name": "Biblio-Brousse",
+          "website": "https://www.bibliobrousse.com/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2887743688",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3662531,
+          12.2576773
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2887743688,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "operator": "ADEMUSE"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2901364733",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5046297,
+          12.3680445
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2901364733,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Médiathèque Municipale",
+        "tags": {
+          "amenity": "library",
+          "name": "Médiathèque Municipale"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2958546893",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3908786,
+          12.2604433
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2958546893,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3280115585",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5000501,
+          12.3767842
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3280115585,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque de l'UFR/SJP",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque de l'UFR/SJP",
+          "name:en": "Library - SJP",
+          "source": "survey;bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3628719745",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.312875,
+          11.171071
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3628719745,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque de l'IRD",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque de l'IRD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3664157146",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5318974,
+          12.3672528
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3664157146,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Maisons des Savoirs 1",
+        "tags": {
+          "addr:full": "Avenue Kadiogo, Ouagadougou, Burkina Faso",
+          "amenity": "library",
+          "contact:email": "madoassita@yahoo.fr",
+          "contact:phone": "+226 70841821",
+          "contact:website": "http://mdsouagadougou.unblog.fr/",
+          "description": "La MDS est un espace public de documentation, d’initiation aux logiciels libres et de formation aux technologies de l’information et de communication. Elle est destinée à un public composé, en particulier, de jeunes et de femmes.",
+          "name": "Maisons des Savoirs 1",
+          "operator:type": "public",
+          "project:oif-dfen_carteinnov": "yes",
+          "secondary_activity": "teaching",
+          "short_name": "MDS 1",
+          "source": "survey",
+          "source:date": "2016-11-24",
+          "source:geometry": "survey;oif-dfen_carteinnov",
+          "start_date": "2019",
+          "teaching:it": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3664516198",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.503041,
+          12.377568
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3664516198,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque SEA",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque SEA",
+          "source": "survey;bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3676704939",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5336284,
+          12.3402477
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3676704939,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Nouvelle Bibliothèque ICCV Nazemce",
+        "tags": {
+          "amenity": "library",
+          "name": "Nouvelle Bibliothèque ICCV Nazemce",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3743383528",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7865516,
+          12.0755388
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3743383528,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Eco Musée de Diapaga",
+        "tags": {
+          "name": "Eco Musée de Diapaga",
+          "source": "survey",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3897325015",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5044387,
+          12.3772199
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3897325015,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Central Scientifique",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Central Scientifique",
+          "source": "bing;survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3897346780",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5044138,
+          12.3766437
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3897346780,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Universitaire Centrale",
+        "tags": {
+          "addr:street": "Avenue de l'Universite",
+          "amenity": "library",
+          "internet_access": "wlan",
+          "name": "Bibliothèque Universitaire Centrale",
+          "name:en": "Central University Library",
+          "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-12:00",
+          "short_name": "BUC"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4306931819",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5038938,
+          12.3768463
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4306931819,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque de géographie",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque de géographie",
+          "source": "bing;survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4385264159",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5029617,
+          12.3758771
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4385264159,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque CEDRES",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque CEDRES",
+          "source": "survey;bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4394831835",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4995665,
+          12.3805086
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4394831835,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque SDS",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque SDS",
+          "source": "survey;bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4394981176",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4972818,
+          12.3788974
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4394981176,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque SVT",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque SVT",
+          "source": "survey;bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4395033217",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5003322,
+          12.3803567
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4395033217,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bliothèque de sociologie",
+        "tags": {
+          "amenity": "library",
+          "name": "Bliothèque de sociologie"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4396969438",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5003371,
+          12.380091
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4396969438,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque de Philo et Psycho",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque de Philo et Psycho"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4404464485",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5044755,
+          12.377184
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4404464485,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque SH",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque SH"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4623916249",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3766806,
+          12.237162
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4623916249,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Rayimi à Issouka",
+        "tags": {
+          "name": "Musée Rayimi à Issouka",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4629822216",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8973404,
+          12.7655834
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4629822216,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museo Alfred Ki-Zerbo",
+        "tags": {
+          "name": "Museo Alfred Ki-Zerbo",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4709891611",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5116992,
+          12.3688696
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4709891611,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "West African Museum Program",
+        "tags": {
+          "addr:city": "10 BP 861 OUAGADOUGOU 10 Burkina Faso",
+          "name": "West African Museum Program",
+          "phone": "0022625483966",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4810287760",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3472097,
+          11.1852961
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4810287760,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Senoufo",
+        "tags": {
+          "name": "Senoufo",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5150110902",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4875504,
+          11.8419843
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5150110902,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5527444021",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4217579,
+          13.5757977
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5527444021,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6255913873",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4732232,
+          12.3756764
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6255913873,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée National",
+        "tags": {
+          "name": "Musée National",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6299024326",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3410373,
+          11.1735181
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6299024326,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "librairie Populaire Annexe",
+        "tags": {
+          "amenity": "library",
+          "name": "librairie Populaire Annexe",
+          "opening_hours": "Mo-Su 08:00-18:00; Apr 10-15 off; Jun 08:00-14:00; Aug off; Dec 25 off",
+          "operator": "76558567",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6365548010",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7464228,
+          10.6284826
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6365548010,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque LMJT",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque LMJT"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6633078634",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6057141,
+          12.0490678
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6633078634,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Palais chef de Sapone",
+        "tags": {
+          "name": "Palais chef de Sapone",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8118614188",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5275703,
+          12.3701093
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8118614188,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8982785017",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5177269,
+          11.4983054
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8982785017,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Caro tecque",
+        "tags": {
+          "name": "Caro tecque",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9709138980",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5088646,
+          12.7829214
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9709138980,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de la Bendrologie de Manega",
+        "tags": {
+          "name": "Musée de la Bendrologie de Manega",
+          "operator": "Frédéric Titinga Pacéré",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11063067721",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3883958,
+          13.3627332
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11063067721,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Villageoise de Bougounam",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Villageoise de Bougounam"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11156023705",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2789938,
+          11.1703487
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11156023705,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Free Afrik",
+        "tags": {
+          "amenity": "library",
+          "name": "Free Afrik",
+          "opening_hours": "Mo-Sa 07:30-17:30"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13586648901",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3968648,
+          12.2424578
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13586648901,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "American Corner",
+        "tags": {
+          "amenity": "library",
+          "name": "American Corner"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13586648902",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.396528,
+          12.2424143
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13586648902,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque ENS",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque ENS"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28811290",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4714567,
+          12.3792739
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 28811290,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée National",
+        "tags": {
+          "area": "yes",
+          "name": "Musée National",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30621153",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5302697,
+          12.3105636
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 30621153,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre islamique",
+        "tags": {
+          "amenity": "library",
+          "name": "Centre islamique"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312542890",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5168349,
+          12.3735132
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 312542890,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de la Musique de Ouagadougou",
+        "tags": {
+          "building": "yes",
+          "name": "Musée de la Musique de Ouagadougou",
+          "tourism": "museum",
+          "wikidata": "Q1955714"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/325942939",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0632098,
+          11.1458953
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 325942939,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de la Femme",
+        "tags": {
+          "area": "yes",
+          "barrier": "wall",
+          "name": "Musée de la Femme",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/345536183",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1782327,
+          10.3333
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 345536183,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée des Civilisations du Sud-Ouest",
+        "tags": {
+          "building": "yes",
+          "name": "Musée des Civilisations du Sud-Ouest",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/358158792",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2541988,
+          11.1589999
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 358158792,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre Badenya",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Centre Badenya"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/368933893",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.275639,
+          12.9603475
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 368933893,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/414265743",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.357755,
+          13.1962879
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 414265743,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/414268309",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.359768,
+          13.2116572
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 414268309,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/435618374",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2493612,
+          10.9654798
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 435618374,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/454470610",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4158202,
+          13.5803208
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 454470610,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque municipale",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque municipale"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/467541588",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2834582,
+          11.1756842
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 467541588,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "source": "bing;survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/495685331",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5130391,
+          12.3701164
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 495685331,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothéque IRD",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothéque IRD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1056573805",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7606189,
+          13.9011946
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1056573805,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée archéologique",
+        "tags": {
+          "building": "yes",
+          "museum": "local_history",
+          "name": "Musée archéologique",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1134641764",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1966276,
+          12.6864495
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1134641764,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Maison du Savoir et de la Culture Jean Claude et Françoise Perrin",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "internet_access": "yes",
+          "name": "Maison du Savoir et de la Culture Jean Claude et Françoise Perrin",
+          "start_date": "2022-11-18"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1192919843",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7646538,
+          11.8491318
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1192919843,
+        "country": "Burkina Faso",
+        "alpha_2": "BF",
+        "countries": [
+          "BF"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque"
+        }
+      }
+    }
+  ]
+}

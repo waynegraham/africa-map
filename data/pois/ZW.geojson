@@ -1,0 +1,2010 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/910385732",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9864305,
+          -18.6291111
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 910385732,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Robins Camp Tower",
+        "tags": {
+          "fee": "no",
+          "name": "Robins Camp Tower",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/929017920",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8148456,
+          -19.4533571
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 929017920,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Stock Exchange Building",
+        "tags": {
+          "check_date": "2023-12-25",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "name": "Stock Exchange Building",
+          "opening_hours": "24/7",
+          "payment:cash": "yes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "tourism": "museum",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/929020562",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8152264,
+          -19.4532812
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 929020562,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Boggie's Clock Tower",
+        "tags": {
+          "check_date": "2023-12-25",
+          "internet_access": "no",
+          "name": "Boggie's Clock Tower",
+          "opening_hours": "Mo-Fr 07:00-16:00",
+          "tourism": "museum",
+          "wheelchair": "limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/929819096",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8763282,
+          -20.0374122
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 929819096,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Site of the Battle of Mbembesi",
+        "tags": {
+          "name": "Site of the Battle of Mbembesi",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/929819121",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5837007,
+          -20.1615858
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 929819121,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "check_date": "2023-05-05"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/929926659",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3450836,
+          -17.624639
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 929926659,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Batonga Museum",
+        "tags": {
+          "is_in": "Binga, Binga District, Matabeleland North, Zimbabwe",
+          "name": "Batonga Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/929927206",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3452476,
+          -17.6243953
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 929927206,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Binga Library",
+        "tags": {
+          "amenity": "library",
+          "is_in": "Binga, Binga District, Matabeleland North, Zimbabwe",
+          "name": "Binga Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/966679473",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8010157,
+          -18.9254488
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 966679473,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "National Mining Museum",
+        "tags": {
+          "name": "National Mining Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/966679494",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3700555,
+          -18.7405829
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 966679494,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Old Suspension Bridge (broken down)",
+        "tags": {
+          "name": "Old Suspension Bridge (broken down)",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/966709193",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3307269,
+          -19.9465325
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 966709193,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/966709194",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3312835,
+          -19.9468055
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 966709194,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Dhlodhlo Ruins",
+        "tags": {
+          "name": "Dhlodhlo Ruins",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/966709199",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3598332,
+          -20.1334304
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 966709199,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Regina Ruins",
+        "tags": {
+          "name": "Regina Ruins",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/966709216",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5304721,
+          -19.8814361
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 966709216,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/966731617",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.42343,
+          -20.1457617
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 966731617,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2084947269",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5333304,
+          -20.2009424
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2084947269,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Nketa Library",
+        "tags": {
+          "amenity": "library",
+          "check_date": "2023-05-07",
+          "name": "Nketa Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2277018172",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8194232,
+          -17.9013242
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2277018172,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3031920947",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5915674,
+          -20.1622379
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3031920947,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "National Free Library",
+        "tags": {
+          "amenity": "library",
+          "check_date": "2023-05-05",
+          "name": "National Free Library",
+          "wikidata": "Q6974180",
+          "wikipedia:en": "National Library of Zimbabwe"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4237277449",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.9672695,
+          -21.0838296
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4237277449,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Kambako Living Museum",
+        "tags": {
+          "name": "Kambako Living Museum",
+          "tourism": "museum",
+          "website": "http://www.themalilangwetrust.org/community/kambako-living-museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4311322489",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5802378,
+          -20.1563752
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4311322489,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "National University of Science & Technology Library",
+        "tags": {
+          "addr:housenumber": "114",
+          "addr:street": "Fort Street",
+          "alt_name": "NUST Library",
+          "amenity": "library",
+          "email": "library@nust.ac.zw",
+          "internet_access": "wlan",
+          "name": "National University of Science & Technology Library",
+          "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-16:00",
+          "phone": "+263-9-796-79/86",
+          "website": "https://library.nust.ac.zw/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4400780491",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0535352,
+          -17.7806991
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4400780491,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "UZ Main Library",
+        "tags": {
+          "amenity": "library",
+          "check_date": "2024-04-13",
+          "name": "UZ Main Library",
+          "name:en": "UZ Main Library",
+          "opening_hours": "24/7"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4738628076",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5905508,
+          -19.0084405
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4738628076,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Dangamvura",
+        "tags": {
+          "museum": "history",
+          "name": "Dangamvura",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4889691922",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9996522,
+          -17.7903483
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4889691922,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mabelreign Library",
+        "tags": {
+          "amenity": "library",
+          "check_date": "2023-05-08",
+          "name": "Mabelreign Library",
+          "name:en": "Mabelreign Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5254584745",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9430576,
+          -16.7301797
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5254584745,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Tengenenge Museum",
+        "tags": {
+          "name": "Tengenenge Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5397707516",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0639342,
+          -17.7948962
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5397707516,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "National Archives of Zimbabwe",
+        "tags": {
+          "addr:street": "Ruth Taylor Road",
+          "name": "National Archives of Zimbabwe",
+          "opening_hours": "Mo-Fr 08:30-16:00",
+          "phone": "+2634792741",
+          "tourism": "museum",
+          "website": "http://www.archives.gov.zw"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6035596585",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8091357,
+          -18.9359816
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6035596585,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Kwekwe Mining Museum",
+        "tags": {
+          "name": "Kwekwe Mining Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6172264887",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6654477,
+          -18.9747761
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6172264887,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Turner Memorial",
+        "tags": {
+          "amenity": "library",
+          "internet_access": "wlan",
+          "name": "Turner Memorial"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7035824888",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4610163,
+          -17.6219795
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7035824888,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "LRF INFORMATION CENTER",
+        "tags": {
+          "amenity": "library",
+          "name": "LRF INFORMATION CENTER",
+          "phone": "+263774507757"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7865569192",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.379533,
+          -17.4834158
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7865569192,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "LRF Information Center- Headman Mangani-Trelawney",
+        "tags": {
+          "amenity": "library",
+          "name": "LRF Information Center- Headman Mangani-Trelawney"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8300714917",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9823574,
+          -17.8240639
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8300714917,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museum of African liberation",
+        "tags": {
+          "name": "Museum of African liberation",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9918976018",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0937511,
+          -17.8174031
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9918976018,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "library",
+        "tags": {
+          "amenity": "library",
+          "name": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10306667509",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.839878,
+          -17.9273671
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10306667509,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Steam Loco",
+        "tags": {
+          "addr:street": "Livingstone Way",
+          "name": "Steam Loco",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10743390605",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0496789,
+          -17.8237561
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10743390605,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Christian Science Reading Room",
+        "tags": {
+          "amenity": "library",
+          "check_date": "2023-04-08",
+          "name": "Christian Science Reading Room"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10795071044",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0495117,
+          -17.8236588
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10795071044,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Christian Science Reading Room",
+        "tags": {
+          "amenity": "library",
+          "check_date": "2023-04-08",
+          "name": "Christian Science Reading Room"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10880698437",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5143589,
+          -20.1745968
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10880698437,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Nkulumane Public library",
+        "tags": {
+          "amenity": "library",
+          "check_date": "2023-05-09",
+          "name": "Nkulumane Public library",
+          "opening_hours": "Mo-Sa 08:00-16:00; Su off"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10880709424",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5418868,
+          -20.1471878
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10880709424,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Msiteli High School Library",
+        "tags": {
+          "amenity": "library",
+          "check_date": "2023-05-09",
+          "name": "Msiteli High School Library",
+          "opening_hours": "Mo-Fr 08:00-16:00; Sa-Su off",
+          "operator": "Msiteli High School"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11223140828",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5830475,
+          -20.1526756
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11223140828,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13504403079",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0029203,
+          -20.941495
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13504403079,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Edward Ndlovu Memorial Trust Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Edward Ndlovu Memorial Trust Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13813249643",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.667178,
+          -18.9710375
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13813249643,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "The Mutare Museum",
+        "tags": {
+          "addr:housenumber": "3",
+          "addr:street": "Aerodrome Road",
+          "contact:email": "mutqremuseum@nmmz.co.zw",
+          "name": "The Mutare Museum",
+          "opening_hours": "Mo-Sa 08:00-17:00",
+          "phone": "0202063630",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/202254196",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6822614,
+          -16.8201741
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 202254196,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Karoi Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Karoi Library",
+          "opening_hours": "We 10:00-16:00, Fr 10:00-13:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254243136",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5830656,
+          -20.1529642
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 254243136,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "The Art Grove Coffee Shop",
+        "tags": {
+          "addr:street": "Leopold Takawira Avenue",
+          "amenity": "cafe",
+          "building": "yes",
+          "check_date": "2023-05-07",
+          "cuisine": "Various",
+          "internet_access": "no",
+          "name": "The Art Grove Coffee Shop",
+          "note": "Try the Queen Elizabeth Cake - it's fantastic!",
+          "phone": "+263-772-383-810",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/297170048",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0488512,
+          -17.8249071
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 297170048,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "National Gallery of Zimbabwe",
+        "tags": {
+          "building": "public",
+          "check_date": "2023-04-08",
+          "name": "National Gallery of Zimbabwe",
+          "opening_hours": "Tu-Su 09:00-17:00",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/313913401",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5805634,
+          -20.1546298
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 313913401,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bulawayo Public Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "check_date": "2023-05-07",
+          "internet_access": "wlan",
+          "internet_access:fee": "yes",
+          "name": "Bulawayo Public Library",
+          "opening_hours": "Mo-Fr 09:00-17:30 open \"Library\"; Sa 09:00-12:30 open \"Library and Internet_Cafe\" || Sa 09:00-16:00 open \"Internet_Cafe\"",
+          "website": "http://www.byopubliclibrary.org/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/335665073",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9323012,
+          -20.2704208
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 335665073,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Great Zimbabwe Museum",
+        "tags": {
+          "building": "yes",
+          "name": "Great Zimbabwe Museum",
+          "name:de": "Museum Groß-Simbabwe",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/368139300",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5742088,
+          -20.1635341
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 368139300,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Bulawayo Railway Museum",
+        "tags": {
+          "addr:street": "Crew Road",
+          "name": "Bulawayo Railway Museum",
+          "tourism": "museum",
+          "wikidata": "Q203414",
+          "wikipedia:en": "Bulawayo Railway Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/370210613",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5964215,
+          -20.1557945
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 370210613,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "The Natural History Museum of Zimbabwe",
+        "tags": {
+          "addr:city": "Bulawayo",
+          "addr:street": "Park Road",
+          "building": "yes",
+          "building:levels": "3",
+          "check_date": "2026-08-13",
+          "contact:facebook": "https://www.facebook.com/NHMZimbabwe/",
+          "contact:instagram": "https://www.instagram.com/bulawayomuseum_nat.hist",
+          "fee": "yes",
+          "museum": "nature",
+          "name": "The Natural History Museum of Zimbabwe",
+          "opening_hours": "Mo-Su 09:00-17:00",
+          "phone": "+263-9-250 045",
+          "toilets": "yes",
+          "tourism": "museum",
+          "website": "https://naturalhistorymuseumzimbabwe.com/",
+          "wikidata": "Q1771439",
+          "wikipedia": "en:Natural History Museum of Zimbabwe"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371175497",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0899822,
+          -17.7985383
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 371175497,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Highlands Library",
+        "tags": {
+          "addr:city": "Harare",
+          "addr:street": "Kew drive",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Highlands Library",
+          "opening_hours": "10:00-18:00; Sa 09:30-12:30; Su,Th closed",
+          "operator": "Harare City Council"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/393029565",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4824134,
+          -20.1411383
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 393029565,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Pumula Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Pumula Library",
+          "operator": "Bulawayo City Council"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/400239337",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8135838,
+          -19.4643328
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 400239337,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Aviation Muesum",
+        "tags": {
+          "name": "Aviation Muesum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/400239338",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8150343,
+          -19.4602551
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 400239338,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Zimbabwe Military Museum",
+        "tags": {
+          "name": "Zimbabwe Military Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/402494651",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.128561,
+          -17.8104913
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 402494651,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Queen Victoria Memorial Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Queen Victoria Memorial Library",
+          "operator": "Harare Municipality"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/435555983",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5104235,
+          -20.1101539
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 435555983,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Luveve Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Luveve Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/449236824",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9916925,
+          -17.8899919
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 449236824,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Highfield Library",
+        "tags": {
+          "addr:suburb": "Highfields",
+          "amenity": "library",
+          "building": "yes",
+          "check_date": "2024-01-02",
+          "internet_access": "wlan",
+          "internet_access:fee": "customers",
+          "name": "Highfield Library",
+          "opening_hours": "Mo-Fr 08:00-16:00",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/479972409",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8400142,
+          -19.5165679
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 479972409,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Main Library",
+        "tags": {
+          "addr:housename": "main library",
+          "addr:unit": "1",
+          "amenity": "library",
+          "building": "apartments",
+          "building:levels": "2",
+          "building:material": "brick",
+          "check_date": "2024-03-18",
+          "name": "Main Library",
+          "operator": "Midlands State University",
+          "roof:levels": "2",
+          "roof:shape": "gabled",
+          "website": "http://library.msu.ac.zw/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/488866850",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2691131,
+          -20.4365341
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 488866850,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "GSU Library",
+        "tags": {
+          "access": "university",
+          "air_conditioning": "no",
+          "amenity": "library",
+          "building": "yes",
+          "check_date": "2023-04-24",
+          "internet_access": "wlan",
+          "internet_access:ssid": "GSU-Students-Wifi, GSU-Staff-Wifi, GSU-Guest-Wifi",
+          "name": "GSU Library",
+          "opening_hours": "Mo-Fr 08:30-16:00",
+          "operator:type": "university",
+          "source": "local knowledge"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/498543498",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1955799,
+          -17.3710273
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 498543498,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Chinhoyi Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Chinhoyi Library",
+          "operator": "Municipality Of Chinhoyi"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/501714765",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5355385,
+          -20.1751222
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 501714765,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Tshabalal Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Tshabalal Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/503129283",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6106344,
+          -20.1608914
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 503129283,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Ascot Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "building:colour": "#fcf2d6",
+          "building:levels": "1",
+          "name": "Ascot Library",
+          "roof:colour": "#e1e1e1",
+          "roof:height": "1",
+          "roof:levels": "1",
+          "roof:material": "roof_tiles",
+          "roof:shape": "flat"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/666983794",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6376647,
+          -18.1361272
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 666983794,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/696400088",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5441595,
+          -20.1437476
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 696400088,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mpopoma Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "check_date": "2023-05-09",
+          "name": "Mpopoma Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/925741688",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8330241,
+          -20.0780623
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 925741688,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "EAG Art Museum",
+        "tags": {
+          "name": "EAG Art Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1251532384",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5442127,
+          -18.1901321
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1251532384,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Municipality Children's Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "government": "yes",
+          "name": "Municipality Children's Library",
+          "operator": "Marondera Municipality",
+          "operator:type": "council"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1279098154",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5466726,
+          -20.1318891
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1279098154,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Entumbane Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Entumbane Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1299784092",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9308132,
+          -17.6161633
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1299784092,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "A'Level Study Center",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "A'Level Study Center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/3524153",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9271461,
+          -17.8014721
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 3524153,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Dzivarasekwa Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Dzivarasekwa Library",
+          "type": "multipolygon"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/8153276",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0388747,
+          -17.8313875
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 8153276,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Harare City Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "check_date": "2023-04-13",
+          "name": "Harare City Library",
+          "type": "multipolygon"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/8153277",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0388592,
+          -17.8323314
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 8153277,
+        "country": "Zimbabwe",
+        "alpha_2": "ZW",
+        "countries": [
+          "ZW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Zimbabwe Museum of Human Sciences",
+        "tags": {
+          "building": "yes",
+          "check_date": "2024-01-03",
+          "internet_access": "wlan",
+          "internet_access:fee": "customers",
+          "name": "Zimbabwe Museum of Human Sciences",
+          "old_name": "Queen Victoria Museum",
+          "opening_hours": "Mo-Su 08:00-16:30",
+          "payment:cash": "yes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "tourism": "museum",
+          "type": "multipolygon",
+          "wheelchair": "yes"
+        }
+      }
+    }
+  ]
+}

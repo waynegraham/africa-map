@@ -1,0 +1,1145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1954838823",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0115379,
+          5.3131105
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1954838823,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "l'Oiseau-livres",
+        "tags": {
+          "amenity": "library",
+          "name": "l'Oiseau-livres"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2447227537",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0172075,
+          5.3507613
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2447227537,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Maison de la Bible",
+        "tags": {
+          "amenity": "library",
+          "name": "Maison de la Bible",
+          "operator": "Maison de la Bible"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3613049636",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0153453,
+          5.3905188
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3613049636,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Salle Multimédia",
+        "tags": {
+          "amenity": "library",
+          "name": "Salle Multimédia",
+          "opening_hours": "Mo-Fr 08:30-20:00; Sa,Su 08:00-15:00; PH off",
+          "operator": "Una",
+          "wheelchair": "limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3662871386",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.019542,
+          5.3888803
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3662871386,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliotheque Numerique",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliotheque Numerique"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3784811219",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.024175,
+          5.3335507
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3784811219,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée des Civilisations de Côte d’Ivoire",
+        "tags": {
+          "name": "Musée des Civilisations de Côte d’Ivoire",
+          "tourism": "museum",
+          "wikidata": "Q16888110"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3905170499",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7320469,
+          5.1959594
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3905170499,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Municipale",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Municipale",
+          "source": "bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3918683393",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7369216,
+          5.1961359
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3918683393,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée National du Costume",
+        "tags": {
+          "addr:city": "Grand Bassam",
+          "name": "Musée National du Costume",
+          "tourism": "museum",
+          "wikidata": "Q16885363"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4323513893",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.270214,
+          6.8266925
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4323513893,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque",
+          "opening_hours": "Mo-Sa 08:30-18:00",
+          "operator": "Alliance Franco-Ivoirienne"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4434517850",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0770745,
+          7.6797102
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4434517850,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Laboratoire de géographie",
+        "tags": {
+          "amenity": "library",
+          "name": "Laboratoire de géographie"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4466847889",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0094056,
+          5.351607
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4466847889,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque du lycée technique d'Abidjan",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque du lycée technique d'Abidjan"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5853806866",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6448912,
+          4.7545496
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5853806866,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5894869667",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5967298,
+          5.7827297
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5894869667,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "bibliothèque régionale christoph Wondji",
+        "tags": {
+          "amenity": "library",
+          "name": "bibliothèque régionale christoph Wondji"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5922466055",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0607022,
+          5.3436951
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5922466055,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5924692507",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0004772,
+          5.3709695
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5924692507,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Librairie",
+        "tags": {
+          "amenity": "library",
+          "name": "Librairie"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5931655223",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0034457,
+          5.3731076
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5931655223,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre de documentation et de planification",
+        "tags": {
+          "amenity": "library",
+          "name": "Centre de documentation et de planification"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5936988899",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0647604,
+          5.3572507
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5936988899,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre de documentation et d'enseignement biblique",
+        "tags": {
+          "amenity": "library",
+          "name": "Centre de documentation et d'enseignement biblique"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5958423912",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0508196,
+          5.4431023
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5958423912,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Biblique",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Biblique"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5971132381",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9599175,
+          5.2881291
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5971132381,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6119570587",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7957868,
+          8.0449134
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6119570587,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Direction MMG BONDOUKOU",
+        "tags": {
+          "amenity": "library",
+          "name": "Direction MMG BONDOUKOU"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6445075195",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0254687,
+          7.684844
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6445075195,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Centre culturel Jacques Aka de Bouaké",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Centre culturel Jacques Aka de Bouaké"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6445075788",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0253459,
+          7.685082
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6445075788,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Enfantine",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Enfantine"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6562849167",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6429842,
+          4.7573576
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6562849167,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque de l'alliance française de San Pedro",
+        "tags": {
+          "addr:suburb": "Seweke 5",
+          "amenity": "library",
+          "contact:email": "afsanpedro.mediatheque4@gmail.com",
+          "contact:phone": "+22534716614",
+          "description": "Bibliotheque Activités de loisirs (sport, culturelle, artistique etc..)",
+          "name": "Bibliothèque de l'alliance française de San Pedro",
+          "office": "Centres de jeunesse",
+          "opening_hours": "Mo-Sa 08:00-12:00, 14:30-18:00",
+          "operator:type": "private",
+          "project:geoloc_unicef": "yes",
+          "project:geoloc_unicef:id": "SP_060"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7142683586",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4998943,
+          6.7382225
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7142683586,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Conservatoire National des Arts et Métiers",
+        "tags": {
+          "name": "Conservatoire National des Arts et Métiers",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7142683587",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4989061,
+          6.7381036
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7142683587,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Bieth",
+        "tags": {
+          "name": "Musée Bieth",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8242875617",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.8728489,
+          5.9065729
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8242875617,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Fredy's Bio Plantation",
+        "tags": {
+          "name": "Fredy's Bio Plantation",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8476341619",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0760204,
+          9.6125686
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8476341619,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Village traditionnel de Niofoin",
+        "tags": {
+          "name": "Village traditionnel de Niofoin",
+          "name:en": "Niofoin traditional village",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8478749418",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4817551,
+          9.5675685
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8478749418,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Flabougou (village peul)",
+        "tags": {
+          "name": "Flabougou (village peul)",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8494042018",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.6080245,
+          9.1481658
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8494042018,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque municipale",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque municipale"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11868610257",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.996912,
+          5.3608003
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11868610257,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque de L'ENA",
+        "tags": {
+          "addr:street": "boulevard latrille",
+          "amenity": "library",
+          "description": "une salle équipée de tables et chaises avec la climatisation et sous vidéo surveillance.",
+          "name": "Bibliothèque de L'ENA",
+          "opening_hours": "Mo-Fr 07:30-16:30"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/206695572",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0245485,
+          5.3353939
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 206695572,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque nationale de Côte d'Ivoire",
+        "tags": {
+          "addr:street": "Boulevard Carde",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque nationale de Côte d'Ivoire",
+          "website": "http://www.bnci.ci",
+          "wikidata": "Q626855"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/281037769",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9738611,
+          5.3030451
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 281037769,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Numerique des écoles",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque Numerique des écoles"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/360970861",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7343513,
+          5.1952784
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 360970861,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Maison de l'Art",
+        "tags": {
+          "building": "yes",
+          "construction_date": "1894",
+          "heritage": "yes",
+          "heritage:operator": "whc",
+          "name": "Maison de l'Art",
+          "old_name": "La Maison du patrimoine",
+          "source": "bing",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/399999415",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0019029,
+          5.3559886
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 399999415,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Fondation Donwahi pour l'Art Contemporain",
+        "tags": {
+          "amenity": "arts_centre",
+          "barrier": "wall",
+          "name": "Fondation Donwahi pour l'Art Contemporain",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440948103",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0367026,
+          7.6944432
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 440948103,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "source": "Bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442202358",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7977032,
+          8.0414139
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 442202358,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de Bondoukou",
+        "tags": {
+          "name": "Musée de Bondoukou",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/673578663",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9021216,
+          5.3531359
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 673578663,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "CDI Physique",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "CDI Physique"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/689943358",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.2299045,
+          6.8813673
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 689943358,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque INP-HB Centre",
+        "tags": {
+          "amenity": "library",
+          "building:levels": "1",
+          "building:part": "yes",
+          "name": "Bibliothèque INP-HB Centre"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1208276719",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0184639,
+          5.420356
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1208276719,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée des cultures contemporaines Adama Toungara",
+        "tags": {
+          "email": "info@mucat.net",
+          "name": "Musée des cultures contemporaines Adama Toungara",
+          "name:fr": "Musée des cultures contemporaines Adama Toungara",
+          "opening_hours": "Tu-Su 09:00-18:00",
+          "phone": "+225 07 79 68 33 83",
+          "short_name": "MuCAT",
+          "toilets": "yes",
+          "toilets:access": "permissive",
+          "toilets:wheelchair": "designated",
+          "tourism": "museum",
+          "website": "mucat.net"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1385149562",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7746388,
+          8.0684564
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1385149562,
+        "country": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "countries": [
+          "CI"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque"
+        }
+      }
+    }
+  ]
+}

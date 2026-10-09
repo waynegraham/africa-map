@@ -1,0 +1,984 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1069002288",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0062534,
+          16.77255
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1069002288,
+        "country": "Mali",
+        "alpha_2": "ML",
+        "countries": [
+          "ML"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Maison de Heinrich-Barth",
+        "tags": {
+          "name": "Maison de Heinrich-Barth",
+          "name:ar": "بيت هاينرش بارت",
+          "name:de": "Heinrich-Barth-Haus",
+          "name:ja": "ハインリヒ・バルトの家",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1069002298",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0066575,
+          16.7718207
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1069002298,
+        "country": "Mali",
+        "alpha_2": "ML",
+        "countries": [
+          "ML"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museum d'Archéologie",
+        "tags": {
+          "name": "Museum d'Archéologie",
+          "name:ar": "متحف الآثار",
+          "name:es": "Museo de Arqueología",
+          "name:ja": "考古学博物館",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1069002589",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0094476,
+          16.7720594
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1069002589,
+        "country": "Mali",
+        "alpha_2": "ML",
+        "countries": [
+          "ML"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museum Almansur",
+        "tags": {
+          "name": "Museum Almansur",
+          "name:ar": "متحف المنصور",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1069002603",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0085593,
+          16.7722809
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1069002603,
+        "country": "Mali",
+        "alpha_2": "ML",
+        "countries": [
+          "ML"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée MANUSCRIT",
+        "tags": {
+          "name": "Musée MANUSCRIT",
+          "name:ar": "متحف المخطوطات",
+          "name:en": "Museum Manuscript",
+          "name:es": "Museo de Manuscritos",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2371222943",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9404174,
+          14.9780551
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2371222943,
+        "country": "Mali",
+        "alpha_2": "ML",
+        "countries": [
+          "ML"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Fomburi Dogon Museum",
+        "tags": {
+          "name": "Fomburi Dogon Museum",
+          "name:fr": "Banque Culturelle de Fomburi",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2792375704",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0443213,
+          16.282624
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2792375704,
+        "country": "Mali",
+        "alpha_2": "ML",
+        "countries": [
+          "ML"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Nouveau Musée du Sahel",
+        "tags": {
+          "name": "Nouveau Musée du Sahel",
+          "name:ar": "جديد متحف الساحل",
+          "name:fr": "Nouveau Musée du Sahel",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3494153488",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9831607,
+          12.644751
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3494153488,
+        "country": "Mali",
+        "alpha_2": "ML",
+        "countries": [
+          "ML"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4021481993",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4650549,
+          12.3870915
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4021481993,
+        "country": "Mali",
+        "alpha_2": "ML",
+        "countries": [
+          "ML"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4022039317",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0092924,
+          12.6459337
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4022039317,
+        "country": "Mali",
+        "alpha_2": "ML",
+        "countries": [
+          "ML"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "CNDIFE",
+        "tags": {
+          "amenity": "library",
+          "name": "CNDIFE",
+          "note": "Centre National de Documentation et d'Information sur la Femme et l'Enfant"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4596435636",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0057744,
+          16.7767109
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4596435636,
+        "country": "Mali",
+        "alpha_2": "ML",
+        "countries": [
+          "ML"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Institut des Hautes Etudes et des Recherches Islamiques - Ahmed Baba",
+        "tags": {
+          "addr:city": "Sankore",
+          "amenity": "library",
+          "internet_access": "yes",
+          "name": "Institut des Hautes Etudes et des Recherches Islamiques - Ahmed Baba",
+          "name:ar": "معهد التعليم العالي والبحوث الإسلامية - أحمد بابا",
+          "name:ja": "アーメド・ババ 高度イスラム研究所"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4596435638",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0059461,
+          16.775979
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4596435638,
+        "country": "Mali",
+        "alpha_2": "ML",
+        "countries": [
+          "ML"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Medersa Sankoré",
+        "tags": {
+          "amenity": "library",
+          "name": "Medersa Sankoré",
+          "name:ar": "جامع سنكوري",
+          "name:ja": "サンコーレ・マドラサ"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4596642134",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0065938,
+          16.772716
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4596642134,
+        "country": "Mali",
+        "alpha_2": "ML",
+        "countries": [
+          "ML"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Biblithèque des Manuscrit Sal-Wangari",
+        "tags": {
+          "amenity": "library",
+          "name": "Biblithèque des Manuscrit Sal-Wangari",
+          "name:ar": "مكتبة مخطوطات الوانجارس",
+          "source": "bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4597884409",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0016344,
+          16.7688518
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4597884409,
+        "country": "Mali",
+        "alpha_2": "ML",
+        "countries": [
+          "ML"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Fondo kati",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Fondo kati",
+          "name:ar": "مكتبة فوندو كاتي",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5070462462",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9931525,
+          12.614108
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5070462462,
+        "country": "Mali",
+        "alpha_2": "ML",
+        "countries": [
+          "ML"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Librairie Badalabougou",
+        "tags": {
+          "amenity": "library",
+          "name": "Librairie Badalabougou"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5190670938",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9983544,
+          12.6406794
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5190670938,
+        "country": "Mali",
+        "alpha_2": "ML",
+        "countries": [
+          "ML"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre Djoliba",
+        "tags": {
+          "amenity": "library",
+          "name": "Centre Djoliba",
+          "opening_hours": "Mo-Fr 08:30-12:30, 13:30-16:30"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5873726523",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0209218,
+          12.6390229
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5873726523,
+        "country": "Mali",
+        "alpha_2": "ML",
+        "countries": [
+          "ML"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre National de Lecture Public CNLP",
+        "tags": {
+          "amenity": "library",
+          "name": "Centre National de Lecture Public CNLP"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5873729388",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9700196,
+          12.5963614
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5873729388,
+        "country": "Mali",
+        "alpha_2": "ML",
+        "countries": [
+          "ML"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Maison Africaine de la Photographie",
+        "tags": {
+          "email": "maisonafricainedelaphoto@gmail.com",
+          "name": "Maison Africaine de la Photographie",
+          "opening_hours": "Mo-Fr 00:00-24:00",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6276777810",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9696505,
+          15.9434632
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6276777810,
+        "country": "Mali",
+        "alpha_2": "ML",
+        "countries": [
+          "ML"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Ali Farka Toure",
+        "tags": {
+          "name": "Musée Ali Farka Toure",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9277799376",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6056238,
+          14.3518059
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9277799376,
+        "country": "Mali",
+        "alpha_2": "ML",
+        "countries": [
+          "ML"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque de Mamadou Tolo",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque de Mamadou Tolo"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9334333917",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6891716,
+          13.3261774
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9334333917,
+        "country": "Mali",
+        "alpha_2": "ML",
+        "countries": [
+          "ML"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque de l'école de Somo",
+        "tags": {
+          "amenity": "library",
+          "internet_access": "no",
+          "name": "Bibliothèque de l'école de Somo",
+          "opening_hours": "Mo-Sa 08:00-17:00",
+          "survey:date": "2021-12-13",
+          "wheelchair": "limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9535728919",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6026812,
+          11.6681988
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9535728919,
+        "country": "Mali",
+        "alpha_2": "ML",
+        "countries": [
+          "ML"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mairie de Sido",
+        "tags": {
+          "amenity": "library",
+          "name": "Mairie de Sido",
+          "operator": "Mairie"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10860981209",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9914196,
+          12.6616466
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10860981209,
+        "country": "Mali",
+        "alpha_2": "ML",
+        "countries": [
+          "ML"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Grotte Préhistorique du Point G",
+        "tags": {
+          "name": "Grotte Préhistorique du Point G",
+          "name:en": "Prehistoric Petroglyphs",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11471341169",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9151505,
+          12.6106929
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11471341169,
+        "country": "Mali",
+        "alpha_2": "ML",
+        "countries": [
+          "ML"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27927777",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0056717,
+          16.7766849
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 27927777,
+        "country": "Mali",
+        "alpha_2": "ML",
+        "countries": [
+          "ML"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Institut Ahmed Baba",
+        "tags": {
+          "addr:country": "ML",
+          "amenity": "library",
+          "historic": "yes",
+          "name": "Institut Ahmed Baba",
+          "name:ar": "معهد أحمد بابا",
+          "name:en": "Ahmed Baba House",
+          "name:fr": "Institut Ahmed Baba",
+          "name:ja": "アーメド・ババ図書館",
+          "religion": "muslim"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/96580889",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9527707,
+          12.6677787
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 96580889,
+        "country": "Mali",
+        "alpha_2": "ML",
+        "countries": [
+          "ML"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "MUSO KUNDA",
+        "tags": {
+          "name": "MUSO KUNDA",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/149893028",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9995924,
+          12.6584191
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 149893028,
+        "country": "Mali",
+        "alpha_2": "ML",
+        "countries": [
+          "ML"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée National",
+        "tags": {
+          "addr:city": "Bamako",
+          "name": "Musée National",
+          "name:es": "Museo Nacional",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316975840",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.020851,
+          12.6388933
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 316975840,
+        "country": "Mali",
+        "alpha_2": "ML",
+        "countries": [
+          "ML"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "La Bibliothèque Nationale du Mali",
+        "tags": {
+          "addr:city": "Bamako",
+          "addr:country": "ML",
+          "amenity": "library",
+          "building": "public",
+          "facebook": "https://fr-fr.facebook.com/dnbdmali/",
+          "name": "La Bibliothèque Nationale du Mali",
+          "phone": "+223 20 29 94 23",
+          "website": "www.bn.gouv.ml"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/410057557",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0448426,
+          16.2893945
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 410057557,
+        "country": "Mali",
+        "alpha_2": "ML",
+        "countries": [
+          "ML"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "barrier": "wall",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/589040831",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4493695,
+          12.5840466
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 589040831,
+        "country": "Mali",
+        "alpha_2": "ML",
+        "countries": [
+          "ML"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "school"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/635250059",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6760395,
+          11.325673
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 635250059,
+        "country": "Mali",
+        "alpha_2": "ML",
+        "countries": [
+          "ML"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/968928955",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6852399,
+          11.31432
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 968928955,
+        "country": "Mali",
+        "alpha_2": "ML",
+        "countries": [
+          "ML"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée régional de Sikasso",
+        "tags": {
+          "building": "yes",
+          "name": "Musée régional de Sikasso",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1200591001",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2775474,
+          13.4371651
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1200591001,
+        "country": "Mali",
+        "alpha_2": "ML",
+        "countries": [
+          "ML"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Régional des Masques et Marionnettes de Ségou",
+        "tags": {
+          "addr:city": "Ségou",
+          "layer": "-1",
+          "museum": "art",
+          "name": "Musée Régional des Masques et Marionnettes de Ségou",
+          "operator": "Ségou Local Government",
+          "operator:type": "public/government",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/7379921",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5556205,
+          13.9063751
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 7379921,
+        "country": "Mali",
+        "alpha_2": "ML",
+        "countries": [
+          "ML"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de Djenné",
+        "tags": {
+          "building": "yes",
+          "name": "Musée de Djenné",
+          "name:ja": "ジェンネ博物館",
+          "tourism": "museum",
+          "type": "multipolygon"
+        }
+      }
+    }
+  ]
+}

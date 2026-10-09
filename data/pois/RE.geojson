@@ -1,0 +1,2757 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/462269341",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5484058,
+          -20.8968172
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 462269341,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Médiathèque Anne Mousse",
+        "tags": {
+          "addr:city": "Sainte-Marie",
+          "addr:housenumber": "1",
+          "addr:postcode": "97438",
+          "addr:street": "Rue de la République",
+          "alt_name": "Médiathèque de Sainte-Marie",
+          "amenity": "library",
+          "contact:facebook": "Médiatheque-Sainte-Marie-281947192185713",
+          "internet_access": "wlan",
+          "name": "Médiathèque Anne Mousse",
+          "opening_hours": "Mo 13:00-17:00; Tu-We, Fr 10:00-18:00; Sa 09:00-17:00",
+          "phone": "+262 262 53 19 40",
+          "website": "https://www.ville-saintemarie.re/services/mediatheque/",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/513868322",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2957031,
+          -21.2025626
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 513868322,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée agricole et industriel de Stella Matutina",
+        "tags": {
+          "alt_name": "Musée Stella Matutina",
+          "check_date": "2025-04-13",
+          "fee": "yes",
+          "name": "Musée agricole et industriel de Stella Matutina",
+          "opening_hours": "Mo off; Tu-Su 09:30-17:30",
+          "payment:cash": "yes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "source": "Bing",
+          "tourism": "museum",
+          "wheelchair": "yes",
+          "wikidata": "Q3329353",
+          "wikimedia_commons": "Category:Musée Stella Matutina"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/810101044",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.518823,
+          -21.065167
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 810101044,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Maison Morange",
+        "tags": {
+          "fee": "yes",
+          "fixme": "Check if reopened",
+          "museum": "music",
+          "name": "Maison Morange",
+          "note": "Permanently closed for renovation",
+          "opening_hours": "closed",
+          "tourism": "museum",
+          "website": "https://www.maisonmorange.fr",
+          "wikidata": "Q21427587",
+          "wikimedia_commons": "Category:Maison Morange",
+          "wikipedia": "fr:Maison Morange"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/974328702",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4726298,
+          -21.133617
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 974328702,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Maison de La Broderie",
+        "tags": {
+          "check_date:opening_hours": "2026-01-07",
+          "fee": "yes",
+          "name": "Maison de La Broderie",
+          "opening_hours:signed": "no",
+          "tourism": "museum",
+          "wikidata": "Q3279683"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/974914331",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2802653,
+          -21.152558
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 974914331,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Kélonia",
+        "tags": {
+          "addr:housenumber": "46",
+          "addr:street": "Rue du Général de Gaulle",
+          "alt_name": "Kéolina, Observatoire des tortues marines",
+          "animal_shelter": "turtle",
+          "check_date": "2025-10-29",
+          "check_date:opening_hours": "2025-10-29",
+          "contact:email": "kelonia@museesreunion.re",
+          "contact:instagram": "kelonia_rmr",
+          "description": "Kélonia est un aquarium, un musée, un refuge et un centre de recherche pour les tortues.",
+          "description:en": "Kélonia is an aquarium, museum, shelter and research center for turtles.",
+          "fee": "yes",
+          "museum": "nature",
+          "name": "Kélonia",
+          "old_name": "Ferme Corail",
+          "opening_hours": "Mo-Su 09:00-18:00",
+          "phone": "+262 262 34 81 10",
+          "tourism": "museum",
+          "website": "https://museesreunion.fr/kelonia/",
+          "wikidata": "Q259897",
+          "wikimedia_commons": "Category:Kélonia",
+          "wikipedia": "fr:Kélonia"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1363538152",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4708861,
+          -21.2493932
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1363538152,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Municipale",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Municipale"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1431254263",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5885508,
+          -20.9047082
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1431254263,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Domaine du Grand Hazier - Vanilleraie",
+        "tags": {
+          "addr:city": "Sainte Suzanne",
+          "addr:postcode": "97441",
+          "addr:street": "Allée Chassagne",
+          "fee": "yes",
+          "heritage": "3",
+          "heritage:operator": "mhs",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/GrandHazierEntree.jpg/640px-GrandHazierEntree.jpg",
+          "mhs:inscription_date": "1991-12-16",
+          "name": "Domaine du Grand Hazier - Vanilleraie",
+          "opening_hours": "Mo-Sa 08:30-12:00, 13:30-17:00",
+          "phone": "+262 262 23 07 26",
+          "ref:mhs": "PA00105847",
+          "source:heritage": "data.gouv.fr, Ministère de la Culture - 2016",
+          "tourism": "museum",
+          "url": "http://www.lavanilleraie.com",
+          "wheelchair": "yes",
+          "wikidata": "Q3034610",
+          "wikimedia_commons": "File:GrandHazierEntree.jpg",
+          "wikipedia": "fr:Domaine du Grand Hazier"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1712350149",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.7621399,
+          -21.3614677
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1712350149,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Francois Mitterrand",
+        "tags": {
+          "addr:city": "Saint-Philippe",
+          "addr:postcode": "97442",
+          "addr:street": "Route Nationale 2 Leconte de Lisle",
+          "amenity": "library",
+          "name": "Francois Mitterrand",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1774362171",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.465809,
+          -21.312339
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1774362171,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "La Saga du Rhum",
+        "tags": {
+          "fee": "yes",
+          "name": "La Saga du Rhum",
+          "tourism": "museum",
+          "website": "https://www.sagadurhum.fr/",
+          "wikidata": "Q3212667",
+          "wikimedia_commons": "Category:La Saga du Rhum",
+          "wikipedia": "fr:La Saga du Rhum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1917473713",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4395902,
+          -21.2572762
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1917473713,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque municipale",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque municipale"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2001633763",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5039006,
+          -21.2611865
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2001633763,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque de 3 Mares",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque de 3 Mares"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2005928727",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5069347,
+          -21.2688385
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2005928727,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2322793777",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5066171,
+          -21.2353951
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2322793777,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque du Pont d'Yves",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque du Pont d'Yves"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2338401230",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4113864,
+          -21.266983
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2338401230,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée des Arts Décoratifs de l'Océan Indien (MADOI) - Domaine de Maison Rouge",
+        "tags": {
+          "addr:city": "Saint-Louis",
+          "addr:housenumber": "17A",
+          "addr:postcode": "97450",
+          "addr:street": "Chemin Maison Rouge",
+          "alt_name": "Musée des Arts Décoratifs de l'Océan Indien",
+          "fee": "yes",
+          "heritage": "2",
+          "heritage:operator": "mhs",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Domaine-de-Maison-Rouge.JPG/320px-Domaine-de-Maison-Rouge.JPG",
+          "mhs:inscription_date": "2004-05-05",
+          "name": "Musée des Arts Décoratifs de l'Océan Indien (MADOI) - Domaine de Maison Rouge",
+          "opening_hours": "Tu-Su 09:00-17:00",
+          "phone": "+262 262 91 24 30",
+          "ref:mhs": "PA00105825",
+          "source:heritage": "data.gouv.fr, Ministère de la Culture - 2016",
+          "start_date": "C19",
+          "tourism": "museum",
+          "website": "https://museesreunion.fr/",
+          "wikidata": "Q3034481",
+          "wikimedia_commons": "File:Domaine-de-Maison-Rouge.JPG",
+          "wikipedia": "fr:Domaine de Maison Rouge"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2340406885",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.332063,
+          -21.241026
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2340406885,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Médiathèque",
+        "tags": {
+          "amenity": "library",
+          "name": "Médiathèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2457672144",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5517679,
+          -21.2193234
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2457672144,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Médiathèque de la Plaine des Cafres",
+        "tags": {
+          "amenity": "library",
+          "name": "Médiathèque de la Plaine des Cafres",
+          "source": "Bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2586313657",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4893587,
+          -21.1422739
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2586313657,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque de Bras Sec",
+        "tags": {
+          "addr:city": "Cilaos",
+          "addr:postcode": "97413",
+          "addr:street": "Chemin Saül",
+          "amenity": "library",
+          "name": "Bibliothèque de Bras Sec",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2591156202",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3615316,
+          -21.2588195
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2591156202,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque municipale André Malraux",
+        "tags": {
+          "addr:city": "L'Étang-Salé",
+          "addr:housename": "Bibliothèque municipale André Malraux",
+          "addr:postcode": "97427",
+          "addr:street": "Rue Louis Chabrier",
+          "amenity": "library",
+          "name": "Bibliothèque municipale André Malraux",
+          "phone": "+262 262 26 36 69",
+          "website": "https://www.letangsale.fr/index.php/bibliotheque-municipale.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2861540601",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.7667914,
+          -21.3594968
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2861540601,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Au Bon Roi Louis",
+        "tags": {
+          "alt_name": "Écomusée Au Bon Roi Louis",
+          "name": "Au Bon Roi Louis",
+          "tourism": "museum",
+          "wikidata": "Q3578590",
+          "wikimedia_commons": "Category:Écomusée Au bon roi Louis"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3780607713",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4348521,
+          -20.922549
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3780607713,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4004136889",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3199953,
+          -20.9628159
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4004136889,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Rivière des Galets",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Rivière des Galets"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4025148986",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3667716,
+          -21.2648371
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4025148986,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Librairie L'Océana",
+        "tags": {
+          "amenity": "library",
+          "healthcare": "physiotherapist",
+          "name": "Librairie L'Océana"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4027236691",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4902091,
+          -21.3414164
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4027236691,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Universitaire",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Universitaire"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4171342375",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4747439,
+          -21.340816
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4171342375,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Médiathèque publique Raphaël Barquisseau",
+        "tags": {
+          "amenity": "library",
+          "email": "mediatheque@saintpierre.re",
+          "name": "Médiathèque publique Raphaël Barquisseau",
+          "opening_hours": "Tu 09:00-18:00; We 09:00-18:00; Th 12:00-16:00; Fr 09:00-18:00, Sa 10:00-18:00",
+          "operator": "Mairie de la Commune de St Pierre",
+          "operator:type": "public",
+          "phone": "+262 262 32 62 50",
+          "website": "https://mediatheque.saintpierre.re/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4235506164",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5029956,
+          -21.2933691
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4235506164,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque annexe Maurice Fontaine",
+        "tags": {
+          "addr:street": "Chemin Concession Condé",
+          "amenity": "library",
+          "name": "Bibliothèque annexe Maurice Fontaine"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4332025790",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4509924,
+          -21.2700602
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4332025790,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Tabac presse L & W",
+        "tags": {
+          "amenity": "library",
+          "name": "Tabac presse L & W"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4414305967",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3376514,
+          -20.9259505
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4414305967,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mediatheque Heva",
+        "tags": {
+          "amenity": "library",
+          "check_date": "2024-08-13",
+          "level": "0",
+          "name": "Mediatheque Heva"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4556848989",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3181053,
+          -21.1472382
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4556848989,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Médiathèque Roger Poudroux",
+        "tags": {
+          "addr:postcode": "97516",
+          "addr:street": "Rue Alexandre Begue",
+          "amenity": "library",
+          "name": "Médiathèque Roger Poudroux",
+          "name:fr": "Médiathèque Roger Poudroux"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4711244804",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.6131283,
+          -21.3530944
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4711244804,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Far Far de Bézaves",
+        "tags": {
+          "fee": "yes",
+          "name": "Far Far de Bézaves",
+          "source": "Survey",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4712892819",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.6312707,
+          -21.2975839
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4712892819,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Maison du Laurina",
+        "tags": {
+          "name": "Maison du Laurina",
+          "source": "survey",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4713125716",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.7194108,
+          -21.0811015
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4713125716,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Domaine de Coco",
+        "tags": {
+          "fee": "yes",
+          "name": "Domaine de Coco",
+          "source": "survey",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4721820628",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.6628572,
+          -20.9531789
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4721820628,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Dan Tan Lontan",
+        "tags": {
+          "addr:housenumber": "2208",
+          "addr:street": "Chemin du Centre",
+          "fee": "yes",
+          "name": "Musée Dan Tan Lontan",
+          "phone": "+262 262 58 47 89",
+          "tourism": "museum",
+          "website": "http://www.saint-andre.re/Musee-dan-tan-lontan-Un-voyage"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5243709312",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2880005,
+          -21.178929
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5243709312,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Four à chaux",
+        "tags": {
+          "addr:city": "Saint-Leu",
+          "addr:postcode": "97436",
+          "addr:street": "Rue du Général Lambert",
+          "description": "Four à Chaux Méralikan",
+          "fee": "yes",
+          "name": "Four à chaux",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5260565025",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2756941,
+          -21.0091578
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5260565025,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Cimendef",
+        "tags": {
+          "amenity": "library",
+          "fixme": "mal place",
+          "name": "Cimendef"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5545849725",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3128926,
+          -21.0577616
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5545849725,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "La Bambusaie du Guillaume",
+        "tags": {
+          "addr:housenumber": "100",
+          "addr:postcode": "97423",
+          "addr:street": "Chemin des Calumets",
+          "fee": "yes",
+          "name": "La Bambusaie du Guillaume",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6354051986",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4779637,
+          -20.916589
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6354051986,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque du Bois de Nèfles",
+        "tags": {
+          "addr:city": "Sainte-Clotilde",
+          "addr:housenumber": "130",
+          "addr:postcode": "97490",
+          "addr:street": "Route des Ananas",
+          "amenity": "library",
+          "name": "Bibliothèque du Bois de Nèfles",
+          "opening_hours": "Mo-Th 08:30-12:30,13:00-16:00; Fr 08:30-11:00",
+          "operator": "Mairie de Saint-Denis",
+          "operator:type": "public",
+          "phone": "+262 262 28 09 89"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6600777085",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4551007,
+          -20.8934383
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6600777085,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de la vrai Fraternité",
+        "tags": {
+          "addr:city": "Saint-Denis",
+          "addr:housenumber": "28",
+          "addr:postcode": "97400",
+          "addr:street": "Boulevard de La Providence",
+          "name": "Musée de la vrai Fraternité",
+          "opening_hours": "We,Sa 09:00-17:00; PH off",
+          "phone": "+262 262 21 06 71",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9081654566",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.646601,
+          -21.384739
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9081654566,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque municipale de Langevin",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque municipale de Langevin",
+          "official_name": "Bibliothèque annexe de Langevin",
+          "operator": "Mairie de Saint-Joseph",
+          "operator:type": "government",
+          "operator:wikidata": "Q305275",
+          "phone": "+262 262 31 47 49",
+          "website": "https://saintjoseph.re/Bibliotheque-municipale"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9082394528",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5769354,
+          -21.2043305
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9082394528,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mediathèque de Bourg-Murat",
+        "tags": {
+          "amenity": "library",
+          "name": "Mediathèque de Bourg-Murat"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9504437576",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4784804,
+          -21.3275248
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9504437576,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Jules Volia",
+        "tags": {
+          "addr:city": "Saint-Pierre",
+          "addr:housenumber": "28",
+          "addr:postcode": "97410",
+          "addr:street": "Rue Youri Gagarine",
+          "amenity": "library",
+          "name": "Bibliothèque Jules Volia",
+          "operator": "Mairie de Saint Pierre",
+          "operator:type": "public"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9651018917",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.6547479,
+          -20.9600287
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9651018917,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mediathèque Auguste Lacaussade",
+        "tags": {
+          "addr:postcode": "97440",
+          "addr:street": "Impasse Lacoaret",
+          "amenity": "library",
+          "name": "Mediathèque Auguste Lacaussade"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10832088528",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2970694,
+          -21.1042003
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10832088528,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Médiathèque",
+        "tags": {
+          "amenity": "library",
+          "name": "Médiathèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11156465257",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4926269,
+          -21.3417433
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11156465257,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Universitaire",
+        "tags": {
+          "amenity": "library",
+          "contact:email": "bu.univ-reunion.fr@bu974",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "name": "Bibliothèque Universitaire",
+          "opening_hours": "Mo-Fr 07:30-18:30",
+          "rooms": "C012"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11399907792",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.6290951,
+          -21.1396056
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11399907792,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Médiathèque Paulette Pégou",
+        "tags": {
+          "amenity": "library",
+          "name": "Médiathèque Paulette Pégou"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13737155165",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4463996,
+          -20.8798072
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13737155165,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque du Bas de la Rivière",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque du Bas de la Rivière",
+          "operator": "Ville de St6Denis",
+          "operator:type": "public"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13737256009",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4947314,
+          -20.917369
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13737256009,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque de la Bretagne",
+        "tags": {
+          "addr:city": "Saint-Denis",
+          "addr:housenumber": "5",
+          "addr:postcode": "97490",
+          "addr:street": "Chemin des Routiers",
+          "alt_source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+          "amenity": "library",
+          "name": "Bibliothèque de la Bretagne",
+          "opening_hours": "Tu 13:00-17:00; We 09:00-17:00; Th-Fr 10:00-17:00, Sa 09:00-16:00",
+          "operator": "Mairie de Saint-Denis",
+          "operator:type": "public",
+          "phone": "+262 262 52 69 21",
+          "source": "Kaart Ground Survey 2017"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13906668492",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4950682,
+          -21.3423922
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13906668492,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre de documentation IES",
+        "tags": {
+          "access": "yes",
+          "air_conditioning": "yes",
+          "amenity": "library",
+          "internet_access": "yes",
+          "internet_access:fee": "customers",
+          "level": "0",
+          "name": "Centre de documentation IES",
+          "opening_hours": "Mo-Fr 07:45-15:30",
+          "operator": "CHU de la Réunion",
+          "website": "https://centre-de-documentation-du-chu-de-la-reunion-29.checkout.webselfsite.net/",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40724355",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4832927,
+          -20.9027508
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 40724355,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Universitaire Droit Lettres",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque Universitaire Droit Lettres",
+          "opening_hours": "Mo-Fr 07:30-19:00; Mo-Fr 08:00-12:00",
+          "short_name": "BU Droit Lettres",
+          "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2008",
+          "website": "https://bu.univ-reunion.fr/bibliotheques/bu-saint-denis-droit-lettres"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40896757",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4829368,
+          -20.901359
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 40896757,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Universitaire Sciences",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque Universitaire Sciences",
+          "opening_hours": "Mo-Fr 07:30-19:00; Mo-Fr 12:00-17:00",
+          "website": "https://bu.univ-reunion.fr/bibliotheques/bu-saint-denis-sciences"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/65633982",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2980376,
+          -20.9383822
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 65633982,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Médiathèque Benoîte Boulard",
+        "tags": {
+          "air_conditioning": "yes",
+          "amenity": "library",
+          "building": "yes",
+          "check_date:opening_hours": "2025-06-05",
+          "internet_access": "wlan",
+          "name": "Médiathèque Benoîte Boulard",
+          "name:etymology:wikidata": "Q2398422",
+          "opening_hours": "Tu,We,Fr,Sa 10:00-18:00; Th 12:00-18:00",
+          "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/67023807",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4724401,
+          -21.1335241
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 67023807,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque de Cilaos",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque de Cilaos",
+          "operator": "Commune de Cilaos",
+          "operator:type": "public",
+          "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/67032659",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5360932,
+          -21.0611907
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 67032659,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée du Tamarin",
+        "tags": {
+          "building": "yes",
+          "fee": "no",
+          "name": "Musée du Tamarin",
+          "opening_hours": "Mo-Su 09:00-16:00",
+          "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+          "tourism": "museum",
+          "wikidata": "Q112514891"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/67034667",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5180679,
+          -21.0662701
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 67034667,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Municipale",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "check_date:opening_hours": "2023-06-06",
+          "name": "Bibliothèque Municipale",
+          "opening_hours": "Tu-Fr 08:00-12:00,13:00-16:00; Sa 08:00-12:00,13:00-15:00",
+          "opening_hours:signed": "no",
+          "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/67319821",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.6310691,
+          -21.1330258
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 67319821,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Marc Henri Pinot",
+        "tags": {
+          "addr:city": "La Plaine des Palmistes",
+          "addr:housenumber": "277",
+          "addr:postcode": "97431",
+          "addr:street": "Rue de la République",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque Marc Henri Pinot",
+          "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/70271572",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4238286,
+          -20.8894354
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 70271572,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque de la Montagne",
+        "tags": {
+          "addr:housenumber": "41",
+          "addr:street": "Route des Palmiers",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque de la Montagne",
+          "operator": "Mairie de Saint-Denis",
+          "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/81354014",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2656638,
+          -21.0231246
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 81354014,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque de Plateau Caillou",
+        "tags": {
+          "addr:housenumber": "5",
+          "addr:street": "Rue Paul Ferrand",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque de Plateau Caillou",
+          "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/95382796",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5971927,
+          -20.9026901
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 95382796,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Médiathèque Aimé Césaire",
+        "tags": {
+          "addr:city": "Sainte-Suzanne",
+          "addr:housenumber": "2",
+          "addr:postcode": "97441",
+          "addr:street": "Rue de la Laicité",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Médiathèque Aimé Césaire",
+          "opening_hours": "Tu,We,Fr 10:00-18:00; Th 12:00-18:00; Sa 10:00-12:00,13:00-18:00",
+          "operator": "CINOR",
+          "operator:type": "public",
+          "phone": "+262 262 72 18 70",
+          "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/104756253",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.7121826,
+          -21.0343837
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 104756253,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Médiathèque Antoine Louis Roussin",
+        "tags": {
+          "addr:city": "Saint-Benoît",
+          "addr:housenumber": "18",
+          "addr:postcode": "97470",
+          "addr:street": "Rue Montfleury",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Médiathèque Antoine Louis Roussin",
+          "note": "Parking",
+          "phone": "+262 2 62 50 88 20",
+          "source": "particulier"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/128074640",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2793495,
+          -20.9983711
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 128074640,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mediathèque",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "layer": "-2",
+          "name": "Mediathèque",
+          "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/130765863",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5194773,
+          -21.2805393
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 130765863,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Médiathèque",
+        "tags": {
+          "addr:city": "Le Tampon",
+          "addr:housenumber": "20",
+          "addr:street": "Rue Victor le Vigoureux",
+          "amenity": "library",
+          "building": "civic",
+          "building:levels": "4",
+          "fax": "+262 262 34 97 66",
+          "image": "http://www.mediatheque-tampon.fr/opacwebaloes/Images/Paragraphes/accueil2.jpg",
+          "layer": "-2",
+          "name": "Médiathèque",
+          "opening_hours": "Mo-Su 08:00-18:00",
+          "phone": "+262 262 55 02 19",
+          "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+          "website": "https://www.mediatheque-tampon.fr/",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/136723409",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3653681,
+          -21.2475723
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 136723409,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/136723411",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3654777,
+          -21.2473938
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 136723411,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/137294700",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2835013,
+          -21.2033524
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 137294700,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée du Sel",
+        "tags": {
+          "addr:city": "Saint-Leu",
+          "addr:postcode": "97436",
+          "addr:street": "Pointe au Sel les Bas",
+          "museum": "nature",
+          "name": "Musée du Sel",
+          "opening_hours": "Tu-Su 09:00-12:00,13:30-17:00",
+          "survey:date": "2024-01-29",
+          "tourism": "museum",
+          "wikidata": "Q3330383",
+          "wikimedia_commons": "Category:Musée du Sel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/145763697",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2256623,
+          -21.0524093
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 145763697,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Médiathèque Michel Adélaïde",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Médiathèque Michel Adélaïde",
+          "opening_hours": "Mo-Sa 08:30-12:30, 14:15-19:15",
+          "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/146917751",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4517252,
+          -20.882862
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 146917751,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Départementale de La Réunion",
+        "tags": {
+          "addr:housenumber": "173 bis",
+          "addr:street": "Rue Jean Chatel",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque Départementale de La Réunion",
+          "opening_hours": "Tu-Fr 08:30-17:30; Sa 10:30-17:30",
+          "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+          "website": "https://www.departement974.fr/actualite/bibliotheque-departementale-de-reunion-bdr",
+          "wikidata": "Q2901421",
+          "wikipedia": "fr:Bibliothèque départementale de La Réunion"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/146919869",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4498369,
+          -20.8838403
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 146919869,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Léon Dierx",
+        "tags": {
+          "addr:city": "Saint-Denis",
+          "addr:housenumber": "28",
+          "addr:postcode": "97400",
+          "addr:street": "Rue de Paris",
+          "building": "yes",
+          "email": "musee.dierx@cg974.fr",
+          "fee": "yes",
+          "name": "Musée Léon Dierx",
+          "opening_hours": "Tu-Su 09:30-17:30",
+          "phone": "+262 262 20 24 82",
+          "tourism": "museum",
+          "website": "https://www.musee-leondierx.re/fr/",
+          "wikidata": "Q3329255"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/146937141",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4650921,
+          -20.8893348
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 146937141,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "archive"
+        ],
+        "name": "Archives départementales Sudel FUMA",
+        "tags": {
+          "addr:city": "Sainte-Clothilde",
+          "addr:housenumber": "4",
+          "addr:place": "Champ-Fleuri",
+          "addr:postcode": "97490",
+          "addr:street": "rue Marcel Pagnol",
+          "admin_level": "6",
+          "amenity": "archive",
+          "building": "public",
+          "email": "archives.departementales@cg974.fr",
+          "government": "culture",
+          "image": "https://www.wikidata.org/wiki/Q2860461#/media/File:Archives-d%C3%A9partementales-R%C3%A9union.JPG",
+          "name": "Archives départementales Sudel FUMA",
+          "office": "government",
+          "opening_hours": "Mo-Fr 08:00-16:00",
+          "operator": "Conseil départemental de La Réunion",
+          "phone": "+262 262 94 04 14",
+          "short_name": "ADR",
+          "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+          "wikidata": "Q2860461",
+          "wikipedia": "fr:Archives départementales de La Réunion"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/146937367",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4516284,
+          -20.8874566
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 146937367,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Muséum d'histoire naturelle",
+        "tags": {
+          "addr:city": "Saint-Denis",
+          "addr:postcode": "97400",
+          "addr:street": "Rue Poivre",
+          "building": "yes",
+          "fee": "yes",
+          "heritage": "2",
+          "heritage:operator": "mhs",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Museum_Reunion.JPG/800px-Museum_Reunion.JPG",
+          "mhs:inscription_date": "1978-12-29",
+          "museum": "nature",
+          "name": "Muséum d'histoire naturelle",
+          "opening_hours": "Tu-Su 09:30-17:30",
+          "phone": "+262 262 20 02 19",
+          "ref:FR:SIRET": "18974016000016",
+          "ref:mhs": "PA00105817",
+          "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+          "source:heritage": "data.gouv.fr, Ministère de la Culture - 2016",
+          "start_date": "C19",
+          "tourism": "museum",
+          "wikidata": "Q3162482",
+          "wikimedia_commons": "File:Museum Reunion.JPG",
+          "wikipedia": "fr:Muséum d'histoire naturelle de La Réunion"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/168791791",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.297216,
+          -21.037263
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 168791791,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Municipale",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque Municipale",
+          "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/225582153",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.7122179,
+          -21.0520096
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 225582153,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Médiathèque de Bras-Fusil",
+        "tags": {
+          "addr:city": "Saint-Benoît",
+          "addr:housenumber": "4",
+          "addr:postcode": "97470",
+          "addr:street": "Rue le Corbusier",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Médiathèque de Bras-Fusil",
+          "phone": "+262 262 50 88 33"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/295989168",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.35905,
+          -21.2114857
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 295989168,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "addr:city": "Les Avirons",
+          "addr:postcode": "97425",
+          "addr:street": "Rue du Kiosque",
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/297961497",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5743471,
+          -21.2028695
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 297961497,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Cité du Volcan",
+        "tags": {
+          "addr:city": "Tampon",
+          "addr:postcode": "97418",
+          "addr:street": "Katia et Maurice Kraft",
+          "alt_name": "La Cité du Volcan",
+          "email": "cdv.reservations@museesreunion.re",
+          "fee": "yes",
+          "name": "Cité du Volcan",
+          "old_name": "La Maison du Volcan",
+          "opening_hours": "Mo 13:00-17:00; Tu-Su 09:30-17:00",
+          "phone": "+262 262 59 00 26",
+          "tourism": "museum",
+          "website": "https://museesreunion.fr/la-cite-du-volcan/",
+          "wikidata": "Q2974801",
+          "wikimedia_commons": "Category:Cité du Volcan",
+          "wikipedia": "fr:Cité du Volcan"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/298835000",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2636244,
+          -21.056533
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 298835000,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de Villèle",
+        "tags": {
+          "name": "Musée de Villèle",
+          "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+          "tourism": "museum",
+          "wikidata": "Q3330590",
+          "wikimedia_commons": "Category:Musée de Villèle",
+          "wikipedia": "fr:Musée historique de Villèle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/401168288",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.6768017,
+          -20.9955823
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 401168288,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Médiathèque de Bras-Panon",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Médiathèque de Bras-Panon",
+          "operator": "Commune"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/444036264",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4002634,
+          -21.2798153
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 444036264,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Visite Guidée Sucrière du Gol",
+        "tags": {
+          "building": "yes",
+          "name": "Visite Guidée Sucrière du Gol",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/533306313",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2865937,
+          -21.1657663
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 533306313,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Médiathèque Baguett’ de Saint Leu",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Médiathèque Baguett’ de Saint Leu",
+          "wikidata": "Q100605836"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/543425791",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4513024,
+          -20.8927024
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 543425791,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Alain Lorraine",
+        "tags": {
+          "addr:city": "Saint-Denis",
+          "addr:housenumber": "1",
+          "addr:postcode": "97400",
+          "addr:street": "Allée des Pierres de Lune",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque Alain Lorraine",
+          "opening_hours": "Tu-Fr 10:00-17:00; Sa 10:00-12:00,13:00-17:00",
+          "phone": "+262 262 90 49 90",
+          "short_name": "BIAL",
+          "survey:date": "2022-04-24"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/552539839",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4815528,
+          -21.1891135
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 552539839,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Camp marron",
+        "tags": {
+          "name": "Musée Camp marron",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/559757875",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.6180857,
+          -21.3772395
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 559757875,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Médiathèque Du Sud Sauvage",
+        "tags": {
+          "addr:city": "Saint-Joseph",
+          "addr:street": "Rue Maury",
+          "amenity": "library",
+          "building": "yes",
+          "check_date": "2024-03-28",
+          "internet_access": "yes",
+          "internet_access:fee": "no",
+          "name": "Médiathèque Du Sud Sauvage",
+          "opening_hours": "Mo 12:00-18:00; Tu-Sa 10:00-18:00; Su 14:00-18:00",
+          "operator": "Commune de Saint-Joseph",
+          "operator:type": "public",
+          "source": "survey",
+          "wikidata": "Q110653688"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/620243202",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4869448,
+          -20.8953464
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 620243202,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Médiathèque Intercommunale Princesse Niama",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "construction": "yes",
+          "name": "Médiathèque Intercommunale Princesse Niama"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/678605492",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4831541,
+          -20.9058615
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 678605492,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Intercommunale Alain Peters",
+        "tags": {
+          "addr:city": "Sainte-Clotilde",
+          "addr:housenumber": "5",
+          "addr:postcode": "97490",
+          "addr:street": "Rue du Bosquet",
+          "amenity": "library",
+          "building": "public",
+          "name": "Bibliothèque Intercommunale Alain Peters",
+          "opening_hours": "Tu-Fr 10:00-18:00; Sa 10:00-12:00,13:00-17:00",
+          "operator": "CINOR",
+          "operator:type": "public",
+          "phone": "+262 262 93 88 70",
+          "website:fr": "https://lecturepublique.cinor.org/iguana/www.main.cls?surl=alainpeters",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1458999716",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5183481,
+          -21.0652284
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1458999716,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Maison Folio",
+        "tags": {
+          "access": "customers",
+          "fee": "yes",
+          "leisure": "garden",
+          "name": "Maison Folio",
+          "opening_hours": "Mo-Su 09:00-11:00, 14:00-17:00",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/3079477",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4688259,
+          -20.8942153
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 3079477,
+        "country": "Réunion",
+        "alpha_2": "RE",
+        "countries": [
+          "RE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Médiathèque François Mitterrand",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Médiathèque François Mitterrand",
+          "opening_hours": "Tu,We,Fr 09:00-18:00; Th 13:00-18:00; Sa 10:30-18:00; Su 14:00-17:00",
+          "operator": "Ville de St-Denis",
+          "operator:type": "public",
+          "phone": "+262 262 94 28 88",
+          "type": "multipolygon",
+          "website": "https://lecturepublique.cinor.org/iguana/www.main.cls?surl=saint-denis",
+          "wheelchair": "yes"
+        }
+      }
+    }
+  ]
+}

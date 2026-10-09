@@ -1,0 +1,1871 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/2421266154",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4873418,
+          15.6227098
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2421266154,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة امدرمان المركزية",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة امدرمان المركزية",
+          "name:ar": "مكتبة امدرمان المركزية",
+          "name:en": "Omdurman Central Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3041812109",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5434495,
+          15.6101943
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3041812109,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة علوم",
+        "tags": {
+          "addr:city": "الخرطوم",
+          "addr:street": "Gama'a Avenue",
+          "amenity": "library",
+          "name": "مكتبة علوم",
+          "name:ar": "مكتبة علوم",
+          "name:en": "Science Library",
+          "operator": "جامعة الخرطوم"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3128396091",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5266705,
+          15.5873485
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3128396091,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة القيروان",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة القيروان"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4269549495",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5428682,
+          15.6197072
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4269549495,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Military Museum",
+        "tags": {
+          "name": "Military Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4541234089",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.9724223,
+          17.6955792
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4541234089,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Railway Museum Atbara",
+        "tags": {
+          "name": "Railway Museum Atbara",
+          "name:ar": "متحف السكة حديد",
+          "name:en": "Railway Museum Atbara",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4548419802",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5344699,
+          15.5760374
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4548419802,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "الفراش الحائر",
+        "tags": {
+          "amenity": "library",
+          "name": "الفراش الحائر",
+          "name:en": "الفراش الحائر"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4548433600",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.537917,
+          15.5697715
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4548433600,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "addr:postcode": "11111",
+          "addr:street": "SALAM",
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4548458736",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5795187,
+          15.5063962
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4548458736,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الامل",
+        "tags": {
+          "addr:postcode": "11111",
+          "addr:street": "شارع الازهرى",
+          "amenity": "library",
+          "name": "مكتبة الامل",
+          "name:ar": "مكتبة الامل",
+          "opening_hours": "Mo-Su 09:00-23:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4682992991",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5096965,
+          15.6049391
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4682992991,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة الوطنية",
+        "tags": {
+          "addr:street": "شارع الجمهورية",
+          "amenity": "library",
+          "email": "ahmedmohmed91@gmail.com",
+          "name": "المكتبة الوطنية",
+          "name:en": "National Library",
+          "opening_hours": "Sa-Th 08:00-19:00",
+          "phone": "0902023100"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4720409789",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.8309846,
+          18.5394915
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4720409789,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museo",
+        "tags": {
+          "name": "Museo",
+          "name:en": "Museo",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4720410789",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4118371,
+          19.6007864
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4720410789,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museum Kerma",
+        "tags": {
+          "name": "Museum Kerma",
+          "name:en": "Museum Kerma",
+          "name:es": "Museo de Kerma",
+          "tourism": "museum",
+          "wikidata": "Q57980405"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4751625922",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5872312,
+          15.5716059
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4751625922,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4945613221",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1315874,
+          11.4616652
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4945613221,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "متجر الملابس",
+        "tags": {
+          "amenity": "library",
+          "name": "متجر الملابس",
+          "name:ar": "مركز بلجا لخدمات الكمبيوتر",
+          "shop": "clothes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4996935448",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5702571,
+          15.5718016
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4996935448,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Sahari Stationary",
+        "tags": {
+          "amenity": "library",
+          "name": "Sahari Stationary",
+          "name:ar": "مكتبة صحاري"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5515216421",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5005348,
+          15.6938603
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5515216421,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "مسجد الحيف",
+        "tags": {
+          "internet_access": "wlan",
+          "name": "مسجد الحيف",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5985563360",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.581239,
+          15.5470273
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5985563360,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "البروف للاادوات المكتبيه",
+        "tags": {
+          "amenity": "library",
+          "name": "البروف للاادوات المكتبيه",
+          "name:ar": "متجر ادوات مكتبيه"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6000740787",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5307618,
+          15.6206922
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6000740787,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "libarary",
+        "tags": {
+          "amenity": "library",
+          "name": "libarary",
+          "name:ar": "مكتـــــــبة"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6000806926",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5614514,
+          15.5785628
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6000806926,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Smart Vision Center",
+        "tags": {
+          "amenity": "library",
+          "name": "Smart Vision Center",
+          "name:ar": "مركز الرؤية الحديثة"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6013357281",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5742043,
+          15.5535425
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6013357281,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Azza Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Azza Library",
+          "name:ar": "مكتبة عــزة"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6046251588",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5767649,
+          15.6047096
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6046251588,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة اقرأ",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة اقرأ",
+          "name:en": "Iqraa Study Space"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6063915472",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4829708,
+          15.6444831
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6063915472,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الاكاديمي الطبيه",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة الاكاديمي الطبيه",
+          "name:en": "Academy Bookstore"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6068440880",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4716187,
+          15.6447394
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6068440880,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الحفيد",
+        "tags": {
+          "addr:city": "-=",
+          "amenity": "library",
+          "name": "مكتبة الحفيد",
+          "name:ar": "جامعة الاحفاد بنات"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6103694685",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5571376,
+          15.5598367
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6103694685,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Majestic hall",
+        "tags": {
+          "name": "Majestic hall",
+          "name:ar": "صالة ماجيستك",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6796419148",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5154532,
+          15.6075825
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6796419148,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "تيراس النيل",
+        "tags": {
+          "name": "تيراس النيل",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6824689123",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6093226,
+          15.6298418
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6824689123,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة نسمة",
+        "tags": {
+          "addr:city": "المايقوما",
+          "addr:street": "شارع المايقوما",
+          "amenity": "library",
+          "name": "مكتبة نسمة",
+          "name:ar": "مكتبة نسمة"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6831622786",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6165685,
+          15.6020736
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6831622786,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة البسملة الحديثة للخدمات",
+        "tags": {
+          "addr:street": "شارع الوالي",
+          "amenity": "library",
+          "name": "مكتبة البسملة الحديثة للخدمات",
+          "name:ar": "مكتبة البسملة الحديثة للخدمات",
+          "phone": "0911240399"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6893506661",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5288124,
+          15.6366873
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6893506661,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبه أركان",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبه أركان"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6898368423",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6168718,
+          15.6014218
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6898368423,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة مهراجا للقراءة",
+        "tags": {
+          "addr:street": "شارع الوالي",
+          "amenity": "library",
+          "name": "مكتبة مهراجا للقراءة"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6964906425",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5793114,
+          15.7296877
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6964906425,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبه الريان",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبه الريان"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7032769816",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4991875,
+          15.4865627
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7032769816,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة ريدنغ زونغ 2 - reading zone",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة ريدنغ زونغ 2 - reading zone"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7038287175",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6239045,
+          15.6333134
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7038287175,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة اواب",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة اواب"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7082419602",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5389199,
+          15.6096071
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7082419602,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Faculty of Engineering Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Faculty of Engineering Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7160753586",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4506874,
+          15.6130629
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7160753586,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الاوصفوك",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة الاوصفوك"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7199599786",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7423347,
+          18.2256348
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7199599786,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Dongola Cathedrals",
+        "tags": {
+          "historic": "archaeological_site",
+          "name": "Dongola Cathedrals",
+          "ruins": "yes",
+          "source": "Włodzimierz Godlewski, Dongola – ancient Tungul, archaeological guide",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7199599787",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7546781,
+          18.2226966
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7199599787,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Kubbas and islamic cemetery",
+        "tags": {
+          "name": "Kubbas and islamic cemetery",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7366396055",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5784378,
+          15.5634375
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7366396055,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مجموعة رماة الحدق",
+        "tags": {
+          "amenity": "library",
+          "name": "مجموعة رماة الحدق"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7419260085",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1304185,
+          11.4606388
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7419260085,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المسيد للخدمات",
+        "tags": {
+          "amenity": "library",
+          "name": "المسيد للخدمات",
+          "shop": "books"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7726684057",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5673141,
+          15.7323122
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7726684057,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة المحراب",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة المحراب"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7736775631",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5653114,
+          15.5949373
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7736775631,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Sudan books Office",
+        "tags": {
+          "amenity": "library",
+          "name": "Sudan books Office"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7746383326",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5604362,
+          15.5895624
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7746383326,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة محمد",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة محمد"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8021674504",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4960794,
+          15.4823126
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8021674504,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة أكسلانت",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة أكسلانت"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9383434218",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7538715,
+          16.932185
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9383434218,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Tickets and entrance",
+        "tags": {
+          "name": "Tickets and entrance",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11871656882",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4794789,
+          15.6148869
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11871656882,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Library of Nursing College - Karary Uni.",
+        "tags": {
+          "amenity": "library",
+          "name": "Library of Nursing College - Karary Uni.",
+          "name:ar": "مكتبة كلية التمريض - جامعة كرري"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11944452170",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.980825,
+          17.695413
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11944452170,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة عطبرة المركزية",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة عطبرة المركزية"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12061004993",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.220408,
+          19.6169709
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12061004993,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة الولائية العامة",
+        "tags": {
+          "amenity": "library",
+          "name": "المكتبة الولائية العامة"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12704385854",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5398999,
+          15.6204059
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12704385854,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "4M Library",
+        "tags": {
+          "amenity": "library",
+          "name": "4M Library",
+          "source": "Foursquare"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12705926010",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5584662,
+          15.5972532
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12705926010,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "نادي القراءة برج الأملاك الطابق الخامس",
+        "tags": {
+          "amenity": "library",
+          "name": "نادي القراءة برج الأملاك الطابق الخامس",
+          "source": "Foursquare"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12705947313",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5939411,
+          15.5136568
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12705947313,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "source": "Foursquare"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12708124332",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5352892,
+          15.6037065
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12708124332,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Goethe Institute Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Goethe Institute Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12708267918",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6094744,
+          15.5988123
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12708267918,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة البروف",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة البروف",
+          "source": "Foursquare"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12708345472",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5282417,
+          15.5966835
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12708345472,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة طب",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة طب",
+          "source": "Foursquare"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12708405150",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.538003,
+          15.5426469
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12708405150,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الادراك",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة الادراك",
+          "source": "Foursquare"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12919288101",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2873059,
+          19.0988851
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12919288101,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Abu Hadab Museum",
+        "tags": {
+          "name": "Abu Hadab Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13624271401",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.9464818,
+          14.3464934
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13624271401,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة ود الزين حمدالنيل",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة ود الزين حمدالنيل"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/129480430",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.528694,
+          15.6079661
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 129480430,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Palace Museum",
+        "tags": {
+          "name": "Palace Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/129480432",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.528202,
+          15.6079451
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 129480432,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/192533469",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4882894,
+          15.6387546
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 192533469,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف الخليفة",
+        "tags": {
+          "addr:street": "شارع الاسطبلات",
+          "building": "yes",
+          "name": "متحف الخليفة",
+          "name:ar": "متحف بيت الخليفة",
+          "name:en": "The Khalifa House Museum",
+          "name:fr": "Musée du Khalifa",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/203922525",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5342529,
+          15.6079885
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 203922525,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Ethnological Museum",
+        "tags": {
+          "name": "Ethnological Museum",
+          "name:ar": "متحف الإثنولوجي",
+          "name:en": "Ethnological Museum",
+          "name:fr": "Musée d'Ethnologie",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/300319836",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5398026,
+          15.6088551
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 300319836,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف التاريخ الطبيعي",
+        "tags": {
+          "name": "متحف التاريخ الطبيعي",
+          "name:en": "Natural History Museum",
+          "operator": "جامعة الخرطوم",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/303334100",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5083485,
+          15.606077
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 303334100,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف السودان",
+        "tags": {
+          "addr:city": "الخرطوم",
+          "addr:street": "Nile Street",
+          "museum": "history",
+          "name": "متحف السودان",
+          "name:en": "National Museum of Sudan",
+          "tourism": "museum",
+          "wikidata": "Q643453",
+          "wikipedia": "ar:متحف السودان القومي"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315874212",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5384572,
+          15.5618717
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 315874212,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/331541940",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5421527,
+          15.6118027
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 331541940,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "University of Khartoum Main Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "height": "19.82",
+          "name": "University of Khartoum Main Library",
+          "name:ar": "مكتبة جامعة الخرطوم",
+          "source": "khartoum university",
+          "website": "http://lib.uofk.edu/index.php?lang=en"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1322954490",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.3311231,
+          19.5370398
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1322954490,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1350844535",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5742281,
+          15.5535211
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1350844535,
+        "country": "Sudan",
+        "alpha_2": "SD",
+        "countries": [
+          "SD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    }
+  ]
+}

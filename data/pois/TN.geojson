@@ -1,0 +1,6655 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/288347882",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3242982,
+          36.8535697
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 288347882,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "المتحف الوطني بقرطاج",
+        "tags": {
+          "addr:street": "Rue Mendes France",
+          "name": "المتحف الوطني بقرطاج",
+          "name:ar": "المتحف الوطني بقرطاج",
+          "name:en": "Carthage National Museum",
+          "name:es": "Museo nacional de Cartago",
+          "name:fa": "موزه ملی قرطاج",
+          "name:fr": "Musée National de Carthage",
+          "tourism": "museum",
+          "wikidata": "Q1961849",
+          "wikimedia_commons": "Category:Carthage National Museum",
+          "wikipedia": "es:Museo Nacional de Cartago"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/316133636",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7588084,
+          34.7335001
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 316133636,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف القصبة",
+        "tags": {
+          "name": "متحف القصبة",
+          "name:ar": "متحف القصبة",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/322930940",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1017179,
+          35.6752729
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 322930940,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Sidi Abid el-Ghariani Zaouia",
+        "tags": {
+          "castle_type": "palace",
+          "historic": "castle",
+          "name": "Sidi Abid el-Ghariani Zaouia",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/351597412",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1206149,
+          33.9131635
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 351597412,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Dar Cherait",
+        "tags": {
+          "name": "Dar Cherait",
+          "tourism": "museum",
+          "wikidata": "Q3329131",
+          "wikimedia_commons": "Category:Dar Cherait Museum",
+          "wikipedia": "ar:متحف دار شريط"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/352842148",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0449202,
+          33.8199094
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 352842148,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Lalla Hadria",
+        "tags": {
+          "alt_name": "Djerba Heritage",
+          "name": "Lalla Hadria",
+          "tourism": "museum",
+          "wikidata": "Q54888223",
+          "wikimedia_commons": "Category:Lalla Hadria Museum",
+          "wikipedia": "ar:متحف للا الحضرية"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/705194168",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8923514,
+          35.6707191
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 705194168,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Mausolée Sidi Ammar",
+        "tags": {
+          "fee": "no",
+          "name": "Mausolée Sidi Ammar",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/974763393",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1563371,
+          35.2349806
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 974763393,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "برج خديجة",
+        "tags": {
+          "name": "برج خديجة",
+          "name:ar": "برج خديجة",
+          "name:fr": "Borj Khadija",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/974763577",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1150858,
+          35.2389876
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 974763577,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "addr:city": "الشابة",
+          "addr:postcode": "5170",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1036946012",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1850565,
+          36.8046603
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1036946012,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف العملة",
+        "tags": {
+          "name": "متحف العملة",
+          "name:ar": "متحف العملة",
+          "name:fr": "Musée de la Monnaie",
+          "tourism": "museum",
+          "wikidata": "Q3330043",
+          "wikimedia_commons": "Category:Currency Museum (Tunis)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1036981133",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1177217,
+          36.8459239
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1036981133,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothéque public d'El Mnihla",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothéque public d'El Mnihla"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1103552060",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1685013,
+          36.8016198
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1103552060,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف مدينة تونس",
+        "tags": {
+          "name": "متحف مدينة تونس",
+          "name:ar": "متحف مدينة تونس",
+          "name:en": "Museum of Modern Art",
+          "name:fr": "Musée d'Art Moderne",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1131734857",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0569353,
+          37.0506657
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1131734857,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée national d'Utique",
+        "tags": {
+          "name": "Musée national d'Utique",
+          "tourism": "museum",
+          "wikidata": "Q166523",
+          "wikimedia_commons": "Category:Utica, Tunisia",
+          "wikipedia": "en:Utica, Tunisia"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1263965887",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1783091,
+          36.8011203
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1263965887,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف المالية",
+        "tags": {
+          "addr:city": "تونس",
+          "addr:city:ar": "تونس",
+          "addr:postcode": "1000",
+          "name": "متحف المالية",
+          "name:ar": "متحف المالية",
+          "name:en": "Finance Museum",
+          "name:fr": "Musée des finances",
+          "name:ko": "금융 박물관",
+          "name:ru": "Музей Финансов",
+          "tourism": "museum",
+          "wikidata": "Q2754197",
+          "wikimedia_commons": "Category:Finance Museum (Tunis)",
+          "wikipedia": "fr:Musée des finances"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1411693792",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.628144,
+          35.8146977
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1411693792,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Ala Eddine Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Ala Eddine Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1455877963",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.175446,
+          36.8479716
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1455877963,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliotheque municipale Menzah 5",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliotheque municipale Menzah 5"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1761027112",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8767036,
+          37.2781887
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1761027112,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "المتحف الأوقيانوغرافي",
+        "tags": {
+          "name": "المتحف الأوقيانوغرافي",
+          "name:ar": "المتحف الأوقيانوغرافي",
+          "name:en": "Oceanographic Museum",
+          "name:fr": "Musée océanographique",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1789165452",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0907895,
+          33.868619
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1789165452,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف العادات والتقاليد",
+        "tags": {
+          "addr:city": "قابس",
+          "name": "متحف العادات والتقاليد",
+          "name:ar": "متحف العادات والتقاليد",
+          "name:fr": "Musée des coutumes et des traditions",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1859395402",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7362439,
+          36.4506766
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1859395402,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Nabeul Museum",
+        "tags": {
+          "name": "Nabeul Museum",
+          "tourism": "museum",
+          "wikidata": "Q3329732",
+          "wikimedia_commons": "Category:Nabeul Museum",
+          "wikipedia": "en:Nabeul Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1863150829",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.780651,
+          36.4702121
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1863150829,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1905357351",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8656304,
+          33.7325594
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1905357351,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée du Patrimoine de Guellala",
+        "tags": {
+          "name": "Musée du Patrimoine de Guellala",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2094066071",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6355756,
+          35.8231085
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2094066071,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "المتحف الأثري بسوسة",
+        "tags": {
+          "addr:city": "سوسة",
+          "addr:city:ar": "سوسة",
+          "charge": "9",
+          "fee": "yes",
+          "internet_access": "wlan",
+          "name": "المتحف الأثري بسوسة",
+          "name:ar": "المتحف الأثري بسوسة",
+          "name:en": "Sousse Archeological Museum",
+          "name:fr": "Musée archéologique de Sousse",
+          "name:pl": "Muzeum Archeologiczne",
+          "toilets": "yes",
+          "tourism": "museum",
+          "website": "https://www.patrimoinedetunisie.com.tn/eng/musees/sousse.php",
+          "wikidata": "Q3329457",
+          "wikimedia_commons": "Category:Archaeological Museum of Sousse",
+          "wikipedia": "en:Sousse Archaeological Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2107250236",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6407146,
+          35.8318771
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2107250236,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة",
+        "tags": {
+          "addr:city": "سوسة",
+          "amenity": "library",
+          "name": "المكتبة",
+          "name:ar": "المكتبة",
+          "name:fr": "Bibliothéque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2126298163",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6059103,
+          35.8380266
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2126298163,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Librairie-Papeterie AMAZONA",
+        "tags": {
+          "amenity": "library",
+          "name": "Librairie-Papeterie AMAZONA"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2140164829",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6337973,
+          35.8192617
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2140164829,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "ECOLIBRE",
+        "tags": {
+          "amenity": "library",
+          "name": "ECOLIBRE"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2163899878",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0225939,
+          33.4556782
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2163899878,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة العمومية",
+        "tags": {
+          "amenity": "library",
+          "name": "المكتبة العمومية",
+          "name:fr": "bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2178628385",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1472011,
+          33.9171094
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2178628385,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Eden Palm",
+        "tags": {
+          "fee": "yes",
+          "name": "Eden Palm",
+          "tourism": "museum",
+          "website": "www.eden-palm.com"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2261970551",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4833267,
+          35.0368992
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2261970551,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة شارع محمد البوعزيزي",
+        "tags": {
+          "addr:city": "سيدي بوزيد",
+          "addr:street": "شارع محمد البوعزيزي",
+          "amenity": "library",
+          "name": "مكتبة شارع محمد البوعزيزي",
+          "name:ar": "مكتبة شارع محمد البوعزيزي"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2306650078",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7841109,
+          35.7784819
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2306650078,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Palais Présidentiel de Bourguiba",
+        "tags": {
+          "name": "Palais Présidentiel de Bourguiba",
+          "name:fr": "Palais Présidentiel de Bourguiba",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2610190990",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7054209,
+          35.2984183
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2610190990,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Dar El Jem",
+        "tags": {
+          "name": "Dar El Jem",
+          "operator": "Société d’Animation Touristique et Culture Dar El Jem",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2768533062",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5078632,
+          36.0297909
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2768533062,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة العمومية",
+        "tags": {
+          "addr:city": "هرقلة",
+          "addr:postcode": "4012",
+          "amenity": "library",
+          "name": "المكتبة العمومية",
+          "name:ar": "المكتبة العمومية"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2880239302",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6339839,
+          35.8263723
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2880239302,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2902045923",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0531757,
+          35.5934931
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2902045923,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Rakada Palace Museum",
+        "tags": {
+          "name": "Rakada Palace Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2933730990",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3748873,
+          36.0881612
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2933730990,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque publique",
+        "tags": {
+          "addr:city": "Siliana",
+          "amenity": "library",
+          "name": "Bibliothèque publique"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2935193667",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8309936,
+          35.774202
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2935193667,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée des arts et traditions populaires",
+        "tags": {
+          "addr:city": "المنستير",
+          "addr:city:ar": "المنستير",
+          "addr:postcode": "5000",
+          "name": "Musée des arts et traditions populaires",
+          "tourism": "museum",
+          "wikidata": "Q47004620",
+          "wikimedia_commons": "Category:Museum of popular arts and traditions of Monastir",
+          "wikipedia": "ar:متحف الفنون والتقاليد الشعبية بالمنستير"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2935194780",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.833079,
+          35.7759331
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2935194780,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée d'arts islamiques",
+        "tags": {
+          "addr:city": "المنستير",
+          "addr:city:ar": "المنستير",
+          "addr:postcode": "5000",
+          "name": "Musée d'arts islamiques",
+          "tourism": "museum",
+          "wikidata": "Q3430097",
+          "wikimedia_commons": "Category:Ribat of Monastir",
+          "wikipedia": "fr:Ribat de Monastir"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2967189009",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0599096,
+          33.8637936
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2967189009,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Naturel Du Sud Tunisien",
+        "tags": {
+          "name": "Musée Naturel Du Sud Tunisien",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3175146036",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7829966,
+          34.4224349
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3175146036,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibilothèque régionale",
+        "tags": {
+          "addr:city": "قفصة",
+          "addr:city:ar": "قفصة",
+          "addr:street": "Rue de caire",
+          "amenity": "library",
+          "name": "Bibilothèque régionale"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3416046215",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8624273,
+          33.8799161
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3416046215,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée du patrimoine traditionnel de Djerba",
+        "tags": {
+          "addr:city": "Houmt Souk",
+          "addr:country": "TN",
+          "addr:postcode": "4180",
+          "addr:street": "Avenue Habib Thameur",
+          "description": "https://www.patrimoinedetunisie.com.tn/en/museums/the-museum-of-the-traditional-heritage-of-djerba/overview/",
+          "name": "Musée du patrimoine traditionnel de Djerba",
+          "tourism": "museum",
+          "website": "http://www.djerbamuseum.tn/",
+          "wikidata": "Q47069667",
+          "wikimedia_commons": "Category:Djerba Traditional Heritage Museum",
+          "wikipedia": "fr:Musée du patrimoine traditionnel de Djerba"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3417566382",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8604242,
+          33.8838904
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3417566382,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "برج غازي مصطفى",
+        "tags": {
+          "addr:city": "حومة السوق",
+          "museum": "history",
+          "name": "برج غازي مصطفى",
+          "name:aeb": "برج غازي مصطفى",
+          "name:ar": "برج غازي مصطفى",
+          "name:en": "Borj el Ghazi Mustapha",
+          "name:fr": "Borj el Ghazi Mustapha",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3656291761",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8040571,
+          35.5702098
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3656291761,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3926283413",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1068702,
+          36.8280988
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3926283413,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3967250290",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1138616,
+          36.8282282
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3967250290,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4221787720",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2009255,
+          33.2507291
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4221787720,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4337848485",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4458376,
+          32.9268059
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4337848485,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque publique المكتبة العمومية",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque publique المكتبة العمومية"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4396194674",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.614912,
+          36.3969605
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4396194674,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة",
+        "tags": {
+          "addr:city": "الحمامات",
+          "amenity": "library",
+          "name": "مكتبة",
+          "name:ar": "مكتبة",
+          "name:fr": "Bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4505038289",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5771474,
+          36.4900949
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4505038289,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "شمتو",
+        "tags": {
+          "addr:city": "شمتو",
+          "name": "شمتو",
+          "name:ar": "شمتو",
+          "name:fr": "Chemtou",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4581665234",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2435973,
+          34.7195683
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4581665234,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Du Patrimoine Insulaire",
+        "tags": {
+          "name": "Musée Du Patrimoine Insulaire",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4811121277",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8644438,
+          33.5368798
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4811121277,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف بربري",
+        "tags": {
+          "addr:city": "تامزرط",
+          "addr:city:ar": "تامزرط",
+          "addr:city:fr": "Tamezret",
+          "alt_name": "المتحف البربري;متحف البربر",
+          "alt_name:ar": "المتحف البربري;متحف البربر",
+          "museum": "living_history",
+          "name": "متحف بربري",
+          "name:ar": "متحف بربري",
+          "name:fr": "Musée Berbère de Tamezret",
+          "opening_hours": "Mo-Su 09:00-18:00",
+          "operator": "المنجي بوراس",
+          "operator:ar": "المنجي بوراس",
+          "operator:type": "private",
+          "phone": "+216 98 567 266",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4838748822",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1213284,
+          36.83154
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4838748822,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Librairie kchokk",
+        "tags": {
+          "amenity": "library",
+          "name": "Librairie kchokk"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4914008623",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9429978,
+          33.549859
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4914008623,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Dar Taoufik Matmata",
+        "tags": {
+          "building": "house",
+          "description:de": "Höhlenhaus",
+          "name": "Dar Taoufik Matmata",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5089226022",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1656017,
+          36.7964282
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5089226022,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف السينما",
+        "tags": {
+          "name": "متحف السينما",
+          "name:ar": "متحف السينما",
+          "name:de": "Kinomuseum",
+          "name:es": "Museo del Cine",
+          "name:fr": "Musée du Cinéma",
+          "tourism": "museum",
+          "wikidata": "Q54888242",
+          "wikipedia": "ar:متحف السينما (تونس)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5090248521",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6354408,
+          35.8271516
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5090248521,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Dar Essid",
+        "tags": {
+          "name": "Musée Dar Essid",
+          "name:en": "Museum Dar Essid",
+          "tourism": "museum",
+          "wikidata": "Q16665608",
+          "wikipedia": "en:Dar Essid Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5090298621",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6382869,
+          35.8250009
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5090298621,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Kobba - Musée Arts & Trad. Populaires",
+        "tags": {
+          "name": "Kobba - Musée Arts & Trad. Populaires",
+          "name:ar": "متحف القبة",
+          "name:en": "El Kobba museum of traditional arts and clothing",
+          "name:fr": "Musée el Kobba des arts et costumes traditionels",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5090400921",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1786566,
+          36.7968968
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5090400921,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée des Timbres",
+        "tags": {
+          "name": "Musée des Timbres",
+          "name:en": "Musée des Timbres",
+          "name:fr": "Musée des Timbres",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5603799482",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2622397,
+          36.851741
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5603799482,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "addr:city": "العوينة",
+          "addr:city:ar": "العوينة",
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5668536175",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1671096,
+          36.8014359
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5668536175,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "دار بن عاشور",
+        "tags": {
+          "amenity": "library",
+          "castle_type": "palace",
+          "historic": "castle",
+          "name": "دار بن عاشور",
+          "name:ar": "دار بن عاشور",
+          "name:fr": "Dar Ben Achour",
+          "wikidata": "Q3015921",
+          "wikimedia_commons": "Category:Dar Ben Achour",
+          "wikipedia": "en:Dar Ben Achour"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5668859929",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1673854,
+          36.8077986
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5668859929,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "قصر صاحب الطابع",
+        "tags": {
+          "amenity": "library",
+          "castle_type": "palace",
+          "historic": "castle",
+          "name": "قصر صاحب الطابع",
+          "name:ar": "قصر صاحب الطابع",
+          "name:fr": "Palais Saheb Ettabaâ",
+          "wikidata": "Q24699188",
+          "wikimedia_commons": "Category:Saheb Ettabaâ Palace",
+          "wikipedia": "en:Saheb Ettabaâ Palace"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5669152954",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.166128,
+          36.7998809
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5669152954,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف العدل وحقوق الإنسان",
+        "tags": {
+          "addr:city": "تونس",
+          "name": "متحف العدل وحقوق الإنسان",
+          "name:ar": "متحف العدل وحقوق الإنسان",
+          "name:de": "Museum für Justiz und Menschenrechte",
+          "name:es": "Museo de Justicia y Derechos Humanos",
+          "name:fr": "Musée de la Justice et des Droits de l’Homme",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6168686440",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4251751,
+          32.9102909
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6168686440,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque el Rogba",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque el Rogba"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6168741031",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.425151,
+          32.9102932
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6168741031,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliotheque Rogba",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliotheque Rogba"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6184452784",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8387906,
+          35.1699232
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6184452784,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Al Amen",
+        "tags": {
+          "amenity": "library",
+          "name": "Al Amen"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6220843190",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9685448,
+          33.5421566
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6220843190,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف دار خديجة",
+        "tags": {
+          "addr:city": "مطماطة",
+          "name": "متحف دار خديجة",
+          "name:ar": "متحف دار خديجة",
+          "name:en": "Musee dar Khadija",
+          "name:fr": "Musee dar Khadija",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6251904600",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.843852,
+          35.1644021
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6251904600,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Al Soltani",
+        "tags": {
+          "amenity": "library",
+          "name": "Al Soltani"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6274661845",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3473955,
+          36.8709464
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6274661845,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "دار العنابي",
+        "tags": {
+          "name": "دار العنابي",
+          "name:ar": "دار العنابي",
+          "name:en": "Dar El-Annabi",
+          "tourism": "museum",
+          "wikidata": "Q47289182",
+          "wikimedia_commons": "Category:Dar El Annabi"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6274661851",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.350807,
+          36.8705291
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6274661851,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Sidi Abu Said",
+        "tags": {
+          "name": "Sidi Abu Said",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6343593152",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3281545,
+          36.8506397
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6343593152,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "المتحف الكنيسة الأثرية بقرطاج",
+        "tags": {
+          "addr:city": "قرطاج الشاطئ",
+          "name": "المتحف الكنيسة الأثرية بقرطاج",
+          "name:ar": "المتحف الكنيسة الأثرية بقرطاج",
+          "name:en": "The Carthage Early Christian Museum",
+          "name:fr": "Musée paléochrétien de Carthage",
+          "tourism": "museum",
+          "wikidata": "Q1961879",
+          "wikimedia_commons": "Category:Carthage Paleo-Christian Museum",
+          "wikipedia": "en:Carthage Paleo-Christian Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6361214898",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0904862,
+          35.6819214
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6361214898,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "زاوية سيدي الصاحب",
+        "tags": {
+          "name": "زاوية سيدي الصاحب",
+          "name:en": "Zaouia of Sidi Sahabi",
+          "name:es": "Mausoleo del Barbero",
+          "name:fr": "Mausolée du Barbier",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7609042387",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2115156,
+          36.8509417
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7609042387,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Imprimerie Bousaa",
+        "tags": {
+          "amenity": "library",
+          "name": "Imprimerie Bousaa"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7618720477",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7465851,
+          36.4591702
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7618720477,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque municipale",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque municipale"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8190319217",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1634435,
+          36.8030426
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8190319217,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "name:en": "National Library",
+          "name:fr": "Librairie Nationale"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9037545939",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5352135,
+          35.0992507
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9037545939,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة العمومية بلسودة",
+        "tags": {
+          "amenity": "library",
+          "name": "المكتبة العمومية بلسودة",
+          "name:ar": "المكتبة العمومية بلسودة"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9334729736",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5802635,
+          36.3397665
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9334729736,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Municipale De Touiref",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Municipale De Touiref"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9775096760",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4460034,
+          32.9284943
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9775096760,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة إبن عبدالله",
+        "tags": {
+          "addr:city": "تطاوين",
+          "addr:postcode": "3200",
+          "addr:street": "الطريق الوطنية مدنين - الذهيبة",
+          "amenity": "library",
+          "name": "مكتبة إبن عبدالله",
+          "name:ar": "مكتبة إبن عبدالله",
+          "name:fr": "bibliotheque ibn abdallah"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10289502698",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7816177,
+          34.7946495
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10289502698,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "دار الثقافة والمكتبة العمومية",
+        "tags": {
+          "amenity": "library",
+          "name": "دار الثقافة والمكتبة العمومية",
+          "name:ar": "دار الثقافة والمكتبة العمومية",
+          "name:fr": "Maison de Culture et Bibliothèque Publique"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10293525509",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.630186,
+          35.8214701
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10293525509,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "name:en": "Maison Am Taieb d'art contemporain",
+          "name:fr": "Maison Am Taieb d'art contemporain",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10296641011",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1864568,
+          36.8105541
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10296641011,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "MACAM Tunis",
+        "tags": {
+          "name": "MACAM Tunis",
+          "name:fr": "MACAM Tunis",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10632764970",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.762047,
+          34.8058089
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10632764970,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة العمومية بساقية الزيت",
+        "tags": {
+          "amenity": "library",
+          "name": "المكتبة العمومية بساقية الزيت",
+          "name:ar": "المكتبة العمومية بساقية الزيت",
+          "name:fr": "Bibliothèque Publique de Sakiet Ezzit"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10820032013",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2362764,
+          36.7208295
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10820032013,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "TBS Library",
+        "tags": {
+          "amenity": "library",
+          "name": "TBS Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10883130718",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0708298,
+          34.2998874
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10883130718,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Publique Skhira",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Publique Skhira",
+          "name:fr": "Bibliothèque Publique Skhira"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11047496962",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1268206,
+          33.4194129
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11047496962,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée mémoire Zmerten",
+        "tags": {
+          "museum": "history",
+          "name": "Musée mémoire Zmerten",
+          "phone": "+216 96 392 975",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11139517003",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1632569,
+          36.6960621
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11139517003,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11144110929",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.162414,
+          36.7102034
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11144110929,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11149308016",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1085103,
+          36.7699783
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11149308016,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "maktba",
+        "tags": {
+          "amenity": "library",
+          "name": "maktba"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11160778493",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1098229,
+          36.7695498
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11160778493,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "maktba",
+        "tags": {
+          "addr:city": "سيدي حسين",
+          "addr:postcode": "1095",
+          "addr:street": "نهج الامام سحنون",
+          "amenity": "library",
+          "name": "maktba"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11160962840",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1120149,
+          36.7711567
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11160962840,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "maktba",
+        "tags": {
+          "addr:city": "سيدي حسين",
+          "addr:postcode": "1095",
+          "addr:street": "RUE EBN HAZEM",
+          "amenity": "library",
+          "name": "maktba"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11160962841",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1116791,
+          36.7694347
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11160962841,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "maktba",
+        "tags": {
+          "addr:city": "سيدي حسين",
+          "addr:postcode": "1095",
+          "addr:street": "42558",
+          "amenity": "library",
+          "name": "maktba"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11160962842",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1126242,
+          36.7726327
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11160962842,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "maktba",
+        "tags": {
+          "amenity": "library",
+          "name": "maktba"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11160965192",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1112345,
+          36.7701696
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11160965192,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "maktba",
+        "tags": {
+          "amenity": "library",
+          "name": "maktba"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11160965193",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1107089,
+          36.7699427
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11160965193,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "maktba",
+        "tags": {
+          "addr:city": "سيدي حسين",
+          "addr:postcode": "1095",
+          "addr:street": "rue yazid ibn abi sofiane",
+          "amenity": "library",
+          "name": "maktba"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11161902941",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1090245,
+          36.7751498
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11161902941,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11161902942",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1067768,
+          36.7739037
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11161902942,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "addr:city": "سيدي حسين",
+          "addr:postcode": "1095",
+          "addr:street": "rue 417",
+          "amenity": "library",
+          "name": "Bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11161902943",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1064979,
+          36.7764518
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11161902943,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11161902944",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1070611,
+          36.7757084
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11161902944,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11181095424",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8931628,
+          35.6433207
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11181095424,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة العمومية",
+        "tags": {
+          "amenity": "library",
+          "name": "المكتبة العمومية"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11220407168",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1617399,
+          36.7012884
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11220407168,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة العمومية بفوشانة",
+        "tags": {
+          "amenity": "library",
+          "name": "المكتبة العمومية بفوشانة",
+          "name:ar": "المكتبة العمومية بفوشانة",
+          "name:fr": "biblothèque publique de fouchana"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11691949310",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.991937,
+          33.8101381
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11691949310,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "معصرة الفصيلي",
+        "tags": {
+          "addr:city": "ميدون",
+          "name": "معصرة الفصيلي",
+          "name:aeb": "معصرة الفصيلي",
+          "name:ar": "معصرة الفصيلي",
+          "name:fr": "Huilerie traditionnelle souterraine Fessili",
+          "opening_hours": "Tu-Su 09:00-17:00 (Ramadhan 10:00-16:00)",
+          "start_date": "2024-03-01",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11761873266",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1749778,
+          36.8343549
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11761873266,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "CDI : centre de documentation et d'information",
+        "tags": {
+          "amenity": "library",
+          "name": "CDI : centre de documentation et d'information",
+          "opening_hours": "Mo-Fr 08:00-17:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11807118339",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4912082,
+          33.3474601
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11807118339,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée des Costumes et des Traditions",
+        "tags": {
+          "addr:city": "Medenine",
+          "museum": "history",
+          "name": "Musée des Costumes et des Traditions",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11807174192",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9729137,
+          33.5439959
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11807174192,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Madrassa Sidi Moussa Jomani",
+        "tags": {
+          "addr:city": "Matmata el Qadima",
+          "museum": "history",
+          "name": "Madrassa Sidi Moussa Jomani",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11976825702",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1657103,
+          36.7924851
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11976825702,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Institut des Belles-Lettres Arabes",
+        "tags": {
+          "addr:city": "Tunis",
+          "addr:housenumber": "12bis",
+          "addr:postcode": "1008",
+          "addr:street": "Rue Jemaa el Haoua",
+          "amenity": "library",
+          "internet_access": "yes",
+          "name": "Institut des Belles-Lettres Arabes",
+          "operator": "Pères Blancs",
+          "operator:type": "private_non_profit",
+          "short_name": "IBLA"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12386384101",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0183255,
+          33.4519109
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12386384101,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée du Sahara de Douz",
+        "tags": {
+          "internet_access": "wlan",
+          "name": "Musée du Sahara de Douz",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12509972698",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5468829,
+          35.9448064
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12509972698,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف جبل السرج ecomuseum jbel al sarj",
+        "tags": {
+          "name": "متحف جبل السرج ecomuseum jbel al sarj",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12526639025",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5944439,
+          35.8467761
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12526639025,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة العمومية",
+        "tags": {
+          "amenity": "library",
+          "name": "المكتبة العمومية"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12526660299",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5944439,
+          35.8467761
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12526660299,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة العمومية",
+        "tags": {
+          "amenity": "library",
+          "name": "المكتبة العمومية"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13354579859",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0179576,
+          33.796351
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13354579859,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "La Ferme de Lotos - Musée de l'automobile et de la moto",
+        "tags": {
+          "addr:city": "Midoun",
+          "addr:place": "Temlel el Melh",
+          "name": "La Ferme de Lotos - Musée de l'automobile et de la moto",
+          "phone": "+216 23221206",
+          "tourism": "museum",
+          "website": "https://www.facebook.com/profile.php?id=100063864102846"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13653443476",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8588189,
+          36.5752954
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13653443476,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "internet_access:fee": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13732184601",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1287763,
+          33.9141957
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13732184601,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Maison de Abou El Kacem Chebbi",
+        "tags": {
+          "name": "Maison de Abou El Kacem Chebbi",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13808859301",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9761517,
+          33.5420237
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13808859301,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Troglodyte de Ksour",
+        "tags": {
+          "addr:city": "مطماطة",
+          "addr:postcode": "6070",
+          "addr:street": "الطريق الوطنية مدنين - حزوة",
+          "museum": "history",
+          "name": "Musée Troglodyte de Ksour",
+          "name:ar": "متحف المساكن الجوفية بالقصور",
+          "name:en": "Ksour Troglodyte Museum",
+          "name:fr": "Musée Troglodyte de Ksour",
+          "opening_hours": "Mo-Su 08:00-22:00",
+          "operator": "Monsef Zarga",
+          "operator:type": "private",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13844445101",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.138188,
+          33.9216564
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13844445101,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée des arts et traditions populaires",
+        "tags": {
+          "check_date": "2026-05-18",
+          "name": "Musée des arts et traditions populaires",
+          "phone": "+21697091083",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28751566",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7437672,
+          34.7347781
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 28751566,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة",
+        "tags": {
+          "addr:city": "صفاقس",
+          "addr:city:ar": "صفاقس",
+          "amenity": "library",
+          "building": "yes",
+          "name": "المكتبة",
+          "name:ar": "المكتبة",
+          "name:fr": "Bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39972294",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7623862,
+          34.7368449
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 39972294,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "دار الجلولي",
+        "tags": {
+          "addr:city": "صفاقس",
+          "addr:city:ar": "صفاقس",
+          "name": "دار الجلولي",
+          "name:ar": "دار الجلولي",
+          "name:fr": "Musée Dar Jallouli",
+          "tourism": "museum",
+          "wikidata": "Q3329124",
+          "wikimedia_commons": "Category:Dar Jallouli Museum",
+          "wikipedia": "en:Dar Jellouli Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/93164734",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3246106,
+          36.848094
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 93164734,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "المتحف المسيحي المبكر بقرطاج",
+        "tags": {
+          "fee": "yes",
+          "leisure": "park",
+          "name": "المتحف المسيحي المبكر بقرطاج",
+          "name:ar": "المتحف المسيحي المبكر بقرطاج",
+          "name:de": "Römisches und Frühchristliches Museum",
+          "name:en": "Bib Knissia Basilica",
+          "name:fr": "Musée Romain et Palaeo-Chrétien",
+          "tourism": "museum",
+          "wikidata": "Q1961879",
+          "wikimedia_commons": "Category:Carthage Paleo-Christian Museum",
+          "wikipedia": "en:Carthage Paleo-Christian Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/94481603",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0991747,
+          35.6725331
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 94481603,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée du Tapis",
+        "tags": {
+          "building": "yes",
+          "name": "Musée du Tapis",
+          "name:en": "Carpet Museum",
+          "name:fr": "Musée du Tapis",
+          "name:sv": "Matt- och konsthantverksmuseet",
+          "tourism": "museum",
+          "wikidata": "Q95488757",
+          "wikimedia_commons": "Category:Carpet Museum of Kairouan",
+          "wikipedia": "fr:Musée du tapis (Kairouan)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/95130020",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1806335,
+          36.802276
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 95130020,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة شارل ديقول",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة شارل ديقول",
+          "name:ar": "مكتبة شارل ديقول",
+          "name:fr": "Institut Français de Coopération Médiathèque Charles de Gaule"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/95130060",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1635978,
+          36.7994098
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 95130060,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة الوطنية التونسية",
+        "tags": {
+          "amenity": "library",
+          "name": "المكتبة الوطنية التونسية",
+          "name:ar": "المكتبة الوطنية التونسية",
+          "name:fr": "Bibliothèque Nationale de Tunisie",
+          "wikidata": "Q606065",
+          "wikimedia_commons": "Category:National Library of Tunisia",
+          "wikipedia": "en:National Library of Tunisia"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/95206060",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6355071,
+          35.8231404
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 95206060,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Sousse Archaeological Museum",
+        "tags": {
+          "building": "yes",
+          "fee": "yes",
+          "name": "Sousse Archaeological Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/97779426",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0569335,
+          37.0506689
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 97779426,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée national d'Utica",
+        "tags": {
+          "building": "yes",
+          "name": "Musée national d'Utica",
+          "tourism": "museum",
+          "wikipedia": "en:Utica, Tunisia"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/101011816",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3262877,
+          36.8437212
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 101011816,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "المتحف الأقيانوسي «دار الحوت» بصلامبو",
+        "tags": {
+          "addr:city": "صلامبو",
+          "addr:housenumber": "28",
+          "addr:postcode": "2035",
+          "addr:street": "نهج 2 مارس 1934",
+          "alt_name": "متحف دار الحوت",
+          "name": "المتحف الأقيانوسي «دار الحوت» بصلامبو",
+          "name:aeb": "دار الحوت",
+          "name:ar": "المتحف الأقيانوسي «دار الحوت» بصلامبو",
+          "name:en": "Salammbô Oceanographic Museum “Dar El Hout”",
+          "name:fr": "Musée océanographique « Dar El Hout » de Salammbô",
+          "opening_hours": "Tu-Su 10:00-18:00; Jul-Sep 15 10:00-19:00; Mo off",
+          "opening_hours:ramadan": "Tu-Su 10:00-16:00",
+          "operator": "INSTM - المعهد الوطني لتكنولوجيا وعلوم البحار",
+          "operator:type": "public",
+          "tourism": "museum",
+          "wikidata": "Q3330752",
+          "wikimedia_commons": "Category:Salammbô Oceanographic Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/103825459",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1294995,
+          36.8114058
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 103825459,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "قصر سعيد",
+        "tags": {
+          "building": "yes",
+          "name": "قصر سعيد",
+          "name:fa": "کاخ قصر سعید",
+          "name:fr": "Palais Ksar Said",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/104161175",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6926754,
+          37.1383446
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 104161175,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف الحديقة الوطنية بإشكل",
+        "tags": {
+          "building": "yes",
+          "name": "متحف الحديقة الوطنية بإشكل",
+          "name:ar": "متحف الحديقة الوطنية بإشكل",
+          "name:fr": "Musée du parc national de l'Ichkeul",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/105557781",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1888414,
+          36.8482568
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 105557781,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "مدينة العلوم",
+        "tags": {
+          "name": "مدينة العلوم",
+          "name:ar": "مدينة العلوم",
+          "name:fr": "La Cité des sciences",
+          "tourism": "museum",
+          "wikidata": "Q2974789",
+          "wikimedia_commons": "Category:Tunis Science City"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/107769578",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.188067,
+          36.7760313
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 107769578,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Avenue de Bellevue",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Avenue de Bellevue"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110150583",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1638249,
+          36.8075723
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 110150583,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/117017509",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.32972,
+          36.7263555
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 117017509,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Ecomuseum",
+        "tags": {
+          "building": "museum",
+          "name": "Ecomuseum",
+          "operator": "Ministère de l'environnement",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/126506876",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2383584,
+          36.7691302
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 126506876,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "دار الثقافة مقرين",
+        "tags": {
+          "addr:city": "مقرين",
+          "amenity": "library",
+          "building": "yes",
+          "name": "دار الثقافة مقرين",
+          "name:ar": "دار الثقافة مقرين",
+          "name:fr": "Maison de la culture de Mégrine",
+          "natural": "grass",
+          "old_name": "Eglise Sainte Thérèse de l'Enfant Jesus",
+          "source": "tn.geoview.info/maison_de_la_culture_de_megrine,126506876w"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/172259245",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.196322,
+          36.8539474
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 172259245,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Médiathèque Ariana",
+        "tags": {
+          "amenity": "library",
+          "designation": "Médiathèque Ariana",
+          "name": "Médiathèque Ariana"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/178550608",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9644159,
+          33.9833926
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 178550608,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة العمومية بوذرف",
+        "tags": {
+          "amenity": "library",
+          "leisure": "garden",
+          "name": "المكتبة العمومية بوذرف",
+          "name:ar": "المكتبة العمومية بوذرف"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/179545357",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7153269,
+          36.1827599
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 179545357,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée des Arts et Traditions Populaires",
+        "tags": {
+          "name": "Musée des Arts et Traditions Populaires",
+          "name:fr": "Musée des Arts et Traditions Populaires",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/179953386",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1718354,
+          36.7722208
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 179953386,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف الذاكرة الوطنية بالسيجومي",
+        "tags": {
+          "barrier": "fence",
+          "landuse": "grass",
+          "name": "متحف الذاكرة الوطنية بالسيجومي",
+          "name:ar": "متحف الذاكرة الوطنية بالسيجومي",
+          "name:fr": "Musée de la Mémoire Nationale",
+          "tourism": "museum",
+          "wikidata": "Q3330045",
+          "wikipedia": "ar:متحف الذاكرة الوطنية بالسيجومي"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/186982425",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4152342,
+          32.9176627
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 186982425,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Memoire de la Terre Tataouine",
+        "tags": {
+          "barrier": "fence",
+          "name": "Musée Memoire de la Terre Tataouine",
+          "name:en": "Tataouine's Earth Memory Museum",
+          "name:fr": "Musée Memoire de la Terre Tataouine",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/204427161",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7544826,
+          36.5565494
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 204427161,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de Bulla Regia",
+        "tags": {
+          "building": "yes",
+          "name": "Musée de Bulla Regia",
+          "name:fr": "Musée de Bulla Regia",
+          "opening_hours": "May 1-Oct 30: 08:00-20:00",
+          "tourism": "museum",
+          "wikidata": "Q3329710",
+          "wikimedia_commons": "Category:Bulla Regia Museum",
+          "wikipedia": "fr:Bulla Regia"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/204686869",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2063758,
+          35.8560032
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 204686869,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de Maktaris",
+        "tags": {
+          "building": "museum",
+          "name": "Musée de Maktaris",
+          "opening_hours": "Sep 16-Mar 31: 08:30-17:30; Apr 1-Sep 15: 08:00-19:00",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/205056903",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2197284,
+          36.7517768
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 205056903,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة المغاربية ببن عروس",
+        "tags": {
+          "amenity": "library",
+          "name": "المكتبة المغاربية ببن عروس",
+          "phone": "+216 71 380 696"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/207776929",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9954169,
+          37.0591481
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 207776929,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Ghar eI Kébir",
+        "tags": {
+          "addr:city": "El Haouaria",
+          "addr:country": "TN",
+          "addr:governorate": "Nabeul",
+          "addr:housename": "Ghar el Kébir",
+          "addr:postcode": "8045",
+          "building": "yes",
+          "name": "Ghar eI Kébir",
+          "name:fr": "Ghar el Kébir",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/208039261",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0987329,
+          36.8385963
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 208039261,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Cité Riadh",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque Cité Riadh"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/209175154",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.34821,
+          36.8691888
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 209175154,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Ennejma Ezzahra",
+        "tags": {
+          "alt_name": "Palais de Rodolphe d'Erlanger",
+          "building": "yes",
+          "fee": "no",
+          "historic": "monument",
+          "name": "Ennejma Ezzahra",
+          "tourism": "museum",
+          "wikidata": "Q12194283",
+          "wikimedia_commons": "Category:Ennejma Ezzahra",
+          "wikipedia": "en:Ennejma Ezzahra"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/217819344",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6914066,
+          37.1357548
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 217819344,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "المتحف الجيولوجي",
+        "tags": {
+          "building": "yes",
+          "name": "المتحف الجيولوجي",
+          "name:ar": "المتحف الجيولوجي",
+          "name:en": "Geological Museum",
+          "name:fr": "Musée Geologique",
+          "tourism": "museum",
+          "wikidata": "Q95491461",
+          "wikimedia_commons": "Category:Geological Museum of the Ichkeul National Park"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/221624159",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.826009,
+          35.7653845
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 221624159,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque régionale",
+        "tags": {
+          "addr:city": "المنستير",
+          "addr:city:ar": "المنستير",
+          "amenity": "library",
+          "barrier": "wall",
+          "name": "Bibliothèque régionale"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/224173518",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0191218,
+          36.7574844
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 224173518,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "addr:city": "المرناقية",
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/232249968",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3670983,
+          35.813368
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 232249968,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/243112494",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0605316,
+          33.1023309
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 243112494,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Jebil National Park",
+        "tags": {
+          "building": "yes",
+          "name": "Jebil National Park",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/248684415",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.895044,
+          35.6722155
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 248684415,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة العمومية بصيادة",
+        "tags": {
+          "air_conditioning": "yes",
+          "amenity": "library",
+          "barrier": "wall",
+          "name": "المكتبة العمومية بصيادة",
+          "name:ar": "المكتبة العمومية بصيادة",
+          "name:fr": "Bibliothèque de Sayada",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255198642",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3114373,
+          33.5961486
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 255198642,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée militaire de la ligne défensive de Mareth",
+        "tags": {
+          "addr:city": "Mareth",
+          "building": "yes",
+          "name": "Musée militaire de la ligne défensive de Mareth",
+          "tourism": "museum",
+          "wikidata": "Q3330646",
+          "wikimedia_commons": "Category:Military Museum of Mareth Line",
+          "wikipedia": "fr:Musée militaire de la ligne défensive de Mareth"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/265511075",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0766896,
+          34.6456803
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 265511075,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Ouled Ouhiba",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Ouled Ouhiba"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/274188286",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5768209,
+          36.4895368
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 274188286,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "المتحف الأثري بشمتو",
+        "tags": {
+          "barrier": "wall",
+          "leisure": "garden",
+          "name": "المتحف الأثري بشمتو",
+          "name:ar": "المتحف الأثري بشمتو",
+          "name:en": "Archeological Museum of Chemtou",
+          "name:fr": "Musée archéologique de Chemtou",
+          "tourism": "museum",
+          "wikidata": "Q163299",
+          "wikipedia": "fr:Musée de Chemtou"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/283644443",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1216138,
+          35.2361788
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 283644443,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/350242301",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8346446,
+          35.6765562
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 350242301,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Maison de Culture",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Maison de Culture"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/361011561",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9916745,
+          33.8062039
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 361011561,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة ميدون",
+        "tags": {
+          "addr:city": "ميدون",
+          "amenity": "library",
+          "building": "yes",
+          "name": "مكتبة ميدون",
+          "name:ar": "مكتبة ميدون",
+          "name:fr": "Bibliothèque de Midoun"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/381116961",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1058861,
+          36.832365
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 381116961,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "مكتبة",
+          "name:ar": "مكتبة",
+          "name:fr": "bibliothéque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/383360352",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1071655,
+          36.8356947
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 383360352,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/384911395",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1016706,
+          36.8351621
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 384911395,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Elnajah",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Elnajah"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/386263348",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1040326,
+          36.8285965
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 386263348,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/397958691",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0688012,
+          35.5037674
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 397958691,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف المهدية",
+        "tags": {
+          "addr:city": "المهدية",
+          "building": "yes",
+          "contact:instagram": "https://instagram.com/_u/amvppc_patrimoine",
+          "name": "متحف المهدية",
+          "name:ar": "متحف المهدية",
+          "name:en": "Mahdia Museum",
+          "name:fr": "Musée régional de Mahdia",
+          "name:ru": "Музей Махдии",
+          "opening_hours": "Sep 16-Apr 30: Mo-Su 09:30 - 16:00; May 01-Sep 15: Mo-Su 09:00 - 16:00; 09:00-15:00 \"Openings hours at Ramadan's month\"",
+          "tourism": "museum",
+          "wikidata": "Q3329731",
+          "wikimedia_commons": "Category:Mahdia Museum",
+          "wikipedia": "ar:متحف المهدية"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/401767046",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2513249,
+          36.7464698
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 401767046,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/415225850",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8743197,
+          37.273813
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 415225850,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/415225999",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8719812,
+          37.2793154
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 415225999,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة النموذجية للأطفال",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "المكتبة النموذجية للأطفال"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441785679",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1208231,
+          36.8071674
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 441785679,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة عامة",
+        "tags": {
+          "addr:city": "تونس",
+          "addr:city:ar": "تونس",
+          "amenity": "library",
+          "building": "yes",
+          "name": "مكتبة عامة",
+          "name:ar": "مكتبة عامة",
+          "name:en": "Public Library",
+          "name:fr": "Bibliothèque publique"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441787600",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0949565,
+          36.8251453
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 441787600,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "bibliotheque douar hicher",
+        "tags": {
+          "amenity": "library",
+          "name": "bibliotheque douar hicher"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441790180",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1089515,
+          36.8019798
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 441790180,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة العامة",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "المكتبة العامة",
+          "name:ar": "المكتبة العامة",
+          "name:fr": "Bibliothèque publique"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/455890547",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.762424,
+          34.7305658
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 455890547,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة العمومية بصفاقس",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "المكتبة العمومية بصفاقس",
+          "name:ar": "المكتبة العمومية بصفاقس",
+          "name:fr": "Bibliothèque De Sfax"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/493935797",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.163519,
+          36.8923704
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 493935797,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة العمومية بحي الغزالة",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "المكتبة العمومية بحي الغزالة",
+          "name:ar": "المكتبة العمومية بحي الغزالة",
+          "name:fr": "Bibliothèque Cité El Ghazela"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/527377607",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9679321,
+          35.6427914
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 527377607,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة العموميّة",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "المكتبة العموميّة",
+          "name:ar": "المكتبة العموميّة"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/539674084",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5761434,
+          35.7329554
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 539674084,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Public Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/598530194",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7053144,
+          35.2971415
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 598530194,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Public Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/605641893",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6110629,
+          36.6496413
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 605641893,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة عمومية",
+        "tags": {
+          "addr:city": "مجاز الباب",
+          "addr:city:ar": "مجاز الباب",
+          "addr:postcode": "9070",
+          "amenity": "library",
+          "building": "yes",
+          "internet_access": "no",
+          "name": "مكتبة عمومية",
+          "name:ar": "مكتبة عمومية"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/614044270",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1473681,
+          34.3801937
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 614044270,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة العمومية بالرديف",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "المكتبة العمومية بالرديف",
+          "name:ar": "المكتبة العمومية بالرديف",
+          "name:fr": "bibliothéque publique de Redeyef"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/614054182",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.273931,
+          34.487281
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 614054182,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة عمومية",
+        "tags": {
+          "addr:city": "أم العرائس",
+          "amenity": "library",
+          "name": "مكتبة عمومية",
+          "name:ar": "مكتبة عمومية"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/614066078",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1576765,
+          34.3784234
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 614066078,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/634842710",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1162417,
+          35.2349712
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 634842710,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة العامة الشابة",
+        "tags": {
+          "addr:city": "الشابة",
+          "addr:postcode": "5170",
+          "amenity": "library",
+          "building": "yes",
+          "name": "المكتبة العامة الشابة",
+          "name:ar": "المكتبة العامة الشابة",
+          "name:fr": "Bibliothèque Publique De La Chebba"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/662525479",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7364265,
+          36.4507436
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 662525479,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Nabeul Museum",
+        "tags": {
+          "building": "yes",
+          "name": "Nabeul Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/663536795",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0949194,
+          36.8251437
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 663536795,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "bibliothéque de douar hicher",
+        "tags": {
+          "amenity": "library",
+          "construction": "yes",
+          "name": "bibliothéque de douar hicher"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/667684497",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4669827,
+          32.9570772
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 667684497,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة الرقمية",
+        "tags": {
+          "addr:city": "تطاوين",
+          "amenity": "library",
+          "name": "المكتبة الرقمية",
+          "name:ar": "المكتبة الرقمية"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/670006841",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3470051,
+          36.870951
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 670006841,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Galerie A.Gorgi (ex Galerie Ammar Farhat)",
+        "tags": {
+          "building": "yes",
+          "fee": "no",
+          "name": "Galerie A.Gorgi (ex Galerie Ammar Farhat)",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/678873928",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3798413,
+          36.1353211
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 678873928,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف النفيضة",
+        "tags": {
+          "addr:city": "النفيضة",
+          "name": "متحف النفيضة",
+          "name:ar": "متحف النفيضة",
+          "name:fr": "Musée D'Enfidha",
+          "tourism": "museum",
+          "website": "https://www.tunisiepatrimoine.tn/musees/le-musee-denfidha/apercu/",
+          "wikidata": "Q3329540",
+          "wikimedia_commons": "Category:Enfidha Museum",
+          "wikipedia": "ar:متحف النفيضة"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/679286535",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0971816,
+          35.6660521
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 679286535,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèqe Municipale",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèqe Municipale"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/702186043",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7153878,
+          34.7935282
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 702186043,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة العمومية الرشاد",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "المكتبة العمومية الرشاد",
+          "name:ar": "المكتبة العمومية الرشاد",
+          "name:fr": "Bibliothèque Publique Errached"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/703232340",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7022797,
+          34.6665338
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 703232340,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة العمومية بطينة",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "المكتبة العمومية بطينة",
+          "name:ar": "المكتبة العمومية بطينة",
+          "name:fr": "Bibliothèque Publique Thyna"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/756175894",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4967621,
+          36.694105
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 756175894,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة العمومية بسليمان",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "المكتبة العمومية بسليمان",
+          "name:ar": "المكتبة العمومية بسليمان"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/891725084",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2162458,
+          33.1403309
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 891725084,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Public",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque Public"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/916524984",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7936575,
+          37.1580153
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 916524984,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة العمومية بمنزل بورقيبة",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "المكتبة العمومية بمنزل بورقيبة"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/990322704",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9205119,
+          33.6857779
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 990322704,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Meninx - exposition archéologique",
+        "tags": {
+          "building": "yes",
+          "building:levels": "1",
+          "museum": "archaeological",
+          "name": "Meninx - exposition archéologique",
+          "opening_hours": "24/7",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/991004707",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.320835,
+          36.8458523
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 991004707,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque publique Carthage Byrsa",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque publique Carthage Byrsa",
+          "name:fr": "Bibliothèque Publique"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1000324265",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2113958,
+          36.3548389
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1000324265,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque publique de Zriba",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque publique de Zriba",
+          "opening_hours": "Tu-Sa 08:30-12:30+, Tu-Su 15:00-18:00, Su 08:30-12:30"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1001101979",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0659555,
+          36.8127523
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1001101979,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1073423810",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8386308,
+          35.1539314
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1073423810,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة العمومية الزهور",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "building:levels": "2",
+          "name": "المكتبة العمومية الزهور",
+          "name:ar": "المكتبة العمومية الزهور",
+          "name:fr": "Bibliothéque publique Ezzouhour"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1146823335",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0487873,
+          35.3923796
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1146823335,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Salakta",
+        "tags": {
+          "building": "yes",
+          "name": "Musée Salakta",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1162840182",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2219399,
+          36.7439088
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1162840182,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1178217349",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1139262,
+          33.5020512
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1178217349,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de Zarzis",
+        "tags": {
+          "addr:city": "Zarzis",
+          "addr:street": "Route de Port",
+          "building": "yes",
+          "museum": "local",
+          "name": "Musée de Zarzis",
+          "name:ar": "متحف جرجيس",
+          "name:fr": "Musée de Zarzis",
+          "operator": "Tunisia's Ministry of Culture",
+          "operator:type": "public/government",
+          "start_date": "2003",
+          "tourism": "museum",
+          "website": "https://www.tunisiepatrimoine.tn/ar/%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D9%85%D8%AA%D8%AD%D9%81-%D8%AC%D8%B1%D8%AC%D9%8A%D8%B3/%D9%86%D8%B8%D8%B1%D8%A9-%D8%B9%D8%A7%D9%85%D8%A9/",
+          "wikidata": "Q3329761",
+          "wikipedia": "ar:متحف جرجيس"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1178218087",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1124292,
+          33.5035573
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1178218087,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Publique de Zarzis",
+        "tags": {
+          "addr:city": "Zarzis",
+          "addr:street": "Route de Port",
+          "amenity": "library",
+          "building": "yes",
+          "contact:facebook": "https://www.facebook.com/people/Biblioth%C3%A8que-publique-de-zarzis-%D8%A7%D9%84%D9%85%D9%83%D8%AA%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D9%85%D9%88%D9%85%D9%8A%D8%A9-%D8%A8%D8%AC%D8%B1%D8%AC%D9%8A%D8%B3/100067355628901/",
+          "name": "Bibliothèque Publique de Zarzis",
+          "name:ar": "المكتبة العمومية بجرجيس",
+          "name:fr": "Bibliothèque Publique de Zarzis",
+          "operator": "Zarzis Communal Government",
+          "operator:type": "public/government"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1191572449",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8458219,
+          35.6849356
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1191572449,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة العمومية بقصيبة المديوني",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "المكتبة العمومية بقصيبة المديوني"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1201168134",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1618012,
+          36.7012747
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1201168134,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة العمومية بفوشانة",
+        "tags": {
+          "amenity": "library",
+          "building": "public",
+          "name": "المكتبة العمومية بفوشانة",
+          "name:ar": "المكتبة العمومية بفوشانة",
+          "name:fr": "biblothèque publique de fouchana"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1295007021",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.876737,
+          37.2781811
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1295007021,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Oceanographic Museum",
+        "tags": {
+          "building": "yes",
+          "name": "Oceanographic Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1302909745",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0500467,
+          35.5069325
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1302909745,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة العمومية",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "المكتبة العمومية",
+          "name:ar": "المكتبة العمومية"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1308693349",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8324431,
+          35.7721169
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1308693349,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Palais des Sciences Monastir",
+        "tags": {
+          "building": "yes",
+          "name": "Palais des Sciences Monastir",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1310933921",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8930207,
+          35.6430853
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1310933921,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliotheque",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliotheque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1315416656",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0756296,
+          35.5065768
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1315416656,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة العمومية المدينة العتيقة",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "المكتبة العمومية المدينة العتيقة"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1319120845",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.633805,
+          35.8265117
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1319120845,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة العمومية بسوسة",
+        "tags": {
+          "amenity": "library",
+          "name": "المكتبة العمومية بسوسة"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1329436927",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5853622,
+          35.7937546
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1329436927,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Cité Ezzouhour",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Cité Ezzouhour"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1346924189",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6768292,
+          36.4370248
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1346924189,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1354626788",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7631446,
+          34.2972338
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1354626788,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1359648570",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1806954,
+          37.1896997
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1359648570,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1368507201",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9693604,
+          36.6070778
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1368507201,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة العمومية بوسالم",
+        "tags": {
+          "addr:city": "بوسالم",
+          "amenity": "library",
+          "building": "yes",
+          "name": "المكتبة العمومية بوسالم",
+          "name:ar": "المكتبة العمومية بوسالم",
+          "name:fr": "Bibliothèque Municipale De Bou Salem"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1373091516",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8763803,
+          37.2754314
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1373091516,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Oceanographic Museum",
+        "tags": {
+          "building": "yes",
+          "name": "Oceanographic Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1393551206",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6355914,
+          35.8010781
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1393551206,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Tafela",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Tafela"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1551339914",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4900633,
+          33.3381994
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1551339914,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة الجهوية مدنين",
+        "tags": {
+          "amenity": "library",
+          "loc_name": "المكتبة العمومية مدنين",
+          "name": "المكتبة الجهوية مدنين"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1551496390",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9008491,
+          35.6255209
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1551496390,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف المكنين الأثري والإثنوغرافي",
+        "tags": {
+          "building": "yes",
+          "name": "متحف المكنين الأثري والإثنوغرافي",
+          "name:ar": "متحف المكنين الأثري",
+          "name:en": "Archaeological and Ethnographic Museum",
+          "name:fr": "Musée archéologique et ethnographique de Moknine",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/1552763",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1738136,
+          36.7939996
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 1552763,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "دار بن عبد الله",
+        "tags": {
+          "building": "yes",
+          "castle_type": "palace",
+          "historic": "castle",
+          "name": "دار بن عبد الله",
+          "name:ar": "دار بن عبد الله",
+          "name:en": "Dar Ben Abdallah",
+          "name:fr": "Musée Dar Ben Abdallah",
+          "old_name": "دار بن عبد الله",
+          "old_name:en": "Dar Ben Abdallah",
+          "tourism": "museum",
+          "type": "multipolygon",
+          "wikidata": "Q3015922"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/1555964",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1643704,
+          36.7936526
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 1555964,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "دار معقل الزعيم",
+        "tags": {
+          "building": "yes",
+          "name": "دار معقل الزعيم",
+          "name:alt": "متحف الحركة الوطنية",
+          "name:ar": "دار معقل الزعيم",
+          "name:fr": "Musée du Mouvement National",
+          "tourism": "museum",
+          "type": "multipolygon"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/2283621",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.098496,
+          36.8113078
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 2283621,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "المتحف الوطني العسكري بقصر الوردة",
+        "tags": {
+          "building": "yes",
+          "name": "المتحف الوطني العسكري بقصر الوردة",
+          "name:ar": "المتحف الوطني العسكري بقصر الوردة",
+          "name:fr": "Musée National Militaire du Palais al Warda",
+          "tourism": "museum",
+          "type": "multipolygon"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/2401476",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1342455,
+          36.8093202
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 2401476,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "المتحف الوطني بباردو",
+        "tags": {
+          "building": "yes",
+          "building:levels": "3",
+          "name": "المتحف الوطني بباردو",
+          "name:ar": "المتحف الوطني بباردو",
+          "name:de": "Nationalmuseum von Bardo",
+          "name:en": "Bardo National Museum",
+          "name:es": "Museo Nacional del Bardo",
+          "name:fa": "موزه ملی باردو",
+          "name:fr": "Musée national du Bardo",
+          "name:it": "Museo nazionale del Bardo",
+          "name:ko": "바르도 국립 박물관",
+          "name:pt": "Museu Nacional do Bardo",
+          "name:ro": "Muzeul Național Bardo",
+          "tourism": "museum",
+          "type": "multipolygon",
+          "website": "http://www.bardomuseum.tn/",
+          "wikidata": "Q1429003",
+          "wikipedia": "en:Bardo National Museum (Tunis)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/2814981",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0986542,
+          36.9478531
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 2814981,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum",
+          "type": "multipolygon"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/2894406",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7048886,
+          35.2895496
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 2894406,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée du Quartier Sud de Thysdrus",
+        "tags": {
+          "building": "museum",
+          "name": "Musée du Quartier Sud de Thysdrus",
+          "name:en": "Museum of the South Quarters of Thysdrus",
+          "name:fr": "Musée du Quartier Sud de Thysdrus",
+          "tourism": "museum",
+          "type": "multipolygon"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/2894408",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7054239,
+          35.2894838
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 2894408,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف الجم",
+        "tags": {
+          "addr:postcode": "5160",
+          "alt_name": "Museum of the South Quarters of Thysdrus",
+          "building": "museum",
+          "contact:facebook": "Amvppc",
+          "email": "archaeologicalmuseum1970@gmail.com",
+          "name": "متحف الجم",
+          "name:en": "El Jem Museum",
+          "name:fr": "Le musée archéologique d'El Jem",
+          "name:ru": "Археологический музей",
+          "opening_hours": "Sep 16-Apr 30: Mo-Su 07:30 - 17:30; May 01-Sep 15: Mo-Su 07:30 - 18:30; 08:00-17:00 \"Openings hours at Ramadan's month\"",
+          "phone": "+2167363093",
+          "source:url": "http://www.patrimoinedetunisie.com.tn/eng/musees/eljem.php",
+          "tourism": "museum",
+          "type": "multipolygon",
+          "website": "https://eljem.virtualexperience.net/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/13425572",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.065478,
+          36.8126935
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 13425572,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque de Langue",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque de Langue",
+          "type": "multipolygon"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/18140345",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6341664,
+          35.8141819
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 18140345,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Almadanya",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Almadanya",
+          "type": "multipolygon"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/18148731",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6337536,
+          35.8265865
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 18148731,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "type": "multipolygon"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/18159494",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6381636,
+          35.8250981
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 18159494,
+        "country": "Tunisia",
+        "alpha_2": "TN",
+        "countries": [
+          "TN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museum El-Kobba",
+        "tags": {
+          "building": "yes",
+          "name": "Museum El-Kobba",
+          "tourism": "museum",
+          "type": "multipolygon"
+        }
+      }
+    }
+  ]
+}

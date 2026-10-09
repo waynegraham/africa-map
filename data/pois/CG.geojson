@@ -1,0 +1,506 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/3323402385",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8584453,
+          -4.6177995
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3323402385,
+        "country": "Congo",
+        "alpha_2": "CG",
+        "countries": [
+          "CG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de Diosso",
+        "tags": {
+          "name": "Musée de Diosso",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3725455994",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2913586,
+          -4.2692572
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3725455994,
+        "country": "Congo",
+        "alpha_2": "CG",
+        "countries": [
+          "CG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée galerie du bassin du Congo",
+        "tags": {
+          "addr:street": "Avenue Amilcar Cabral",
+          "name": "Musée galerie du bassin du Congo",
+          "office": "newspaper",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4530850340",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8463047,
+          -4.7987992
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4530850340,
+        "country": "Congo",
+        "alpha_2": "CG",
+        "countries": [
+          "CG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Maison de la presse",
+        "tags": {
+          "amenity": "library",
+          "name": "Maison de la presse",
+          "operator": "Maison de la presse"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4713520704",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2049373,
+          -4.3056178
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4713520704,
+        "country": "Congo",
+        "alpha_2": "CG",
+        "countries": [
+          "CG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque de l'OMS",
+        "tags": {
+          "amenity": "library",
+          "description": "Heath sciences library / Bibliothèque des sciences de la santé",
+          "name": "Bibliothèque de l'OMS"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4736086821",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8433626,
+          -4.8052954
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4736086821,
+        "country": "Congo",
+        "alpha_2": "CG",
+        "countries": [
+          "CG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre de Formation ILOGS",
+        "tags": {
+          "amenity": "library",
+          "name": "Centre de Formation ILOGS",
+          "name:fr": "Centre de Formation ILOGS"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4865900321",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8639913,
+          -4.7872859
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4865900321,
+        "country": "Congo",
+        "alpha_2": "CG",
+        "countries": [
+          "CG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Cercle Africain",
+        "tags": {
+          "name": "Cercle Africain",
+          "name:en": "African Space",
+          "name:fr": "Cercle Africain",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5306573733",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5228481,
+          3.0558772
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5306573733,
+        "country": "Congo",
+        "alpha_2": "CG",
+        "countries": [
+          "CG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre de lecture les AS",
+        "tags": {
+          "amenity": "library",
+          "name": "Centre de lecture les AS"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5965636885",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8523758,
+          -4.625539
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5965636885,
+        "country": "Congo",
+        "alpha_2": "CG",
+        "countries": [
+          "CG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musee De Diosso",
+        "tags": {
+          "name": "Musee De Diosso",
+          "name:en": "Museum of Diosso",
+          "tourism": "museum",
+          "wikidata": "Q56527722"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6513095573",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2509986,
+          -4.2775596
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6513095573,
+        "country": "Congo",
+        "alpha_2": "CG",
+        "countries": [
+          "CG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Grande bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "description": "accès à tous les études",
+          "name": "Grande bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6871450756",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8596682,
+          -4.7926568
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6871450756,
+        "country": "Congo",
+        "alpha_2": "CG",
+        "countries": [
+          "CG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Institut Français du Congo",
+        "tags": {
+          "amenity": "library",
+          "fid": "20",
+          "full_id": "n2218975246",
+          "name": "Institut Français du Congo",
+          "osm_id": "2218975246"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11873609169",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2921673,
+          -4.1815399
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11873609169,
+        "country": "Congo",
+        "alpha_2": "CG",
+        "countries": [
+          "CG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/370986946",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2793798,
+          -4.2784887
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 370986946,
+        "country": "Congo",
+        "alpha_2": "CG",
+        "countries": [
+          "CG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Mémorial Pierre Savorgnan de Brazza",
+        "tags": {
+          "air_conditioning": "yes",
+          "building": "commercial",
+          "building:material": "brick",
+          "check_date": "2023-05-08",
+          "museum": "history",
+          "name": "Mémorial Pierre Savorgnan de Brazza",
+          "operator:type": "public",
+          "payment:cards": "no",
+          "payment:credit_cards": "no",
+          "payment:debit_cards": "no",
+          "roof:shape": "flat",
+          "tourism": "museum",
+          "wheelchair": "limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/694114716",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2570951,
+          -4.2870295
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 694114716,
+        "country": "Congo",
+        "alpha_2": "CG",
+        "countries": [
+          "CG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Manufacture d'Arts et d'Artisanat Congolais",
+        "tags": {
+          "addr:city": "Brazzaville",
+          "addr:street": "Avenue Savorgnan de Brazza",
+          "building": "yes",
+          "name": "Manufacture d'Arts et d'Artisanat Congolais",
+          "short_name": "MAAC",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/728375330",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2213108,
+          -4.306091
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 728375330,
+        "country": "Congo",
+        "alpha_2": "CG",
+        "countries": [
+          "CG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque de la Faculté de Théologie de l'UPB",
+        "tags": {
+          "addr:city": "Brazzaville",
+          "addr:street": "Avenue de l'OMS",
+          "amenity": "library",
+          "building": "yes",
+          "building:colour": "Blanc",
+          "building:levels": "2",
+          "height": "8",
+          "name": "Bibliothèque de la Faculté de Théologie de l'UPB"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/736623609",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2695182,
+          -4.2814436
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 736623609,
+        "country": "Congo",
+        "alpha_2": "CG",
+        "countries": [
+          "CG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Édition hemar",
+        "tags": {
+          "amenity": "library",
+          "building": "office",
+          "building:condition": "good",
+          "building:levels": "1",
+          "building:material": "cement_block",
+          "building:roof": "metal",
+          "name": "Édition hemar"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1026525114",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2626476,
+          -4.268763
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1026525114,
+        "country": "Congo",
+        "alpha_2": "CG",
+        "countries": [
+          "CG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque National",
+        "tags": {
+          "addr:city": "Brazzaville",
+          "addr:housename": "Bibliothèque Nationale",
+          "addr:street": "Rue des Anciens Enfants de Troupe (AET)",
+          "amenity": "library",
+          "building": "yes",
+          "building:levels": "0",
+          "building:material": "brick",
+          "internet_access": "no",
+          "name": "Bibliothèque National",
+          "opening_hours": "Mo-Fr 10:00-14:00",
+          "operator:type": "public",
+          "payment:cards": "no",
+          "payment:credit_cards": "no",
+          "payment:debit_cards": "no",
+          "roof:shape": "hipped",
+          "wheelchair": "yes"
+        }
+      }
+    }
+  ]
+}

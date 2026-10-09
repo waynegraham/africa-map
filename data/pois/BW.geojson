@@ -1,0 +1,1907 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1778703232",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7369744,
+          -18.7586537
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1778703232,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3107274872",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1520004,
+          -24.3874315
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3107274872,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Phuthadikobo Museum",
+        "tags": {
+          "addr:city": "Mochudi",
+          "name": "Phuthadikobo Museum",
+          "tourism": "museum",
+          "wikipedia": "https://en.wikipedia.org/wiki/Phuthadikobo_Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3191273505",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4029219,
+          -21.0306824
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3191273505,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Rakops Library",
+        "tags": {
+          "amenity": "library",
+          "designation": "Library",
+          "name": "Rakops Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3204283240",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6402794,
+          -21.6995531
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3204283240,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Ghanzi Library",
+        "tags": {
+          "amenity": "library",
+          "internet_access": "wlan",
+          "name": "Ghanzi Library",
+          "name:ar": "مكتبة غانزي"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3204294969",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5586534,
+          -24.681912
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3204294969,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Thamaga Library",
+        "tags": {
+          "amenity": "library",
+          "internet_access": "wlan",
+          "name": "Thamaga Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3204302303",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6777081,
+          -25.2039362
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3204302303,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Lobatse National Library",
+        "tags": {
+          "amenity": "library",
+          "internet_access": "wlan",
+          "name": "Lobatse National Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3204315473",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.417619,
+          -24.7784418
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3204315473,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Moshupa Library",
+        "tags": {
+          "amenity": "library",
+          "internet_access": "wlan",
+          "name": "Moshupa Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3204329653",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8755872,
+          -24.6515851
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3204329653,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mophane primary school",
+        "tags": {
+          "amenity": "library",
+          "internet_access": "wlan",
+          "name": "Mophane primary school"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3204337816",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5152986,
+          -23.0293969
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3204337816,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Shoshong Library",
+        "tags": {
+          "amenity": "library",
+          "internet_access": "wlan",
+          "name": "Shoshong Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3204361355",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8425355,
+          -21.9746046
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3204361355,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Selibe-Phikwe Library",
+        "tags": {
+          "amenity": "library",
+          "internet_access": "wlan",
+          "name": "Selibe-Phikwe Library",
+          "wikidata": "Q68651799"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3204378491",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4145637,
+          -22.862595
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3204378491,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Ramokgonami Community Library",
+        "tags": {
+          "amenity": "library",
+          "internet_access": "wlan",
+          "name": "Ramokgonami Community Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3412946992",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9285396,
+          -24.6592696
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3412946992,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Islamic Information Centre & Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Islamic Information Centre & Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3426466824",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8383516,
+          -18.3540634
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3426466824,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Shakawe Cultural Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Shakawe Cultural Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3810011145",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2602564,
+          -20.2050421
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3810011145,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Gweta Public Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Gweta Public Library",
+          "opening_hours": "Mo-Fr 09:00-18:00, Sa 09:00-15:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3835841384",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4904351,
+          -23.1815774
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3835841384,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Machaneng Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Machaneng Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4324516363",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4681572,
+          -19.9580061
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4324516363,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4338182189",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1420561,
+          -24.3927152
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4338182189,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mochudi Public Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Mochudi Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4367586689",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4965889,
+          -24.4008726
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4367586689,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4504056393",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4287562,
+          -19.9788392
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4504056393,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Nhabe Museum",
+        "tags": {
+          "name": "Nhabe Museum",
+          "name:en": "Nhabe Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4508246389",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8681337,
+          -24.0204696
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4508246389,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Tshane library",
+        "tags": {
+          "amenity": "library",
+          "name": "Tshane library",
+          "name:en": "Tshane library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4525938491",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9196098,
+          -24.6580224
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4525938491,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Gaborone City Council",
+        "tags": {
+          "amenity": "library",
+          "name": "Gaborone City Council",
+          "name:en": "Gaborone Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4828343733",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5157319,
+          -21.171925
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4828343733,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Francistown Records Centre",
+        "tags": {
+          "name": "Francistown Records Centre",
+          "name:en": "Francistown Records Centre",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4831377821",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.50818,
+          -21.15846
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4831377821,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Supa Ngwao Museum",
+        "tags": {
+          "name": "Supa Ngwao Museum",
+          "name:en": "Supa Ngwao Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4845403821",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0441659,
+          -20.4912436
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4845403821,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Botswana National Library Services",
+        "tags": {
+          "amenity": "library",
+          "name": "Botswana National Library Services"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4893661322",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5104204,
+          -21.1631134
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4893661322,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Botswana National Library Services",
+        "tags": {
+          "amenity": "library",
+          "name": "Botswana National Library Services",
+          "name:en": "Botswana National Library Services"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5079074323",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4741331,
+          -21.1014698
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5079074323,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Douma's Crocodile Farm",
+        "tags": {
+          "name": "Douma's Crocodile Farm",
+          "name:en": "Douma's Crocodile Farm",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5121860003",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9258931,
+          -24.6728118
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5121860003,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "IDM Library",
+        "tags": {
+          "addr:city": "Gaborone",
+          "addr:street": "Giraffe Crescent",
+          "amenity": "library",
+          "internet_access": "yes",
+          "name": "IDM Library",
+          "opening_hours": "Mo-Sa 08:00-18:00",
+          "operator": "IDM IT Department"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5121860014",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9257342,
+          -24.6729016
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5121860014,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "IDM Classrooms",
+        "tags": {
+          "addr:city": "Gaborone",
+          "addr:street": "Giraffe Crescent",
+          "amenity": "library",
+          "internet_access": "yes",
+          "name": "IDM Classrooms"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5416788565",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9449721,
+          -21.5198599
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5416788565,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "San Cultural Museum",
+        "tags": {
+          "addr:city": "D'kar",
+          "name": "San Cultural Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5583759415",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9270952,
+          -24.6041918
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5583759415,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5739041690",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3377395,
+          -24.9769962
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5739041690,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kanye Public Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Kanye Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6301948703",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1850066,
+          -20.212229
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6301948703,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Nata Community Library and Cultural Centre",
+        "tags": {
+          "amenity": "library",
+          "name": "Nata Community Library and Cultural Centre",
+          "phone": "+267 621 1173",
+          "website": "https://www.facebook.com/NatalibCuce/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9931293048",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7519939,
+          -25.0427204
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9931293048,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Otse Wildlife Visitor Centre",
+        "tags": {
+          "name": "Otse Wildlife Visitor Centre",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10775562684",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3804793,
+          -21.3346992
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10775562684,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Adrian Gale Diamond Musem",
+        "tags": {
+          "museum": "technology",
+          "name": "Adrian Gale Diamond Musem",
+          "operator": "DEBSWANA",
+          "operator:type": "private",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13188885452",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9113759,
+          -24.661231
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13188885452,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Philatelic Museum",
+        "tags": {
+          "internet_access": "yes",
+          "level": "0;1",
+          "name": "Philatelic Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/93259552",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9197043,
+          -24.6568021
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 93259552,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Botswana National Museum",
+        "tags": {
+          "addr:city": "Gaborone",
+          "addr:street": "Tsheko Road",
+          "building": "yes",
+          "name": "Botswana National Museum",
+          "opening_hours": "Tu-Fr 07:30-12:45, 13:45-16:30;Sa-Su 08:00-12:45, 13:45-16:00",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/109714368",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9315658,
+          -24.6618669
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 109714368,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "UB Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "building:levels": "1",
+          "internet_access": "yes",
+          "name": "UB Library",
+          "opening_hours": "Mo-Fr 08:00-17:00",
+          "operator": "University of Botswana"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256844791",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4219086,
+          -19.9905502
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 256844791,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/314391266",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5981406,
+          -22.0674901
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 314391266,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Molalatau Community Library & Cultural Centre",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "internet_access": "wlan",
+          "name": "Molalatau Community Library & Cultural Centre"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/314653427",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4244962,
+          -21.9707999
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 314653427,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/336038603",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5384966,
+          -24.6689137
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 336038603,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Thamaga Public Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Thamaga Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/347005654",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6477788,
+          -20.6476526
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 347005654,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/355948867",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5894368,
+          -20.536003
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 355948867,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/358330372",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.750514,
+          -22.2689583
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 358330372,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mathathane Reading Room",
+        "tags": {
+          "addr:village": "Mathathane",
+          "amenity": "library",
+          "building": "public",
+          "building:levels": "1",
+          "building:material": "metal;concrete;cement_block",
+          "building:roof": "metal",
+          "name": "Mathathane Reading Room",
+          "source": "NMP HOT Field Survey",
+          "wall": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/368881079",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.94341,
+          -21.5180388
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 368881079,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/368881119",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9426933,
+          -21.5182828
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 368881119,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/372557691",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8699052,
+          -24.8709863
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 372557691,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Ramotswa Public Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Ramotswa Public Library",
+          "opening_hours": "Mo-Fr 09:00-16:30; Sa 09:00-12:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/377097682",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8804378,
+          -26.6634253
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 377097682,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Middlepits Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Middlepits Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/377297007",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7892989,
+          -24.4703309
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 377297007,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Gakuto Primary School Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Gakuto Primary School Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/381296059",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.03019,
+          -24.0957408
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 381296059,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396814260",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7054659,
+          -22.391686
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 396814260,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Serowe Public Library",
+        "tags": {
+          "addr:city": "Serowe",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Serowe Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/410655928",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1548766,
+          -17.7969341
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 410655928,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kasane Library",
+        "tags": {
+          "addr:city": "Kasane",
+          "addr:village": "Kasane",
+          "amenity": "library",
+          "building": "yes",
+          "building:levels": "1",
+          "building:material": "cement_block",
+          "building:roof": "metal",
+          "name": "Kasane Library",
+          "source": "NMP HOT Field Survey",
+          "wall": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/415094102",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.40114,
+          -26.0253629
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 415094102,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "facility": "Wifi",
+          "opening_hours": "Closes 16-30 (from 18 April 2016)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/476652555",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1850084,
+          -20.2122355
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 476652555,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Nata Community Library and Cultural Centre",
+        "tags": {
+          "addr:village": "Nata",
+          "amenity": "library",
+          "building": "service",
+          "building:levels": "1",
+          "building:material": "cement_block",
+          "building:roof": "metal",
+          "name": "Nata Community Library and Cultural Centre",
+          "phone": "+267 621 1173",
+          "source": "NMP HOT Field Survey",
+          "wall": "yes",
+          "website": "https://www.facebook.com/NatalibCuce/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/484175960",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7080896,
+          -22.3821068
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 484175960,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Khama III Memorial Museum",
+        "tags": {
+          "building": "yes",
+          "name": "Khama III Memorial Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/605256082",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9195577,
+          -24.6599541
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 605256082,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "National Library Building",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "internet_access": "yes",
+          "internet_access:fee": "no",
+          "name": "National Library Building"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/605256083",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9196514,
+          -24.6597412
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 605256083,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "National Library Area",
+        "tags": {
+          "addr:city": "Gaborone",
+          "amenity": "library",
+          "name": "National Library Area"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/870469982",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1288729,
+          -22.5523527
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 870469982,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Palapye Branch Library",
+        "tags": {
+          "addr:city": "Palapye",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Palapye Branch Library",
+          "operator": "Botswana National Library Services",
+          "operator:type": "public"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/870981586",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3404664,
+          -24.9825093
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 870981586,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Kgosi Bathoen II Museum",
+        "tags": {
+          "addr:city": "Kanye",
+          "addr:street": "Old Camp Road",
+          "building": "yes",
+          "check_date": "2025-10-07",
+          "contact:facebook": "https://www.facebook.com/profile.php?id=100083385750532",
+          "email": "bathoenmuseum@gmail.com",
+          "museum": "history",
+          "name": "Kgosi Bathoen II Museum",
+          "phone": "+267 544 2552",
+          "start_date": "1995",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/877928509",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7467709,
+          -25.0363349
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 877928509,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Public Library",
+        "tags": {
+          "addr:city": "Otse",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/885280050",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8246017,
+          -23.1089496
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 885280050,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mahalapye Public Library",
+        "tags": {
+          "addr:city": "Mahalapye",
+          "addr:street": "B145",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Mahalapye Public Library",
+          "operator": "National Library Service of Botswana",
+          "operator:type": "public/government",
+          "operator:wikidata": "Q6974128",
+          "operator:wikipedia": "National Library Service of Botswana"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/978148285",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0949507,
+          -25.7312846
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 978148285,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Phitshane Molopo Community Library & Cultural Centre",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Phitshane Molopo Community Library & Cultural Centre"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1181728109",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6452415,
+          -21.7044492
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1181728109,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/6662458",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9342241,
+          -24.6608187
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 6662458,
+        "country": "Botswana",
+        "alpha_2": "BW",
+        "countries": [
+          "BW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "252",
+        "tags": {
+          "addr:city": "Gaborone",
+          "addr:country": "BW",
+          "amenity": "library",
+          "building": "university",
+          "name": "252",
+          "source": "Bing",
+          "type": "multipolygon"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,4370 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/901048541",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6137277,
+          5.8272197
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 901048541,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Ada Community Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Ada Community Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1193972972",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3468002,
+          5.0994993
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1193972972,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Elmina Java Museum",
+        "tags": {
+          "name": "Elmina Java Museum",
+          "tourism": "museum",
+          "wikidata": "Q15045463"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1791517086",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8388464,
+          9.4026975
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1791517086,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Tamale Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Tamale Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1791524375",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8395435,
+          9.4035879
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1791524375,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "National Culture",
+        "tags": {
+          "name": "National Culture",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1836546596",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8282594,
+          9.4148603
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1836546596,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "CEDIS",
+        "tags": {
+          "amenity": "library",
+          "name": "CEDIS"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2021263956",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2404006,
+          5.1045698
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2021263956,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "West African Historical Museum",
+        "tags": {
+          "name": "West African Historical Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2306716359",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0897263,
+          10.8954785
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2306716359,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2319228803",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4688668,
+          6.6086254
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2319228803,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Volta Regional Museum",
+        "tags": {
+          "addr:city": "Ho",
+          "addr:housenumber": "43",
+          "addr:street": "Galalah Street",
+          "fee": "yes",
+          "name": "Volta Regional Museum",
+          "opening_hours": "Mo-Sa 08:00-17:00",
+          "phone": "+233362026403",
+          "tourism": "museum",
+          "website": "http://www.voltaregionalmuseum.ghana0.com/",
+          "wikidata": "Q1282665",
+          "wikipedia": "en:Volta Regional Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2319558923",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4824923,
+          7.1584232
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2319558923,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "St. Teresa's Training College Library",
+        "tags": {
+          "amenity": "library",
+          "name": "St. Teresa's Training College Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2319585535",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4730696,
+          7.1472668
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2319585535,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Ghana Library Board Hohoe",
+        "tags": {
+          "amenity": "library",
+          "name": "Ghana Library Board Hohoe"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2330379514",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2498758,
+          11.0591275
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2330379514,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2430577133",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1709977,
+          5.5822107
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2430577133,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "W.E.B Du Bois Center",
+        "tags": {
+          "addr:city": "Accra",
+          "name": "W.E.B Du Bois Center",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2621634133",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6300812,
+          6.7016117
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2621634133,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Prempeh II Jubilee Museum",
+        "tags": {
+          "name": "Prempeh II Jubilee Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2971353790",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4744298,
+          6.59734
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2971353790,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3109314851",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.204615,
+          5.5526534
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3109314851,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Ghana Publishing Company",
+        "tags": {
+          "amenity": "library",
+          "designation": "Publications",
+          "name": "Ghana Publishing Company"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3417485500",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9873188,
+          5.3057291
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3417485500,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Tarkwa Nsuaem Municipal Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Tarkwa Nsuaem Municipal Library",
+          "source": "survey; Bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3577283361",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6159392,
+          6.7041635
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3577283361,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Manhyia Palace Museum",
+        "tags": {
+          "fee": "yes",
+          "name": "Manhyia Palace Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4171178748",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5967777,
+          6.7011171
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4171178748,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Aboabo Community Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Aboabo Community Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4268165238",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1445553,
+          5.4348134
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4268165238,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4504030665",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3730773,
+          6.0482624
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4504030665,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4584099395",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3930724,
+          6.8452412
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4584099395,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Effiduase District District Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Effiduase District District Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4615061089",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2631268,
+          6.9096095
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4615061089,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Dr Rose Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Dr Rose Library",
+          "name:en": "Dr Rose Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5016915970",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1924396,
+          5.5583593
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5016915970,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kathy Knowles Comunity Library, Osu",
+        "tags": {
+          "amenity": "library",
+          "name": "Kathy Knowles Comunity Library, Osu",
+          "opening_hours": "Mo-Fr 01:30-17:00; Sa 09:00-12:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5126034927",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3179396,
+          6.2733719
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5126034927,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Chirano ICT and Library center",
+        "tags": {
+          "amenity": "library",
+          "name": "Chirano ICT and Library center",
+          "name:en": "Chirano ICT and Library center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5186466424",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6426616,
+          5.0138427
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5186466424,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Shama Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Shama Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5286257235",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4956802,
+          10.0586049
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5286257235,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Wa Old Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Wa Old Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5308402795",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3296524,
+          7.3515766
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5308402795,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Public Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Public Library",
+          "operator": "Sunyani Regional Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5643500324",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6189272,
+          6.7014603
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5643500324,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kwame Addo Kuffour Hall",
+        "tags": {
+          "addr:street": "Ashanti New Town Road",
+          "amenity": "library",
+          "name": "Kwame Addo Kuffour Hall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5832931500",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8579282,
+          9.2148744
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5832931500,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Learning Center",
+        "tags": {
+          "amenity": "library",
+          "name": "Learning Center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5844661086",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6290179,
+          6.6964165
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5844661086,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Okomfo Anokye Sword Site",
+        "tags": {
+          "fee": "yes",
+          "historic": "yes",
+          "name": "Okomfo Anokye Sword Site",
+          "opening_hours": "PH,Mo-Sa 08:00-17:00",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6135141288",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2429421,
+          5.105477
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6135141288,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Central Regional Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Central Regional Library",
+          "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-12:00",
+          "wikidata": "Q68651913"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6187055211",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8282006,
+          9.0823561
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6187055211,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Peggy Donkor Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Peggy Donkor Library",
+          "operator": "Damongo Senior High School"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6241692115",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3165072,
+          6.455633
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6241692115,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Community Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Community Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6257566739",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2675881,
+          6.106336
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6257566739,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Effiduase Community Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Effiduase Community Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6332667407",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2626388,
+          6.088204
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6332667407,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Eastern Regional Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Eastern Regional Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6347379129",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1867733,
+          5.592892
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6347379129,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Maamobi Community Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Maamobi Community Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6347837658",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6288526,
+          6.7005334
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6347837658,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "archive"
+        ],
+        "name": "Public Records and Archives Administration Department",
+        "tags": {
+          "government": "archive",
+          "name": "Public Records and Archives Administration Department",
+          "office": "government"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6356841373",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1768696,
+          5.5537059
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6356841373,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Osu Children's Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Osu Children's Library",
+          "wikidata": "Q68651781"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6386008777",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7152875,
+          4.9395241
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6386008777,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6629903685",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8402244,
+          5.78078
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6629903685,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Whuti Community Library",
+        "tags": {
+          "addr:street": "Torgbi Tamakloe Street",
+          "amenity": "library",
+          "name": "Whuti Community Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6700480276",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1100896,
+          5.5750414
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6700480276,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Teshie Branch Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Teshie Branch Library",
+          "wikidata": "Q68652558"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6864489545",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2007622,
+          5.6360455
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6864489545,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6924963213",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.246868,
+          5.6874035
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6924963213,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kwabenya Community Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Kwabenya Community Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6989277285",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1710507,
+          7.0849346
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6989277285,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bomaa Community Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Bomaa Community Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6989672285",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2400998,
+          7.2256255
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6989672285,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Ghana Library Authority - Duayaw Ntwanta",
+        "tags": {
+          "amenity": "library",
+          "name": "Ghana Library Authority - Duayaw Ntwanta"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7042197755",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2818837,
+          5.6936634
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7042197755,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Pokuase community library",
+        "tags": {
+          "amenity": "library",
+          "name": "Pokuase community library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7171629770",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0327697,
+          7.5639961
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7171629770,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bonkwae Community Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Bonkwae Community Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7702636887",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.449085,
+          6.8650509
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7702636887,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "CHIEF PALACE",
+        "tags": {
+          "name": "CHIEF PALACE",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7747270185",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4467083,
+          5.0364213
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7747270185,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Future Builder Scouts",
+        "tags": {
+          "amenity": "library",
+          "name": "Future Builder Scouts"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7832165309",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3244298,
+          7.3295749
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7832165309,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Sunyani Childrens Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Sunyani Childrens Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8078701030",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1940673,
+          5.6806963
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8078701030,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "American Corner Agbogba",
+        "tags": {
+          "addr:street": "Dar Es Salaam Street",
+          "amenity": "library",
+          "check_date:opening_hours": "2022-03-15",
+          "description": "American-style cultural centre and cooperative learning environment",
+          "name": "American Corner Agbogba",
+          "opening_hours": "Mo-Fr 09:00-17:00",
+          "phone": "0303944393"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8440253872",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0595247,
+          6.3641521
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8440253872,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Adjena Pentecost Child Development Center",
+        "tags": {
+          "amenity": "library",
+          "name": "Adjena Pentecost Child Development Center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9661039848",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1872899,
+          5.6464316
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9661039848,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Hall Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Hall Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9705080138",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.743883,
+          4.9063837
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9705080138,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Community Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Community Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10023125739",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6232566,
+          6.7052615
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10023125739,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Nana Afia Kobi Serwaa Ampem II Library",
+        "tags": {
+          "amenity": "library",
+          "check_date": "2026-09-17",
+          "name": "Nana Afia Kobi Serwaa Ampem II Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10242246431",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5429568,
+          5.6129641
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10242246431,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Model School Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Model School Library",
+          "operator": "GES"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10285311460",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9413539,
+          5.3651936
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10285311460,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Aboso Community Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Aboso Community Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10310809076",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1810821,
+          5.651968
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10310809076,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museum of Archaelogy",
+        "tags": {
+          "check_date": "2023-11-01",
+          "fee": "no",
+          "name": "Museum of Archaelogy",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10573888714",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6472435,
+          5.3890778
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10573888714,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Community library",
+        "tags": {
+          "amenity": "library",
+          "internet_access": "no",
+          "name": "Community library",
+          "operator:type": "community",
+          "survey:date": "2023-01-22"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10589291805",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5658373,
+          6.6752663
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10589291805,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "FoSS Library",
+        "tags": {
+          "access": "permissive",
+          "addr:floor": "G",
+          "addr:street": "Duncanson Road",
+          "air_conditioning": "yes",
+          "amenity": "library",
+          "baby_feeding": "no",
+          "check_date": "2023-05-05",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "internet_access:ssid": "KNUST WiFi",
+          "level": "0",
+          "name": "FoSS Library",
+          "opening_hours": "Mo-Fr 08:00-17:00",
+          "operator": "Faculty of Social Sciences",
+          "operator:type": "private",
+          "payment:cards": "no",
+          "payment:credit_cards": "no",
+          "payment:debit_cards": "no",
+          "roof:shape": "flat",
+          "source": "local knowledge",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10693866219",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5596808,
+          7.9982593
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10693866219,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10876318168",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0795837,
+          5.5928721
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10876318168,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Nungua Community Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Nungua Community Library",
+          "opening_hours": "Mo-Su 09:00-21:00",
+          "operator": "private",
+          "operator:type": "private_non_profit"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10933460834",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1513911,
+          5.7236258
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10933460834,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Library Of Africa and The African Diaspora (LOATAD)",
+        "tags": {
+          "addr:city": "Frafraha, Adenta, Accra",
+          "addr:street": "Nii Afotey Agyin IV",
+          "amenity": "library",
+          "internet_access": "yes",
+          "name": "Library Of Africa and The African Diaspora (LOATAD)",
+          "opening_hours": "\"by appointment\""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11059561205",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2053855,
+          5.5442962
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11059561205,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Accra Children's Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Accra Children's Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11155021384",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5655305,
+          6.6732917
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11155021384,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "College of Engineering Library",
+        "tags": {
+          "amenity": "library",
+          "level": "3",
+          "name": "College of Engineering Library",
+          "operator": "College of Engineering"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11177647342",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8125262,
+          9.3895642
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11177647342,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11222432477",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1935633,
+          5.6506539
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11222432477,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Commonwealth Hall Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Commonwealth Hall Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11606439648",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2510374,
+          5.1175037
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11606439648,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kofi Annan Library Complex",
+        "tags": {
+          "amenity": "library",
+          "internet_access": "yes",
+          "name": "Kofi Annan Library Complex"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11607677644",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0599736,
+          5.1998072
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11607677644,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "SRI",
+        "tags": {
+          "amenity": "library",
+          "name": "SRI"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12609784849",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4802483,
+          6.6037932
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12609784849,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Computer Lab And Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Computer Lab And Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12656803985",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2320524,
+          5.5283238
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12656803985,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Korle Gonno Community Library",
+        "tags": {
+          "addr:city": "Accra",
+          "addr:housenumber": "123",
+          "addr:postcode": "GQH9+87R",
+          "addr:street": "Old Winneba Road",
+          "amenity": "library",
+          "name": "Korle Gonno Community Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12941328588",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.152134,
+          5.6438752
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12941328588,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Despite Automobile Museum",
+        "tags": {
+          "name": "Despite Automobile Museum",
+          "tourism": "museum",
+          "website": "https://www.despiteautomuseum.com"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13372263001",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2003846,
+          5.1621601
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13372263001,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Ultra modern ICT and Robotic center /Conference Hall, Home Economics Hub",
+        "tags": {
+          "amenity": "library",
+          "name": "Ultra modern ICT and Robotic center /Conference Hall, Home Economics Hub"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13628517729",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4261465,
+          6.8121407
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13628517729,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13677417774",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.717515,
+          6.3056604
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13677417774,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13908061298",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2806693,
+          5.1163296
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13908061298,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "KNH Library",
+        "tags": {
+          "air_conditioning": "yes",
+          "amenity": "library",
+          "baby_feeding": "no",
+          "changing_table": "no",
+          "check_date": "2026-05-31",
+          "description": "A place for studies",
+          "internet_access": "wlan",
+          "internet_access:fee": "customers",
+          "name": "KNH Library",
+          "opening_hours": "24/7",
+          "operator": "KNH Management",
+          "operator:type": "university",
+          "payment:cards": "no",
+          "payment:cash": "yes",
+          "payment:credit_cards": "no",
+          "payment:debit_cards": "no",
+          "polling_station": "no",
+          "toilets": "no",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13987920850",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0934541,
+          6.6568338
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13987920850,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14047619704",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0790201,
+          10.8672487
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 14047619704,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "UTAS Library",
+        "tags": {
+          "amenity": "library",
+          "name": "UTAS Library",
+          "opening_hours": "Mo-Fr 09:00-17:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14078664643",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1625148,
+          5.7063613
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 14078664643,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Adenta Community Library",
+        "tags": {
+          "amenity": "library",
+          "internet_access": "wlan",
+          "internet_access:fee": "customers",
+          "name": "Adenta Community Library",
+          "opening_hours": "Mo-Fr 08:00-17:00",
+          "operator": "Governmet",
+          "operator:type": "public"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155687319",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8311774,
+          9.4232523
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 155687319,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kalpohin Community Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Kalpohin Community Library",
+          "source": "digitalglobe"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/187124244",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.206579,
+          5.560673
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 187124244,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "National Museum",
+        "tags": {
+          "building": "yes",
+          "name": "National Museum",
+          "source": "bing",
+          "tourism": "museum",
+          "website": "https://nationalmuseum.ghana-net.com/",
+          "wikidata": "Q1967472",
+          "wikipedia": "en:National Museum of Ghana"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/204722945",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2145139,
+          5.6100335
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 204722945,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/247028125",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1495784,
+          6.0976386
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 247028125,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Ketu South District Library",
+        "tags": {
+          "addr:street": "Swanzy Avenue",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Ketu South District Library",
+          "source": "Bing 5/1/2012"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/307927479",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2074929,
+          5.5567232
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 307927479,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "New Library Complex",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "building:levels": "4",
+          "check_date:opening_hours": "2026-05-20",
+          "name": "New Library Complex",
+          "opening_hours": "Mo-Fr 08:00-05:00",
+          "roof:shape": "hipped"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/307927497",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2061412,
+          5.5567495
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 307927497,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museum of Science and Technology",
+        "tags": {
+          "building": "yes",
+          "check_date:opening_hours": "2026-05-20",
+          "fee": "no",
+          "name": "Museum of Science and Technology",
+          "opening_hours": "Tu-Su 09:00-18:00",
+          "operator": "Government",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316143864",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2026853,
+          5.5443523
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 316143864,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Kwame Nkrumah Mausoleum",
+        "tags": {
+          "building": "yes",
+          "fee": "yes",
+          "name": "Kwame Nkrumah Mausoleum",
+          "tourism": "museum",
+          "website": "https://touringghana.com/kwame-nkrumah-mausoleum/",
+          "wikidata": "Q13848097",
+          "wikipedia": "en:Kwame Nkrumah Mausoleum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/322554248",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9875224,
+          5.8955723
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 322554248,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Pioneers Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Pioneers Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/335950304",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5731636,
+          6.6755727
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 335950304,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/378630226",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5729983,
+          6.6752105
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 378630226,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Prempeh II Library",
+        "tags": {
+          "addr:city": "Kumasi",
+          "addr:country": "GH",
+          "addr:housename": "Prempeh II Library",
+          "addr:region": "Ashanti",
+          "addr:street": "Prempeh II Link",
+          "amenity": "library",
+          "building": "university",
+          "building:levels": "4",
+          "building:material": "concrete",
+          "changing_table": "no",
+          "check_date": "2026-03-13",
+          "internet_access": "wlan",
+          "internet_access:fee": "customers",
+          "internet_access:ssid": "Knust wifi",
+          "name": "Prempeh II Library",
+          "opening_hours": "Mo-Sa 09:00-22:00",
+          "operator": "KNUST",
+          "operator:type": "public",
+          "payment:cards": "no",
+          "payment:cash": "yes",
+          "payment:credit_cards": "no",
+          "payment:debit_cards": "no",
+          "roof:levels": "0",
+          "roof:shape": "flat",
+          "toilets": "yes",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/378633328",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2190811,
+          5.7461168
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 378633328,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Frederiksgave Plantation and Common Heritage Site",
+        "tags": {
+          "area": "yes",
+          "name": "Frederiksgave Plantation and Common Heritage Site",
+          "protected_area": "historic",
+          "subject": "history",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/390827087",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6436399,
+          5.0136642
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 390827087,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "fixme": "check location."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/413689459",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7780521,
+          6.602243
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 413689459,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Obo's Public Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Obo's Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/433544685",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9256458,
+          7.5847265
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 433544685,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Techiman Municipal Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Techiman Municipal Library",
+          "wikidata": "Q68651609"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/435648916",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8457559,
+          10.9659477
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 435648916,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Library (ReCAS)",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Library (ReCAS)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/436861798",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5512945,
+          9.113513
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 436861798,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kpalbe primary ICT lab",
+        "tags": {
+          "amenity": "library",
+          "building": "school",
+          "name": "Kpalbe primary ICT lab"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441234719",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4789102,
+          9.9412964
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 441234719,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Tong Community Library",
+        "tags": {
+          "addr:city": "Tong",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Tong Community Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441240746",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9747782,
+          10.028059
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 441240746,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Janga Community Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Janga Community Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441638613",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2909119,
+          5.1164881
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 441638613,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Sam Jonah Library",
+        "tags": {
+          "access": "yes",
+          "air_conditioning": "yes",
+          "amenity": "library",
+          "books": "adults;academic;textbook",
+          "building": "yes",
+          "building:levels": "5",
+          "building:material": "metal",
+          "changing_table": "no",
+          "check_date": "2026-05-22",
+          "check_date:opening_hours": "2025-05-23",
+          "description": "Its serve as a place for learning and academic research ans also a workplace fir those employed",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "name": "Sam Jonah Library",
+          "name:en": "Sam Jonah Library",
+          "opening_hours": "Mo-Sa 08:00-22:00",
+          "operator": "University Of Cape Coast",
+          "operator:type": "university",
+          "payment:cards": "no",
+          "payment:cash": "yes",
+          "payment:credit_cards": "no",
+          "payment:debit_cards": "no",
+          "payment:mobile_app": "yes",
+          "payment:paypal": "yes",
+          "polling_station": "no",
+          "toilets": "yes",
+          "wheelchair": "limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441779149",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2908862,
+          5.117857
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 441779149,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "IDS Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "check_date": "2026-05-27",
+          "description": "A library for studying",
+          "internet_access": "wlan",
+          "internet_access:fee": "customers",
+          "level": "2",
+          "name": "IDS Library",
+          "opening_hours": "Mo-Fr 08:00-17:00",
+          "payment:cash": "no",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "wheelchair": "limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/452698352",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8659853,
+          6.5477953
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 452698352,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Apradang Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Apradang Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/453539968",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4928013,
+          10.0575148
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 453539968,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Wa Regional Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Wa Regional Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/475661660",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1241159,
+          7.063176
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 475661660,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/479721020",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8250301,
+          5.8283286
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 479721020,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Enchi College of Education Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Enchi College of Education Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/498414247",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1223813,
+          6.1241626
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 498414247,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "civic",
+          "description": "Seminary Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/528961452",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2510383,
+          5.1176156
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 528961452,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mfantsipim Library Complex",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Mfantsipim Library Complex"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/561277523",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6456712,
+          6.7024814
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 561277523,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Rev. A. D. Lewis Library",
+        "tags": {
+          "amenity": "library",
+          "building": "school",
+          "building:colour": "white",
+          "building:levels": "2",
+          "internet_access": "no",
+          "name": "Rev. A. D. Lewis Library",
+          "opening_hours": "Mo-Fr 08:30-15:00",
+          "roof:colour": "#66938c",
+          "roof:shape": "pyramidal",
+          "wheelchair": "limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/566854599",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2282664,
+          5.1280992
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 566854599,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Ghana National College Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Ghana National College Library",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/603099658",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1753346,
+          5.7065422
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 603099658,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/615488594",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2580783,
+          6.091091
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 615488594,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Municipal Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Municipal Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/621564879",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6249396,
+          6.6913908
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 621564879,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Ghana Armed Forces Museum",
+        "tags": {
+          "fee": "yes",
+          "name": "Ghana Armed Forces Museum",
+          "opening_hours": "Mo-Sa 08:00-17:00",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/623719186",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1745647,
+          5.6625886
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 623719186,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Old School Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "building:levels": "1",
+          "name": "Old School Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/624355756",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8561573,
+          10.7934706
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 624355756,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Upper East RegionalLibrary",
+        "tags": {
+          "access": "yes",
+          "addr:street": "Akanyene Street",
+          "air_conditioning": "yes",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Upper East RegionalLibrary",
+          "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-14:00",
+          "wheelchair": "yes",
+          "wikidata": "Q68652115"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/624355757",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8560174,
+          10.7943141
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 624355757,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Upper East Regional Museum",
+        "tags": {
+          "building": "yes",
+          "name": "Upper East Regional Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/624514214",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5186781,
+          6.8040221
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 624514214,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "addr:street": "Municipal Hospital Road",
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/631743292",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9922993,
+          5.96855
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 631743292,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/671114870",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6247784,
+          6.4497089
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 671114870,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/677914277",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6295051,
+          6.7010525
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 677914277,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Ashanti Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Ashanti Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/680393091",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9801766,
+          9.4139276
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 680393091,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "UDS Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "UDS Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/682540394",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.465946,
+          6.6128991
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 682540394,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Volta Regional Library",
+        "tags": {
+          "addr:city": "Ho Bankoe",
+          "addr:housenumber": "25",
+          "addr:street": "Togbe Afede High Street",
+          "amenity": "library",
+          "building": "yes",
+          "fixme": "Check location. Features should be near by",
+          "name": "Volta Regional Library",
+          "operator": "Ghana Library Authority",
+          "wikidata": "Q68651783"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/684100022",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.070841,
+          10.8567201
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 684100022,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Library and Book Store",
+        "tags": {
+          "amenity": "library",
+          "building": "school",
+          "building:levels": "1",
+          "name": "Library and Book Store"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/685410663",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3426096,
+          7.3481228
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 685410663,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "New Library",
+        "tags": {
+          "amenity": "library",
+          "building": "university",
+          "building:levels": "2",
+          "height": "10",
+          "name": "New Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/705574053",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1904326,
+          5.5905216
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 705574053,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Nima-Maamobi Community Learning Center",
+        "tags": {
+          "addr:street": "Hilla Limann Highway",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Nima-Maamobi Community Learning Center",
+          "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-17:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/733107651",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6464685,
+          6.6636399
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 733107651,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Gambrah Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Gambrah Library",
+          "opening_hours": "Mo-Fr 09:00-17:00",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/733712610",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3723237,
+          5.0845221
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 733712610,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/764528091",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0106697,
+          5.6422807
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 764528091,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Tema Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Tema Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/776662856",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9631464,
+          4.8835843
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 776662856,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "addr:place": "Agona Nkwata",
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/784749725",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6747786,
+          6.938607
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 784749725,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Offinso Municipal Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "building:levels": "2",
+          "name": "Offinso Municipal Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/858342682",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1669495,
+          5.6247183
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 858342682,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Untamed Empire",
+        "tags": {
+          "addr:city": "accra",
+          "addr:housenumber": "c14b",
+          "addr:street": "Spintex Road",
+          "air_conditioning": "yes",
+          "description": "A high energy, shared multi-tenant creative community focused space",
+          "email": "info@untamedempire.com",
+          "internet_access": "yes",
+          "landuse": "commercial",
+          "name": "Untamed Empire",
+          "opening_hours": "Mo-Sa 09:00-18:00",
+          "tourism": "museum",
+          "website": "https://www.untamedempire.com/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/950126216",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.087083,
+          10.8811246
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 950126216,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "NHRC Library",
+        "tags": {
+          "amenity": "library",
+          "name": "NHRC Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1028616384",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7438628,
+          4.9064084
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1028616384,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Community library",
+        "tags": {
+          "addr:city": "New Takoradi",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Community library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1195989990",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3832067,
+          5.3487738
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1195989990,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1217273634",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1253658,
+          6.1639919
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1217273634,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Fodzoku Community Computer Center and Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Fodzoku Community Computer Center and Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1235383070",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.72464,
+          6.3096506
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1235383070,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Abomosu Presby School Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Abomosu Presby School Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1295121287",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6159132,
+          5.3461353
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1295121287,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1301163310",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1687578,
+          5.5248201
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1301163310,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Assin Manso Slave River Site",
+        "tags": {
+          "museum": "history",
+          "name": "Assin Manso Slave River Site",
+          "opening_hours": "Mo-Su 08:00-17:00",
+          "toilets": "yes",
+          "toilets:access": "customers",
+          "tourism": "museum",
+          "wheelchair": "limited",
+          "wikipedia": "en:Assin Manso Slave River Site"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1305244222",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5661916,
+          6.6773283
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1305244222,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "KNUST Library Mall",
+        "tags": {
+          "amenity": "library",
+          "building": "university",
+          "building:levels": "6",
+          "name": "KNUST Library Mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1359578466",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4613289,
+          6.9463235
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1359578466,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "internet_access": "no",
+          "operator": "Nneka Youth Foundation",
+          "operator:type": "private",
+          "website": "https://nnekafoundation.org/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1389379504",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6812892,
+          6.7004116
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1389379504,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "New Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "building:levels": "2",
+          "name": "New Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1465437711",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2192079,
+          10.9807493
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1465437711,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Gwolu Slave Defense Wall",
+        "tags": {
+          "building": "yes",
+          "name": "Gwolu Slave Defense Wall",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1492569816",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7174916,
+          6.3057238
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1492569816,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Comp",
+        "tags": {
+          "air_conditioning": "yes",
+          "amenity": "library",
+          "building": "yes",
+          "internet_access": "no",
+          "name": "Comp",
+          "opening_hours": "Mo-Fr 08:00-17:00",
+          "operator": "Abomosu STEM SHS"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1510328147",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4747121,
+          5.9145765
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1510328147,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Nkyinkyim Museum",
+        "tags": {
+          "description": "art",
+          "fee": "yes",
+          "landuse": "commercial",
+          "name": "Nkyinkyim Museum",
+          "opening_hours": "Tu-Su 09:00-17:00",
+          "tourism": "museum",
+          "wikidata": "Q138001709"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/4194575",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0017248,
+          5.2982016
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 4194575,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "UMaT Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "building:levels": "3",
+          "name": "UMaT Library",
+          "type": "multipolygon"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/7304886",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1870475,
+          5.6520124
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 7304886,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "The Balme Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "building:levels": "2",
+          "building:material": "concrete",
+          "check_date": "2023-10-31",
+          "internet_access": "wlan",
+          "internet_access:fee": "customers",
+          "name": "The Balme Library",
+          "operator": "University of Ghana",
+          "operator:type": "university",
+          "roof:shape": "gabled",
+          "type": "multipolygon",
+          "wheelchair": "yes",
+          "wikidata": "Q15986593",
+          "wikipedia": "en:The Balme Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/14382888",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.575277,
+          6.681865
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 14382888,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Opoku Ware II Museum",
+        "tags": {
+          "addr:city": "Kumasi",
+          "air_conditioning": "yes",
+          "alt_name": "KNUST Museum",
+          "building": "yes",
+          "building:levels": "2",
+          "building:material": "cement_block",
+          "check_date": "2023-04-27",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "museum": "gallery",
+          "name": "Opoku Ware II Museum",
+          "opening_hours": "09:00-17:00",
+          "operator": "KNUST",
+          "source": "survey",
+          "tourism": "museum",
+          "type": "multipolygon",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/17905879",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2779876,
+          5.1544314
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 17905879,
+        "country": "Ghana",
+        "alpha_2": "GH",
+        "countries": [
+          "GH"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "type": "multipolygon"
+        }
+      }
+    }
+  ]
+}

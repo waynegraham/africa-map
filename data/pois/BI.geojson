@@ -1,0 +1,253 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1342226165",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6853465,
+          -3.7652902
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1342226165,
+        "country": "Burundi",
+        "alpha_2": "BI",
+        "countries": [
+          "BI"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre d'Auto-Formation",
+        "tags": {
+          "amenity": "library",
+          "denomination": "anglican",
+          "description": "Bibliothèque théologique",
+          "description:fr": "Bibliothèque théologique",
+          "internet_access": "yes",
+          "name": "Centre d'Auto-Formation",
+          "name:en": "CAF Study Centre",
+          "name:fr": "Centre d'Auto-Formation",
+          "religion": "christian",
+          "shop": "copyshop"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2018422848",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9086184,
+          -3.4182207
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2018422848,
+        "country": "Burundi",
+        "alpha_2": "BI",
+        "countries": [
+          "BI"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée National de Gitega",
+        "tags": {
+          "name": "Musée National de Gitega",
+          "name:ar": "متحف بوروندي الوطني",
+          "name:en": "National Museum of Gitega",
+          "name:fr": "Musée National de Gitega",
+          "tourism": "museum",
+          "wikidata": "Q2688645",
+          "wikipedia": "fr:Musée national de Gitega"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2190965671",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2668121,
+          -3.3351257
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2190965671,
+        "country": "Burundi",
+        "alpha_2": "BI",
+        "countries": [
+          "BI"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Associaton d'Appui Animal",
+        "tags": {
+          "name": "Associaton d'Appui Animal",
+          "project:eurosha_2012": "yes",
+          "source": "survey",
+          "source:date": "2013- 03-07",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2574974966",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1122894,
+          -2.8491829
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2574974966,
+        "country": "Burundi",
+        "alpha_2": "BI",
+        "countries": [
+          "BI"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliotheque de camp",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliotheque de camp",
+          "opening_hours": "09:00-12:00, 13:00-16:00",
+          "source": "field survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2574974980",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1125724,
+          -2.84912
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2574974980,
+        "country": "Burundi",
+        "alpha_2": "BI",
+        "countries": [
+          "BI"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Ideas Box",
+        "tags": {
+          "amenity": "library",
+          "name": "Ideas Box",
+          "operator": "Bibliotheques Sans Frontieres",
+          "source": "coming project; field survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2614104350",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2786121,
+          -3.3548559
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2614104350,
+        "country": "Burundi",
+        "alpha_2": "BI",
+        "countries": [
+          "BI"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3307131783",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3578591,
+          -3.415872
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3307131783,
+        "country": "Burundi",
+        "alpha_2": "BI",
+        "countries": [
+          "BI"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "AMERICAN CORNER KININDO",
+        "tags": {
+          "amenity": "library",
+          "name": "AMERICAN CORNER KININDO",
+          "source": "OPEN SOURCE SOCIETY"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/436098387",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.686107,
+          -3.3471977
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 436098387,
+        "country": "Burundi",
+        "alpha_2": "BI",
+        "countries": [
+          "BI"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Site Historique du Traité de Kiganda",
+        "tags": {
+          "historic": "heritage",
+          "name": "Site Historique du Traité de Kiganda",
+          "name:en": "Historical site of Kiganda Treaty",
+          "name:fr": "Site Historique du Traité de Kiganda",
+          "tourism": "museum"
+        }
+      }
+    }
+  ]
+}

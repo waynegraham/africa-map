@@ -1,0 +1,734 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/4234321202",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1042922,
+          -12.9259452
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4234321202,
+        "country": "Mayotte",
+        "alpha_2": "YT",
+        "countries": [
+          "YT"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de l'Artisanat",
+        "tags": {
+          "addr:street": "Boulevard de la République",
+          "name": "Musée de l'Artisanat",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4733194230",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1073584,
+          -12.8451631
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4733194230,
+        "country": "Mayotte",
+        "alpha_2": "YT",
+        "countries": [
+          "YT"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque municipale de Sada",
+        "tags": {
+          "addr:city": "Sada",
+          "amenity": "library",
+          "description": "Campagne de recensement acteurs écconomiques 3CO 2025",
+          "name": "Bibliothèque municipale de Sada",
+          "name:en": "Sada municipal library",
+          "name:fr": "Bibliothèque municipale de sada",
+          "opening_hours": "Tu-Fr 13:00-16:00; Sa 09:00-12:00",
+          "phone": "+262 269 61 50 54",
+          "source": "BDOrtho IGN (2023) ; survey",
+          "survey:date": "2025-12-15"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5312406000",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.2566991,
+          -12.7821907
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5312406000,
+        "country": "Mayotte",
+        "alpha_2": "YT",
+        "countries": [
+          "YT"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de Mayotte",
+        "tags": {
+          "name": "Musée de Mayotte",
+          "tourism": "museum",
+          "wikidata": "Q88646020",
+          "wikipedia": "fr:MuMa"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5627063022",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1961075,
+          -12.91239
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5627063022,
+        "country": "Mayotte",
+        "alpha_2": "YT",
+        "countries": [
+          "YT"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Éco-musée du sel",
+        "tags": {
+          "name": "Éco-musée du sel",
+          "opening_hours": "Mo-Fr 08:00-12:00, 13:30-16:30",
+          "phone": "+262 639 04 86 82",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7136347609",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0789383,
+          -12.7616679
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7136347609,
+        "country": "Mayotte",
+        "alpha_2": "YT",
+        "countries": [
+          "YT"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque de Chembenyoumba",
+        "tags": {
+          "addr:city": "M'Tsangamouji",
+          "amenity": "library",
+          "name": "Bibliothèque de Chembenyoumba",
+          "note": "Campagne de recensement acteurs écconomiques 3CO 2025",
+          "opening_hours": "Mo-Fr 08:00-16:00",
+          "operator": "Mairie de M'Tsangamouji",
+          "phone": "+262 269 62 00 21",
+          "source": "BDOrtho IGN (2023) ; survey",
+          "survey:date": "2025-12-15"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8067589849",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.2088785,
+          -12.8019965
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8067589849,
+        "country": "Mayotte",
+        "alpha_2": "YT",
+        "countries": [
+          "YT"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Médiathèque municipale de Passamainty",
+        "tags": {
+          "addr:street": "Face stade de football de Passamainty 97605 Passamainty",
+          "amenity": "library",
+          "name": "Médiathèque municipale de Passamainty",
+          "opening_hours": "Tu, We, Fr 09:00-17:00; Sa 09:00-14:00",
+          "phone": "+262 269 64 35 11"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8510397399",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.2803736,
+          -12.7927123
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8510397399,
+        "country": "Mayotte",
+        "alpha_2": "YT",
+        "countries": [
+          "YT"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Municipale de Pamandzi",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Municipale de Pamandzi"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8696293450",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.2198841,
+          -12.7441062
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8696293450,
+        "country": "Mayotte",
+        "alpha_2": "YT",
+        "countries": [
+          "YT"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2021"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8724714884",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1033641,
+          -12.7909639
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8724714884,
+        "country": "Mayotte",
+        "alpha_2": "YT",
+        "countries": [
+          "YT"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Municipale de Tsingoni",
+        "tags": {
+          "addr:city": "Tsingoni",
+          "amenity": "library",
+          "name": "Bibliothèque Municipale de Tsingoni",
+          "note": "Campagne de recensement acteurs écconomiques 3CO 2025",
+          "source": "BDOrtho IGN (2023) ; survey",
+          "survey:date": "2025-12-15"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8853020454",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.229809,
+          -12.7585036
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8853020454,
+        "country": "Mayotte",
+        "alpha_2": "YT",
+        "countries": [
+          "YT"
+        ],
+        "categories": [
+          "archive"
+        ],
+        "name": "Archives départementales de Mayotte",
+        "tags": {
+          "addr:city": "Mamoudzou",
+          "addr:postcode": "97690",
+          "addr:street": "ZAC Hamaha - Kawéni",
+          "admin_level": "6",
+          "amenity": "archive",
+          "check_date:opening_hours": "2026-01-20",
+          "government": "archive",
+          "name": "Archives départementales de Mayotte",
+          "office": "government",
+          "opening_hours": "Mo-Th 08:00-12:00,13:30-16:00;Fr 08:00-11:30",
+          "operator": "Conseil départemental de Mayotte",
+          "phone": "+262 269 66 16 09",
+          "source": "BDOrtho IGN (2016)",
+          "website": "https://www.mayotte.fr/le-conseil-departemental/institution/services-administratifs/archives",
+          "wikidata": "Q2860467",
+          "wikipedia": "fr:Archives départementales de Mayotte"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9020146318",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1288281,
+          -12.7891661
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9020146318,
+        "country": "Mayotte",
+        "alpha_2": "YT",
+        "countries": [
+          "YT"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque de Mroalé",
+        "tags": {
+          "addr:city": "Tsingoni",
+          "amenity": "library",
+          "name": "Bibliothèque de Mroalé",
+          "note": "Campagne de recensement acteurs écconomiques 3CO 2025",
+          "source": "BDOrtho IGN (2023) ; survey",
+          "survey:date": "2025-12-15"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9044701440",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.117299,
+          -12.719251
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9044701440,
+        "country": "Mayotte",
+        "alpha_2": "YT",
+        "countries": [
+          "YT"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque de Dzoumogné",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque de Dzoumogné"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9222975452",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1328182,
+          -12.8333746
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9222975452,
+        "country": "Mayotte",
+        "alpha_2": "YT",
+        "countries": [
+          "YT"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée des senteurs de Coconi",
+        "tags": {
+          "addr:city": "Ouangani",
+          "email": "contact@tourisme-centreouest.yt",
+          "fee": "no",
+          "mobile": "+262 639 21 42 24",
+          "name": "Musée des senteurs de Coconi",
+          "note": "Campagne de recensement acteurs écconomiques 3CO 2025",
+          "opening_hours": "Mo-Fr 09:00-12:00",
+          "operator": "Office de tourisme du Centre-Ouest",
+          "source": "BDOrtho IGN (2023) ; survey",
+          "survey:date": "2025-12-15",
+          "tourism": "museum",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9288901417",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1128642,
+          -12.8369499
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9288901417,
+        "country": "Mayotte",
+        "alpha_2": "YT",
+        "countries": [
+          "YT"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque municipale de Chiconi",
+        "tags": {
+          "addr:city": "Chiconi",
+          "amenity": "library",
+          "name": "Bibliothèque municipale de Chiconi",
+          "note": "Campagne de recensement acteurs écconomiques 3CO 2025",
+          "opening_hours": "Mo 14:00-17:00; Tu-Fr 09:00-12:00,14:00-20:00; We 09:00-12:00,14:00-17:00; Sa 09:00-12:00,16:00-20:00",
+          "phone": "+262269609494",
+          "source": "BDOrtho IGN (2023) ; survey",
+          "survey:date": "2025-12-15",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9320119156",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1309434,
+          -12.838203
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9320119156,
+        "country": "Mayotte",
+        "alpha_2": "YT",
+        "countries": [
+          "YT"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque de Barakani",
+        "tags": {
+          "addr:city": "Ouangani",
+          "amenity": "library",
+          "name": "Bibliothèque de Barakani",
+          "note": "Campagne de recensement acteurs écconomiques 3CO 2025",
+          "opening_hours": "Mo-Fr 08:30-16:00; Sa 09:00-13:00",
+          "source": "BDOrtho IGN (2023) ; survey",
+          "survey:date": "2025-12-15"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9369367164",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0982653,
+          -12.8996202
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9369367164,
+        "country": "Mayotte",
+        "alpha_2": "YT",
+        "countries": [
+          "YT"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mediathèque de Moinatrindri",
+        "tags": {
+          "addr:city": "Moinatrindri",
+          "addr:housenumber": "3",
+          "addr:postcode": "97620",
+          "amenity": "library",
+          "name": "Mediathèque de Moinatrindri"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9369367165",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0798278,
+          -12.9087674
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9369367165,
+        "country": "Mayotte",
+        "alpha_2": "YT",
+        "countries": [
+          "YT"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Salle informatique Mediathèque de boueni",
+        "tags": {
+          "addr:city": "Bouéni",
+          "addr:postcode": "97620",
+          "amenity": "library",
+          "name": "Salle informatique Mediathèque de boueni"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9369367166",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0913526,
+          -12.9239895
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9369367166,
+        "country": "Mayotte",
+        "alpha_2": "YT",
+        "countries": [
+          "YT"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Salle informatique de Bambo-Ouest",
+        "tags": {
+          "addr:city": "Bambo-Ouest",
+          "addr:postcode": "97620",
+          "amenity": "library",
+          "name": "Salle informatique de Bambo-Ouest"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10988879264",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1939478,
+          -12.9146701
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10988879264,
+        "country": "Mayotte",
+        "alpha_2": "YT",
+        "countries": [
+          "YT"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11107109047",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0554231,
+          -12.7505268
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11107109047,
+        "country": "Mayotte",
+        "alpha_2": "YT",
+        "countries": [
+          "YT"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque de Mliha",
+        "tags": {
+          "addr:city": "M'Tsangamouji",
+          "amenity": "library",
+          "name": "Bibliothèque de Mliha",
+          "operator": "Mairie de M'Tsangamouji",
+          "source": "survey",
+          "survey:date": "2025-12-15",
+          "wheelchair": "limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/236687209",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.2211889,
+          -12.7832273
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 236687209,
+        "country": "Mayotte",
+        "alpha_2": "YT",
+        "countries": [
+          "YT"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Départementale de Prêt",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "damage:Chido": "none",
+          "name": "Bibliothèque Départementale de Prêt",
+          "roof:material": "concrete",
+          "source": "Kaart Ground Survey 2017"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/754911593",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.272464,
+          -12.7879691
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 754911593,
+        "country": "Mayotte",
+        "alpha_2": "YT",
+        "countries": [
+          "YT"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "source": "BDOrtho IGN (2016)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/754911594",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.2725694,
+          -12.7879475
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 754911594,
+        "country": "Mayotte",
+        "alpha_2": "YT",
+        "countries": [
+          "YT"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "bibliothèque municipale",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "bibliothèque municipale",
+          "source": "BDOrtho IGN (2016)"
+        }
+      }
+    }
+  ]
+}

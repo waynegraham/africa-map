@@ -1,0 +1,1267 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1684101906",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.10822,
+          13.5120386
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1684101906,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée National Boubou Hama",
+        "tags": {
+          "addr:street": "Rue du Musée",
+          "fee": "yes",
+          "image": "File:Zoo du Musée national de Niamey.jpg",
+          "name": "Musée National Boubou Hama",
+          "name:en": "Boubou Hama National Museum",
+          "name:fr": "Musée National Boubou Hama",
+          "opening_hours": "Mo-Su 08:00-18:00",
+          "tourism": "museum",
+          "website": "http://www.museenationalduniger.ne/",
+          "wheelchair": "limited",
+          "wikidata": "Q1989844",
+          "wikimedia_commons": "Category:National Museum of Niger",
+          "wikipedia": "fr:Musée national Boubou-Hama"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2428001828",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1991688,
+          13.0428672
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2428001828,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Regionale Djermakoye de Dosso",
+        "tags": {
+          "name": "Musée Regionale Djermakoye de Dosso",
+          "project:mappingforniger": "yes",
+          "source": "survey",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2447895965",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0992279,
+          13.501465
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2447895965,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Abdou Mamane Saguire",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Abdou Mamane Saguire",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2447900489",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0989196,
+          13.4991314
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2447900489,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Librairie Alfurquane",
+        "tags": {
+          "addr:city": "Niamey",
+          "addr:housenumber": "5048",
+          "addr:postcode": "227",
+          "addr:street": "Boulevard de l'Université",
+          "amenity": "library",
+          "internet_access": "no",
+          "name": "Librairie Alfurquane",
+          "operator": "AEMN/UAM",
+          "operator:type": "religious",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2461582546",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0961984,
+          13.5021449
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2461582546,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Fast",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Fast",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2469907437",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0937576,
+          13.5000682
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2469907437,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque (FA)",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque (FA)",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2470954769",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0945353,
+          13.502471
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2470954769,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque (FLSH)",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque (FLSH)",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2471249546",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0871526,
+          13.5015639
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2471249546,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque de l'Emig",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque de l'Emig",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2472003859",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.082413,
+          13.5036248
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2472003859,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque (FSS)",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque (FSS)",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2511408012",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2539433,
+          14.8981235
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2511408012,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "project:mappingforniger": "yes",
+          "source": "survey",
+          "survey:date": "2013-10-01"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2511457437",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0956819,
+          13.5045582
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2511457437,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2524153211",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9577175,
+          14.0718379
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2524153211,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Fati Souley",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Fati Souley",
+          "project:mappingforniger": "yes",
+          "source": "knowledge"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2537997421",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9593912,
+          14.0780017
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2537997421,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "project:mappingforniger": "yes",
+          "source": "knowledge"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3156239770",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0976687,
+          13.486517
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3156239770,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "NIGEMAT",
+        "tags": {
+          "amenity": "library",
+          "contact:fax": "20315382",
+          "contact:phone": "20316238",
+          "name": "NIGEMAT",
+          "source": "survery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3699275725",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2503116,
+          13.7977833
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3699275725,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "centre Kan Kowa shi wayé",
+        "tags": {
+          "amenity": "library",
+          "name": "centre Kan Kowa shi wayé",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3709911770",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2549035,
+          13.7959594
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3709911770,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "M J C konni",
+        "tags": {
+          "amenity": "library",
+          "name": "M J C konni"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3709911787",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2532624,
+          13.7960481
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3709911787,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "kaocen service",
+        "tags": {
+          "amenity": "library",
+          "name": "kaocen service",
+          "shop": "books"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3900153024",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.106722,
+          13.4940417
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3900153024,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Librairie Papeterie Albarka",
+        "tags": {
+          "amenity": "library",
+          "name": "Librairie Papeterie Albarka"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3900153025",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1096429,
+          13.4882919
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3900153025,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Librairie Service Plus",
+        "tags": {
+          "amenity": "library",
+          "name": "Librairie Service Plus"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4307404992",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9918635,
+          13.7984666
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4307404992,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Régional de Zinder",
+        "tags": {
+          "name": "Musée Régional de Zinder",
+          "project:pdevii": "yes",
+          "source": "survey",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4315855415",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.118011,
+          13.4909283
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4315855415,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliotheque - École Normale Supérieur",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliotheque - École Normale Supérieur",
+          "project:pdevii": "yes",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4318183308",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1041933,
+          13.491638
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4318183308,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliotheque Point d'Interrogation",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliotheque Point d'Interrogation",
+          "project:pdevii": "yes",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4319250991",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1031883,
+          13.4884235
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4319250991,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Espace Americain",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Espace Americain",
+          "project:pdevii": "yes",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4397522640",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4531264,
+          14.2180089
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4397522640,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliotheque CES Tillabéri",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliotheque CES Tillabéri",
+          "project:pdevii": "yes",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4397522641",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4659571,
+          14.2035245
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4397522641,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque de la MJC",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque de la MJC",
+          "project:pdevii": "yes",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4398614173",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.141258,
+          13.4937485
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4398614173,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Maison de l'Uranium",
+        "tags": {
+          "name": "Maison de l'Uranium",
+          "source": "survey",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4404023146",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2613087,
+          14.8927937
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4404023146,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliotheque de Lecture Publique",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliotheque de Lecture Publique",
+          "project:pdevii": "yes",
+          "source": "survey",
+          "survey:date": "2016-04-20"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4918626193",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.117602,
+          13.5192186
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4918626193,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4956800021",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.983667,
+          13.8258867
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4956800021,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre de conférence et bibliothèques Salahouddine",
+        "tags": {
+          "amenity": "library",
+          "name": "Centre de conférence et bibliothèques Salahouddine",
+          "name:fr": "Centre de conférence et bibliothèques Salahouddine"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6028594782",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1015483,
+          13.5190464
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6028594782,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre Culturel Américain",
+        "tags": {
+          "amenity": "library",
+          "name": "Centre Culturel Américain"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6118993285",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.101696,
+          13.5177009
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6118993285,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Lasdel",
+        "tags": {
+          "amenity": "library",
+          "name": "Lasdel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7035978850",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.095013,
+          17.0426411
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7035978850,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7674109343",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1994511,
+          13.0414073
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7674109343,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Artisanat",
+        "tags": {
+          "name": "Artisanat",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7792526386",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1976998,
+          13.0443736
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7792526386,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "addr:street": "ARNFD",
+          "amenity": "library",
+          "name": "Bibliothèque",
+          "opening_hours": "24/7"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8445584088",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0906402,
+          13.5892051
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8445584088,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Universitaire",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Universitaire"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9994483889",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7025721,
+          13.6585185
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9994483889,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "MJC Guidan Roumdji",
+        "tags": {
+          "name": "MJC Guidan Roumdji",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10188058600",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7504383,
+          14.0052392
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10188058600,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Publique de Téra",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Publique de Téra",
+          "operator": "Mairie",
+          "operator:type": "public"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10997127018",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0964724,
+          13.5029795
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10997127018,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Géologie",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Géologie"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12114417233",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.114787,
+          14.2561425
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12114417233,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "MJC",
+        "tags": {
+          "amenity": "library",
+          "name": "MJC"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/246942337",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1804372,
+          13.0444891
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 246942337,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/319084068",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0881589,
+          13.5017331
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 319084068,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Cartothèque",
+        "tags": {
+          "amenity": "library",
+          "building": "university",
+          "name": "Cartothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1229873447",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0978002,
+          13.5016979
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1229873447,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1229873448",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0975604,
+          13.5013063
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1229873448,
+        "country": "Niger",
+        "alpha_2": "NE",
+        "countries": [
+          "NE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    }
+  ]
+}

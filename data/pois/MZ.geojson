@@ -1,0 +1,2033 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/902596100",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.376659,
+          -18.9042849
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 902596100,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Lion House",
+        "tags": {
+          "name": "Lion House",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/903124167",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.3461781,
+          -24.6642629
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 903124167,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Portuguese Memorial",
+        "tags": {
+          "name": "Portuguese Memorial",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/903241924",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3308926,
+          -22.4562897
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 903241924,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Old Military Headquarter",
+        "tags": {
+          "name": "Old Military Headquarter",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/904058385",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.484816,
+          -25.1516908
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 904058385,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Posto Zongone",
+        "tags": {
+          "name": "Posto Zongone",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2300834461",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.5873897,
+          -16.154554
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2300834461,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Universidade Catolica",
+        "tags": {
+          "alt_name": "Delegacao de Tete",
+          "amenity": "library",
+          "name": "Universidade Catolica"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4298615594",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2570741,
+          -15.1261646
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4298615594,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu das FPLM",
+        "tags": {
+          "name": "Museu das FPLM",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4341055506",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.5311162,
+          -12.9708779
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4341055506,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Iris Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Iris Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4816481823",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.5698887,
+          -12.9749825
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4816481823,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Faculdade de Engenharia e Ciências Naturais",
+        "tags": {
+          "addr:street": "Bairro Eduardo Mondlane",
+          "amenity": "library",
+          "name": "Faculdade de Engenharia e Ciências Naturais",
+          "name:en": "Faculty of Engineering and Natural Science",
+          "name:pt": "Faculdade de Engenharia e Ciências Naturais"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4819742543",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6481734,
+          -19.0899012
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4819742543,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4823417422",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3817588,
+          -23.8689356
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4823417422,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Casa de Cultura",
+        "tags": {
+          "name": "Casa de Cultura",
+          "name:pt": "Casa de Cultura",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5159648622",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5632544,
+          -25.970282
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5159648622,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu dos CFM",
+        "tags": {
+          "addr:street": "Praça dos Trabalhadores",
+          "name": "Museu dos CFM",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5479128930",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5358271,
+          -14.801191
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5479128930,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "name:en": "Cuamba City Library",
+          "name:es": "Biblioteca Municipal de Cuamba",
+          "name:ja": "クアンバ市立図書館"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5484619968",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8475198,
+          -18.9659275
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5484619968,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Rock art",
+        "tags": {
+          "name": "Rock art",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6938172989",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5727152,
+          -25.9733851
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6938172989,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Fototeca Nacional",
+        "tags": {
+          "amenity": "library",
+          "name": "Fototeca Nacional"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6938172991",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5677907,
+          -25.9626375
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6938172991,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu da Revolução",
+        "tags": {
+          "name": "Museu da Revolução",
+          "tourism": "museum",
+          "wikidata": "Q27941743"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6938172995",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5714854,
+          -25.9650983
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6938172995,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Antigo AHM",
+        "tags": {
+          "amenity": "library",
+          "name": "Antigo AHM"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6938172996",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5952632,
+          -25.9471882
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6938172996,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "AHM",
+        "tags": {
+          "amenity": "library",
+          "name": "AHM"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10860295506",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9055654,
+          -16.2331278
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10860295506,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Biblioteca Distrital",
+        "tags": {
+          "amenity": "library",
+          "name": "Biblioteca Distrital"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/240709083",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5898037,
+          -25.9755154
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 240709083,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu Nacional de Geologia",
+        "tags": {
+          "addr:city": "Maputo",
+          "addr:housenumber": "355",
+          "addr:street": "Avenida 24 de Julho",
+          "building": "yes",
+          "building:levels": "1",
+          "fee": "yes",
+          "name": "Museu Nacional de Geologia",
+          "name:pt": "Museu Nacional de Geologia地质国家博物馆",
+          "name:zh": "地质国家博物馆",
+          "tourism": "museum",
+          "wikidata": "Q27941738"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/242924491",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5730528,
+          -25.9735115
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 242924491,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Biblioteca Nacional de Moçambique",
+        "tags": {
+          "addr:city": "Maputo",
+          "addr:district": "KaMpfumo",
+          "addr:housenumber": "1348",
+          "addr:street": "Avenida 25 de Setembro",
+          "addr:subdistrict": "Central “C”",
+          "address": "Av. 25 de Setembro, 1348",
+          "amenity": "library",
+          "building": "office",
+          "building:levels": "2",
+          "category": "A",
+          "name": "Biblioteca Nacional de Moçambique",
+          "name:de": "Nationalbibliothek von Mosambik",
+          "name:en": "National Library of Mozambique",
+          "name:pt": "Biblioteca Nacional de Moçambique",
+          "name:zh": "莫桑比克国家图书馆",
+          "owner": "Público",
+          "phone": "+258 21 311 905",
+          "ref": "D17-451",
+          "status": "Bom",
+          "website": "http://www.bnm.gov.mz/",
+          "wikidata": "Q16498204",
+          "year_of_construction": "1915-1955"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/242989733",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5871547,
+          -25.9771699
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 242989733,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu da História Natural",
+        "tags": {
+          "addr:city": "Maputo",
+          "addr:street": "Praça Travessa de Zambézi",
+          "fee": "yes",
+          "name": "Museu da História Natural",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/253776546",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5697484,
+          -25.9733756
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 253776546,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu da Moeda",
+        "tags": {
+          "addr:city": "Maputo",
+          "addr:district": "KaMpfumo",
+          "addr:full": "2HG9+MV9, Rua do Bagamyo, Maputo, Moçambique",
+          "addr:street": "Praça 25 de Junho x Rua Consiglieri Pedroso",
+          "addr:subdistrict": "Central “C”",
+          "building": "public",
+          "building:levels": "1",
+          "building:material": "stones",
+          "fee": "yes",
+          "heritage": "A",
+          "historic": "yes",
+          "name": "Museu da Moeda",
+          "owner": "public",
+          "ref": "B37-139",
+          "tourism": "museum",
+          "year_of_construction": "1955-1975"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254818895",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5692332,
+          -25.9750928
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 254818895,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu da Pesca",
+        "tags": {
+          "addr:city": "Maputo",
+          "addr:street": "Rua Ngungunyane",
+          "architect": "José Forjaz",
+          "building": "institucional",
+          "building:colour": "white",
+          "building:levels": "2",
+          "disused": "no",
+          "museum": "history",
+          "name": "Museu da Pesca",
+          "owner": "Estado",
+          "tourism": "museum",
+          "wikidata": "Q27941734",
+          "year_of_construction": "2008"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255757248",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5717387,
+          -25.9667057
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 255757248,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu Nacional de Arte",
+        "tags": {
+          "addr:city": "Maputo",
+          "addr:street": "Avenida. Ho Chi Min",
+          "building": "yes",
+          "name": "Museu Nacional de Arte",
+          "name:zh": "国家艺术馆",
+          "tourism": "museum",
+          "wikidata": "Q27941729"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256963593",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5869491,
+          -25.9771645
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 256963593,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu da História Natural",
+        "tags": {
+          "building": "museum",
+          "fee": "yes",
+          "museum": "natural_history",
+          "name": "Museu da História Natural",
+          "tourism": "museum",
+          "wikidata": "Q2944171"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327958080",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.7373067,
+          -15.0318348
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 327958080,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu Arte Sacra",
+        "tags": {
+          "building": "yes",
+          "name": "Museu Arte Sacra",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/352844686",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7720571,
+          -16.1016686
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 352844686,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/411387412",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.1060739,
+          -11.9329041
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 411387412,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu de Chai A",
+        "tags": {
+          "building": "yes",
+          "name": "Museu de Chai A",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/411387538",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.1056918,
+          -11.9329722
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 411387538,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu de Chai B",
+        "tags": {
+          "building": "yes",
+          "name": "Museu de Chai B",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/421173784",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8337709,
+          -19.8281941
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 421173784,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Casa do Artista",
+        "tags": {
+          "building": "yes",
+          "name": "Casa do Artista",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/427317961",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9202449,
+          -16.286475
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 427317961,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/427318004",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9211837,
+          -16.285946
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 427318004,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/427319991",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9149918,
+          -16.2863354
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 427319991,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/427319994",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9141292,
+          -16.2856986
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 427319994,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/427323550",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9762629,
+          -16.170029
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 427323550,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/427323620",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9771574,
+          -16.1654414
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 427323620,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/427323651",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9802145,
+          -16.1668358
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 427323651,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/427323699",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9786813,
+          -16.1631066
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 427323699,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/427323967",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8555453,
+          -16.2526758
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 427323967,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/427324159",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8547912,
+          -16.2527377
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 427324159,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/427369004",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8541158,
+          -16.2495696
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 427369004,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/427370344",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8675909,
+          -16.2404883
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 427370344,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/427427126",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8743016,
+          -16.2403548
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 427427126,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/427431997",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.885803,
+          -16.2334586
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 427431997,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/427432568",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8860991,
+          -16.2331264
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 427432568,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/427433513",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8840964,
+          -16.2318443
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 427433513,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/427448693",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8412225,
+          -16.2424545
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 427448693,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/427449268",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8412382,
+          -16.2402511
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 427449268,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/427449922",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8423824,
+          -16.2370972
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 427449922,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/427450475",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8413969,
+          -16.2364042
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 427450475,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/427458594",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8512417,
+          -16.2600621
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 427458594,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/427461960",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8636274,
+          -16.2539246
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 427461960,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/427462130",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8674504,
+          -16.2566016
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 427462130,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/427462262",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8661185,
+          -16.25442
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 427462262,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/427462511",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8651099,
+          -16.2600366
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 427462511,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/427463964",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.869979,
+          -16.270449
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 427463964,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/427464207",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8709482,
+          -16.2730224
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 427464207,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/427496626",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9045248,
+          -16.2680548
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 427496626,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/427502143",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9342101,
+          -16.2668719
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 427502143,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/457959985",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8918649,
+          -17.8783058
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 457959985,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Biblioteca Central",
+        "tags": {
+          "amenity": "library",
+          "name": "Biblioteca Central"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/477429180",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5692221,
+          -25.9738629
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 477429180,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Arquivo Histórico de Moçambique",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Arquivo Histórico de Moçambique"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/494211443",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8687305,
+          -15.1953318
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 494211443,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/511493693",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.266507,
+          -15.1180325
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 511493693,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu Nacional de Etnologia",
+        "tags": {
+          "building": "yes",
+          "name": "Museu Nacional de Etnologia",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/512289300",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.3866998,
+          -12.9692526
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 512289300,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Biblioteca distral",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Biblioteca distral"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/538907956",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5717058,
+          -25.9518631
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 538907956,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu Mafalala",
+        "tags": {
+          "museum": "local",
+          "name": "Museu Mafalala",
+          "opening_hours": "Tu-Su 10:00-18:00",
+          "operator": "Associação IVERCA",
+          "operator:type": "private_non_profit",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/560102093",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1114871,
+          -22.2559185
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 560102093,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/597911124",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2719622,
+          -21.991607
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 597911124,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliotecas",
+        "tags": {
+          "amenity": "library",
+          "building": "college",
+          "name": "Bibliotecas"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/686735577",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.4929105,
+          -12.9655349
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 686735577,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Biblioteca Pública Provincial Samora Machel",
+        "tags": {
+          "access": "yes",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Biblioteca Pública Provincial Samora Machel",
+          "operator": "Direcção Provincial de Cultura e Turismo de Cabo Delgado",
+          "operator:type": "public"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/986590262",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5460894,
+          -11.6596219
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 986590262,
+        "country": "Mozambique",
+        "alpha_2": "MZ",
+        "countries": [
+          "MZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "MUSEU DA MASACRE DE MUEDA",
+        "tags": {
+          "amenity": "yes",
+          "museum": "history",
+          "name": "MUSEU DA MASACRE DE MUEDA",
+          "opening_hours": "Mo-Fr 09:00-17:00",
+          "opening_hours:covid19": "restricted",
+          "operator": "CONSELHO MUNICIPAL DE MUEDA",
+          "operator:type": "public",
+          "tourism": "museum"
+        }
+      }
+    }
+  ]
+}

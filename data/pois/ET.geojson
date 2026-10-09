@@ -1,0 +1,3981 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/472548208",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4605368,
+          13.4912938
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 472548208,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Hawelti Museum",
+        "tags": {
+          "name": "Hawelti Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/634308719",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.734786,
+          9.0429478
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 634308719,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kebele 24",
+        "tags": {
+          "amenity": "library",
+          "name": "Kebele 24",
+          "name:am": "ቀበሌ 24 ቤተ መፃህፍት"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/659475986",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7490296,
+          9.0179281
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 659475986,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "National Library & Archives",
+        "tags": {
+          "addr:description": "On the way from CBE Main Branch to Black Lion Hospital in front of Radio Fana",
+          "addr:description:am": "ከኢትዮጵያ ብሄራዊ ባንክ ዋናው ቅርንጫፍ ወደ ጥቁር አንበሳ ሆስፒታል በሚወስደው መንገድ ላይ ከሬድዮ ፋና ፊት ለፊት",
+          "amenity": "library",
+          "name": "National Library & Archives",
+          "name:am": "ብሔራዊ ቤተ መጻሕፍትና ቤተ መዛግብት",
+          "operator": "governmental",
+          "phone": "+251115512242"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/726512070",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7808933,
+          8.9923126
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 726512070,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/791387621",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7330467,
+          9.0375495
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 791387621,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "kebele 30",
+        "tags": {
+          "addr:kebele": "15",
+          "addr:subcity": "Addis Ketema",
+          "amenity": "library",
+          "name": "kebele 30",
+          "opening_hours": "Mo-Fr 08:30-12:00, 13:30-18:00; Sa 8:00-12:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/846907940",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.4897827,
+          7.0569166
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 846907940,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Blue Nile Hotel",
+        "tags": {
+          "contact:phone": "+251(0)462 200 197",
+          "name": "Blue Nile Hotel",
+          "name:am": "ብሉ ናይል",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1175666232",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.1376208,
+          9.3109738
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1175666232,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Harar cultural museum",
+        "tags": {
+          "name": "Harar cultural museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1310156867",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.6531146,
+          7.0760858
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1310156867,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Arboretum",
+        "tags": {
+          "name": "Arboretum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592291912",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.6180206,
+          7.2113465
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1592291912,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Black Lion Museum",
+        "tags": {
+          "name": "Black Lion Museum",
+          "source": "GPS,Photo",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1721648792",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7320495,
+          8.9703183
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1721648792,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "EECMY Library",
+        "tags": {
+          "amenity": "library",
+          "name": "EECMY Library",
+          "name:am": "ኤኤሲኤምዋይ መፅህፍት ቤት",
+          "source": "local knowledge"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2302026052",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7190563,
+          14.1327631
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2302026052,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Archaeological Museum",
+        "tags": {
+          "name": "Archaeological Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2465456179",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7220157,
+          14.126727
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2465456179,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Heritage Foundation Liberary",
+        "tags": {
+          "amenity": "library",
+          "designation": "Liberary",
+          "name": "Heritage Foundation Liberary"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2521275115",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5728597,
+          5.7949518
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2521275115,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2729973759",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2484079,
+          7.2623668
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2729973759,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Coffee Museum",
+        "tags": {
+          "name": "Coffee Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2804996016",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.764444,
+          9.0891942
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2804996016,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Menelik II Palace",
+        "tags": {
+          "name": "Menelik II Palace",
+          "name:ar": "قصر منليك",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4186956862",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.6268749,
+          7.1000272
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4186956862,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "soil lab",
+        "tags": {
+          "amenity": "library",
+          "name": "soil lab"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4267869891",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.8120237,
+          9.0141908
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4267869891,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "EIAR Library",
+        "tags": {
+          "amenity": "library",
+          "name": "EIAR Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4284177389",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.1400569,
+          9.3105957
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4284177389,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Harari Community Museum",
+        "tags": {
+          "name": "Harari Community Museum",
+          "opening_hours": "Mo-Sa 08:00-18:00",
+          "operator": "Government",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4422031689",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2538415,
+          7.533985
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4422031689,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "name:en": "public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4530605283",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7636329,
+          8.2765111
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4530605283,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4697500956",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7699912,
+          9.0401102
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4697500956,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "French Center for Ethiopian Studies / Centre français d'études éthiopiennes (CFEE)",
+        "tags": {
+          "amenity": "library",
+          "internet_access": "yes",
+          "internet_access:fee": "no",
+          "name": "French Center for Ethiopian Studies / Centre français d'études éthiopiennes (CFEE)",
+          "operator": "MAEDI/CNRS"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4703417992",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4615476,
+          13.4894708
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4703417992,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "ቤ/ፅ ህወሓት",
+        "tags": {
+          "name": "ቤ/ፅ ህወሓት",
+          "name:am": "ቤ/ፅ ህወሓት",
+          "name:en": "TPLF-Office",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4740298627",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.46049,
+          13.4940396
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4740298627,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Dimtsi Woyane Radiation ድምፂ ወያነ ትግራይ",
+        "tags": {
+          "name": "Dimtsi Woyane Radiation ድምፂ ወያነ ትግራይ",
+          "name:am": "Dimtsi Woyane Radiation ድምፂ ወያነ ትግራይ",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4762021823",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5530772,
+          6.0250846
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4762021823,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "አ.ም.ዩ ነጭሳር ቤተመጽሐፍት",
+        "tags": {
+          "amenity": "library",
+          "name": "አ.ም.ዩ ነጭሳር ቤተመጽሐፍት",
+          "name:am": "አ.ም.ዩ ነጭሳር ቤተመጽሐፍት",
+          "name:en": "AMU Nechsar library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4762700659",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7232912,
+          9.0838479
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4762700659,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Melesi foundation",
+        "tags": {
+          "name": "Melesi foundation",
+          "name:am": "Melesi foundation",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4800346723",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.8618469,
+          9.5946641
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4800346723,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "name:en": "የህዝብ መፅሐፍት ቤት"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4817569824",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7632966,
+          9.0450573
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4817569824,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "internet_access": "wlan",
+          "name:en": "International leadership institute"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4872029321",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7308022,
+          9.0128897
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4872029321,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "name:en": "EiABC Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4973816821",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5450458,
+          5.9991609
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4973816821,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "name:en": "Chamo Campus Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5035241124",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.681926,
+          8.997547
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5035241124,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "name:en": "Public library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5082926447",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7481771,
+          11.0516118
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5082926447,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "name:en": "WU KIOT"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5082927735",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7473597,
+          11.0507068
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5082927735,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "internet_access": "wlan",
+          "name:en": "KIOT"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5240577221",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7642805,
+          9.0484901
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5240577221,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "name:en": "Gebre Kristos Desta Art Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5302792430",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.833837,
+          9.0206609
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5302792430,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bole Subcity Public Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Bole Subcity Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5302793778",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7170483,
+          8.9531537
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5302793778,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Nefas Silk Subcity Jemo Site Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Nefas Silk Subcity Jemo Site Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5302796405",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.6930479,
+          9.0048582
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5302796405,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kolfe Keranyo Subcity Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Kolfe Keranyo Subcity Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5302801508",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7866999,
+          9.0253179
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5302801508,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Yeka Subcity Public Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Yeka Subcity Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5321394976",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6104879,
+          13.7896533
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5321394976,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Wukro Museum",
+        "tags": {
+          "name": "Wukro Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5352343627",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8728194,
+          7.701035
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5352343627,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "አባ ጅፋር ቤተመንግስት",
+        "tags": {
+          "name": "አባ ጅፋር ቤተመንግስት",
+          "name:en": "King Aba Jifar palace",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5622016522",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.3070795,
+          6.4151725
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5622016522,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "addr:street": "Addis Ababa to Nairobi road",
+          "amenity": "library",
+          "name:en": "Dilla public library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5827481911",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7524511,
+          9.0209632
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5827481911,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "የፖስታ አገልግሎት ድርጅት ላይብረሪ",
+        "tags": {
+          "amenity": "library",
+          "internet_access": "wlan",
+          "name": "የፖስታ አገልግሎት ድርጅት ላይብረሪ",
+          "name:en": "Ethiopian postal service library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5899346232",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4718257,
+          12.6122625
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5899346232,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Gondar Public Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Gondar Public Library",
+          "name:am": "የጎንደር የህዝብ ቤተ መጸሃፍት"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5901715436",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.0445275,
+          12.0344185
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5901715436,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "St. Lalibela Library",
+        "tags": {
+          "amenity": "library",
+          "name": "St. Lalibela Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6003841585",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8849521,
+          7.5519895
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6003841585,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "ቤተ መፃሕፍት",
+        "tags": {
+          "amenity": "library",
+          "name": "ቤተ መፃሕፍት",
+          "name:en": "Engineering and Technology Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6136675431",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7309989,
+          8.9790286
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6136675431,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "email": "zomamuseum@zomamuseum.org",
+          "name:en": "Zoma Museum",
+          "phone": "+251118354262",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6166563391",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1633886,
+          13.6527192
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6166563391,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Open air museum (under construction)",
+        "tags": {
+          "name": "Open air museum (under construction)",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6280109690",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4684759,
+          14.2774381
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6280109690,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "name:en": "ቤተ-ንባብ Small Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6280109691",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.458858,
+          14.2776563
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6280109691,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "name:en": "ህዝባዊ ቤተ-ንባብ Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6357223185",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7421157,
+          9.009357
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6357223185,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Lideta Subcity Public Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Lideta Subcity Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6357236720",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7492289,
+          9.0425013
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6357236720,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Gulele Subcity Public Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Gulele Subcity Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6357261829",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7885166,
+          8.8709417
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6357261829,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Akaki Kality Woreda 01 Public Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Akaki Kality Woreda 01 Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6450296585",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5060085,
+          8.7394056
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6450296585,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "name:en": "Becho church",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6807135120",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8499769,
+          7.5519647
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6807135120,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6807135159",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8516309,
+          7.5520616
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6807135159,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "ሆሳዕና ቤተመፃሕፍት",
+        "tags": {
+          "amenity": "library",
+          "name": "ሆሳዕና ቤተመፃሕፍት",
+          "name:en": "Hossana Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6943219085",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.473946,
+          13.4982275
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6943219085,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "name:en": "Mekelle Public library መቐለ ቤተ ንባብ"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6992130215",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.8106169,
+          8.8852786
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6992130215,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "AASTU LIBRARY2(APPLIED SCEINCE)",
+        "tags": {
+          "amenity": "library",
+          "name": "AASTU LIBRARY2(APPLIED SCEINCE)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7111688747",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4842447,
+          13.4790113
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7111688747,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Collage of Natural and Computitional Library",
+        "tags": {
+          "amenity": "library",
+          "internet_access": "no",
+          "name": "Collage of Natural and Computitional Library",
+          "operator": "owned by Mekelle University",
+          "operator:type": "public"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7111688844",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4833415,
+          13.4801021
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7111688844,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "EITM-library",
+        "tags": {
+          "amenity": "library",
+          "internet_access": "no",
+          "name": "EITM-library",
+          "operator": "Hired by Mekelle university",
+          "operator:type": "public"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7179557586",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7569647,
+          9.0270381
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7179557586,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "The Africa Unbound Museum",
+        "tags": {
+          "name": "The Africa Unbound Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7484288786",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.731002,
+          8.9790096
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7484288786,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Zoma Museum",
+        "tags": {
+          "name": "Zoma Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7756077767",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.8006332,
+          9.019693
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7756077767,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7992241086",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.560345,
+          10.0915983
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7992241086,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "ላይብረሪ",
+        "tags": {
+          "amenity": "library",
+          "name": "ላይብረሪ",
+          "name:en": "Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8376103018",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3789837,
+          11.6001485
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8376103018,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "name:en": "Free street library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8454524226",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.3965669,
+          9.3564466
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8454524226,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "selam motel",
+        "tags": {
+          "addr:city": "funyanbira",
+          "addr:housenumber": "1",
+          "addr:street": "Gursum Road",
+          "museum": "history",
+          "name": "selam motel",
+          "opening_hours": "24/7",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8486054930",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4285363,
+          5.332281
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8486054930,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "name:en": "Konso Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8491502017",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7216563,
+          9.0616203
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8491502017,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "name:en": "Shegole Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9153892179",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8676727,
+          8.7863562
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9153892179,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9205359325",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5710582,
+          8.968275
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9205359325,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Exhibition Center",
+        "tags": {
+          "name": "Exhibition Center",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9243484956",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.709803,
+          7.06443
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9243484956,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Areka Public Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Areka Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9882749717",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.4862781,
+          7.0735468
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9882749717,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "ሀዋሣ ዩኒቨርሲቲ ግብርና ኮሌጅ ላይብረሪ",
+        "tags": {
+          "amenity": "library",
+          "name": "ሀዋሣ ዩኒቨርሲቲ ግብርና ኮሌጅ ላይብረሪ",
+          "name:en": "Hawassa University college of agriculture library",
+          "opening_hours": "Mo-Su 08:00-18:00",
+          "website": "https://www.hu.edu.et/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10126018618",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7358111,
+          9.0177713
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10126018618,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "HOME",
+        "tags": {
+          "name": "HOME",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10157904119",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9062407,
+          7.2457386
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10157904119,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "ዊማ ቤተ-መጽሐፍት",
+        "tags": {
+          "amenity": "library",
+          "name": "ዊማ ቤተ-መጽሐፍት",
+          "name:en": "Wima library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10860780406",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4285676,
+          5.3327285
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10860780406,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Closed, no Museum (April2023)",
+        "tags": {
+          "name": "Closed, no Museum (April2023)",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11154754444",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7526667,
+          9.0198987
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11154754444,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Post Museum",
+        "tags": {
+          "name": "Post Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11385038771",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4600497,
+          13.4984283
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11385038771,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "tourism": "information"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11808849006",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5712094,
+          8.9684929
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11808849006,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "ሱባ መናገሻ ኤግዚቢሽን",
+        "tags": {
+          "name": "ሱባ መናገሻ ኤግዚቢሽን",
+          "name:en": "suba menagesha exhibition",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11808849197",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7628413,
+          9.0300707
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11808849197,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "አብርሆት ላይብረሪ",
+        "tags": {
+          "amenity": "library",
+          "name": "አብርሆት ላይብረሪ",
+          "name:en": "Abrhot Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12980215601",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.76331,
+          9.0255069
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12980215601,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "name:en": "Unity Archive",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43039913",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7602373,
+          9.0472592
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 43039913,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "የኬኔዲ መታሰቢያ ቤተመፃህፍት",
+        "tags": {
+          "addr:postcode": "1176",
+          "addr:street": "Algeria Street",
+          "amenity": "library",
+          "building": "yes",
+          "building:levels": "3",
+          "internet_access": "wlan",
+          "name": "የኬኔዲ መታሰቢያ ቤተመፃህፍት",
+          "name:am": "የኬኔዲ መታሰቢያ ቤተመፃህፍት",
+          "name:en": "J.F. Kennedy Memorial Library",
+          "opening_hours": "24/7",
+          "source": "YAHOO! aerial imagery",
+          "website": "https://www.aau.edu.et/library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/49991016",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7328888,
+          9.0352199
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 49991016,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Addis Ketema",
+        "tags": {
+          "amenity": "library",
+          "name": "Addis Ketema"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/51001239",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7620474,
+          9.0214104
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 51001239,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Ethiopia Museum of Art and Science",
+        "tags": {
+          "museum": "museum",
+          "name": "Ethiopia Museum of Art and Science",
+          "name:am": "የኢትዮጵያ የሥነ ጥበብ እና የሳይንስ ሙዚየም",
+          "name:en": "Ethiopia Museum of Art and Science",
+          "operator": "Government",
+          "operator:type": "government",
+          "start_date": "2022-10-04",
+          "tourism": "museum",
+          "wikidata": "Q115101919",
+          "wikipedia": "en:Ethiopia Museum of Art and Science"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/64261597",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7265718,
+          9.0335231
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 64261597,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Yekatit 23",
+        "tags": {
+          "amenity": "library",
+          "name": "Yekatit 23"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197497865",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7626553,
+          8.9737988
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 197497865,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/200657423",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7576403,
+          9.0467157
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 200657423,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "የኢትዮጵያ ጥናትና ምርምር ተቋም",
+        "tags": {
+          "alt_name:en": "Ethnological Museum",
+          "alt_name:es": "Museo Etnológico",
+          "building": "yes",
+          "fee": "yes",
+          "museum": "history",
+          "name": "የኢትዮጵያ ጥናትና ምርምር ተቋም",
+          "name:am": "የኢትዮጵያ ጥናትና ምርምር ተቋም",
+          "name:en": "Institute of Ethiopian Studies",
+          "name:es": "Instituto de Estudios Etíopes",
+          "start_date": "1963",
+          "tourism": "museum",
+          "wikidata": "Q6585314",
+          "wikimedia_commons": "Category:Ethnological Museum, Addis Ababa",
+          "wikipedia": "en:Ethnological Museum, Addis Ababa"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/200657467",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7618566,
+          9.0380197
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 200657467,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "የኢትዮጵያ ብሔራዊ ሙዚየም",
+        "tags": {
+          "building": "yes",
+          "fee": "yes",
+          "name": "የኢትዮጵያ ብሔራዊ ሙዚየም",
+          "name:am": "የኢትዮጵያ ብሔራዊ ሙዚየም",
+          "name:en": "National Museum of Ethiopia",
+          "name:es": "Museo Nacional de Etiopía",
+          "operator:type": "public",
+          "subject": "history",
+          "tourism": "museum",
+          "wheelchair": "no",
+          "wikidata": "Q2652168",
+          "wikipedia": "en:National Museum of Ethiopia"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/202426504",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7629728,
+          9.010194
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 202426504,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "የቀይ ሽብር ሰማዕታት መታሰቢያ ሙዚየም",
+        "tags": {
+          "addr:city": "አዲስ አበባ;Addis Ababa",
+          "addr:country": "ET",
+          "addr:street": "Meskel Square",
+          "building": "yes",
+          "name": "የቀይ ሽብር ሰማዕታት መታሰቢያ ሙዚየም",
+          "name:am": "የቀይ ሽብር ሰማዕታት መታሰቢያ ሙዚየም",
+          "name:en": "Red Terror Martyrs' Memorial Museum",
+          "name:es": "Museo Memorial de los Mártires del Terror Rojo",
+          "opening_hours": "Mo-Su 08:00-18:30",
+          "phone": "+251 11 850 6730",
+          "short_name": "RTMMM",
+          "tourism": "museum",
+          "website": "https://www.rtmmm.org/",
+          "wikidata": "Q15856263",
+          "wikimedia_commons": "Category:Red Terror Martyrs' Memorial Museum",
+          "wikipedia": "en:\"Red Terror\" Martyrs' Memorial Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/202560018",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7627594,
+          9.0093236
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 202560018,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "አዲስ አበባ ሙዚየም",
+        "tags": {
+          "addr:city": "አዲስ አበባ",
+          "barrier": "wall",
+          "name": "አዲስ አበባ ሙዚየም",
+          "name:am": "አዲስ አበባ ሙዚየም",
+          "name:de": "Museum Addis Ababa",
+          "name:en": "Addis Ababa Museum",
+          "name:es": "Museo Adís Abeba",
+          "tourism": "museum",
+          "wikidata": "Q56072786"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/223375921",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.1379149,
+          9.309916
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 223375921,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Arthur Rimbaud Museum",
+        "tags": {
+          "building": "yes",
+          "building:levels": "2",
+          "name": "Arthur Rimbaud Museum",
+          "source": "aerial imagery;Maxar Standard;local knowledge",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/223375926",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.1373694,
+          9.3098477
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 223375926,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Haile Selassie House",
+        "tags": {
+          "building": "yes",
+          "building:levels": "2",
+          "description": "Main building of the Museum",
+          "name": "Haile Selassie House",
+          "source": "aerial imagery;Maxar Standard;local knowledge",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/242459105",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3976931,
+          11.5726969
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 242459105,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Postgraduate Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Postgraduate Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262791602",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.720145,
+          14.129893
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 262791602,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "New Spritual Museum, Church of Our Lady Mary of Zion",
+        "tags": {
+          "building": "museum",
+          "name": "New Spritual Museum, Church of Our Lady Mary of Zion",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262791605",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7195234,
+          14.1300382
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 262791605,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Old Museum, Church of Our Lady Mary of Zion",
+        "tags": {
+          "building": "museum",
+          "name": "Old Museum, Church of Our Lady Mary of Zion",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/264276430",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4782213,
+          13.4979866
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 264276430,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Emperor Yohannes Palace",
+        "tags": {
+          "building": "museum",
+          "name": "Emperor Yohannes Palace",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/266054182",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.0431408,
+          12.0342213
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 266054182,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "የላሊበላ ባህል ማእከል",
+        "tags": {
+          "building": "yes",
+          "layer": "1",
+          "name": "የላሊበላ ባህል ማእከል",
+          "name:am": "የላሊበላ ባህል ማእከል",
+          "name:en": "Lalibela Cultural Center",
+          "name:es": "Centro Cultural de Lalibela",
+          "operator": "Amhara National Regional State",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/266054184",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.0431081,
+          12.0342182
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 266054184,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "የላሊበላ ኢትኖግራፊክ ሙዚየም",
+        "tags": {
+          "building": "museum",
+          "name": "የላሊበላ ኢትኖግራፊክ ሙዚየም",
+          "name:am": "የላሊበላ ኢትኖግራፊክ ሙዚየም",
+          "name:en": "Lalibela Ethnographic Museum",
+          "name:es": "Museo Etnográfico de Lalibela",
+          "operator": "Amhara National Regional State",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/310082579",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5567121,
+          6.0335006
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 310082579,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/374104781",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5918844,
+          6.0297438
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 374104781,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/374436988",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.6102233,
+          8.4326481
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 374436988,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "name:en": "Tiya Stele Museum & Visitors Center",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/379308563",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.8469974,
+          9.71245
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 379308563,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Debre Libanos museum",
+        "tags": {
+          "building": "yes",
+          "name": "Debre Libanos museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/385685561",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7645431,
+          9.0893786
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 385685561,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Menelik II Palace",
+        "tags": {
+          "area": "yes",
+          "name": "Menelik II Palace",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/407300035",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7634414,
+          9.0901812
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 407300035,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/407599886",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4683122,
+          13.4806927
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 407599886,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Youth Library",
+        "tags": {
+          "addr:city": "Mekelle",
+          "amenity": "library",
+          "building": "yes",
+          "height": "3",
+          "name": "Youth Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/424918930",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.6913984,
+          9.0623598
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 424918930,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/497723918",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7308339,
+          9.0128738
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 497723918,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "EiABC",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "internet_access": "yes",
+          "internet_access:fee": "no",
+          "name": "EiABC"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/503868816",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3972729,
+          11.5725839
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 503868816,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Science Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Science Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/513307791",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4855203,
+          13.4797197
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 513307791,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Agriculture Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Agriculture Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/553536334",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.0398348,
+          12.0275696
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 553536334,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "የላሊበላ ባህል ማዕከል",
+        "tags": {
+          "building": "yes",
+          "name": "የላሊበላ ባህል ማዕከል",
+          "name:am": "የላሊበላ ባህል ማዕከል",
+          "name:en": "Lalibela Cultural Center",
+          "name:es": "Centro Cultural de Lalibela",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/553536336",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.0400554,
+          12.0277623
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 553536336,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/586341552",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9908685,
+          10.5030858
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 586341552,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "liberary",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "liberary"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/717843156",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.8316389,
+          9.0231824
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 717843156,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "ECSU Main Library",
+        "tags": {
+          "addr:city": "Addis Ababa",
+          "addr:postcode": "5648",
+          "addr:street": "YK_13_0605 St.",
+          "amenity": "library",
+          "building": "yes",
+          "name": "ECSU Main Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/786458102",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3417228,
+          11.6948673
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 786458102,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "የኡራ ኪዳነ ምሕረት ቤተ ክርስቲያን ቤተ መዘክር",
+        "tags": {
+          "building": "yes",
+          "name": "የኡራ ኪዳነ ምሕረት ቤተ ክርስቲያን ቤተ መዘክር",
+          "name:am": "የኡራ ኪዳነ ምሕረት ቤተ ክርስቲያን ቤተ መዘክር",
+          "name:en": "Ura Kidane Mehret Church Museum",
+          "name:es": "Museo de la Iglesia del Pacto de la Misericordia de Ura",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/832563032",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8522813,
+          7.6811834
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 832563032,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Social Science Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "internet_access": "yes",
+          "name": "Social Science Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/906533822",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5468868,
+          9.0906951
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 906533822,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "wollega Museum",
+        "tags": {
+          "addr:city": "nekemt",
+          "building": "yes",
+          "name": "wollega Museum",
+          "opening_hours": "sunrise-sunset",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1049534695",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7624583,
+          9.0303254
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1049534695,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Abrehot Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Abrehot Library",
+          "name:am": "አብርሆት ቤተ መጽሐፍት"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1202277939",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7513036,
+          9.0374097
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1202277939,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "fee": "yes",
+          "name:en": "Church of Saint George Museum",
+          "name:es": "Museo de la Iglesia de San Jorge",
+          "opening_hours": "Mo-Su 08:00-12:00; 15:00-18:00",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1203333175",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7628079,
+          9.009389
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1203333175,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1219017089",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.400386,
+          11.5963816
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1219017089,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Jan Moskov Library",
+        "tags": {
+          "amenity": "library",
+          "building": "university",
+          "name": "Jan Moskov Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1225871453",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7544551,
+          6.8339895
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1225871453,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "source": "Bing",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1376468486",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8838442,
+          7.5563013
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1376468486,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Natural And Computational Science Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Natural And Computational Science Library",
+          "opening_hours": "Mo-Su 07:00-23:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1376468487",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8847754,
+          7.556272
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1376468487,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Health Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Health Library",
+          "opening_hours": "Mo-Su 07:00-23:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1376468490",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8849742,
+          7.5520302
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1376468490,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Engineering and Technology Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "internet_access": "yes",
+          "name": "Engineering and Technology Library",
+          "opening_hours": "Mo-Su 07:00-22:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1376468491",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8833117,
+          7.5520267
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1376468491,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Fresh Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "internet_access": "yes",
+          "name": "Fresh Library",
+          "opening_hours": "Mo-Su 07:00-22:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1449493360",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.0012047,
+          13.6216122
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1449493360,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1513943408",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.745436,
+          10.3302765
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1513943408,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "layer": "1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1536662081",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3641097,
+          11.6522255
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1536662081,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "የክብራን ቅዱስ ገብርኤል አንድነት ገዳም ቤተ መዘክር",
+        "tags": {
+          "barefoot": "required",
+          "building": "yes",
+          "fee": "yes",
+          "female": "no",
+          "name": "የክብራን ቅዱስ ገብርኤል አንድነት ገዳም ቤተ መዘክር",
+          "name:am": "የክብራን ቅዱስ ገብርኤል አንድነት ገዳም ቤተ መዘክር",
+          "name:en": "Kibran St. Gabrael Unity of Monastery Museum",
+          "name:es": "Museo del Monasterio de la Unidad de San Gabriel de Kibran",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1536662096",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3644508,
+          11.6506789
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1536662096,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "የክብራን ቅዱስ ገብርኤል አንድነት ገዳም ቤተ መዘክር",
+        "tags": {
+          "building": "yes",
+          "description": "Museo para las mujeres",
+          "name": "የክብራን ቅዱስ ገብርኤል አንድነት ገዳም ቤተ መዘክር",
+          "name:am": "የክብራን ቅዱስ ገብርኤል አንድነት ገዳም ቤተ መዘክር",
+          "name:en": "Kibran St. Gabrael Unity of Monastery Museum",
+          "name:es": "Museo del Monasterio de la Unidad de San Gabriel de Kibran",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1536662098",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3674773,
+          11.6457605
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1536662098,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "የእንጦስ ኢየሱስ የሴቶች አንድነት ገዳም ቤተ መዘክር",
+        "tags": {
+          "building": "yes",
+          "fee": "yes",
+          "name": "የእንጦስ ኢየሱስ የሴቶች አንድነት ገዳም ቤተ መዘክር",
+          "name:am": "የእንጦስ ኢየሱስ የሴቶች አንድነት ገዳም ቤተ መዘክር",
+          "name:en": "Entos Eyesus Nuns United Monastery Museum",
+          "name:es": "Museo del Monasterio de la Unidad de Monjas de Jesús de Entos",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1538917862",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.1372735,
+          9.309673
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1538917862,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/3276954",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3972934,
+          11.5755285
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 3276954,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Business and Economy Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Business and Economy Library",
+          "type": "multipolygon"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/11025645",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5989217,
+          8.7041242
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 11025645,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Melka Kunture Archaeological Site Museum",
+        "tags": {
+          "access": "permissive",
+          "building": "yes",
+          "historic:civilization": "prehistoric",
+          "museum": "history",
+          "name": "Melka Kunture Archaeological Site Museum",
+          "source": "aerial imagery;Maxar Standard;local knowledge",
+          "tourism": "museum",
+          "type": "building"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/13692704",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7653373,
+          9.0329975
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 13692704,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Archaeology Museum",
+        "tags": {
+          "addr:city": "Addis Ababa",
+          "building": "yes",
+          "name": "Archaeology Museum",
+          "operator": "Addis Ababa University",
+          "tourism": "museum",
+          "type": "multipolygon"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/13969400",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.587615,
+          9.0738733
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 13969400,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Wollega University Library and Documentation Center",
+        "tags": {
+          "amenity": "library",
+          "building": "library",
+          "contact:email": "wollegalib@gmail.com",
+          "contact:phone": "+251911796987",
+          "contact:website": "https://www.wollegalibrary.com/",
+          "name": "Wollega University Library and Documentation Center",
+          "name:en": "Wollega University Library and Documentation Center",
+          "start_date": "2007",
+          "type": "multipolygon"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/20780702",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7524555,
+          9.0346085
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 20780702,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "የዓድዋ ድል መታሰብያ ሙዝየም",
+        "tags": {
+          "addr:city": "አዲስ አበባ / Addis Ababa",
+          "building": "yes",
+          "building:levels": "6;2",
+          "name": "የዓድዋ ድል መታሰብያ ሙዝየም",
+          "name:en": "Adwa Victory Memorial Museum",
+          "name:es": "Museo Memorial de la Victoria de Adwa",
+          "tourism": "museum",
+          "type": "multipolygon"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/21097277",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.1373354,
+          9.3097645
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 21097277,
+        "country": "Ethiopia",
+        "alpha_2": "ET",
+        "countries": [
+          "ET"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Sherif Harar City Museum",
+        "tags": {
+          "fee": "yes",
+          "name": "Sherif Harar City Museum",
+          "tourism": "museum",
+          "type": "site"
+        }
+      }
+    }
+  ]
+}

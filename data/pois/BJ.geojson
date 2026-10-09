@@ -1,0 +1,2250 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/457853151",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.624335,
+          9.3635505
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 457853151,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "U.GE.I.CO",
+        "tags": {
+          "amenity": "library",
+          "name": "U.GE.I.CO"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2197535131",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1069117,
+          10.1775358
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2197535131,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre de lecture et des activités culturelles",
+        "tags": {
+          "amenity": "library",
+          "name": "Centre de lecture et des activités culturelles"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2197535163",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1065293,
+          10.1772911
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2197535163,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "L'ONG les mille lucioles",
+        "tags": {
+          "amenity": "library",
+          "name": "L'ONG les mille lucioles"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2246187512",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3790751,
+          9.6780555
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2246187512,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "ONG",
+        "tags": {
+          "amenity": "library",
+          "name": "ONG"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2424004347",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4165815,
+          6.3604872
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2424004347,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mini Bibliothèque JEAN PLYA",
+        "tags": {
+          "amenity": "library",
+          "name": "Mini Bibliothèque JEAN PLYA",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2432443656",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6185267,
+          9.3289728
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2432443656,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée ethnographique et de plein air de Parakou",
+        "tags": {
+          "name": "Musée ethnographique et de plein air de Parakou",
+          "tourism": "museum",
+          "wikidata": "Q2784689",
+          "wikipedia": "fr:Musée ethnographique et de plein air de Parakou"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2436724598",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0832343,
+          6.3225582
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2436724598,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de la Porte du Non-Retour",
+        "tags": {
+          "name": "Musée de la Porte du Non-Retour",
+          "opening_hours": "Tu-Su,PH 09:00-13:00,15:00-18:00",
+          "tourism": "museum",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2436724601",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0760861,
+          6.3563056
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2436724601,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Maison de Mémoire (Maison du Brésil)",
+        "tags": {
+          "name": "Maison de Mémoire (Maison du Brésil)",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2437725667",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4682948,
+          7.2540801
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2437725667,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Mini-Musée",
+        "tags": {
+          "name": "Mini-Musée",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2438738898",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7145753,
+          6.6325629
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2438738898,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée du Musicien Gnonnas Pedro",
+        "tags": {
+          "name": "Musée du Musicien Gnonnas Pedro",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2461636943",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5961328,
+          9.3458513
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2461636943,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre Socio-Culturel Okouabo",
+        "tags": {
+          "amenity": "library",
+          "name": "Centre Socio-Culturel Okouabo"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2521518636",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.629108,
+          9.3415916
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2521518636,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre Culturelle Francais",
+        "tags": {
+          "amenity": "library",
+          "name": "Centre Culturelle Francais"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3091038112",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3430109,
+          6.4148789
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3091038112,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Centrale de L'UAC",
+        "tags": {
+          "amenity": "library",
+          "internet_access": "wlan",
+          "name": "Bibliothèque Centrale de L'UAC",
+          "opening_hours": "Mo-Fr 09:00-16:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3368190783",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3638372,
+          6.3887493
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3368190783,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "ASSOCIATION Innov'ART Bénin",
+        "tags": {
+          "amenity": "library",
+          "contact:phone": "21037954",
+          "name": "ASSOCIATION Innov'ART Bénin",
+          "office": "association",
+          "source": "survey;GPS"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3539644411",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3421237,
+          6.4142388
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3539644411,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque EPAC",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque EPAC",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3539644412",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3437931,
+          6.4161199
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3539644412,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Fadesp",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Fadesp"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3731667030",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3643666,
+          6.3920553
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3731667030,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3926196902",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0853627,
+          6.3615035
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3926196902,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Fondation Zinsou",
+        "tags": {
+          "condition": "good",
+          "name": "Fondation Zinsou",
+          "operator_type": "private",
+          "project:cartotourisme_museum": "yes",
+          "source": "cartotourisme",
+          "status": "official",
+          "toilets:wheelchair": "yes",
+          "tourism": "museum",
+          "wikidata": "Q67931810"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3927625587",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6127633,
+          6.4710553
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3927625587,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "MUSEE D'ART ET HISTOEIQUE YORUBA",
+        "tags": {
+          "name": "MUSEE D'ART ET HISTOEIQUE YORUBA",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3927625588",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6198119,
+          6.4734279
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3927625588,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Office de Tourisme",
+        "tags": {
+          "contact:phone": "97493800",
+          "contact:website": "http://portonovotourisme.com",
+          "name": "Office de Tourisme",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4135367701",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5420855,
+          6.5869185
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4135367701,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "PALAIS ROYAL DE KE",
+        "tags": {
+          "name": "PALAIS ROYAL DE KE",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4250001156",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1926851,
+          6.3834432
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4250001156,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4431338552",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6251621,
+          6.4693284
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4431338552,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Honmè",
+        "tags": {
+          "name": "Musée Honmè",
+          "tourism": "museum",
+          "wikidata": "Q2784858",
+          "wikipedia": "en:Royal Palace, Porto-Novo"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4471518990",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6204055,
+          6.4836238
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4471518990,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "LP House magasin de vinyles",
+        "tags": {
+          "addr:housenumber": "130",
+          "addr:street": "rue katchi C16",
+          "amenity": "library",
+          "email": "bigjo34@hotmail.fr",
+          "name": "LP House magasin de vinyles",
+          "name:en": "LP House",
+          "name:fr": "LP House magasin de vinyles",
+          "phone": "+22996766875"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5053364322",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4206861,
+          6.3625552
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5053364322,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Fondation Zinsou",
+        "tags": {
+          "addr:city": "Cotonou",
+          "addr:country": "BJ",
+          "addr:postcode": "01 BP 7053",
+          "addr:street": "Rue des Missions (7.012)",
+          "email": "information@fondationzinsou.org",
+          "name": "Fondation Zinsou",
+          "name:fr": "Fondation Zinsou",
+          "opening_hours": "Mo 13:00-19:00; Tu-Fr 8:30-19:00; Sa 10:00-19:00",
+          "phone": "+229 21 30 99 25",
+          "tourism": "museum",
+          "website": "http://www.fondationzinsou.org",
+          "wikidata": "Q3075592",
+          "wikipedia": "fr:Fondation Zinsou"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5420325321",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3417011,
+          6.3829124
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5420325321,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre Jésuite de Recherche d’Étude et de Créativité (CREC)",
+        "tags": {
+          "amenity": "library",
+          "name": "Centre Jésuite de Recherche d’Étude et de Créativité (CREC)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5784760560",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2701124,
+          10.6206748
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5784760560,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre de lecture et d'animation culturelle de Tanguieta",
+        "tags": {
+          "amenity": "library",
+          "name": "Centre de lecture et d'animation culturelle de Tanguieta"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6330750192",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0878162,
+          6.3229457
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6330750192,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Porte du Non-Retour",
+        "tags": {
+          "condition": "good",
+          "description": "Place rappelant l'esclavage de vos ancêtres.",
+          "name": "Porte du Non-Retour",
+          "operator_type": "community",
+          "project:cartotourisme_museum": "yes",
+          "source": "cartotourisme",
+          "status": "official",
+          "toilets:wheelchair": "no",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6330840849",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0901242,
+          6.3588947
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6330840849,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée d'histoire de Ouidah",
+        "tags": {
+          "condition": "good",
+          "description": "Ce site fut un fort portugais de 1721 à 1961. Il devint musée d'histoire en 1967.",
+          "email": "ayetokoba@gmail.com",
+          "name": "Musée d'histoire de Ouidah",
+          "name:pt": "Museu de História de Ajudá",
+          "operator_type": "government",
+          "phone": "+229 97334558",
+          "project:cartotourisme_museum": "yes",
+          "source": "cartotourisme",
+          "status": "official",
+          "toilets:wheelchair": "yes",
+          "tourism": "museum",
+          "website": "https://www.museeouidah.org/",
+          "wikidata": "Q1969968",
+          "wikipedia": "fr:Fort portugais de Ouidah"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6330840857",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0895803,
+          6.3242524
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6330840857,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Porte du Non-Retour",
+        "tags": {
+          "condition": "good",
+          "description": "Memorial du grand jubilé de l'an 2000...hommage au premier messager de la bonne nouvelle au dahomey",
+          "name": "Porte du Non-Retour",
+          "operator_type": "community",
+          "project:cartotourisme_museum": "yes",
+          "source": "cartotourisme",
+          "status": "official",
+          "toilets:wheelchair": "no",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6416494505",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3940311,
+          6.4636144
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6416494505,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Maison de la francophonie",
+        "tags": {
+          "name": "Maison de la francophonie",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6440847611",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6016757,
+          7.3634584
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6440847611,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Akaba Idena",
+        "tags": {
+          "condition": "good",
+          "description": "Appelée Akaba-Idénan (en yoruba, akaba signifie \" porte \" ; idenan signifie \" qui barre la voie \" ou encore \" la Porte magique \"), cette porte marquait l'entrée principale menant à la cité autrefois protégée par un profond fossé, long de 15 km. La porte ",
+          "name": "Musée Akaba Idena",
+          "operator_type": "community",
+          "project:cartotourisme_museum": "yes",
+          "source": "cartotourisme",
+          "status": "official",
+          "toilets:wheelchair": "no",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6524137185",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0890706,
+          6.3410953
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6524137185,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Case de Zomaï, route des esclaves",
+        "tags": {
+          "name": "Case de Zomaï, route des esclaves",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6524137285",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0893451,
+          6.3397194
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6524137285,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Fosse commune, route des esclaves",
+        "tags": {
+          "name": "Fosse commune, route des esclaves",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6895419663",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9169156,
+          6.5553806
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6895419663,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Aglé Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "name": "Aglé Bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7144903987",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6212588,
+          6.47231
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7144903987,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée du Voudon",
+        "tags": {
+          "name": "Musée du Voudon",
+          "name:en": "Voodoo-Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7176107495",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3361493,
+          6.4143314
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7176107495,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Fondation Vallet",
+        "tags": {
+          "amenity": "library",
+          "name": "Fondation Vallet"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7198609106",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6192724,
+          6.4756613
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7198609106,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7198717097",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9872084,
+          7.9295953
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7198717097,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Chasse & FA",
+        "tags": {
+          "name": "Chasse & FA",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7271522976",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3396494,
+          6.3918342
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7271522976,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Excellence",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Excellence",
+          "operator": "Fondation Vallet"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7335177985",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3641429,
+          7.7205402
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7335177985,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Palais Royal de Atinkpaye",
+        "tags": {
+          "name": "Palais Royal de Atinkpaye",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8583411948",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.620295,
+          6.4707256
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8583411948,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Da-Silva",
+        "tags": {
+          "museum": "history",
+          "name": "Musée Da-Silva",
+          "source": "local knowledge;streetlevel imagery;aerial imagery",
+          "tourism": "museum",
+          "wikidata": "Q106834446",
+          "wikipedia": "fr:Musée Da-Silva"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9566040068",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0220264,
+          7.1803105
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9566040068,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Residence du prince walino Gbehanzin",
+        "tags": {
+          "name": "Residence du prince walino Gbehanzin",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10823874977",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6194307,
+          6.8869353
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10823874977,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10970501526",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6294465,
+          9.3413058
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10970501526,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque départementale du borgou",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque départementale du borgou"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10970504824",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.633736,
+          9.3549406
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10970504824,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "BIBLIOTHÈQUE PRIVÉE S.L.B.",
+        "tags": {
+          "amenity": "library",
+          "name": "BIBLIOTHÈQUE PRIVÉE S.L.B."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10970521413",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6098323,
+          9.3427
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10970521413,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Ong personnes sans frontière",
+        "tags": {
+          "amenity": "library",
+          "name": "Ong personnes sans frontière"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10980741060",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.628024,
+          9.3660312
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10980741060,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "CAEB3",
+        "tags": {
+          "amenity": "library",
+          "name": "CAEB3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11107547712",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9998372,
+          7.1827976
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11107547712,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Palais Agonglo",
+        "tags": {
+          "name": "Palais Agonglo",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11107751005",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9934034,
+          7.1830655
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11107751005,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Atelier de Tenture et temple Vodum",
+        "tags": {
+          "name": "Atelier de Tenture et temple Vodum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11151487905",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.391547,
+          6.3566512
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11151487905,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "La galerie nationale",
+        "tags": {
+          "name": "La galerie nationale",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11945872320",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6275774,
+          9.3658917
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11945872320,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Fondation Vallet",
+        "tags": {
+          "amenity": "library",
+          "name": "Fondation Vallet"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12151481911",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5876093,
+          7.3314985
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12151481911,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Forêt ORO de Kpankou",
+        "tags": {
+          "name": "Forêt ORO de Kpankou",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12159541905",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5971453,
+          7.358298
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12159541905,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "COLLECTIVITÉ MEFU OKPO KÉTOU",
+        "tags": {
+          "name": "COLLECTIVITÉ MEFU OKPO KÉTOU",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12159542008",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5977045,
+          7.3597486
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12159542008,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "COLLECTIVITÉ ESHÓ ONIKOÏ",
+        "tags": {
+          "description": "ACHÈLÈKÈ",
+          "name": "COLLECTIVITÉ ESHÓ ONIKOÏ",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12175211056",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5970836,
+          7.3534226
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12175211056,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Maison GUÈLÈDE KÉTOU",
+        "tags": {
+          "name": "Maison GUÈLÈDE KÉTOU",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12198975623",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5958463,
+          8.8881318
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12198975623,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Maison du roi de tchaorou",
+        "tags": {
+          "name": "Maison du roi de tchaorou",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13430253001",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1708558,
+          6.6660784
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13430253001,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Palais royal d'Allada",
+        "tags": {
+          "name": "Palais royal d'Allada",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13430253101",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9726552,
+          7.9314903
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13430253101,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Palais royal de Savalou",
+        "tags": {
+          "castle_type": "palace",
+          "historic": "castle",
+          "museum": "history",
+          "name": "Palais royal de Savalou",
+          "tourism": "museum",
+          "wikidata": "Q66436547"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13449221482",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.379782,
+          6.347635
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13449221482,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Avion sur la plage",
+        "tags": {
+          "museum": "aviation",
+          "name": "Avion sur la plage",
+          "tourism": "museum",
+          "wikimedia_commons": "File:Lockheed_TriStar,_épave_d'un_avion-restaurant_immobilisé_sur_la_plage_de_Cotonou_au_Bénin.jpg"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14234263482",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6202094,
+          6.472829
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 14234263482,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Panthéon Negro-Africain",
+        "tags": {
+          "addr:city": "Porto-Novo",
+          "addr:street": "Place Bayol",
+          "name": "Panthéon Negro-Africain",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/195246882",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3803631,
+          10.3108944
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 195246882,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée d’Arts et de Traditions Populaires",
+        "tags": {
+          "building": "yes",
+          "email": "museenattingou@gmail.com",
+          "name": "Musée d’Arts et de Traditions Populaires",
+          "opening_hours": "Mo-Su 08:30-18:30",
+          "tourism": "museum",
+          "wikipedia": "fr:Musée régional de Natitingou"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/347676665",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3405708,
+          6.4182293
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 347676665,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Vieyra",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque Vieyra",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/347695350",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3409609,
+          6.4160648
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 347695350,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Centre de Documentation",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque Centre de Documentation"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/466946882",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.382406,
+          10.2906404
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 466946882,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Librairie de l'evêché",
+        "tags": {
+          "amenity": "library",
+          "building": "commercial",
+          "description": "Librairie, papeterie",
+          "name": "Librairie de l'evêché"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/466948445",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3814676,
+          10.2545711
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 466948445,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Kaba",
+        "tags": {
+          "building": "yes",
+          "email": "museenatitingou@gmail.com",
+          "name": "Musée Kaba",
+          "tourism": "museum",
+          "wikidata": "Q66436141"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/497773307",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6721961,
+          9.0037566
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 497773307,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "CLAC",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "CLAC"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/515623539",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0667411,
+          6.3711856
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 515623539,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/606261727",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8251099,
+          6.2788514
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 606261727,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Petit Musée",
+        "tags": {
+          "addr:city": "Grand-Popo",
+          "building": "yes",
+          "museum": "history",
+          "name": "Petit Musée",
+          "operator": "Villa Karo",
+          "operator:type": "community",
+          "source": "Images mondiales Esri",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/606261730",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8253864,
+          6.2796079
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 606261730,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Karo",
+        "tags": {
+          "addr:city": "Grand-Popo",
+          "building": "yes",
+          "museum": "history",
+          "name": "Musée Karo",
+          "operator": "Villa Karo",
+          "operator:type": "private_non_profit",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/655602745",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9932341,
+          7.1859466
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 655602745,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/737061523",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2080877,
+          9.9258176
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 737061523,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de Nikki",
+        "tags": {
+          "name": "Musée de Nikki",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/809998514",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9717616,
+          7.0861583
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 809998514,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Palais du Roi Guèzo - Musée des Arts et Traditions",
+        "tags": {
+          "barrier": "wall",
+          "landuse": "commercial",
+          "name": "Palais du Roi Guèzo - Musée des Arts et Traditions",
+          "tourism": "museum",
+          "website": "https://www.youtube.com/watch?v=nQW43QFN72M"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/816523544",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2356897,
+          6.4233721
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 816523544,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Azandé",
+        "tags": {
+          "barrier": "wall",
+          "landuse": "commercial",
+          "name": "Musée Azandé",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/818666382",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6161703,
+          6.6538925
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 818666382,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée éthnographique",
+        "tags": {
+          "barrier": "fence",
+          "name": "Musée éthnographique",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/819750862",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6058478,
+          6.5120805
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 819750862,
+        "country": "Benin",
+        "alpha_2": "BJ",
+        "countries": [
+          "BJ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Nationale du Bénin",
+        "tags": {
+          "amenity": "library",
+          "barrier": "wall",
+          "landuse": "commercial",
+          "name": "Bibliothèque Nationale du Bénin",
+          "wikidata": "Q6974139"
+        }
+      }
+    }
+  ]
+}

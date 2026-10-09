@@ -1,0 +1,804 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1056988310",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.4998897,
+          14.8941511
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1056988310,
+        "country": "Cape Verde (Cabo Verde)",
+        "alpha_2": "CV",
+        "countries": [
+          "CV"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museo Municipal",
+        "tags": {
+          "fee": "yes",
+          "name": "Museo Municipal",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2668358690",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.499816,
+          14.894298
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2668358690,
+        "country": "Cape Verde (Cabo Verde)",
+        "alpha_2": "CV",
+        "countries": [
+          "CV"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Casa da Memória",
+        "tags": {
+          "description": "Merchant's house which was built in 1820. (Source: Wikipedia)",
+          "name": "Casa da Memória",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4425997890",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.5080866,
+          14.9172137
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4425997890,
+        "country": "Cape Verde (Cabo Verde)",
+        "alpha_2": "CV",
+        "countries": [
+          "CV"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Sala-Museu Amílcar Cabral",
+        "tags": {
+          "name": "Sala-Museu Amílcar Cabral",
+          "name:de": "Museum Amilcar Cabral",
+          "name:pt": "Sala-Museu Amílcar Cabral",
+          "operator": "Fundaçau Amilcar Cabral",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6219262353",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.065278,
+          17.1834161
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6219262353,
+        "country": "Cape Verde (Cabo Verde)",
+        "alpha_2": "CV",
+        "countries": [
+          "CV"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Biblioteca Municipal",
+        "tags": {
+          "amenity": "library",
+          "name": "Biblioteca Municipal"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6223329019",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.9811293,
+          16.7574531
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6223329019,
+        "country": "Cape Verde (Cabo Verde)",
+        "alpha_2": "CV",
+        "countries": [
+          "CV"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Biblioteca Municipal",
+        "tags": {
+          "amenity": "library",
+          "name": "Biblioteca Municipal"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6418060030",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.3580411,
+          16.5676406
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6418060030,
+        "country": "Cape Verde (Cabo Verde)",
+        "alpha_2": "CV",
+        "countries": [
+          "CV"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu dos Pescatores",
+        "tags": {
+          "name": "Museu dos Pescatores",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6555865471",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.6669978,
+          15.0962597
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6555865471,
+        "country": "Cape Verde (Cabo Verde)",
+        "alpha_2": "CV",
+        "countries": [
+          "CV"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Centro Cultural Norberto Tavares",
+        "tags": {
+          "name": "Centro Cultural Norberto Tavares",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7047327965",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.9053203,
+          16.5980839
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7047327965,
+        "country": "Cape Verde (Cabo Verde)",
+        "alpha_2": "CV",
+        "countries": [
+          "CV"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu do Sal",
+        "tags": {
+          "email": "nospatrimonio@gmail.com",
+          "name": "Museu do Sal",
+          "opening_hours": "Tu-Fr 09:00-20:00; Sa 10:00-14:00",
+          "outdoor_seating": "no",
+          "phone": "+238 2422028",
+          "tourism": "museum",
+          "website": "https://ipc.cv/museus/museu-do-sal/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7387621231",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.091281,
+          17.2009731
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7387621231,
+        "country": "Cape Verde (Cabo Verde)",
+        "alpha_2": "CV",
+        "countries": [
+          "CV"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Biblioteca municipale",
+        "tags": {
+          "amenity": "library",
+          "name": "Biblioteca municipale"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10205420817",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.7108662,
+          15.3038109
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10205420817,
+        "country": "Cape Verde (Cabo Verde)",
+        "alpha_2": "CV",
+        "countries": [
+          "CV"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Ceramic Arts Museum",
+        "tags": {
+          "name": "Ceramic Arts Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10787012526",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.5125731,
+          14.9149481
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10787012526,
+        "country": "Cape Verde (Cabo Verde)",
+        "alpha_2": "CV",
+        "countries": [
+          "CV"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museo de Arqueologia",
+        "tags": {
+          "name": "Museo de Arqueologia",
+          "opening_hours": "Mo-Fr 08:00-12:00,14:00-18:00",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11443505270",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.9864949,
+          16.8847865
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11443505270,
+        "country": "Cape Verde (Cabo Verde)",
+        "alpha_2": "CV",
+        "countries": [
+          "CV"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Núcleo Museológico Cesária Évora",
+        "tags": {
+          "name": "Núcleo Museológico Cesária Évora",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12424824367",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.9161326,
+          16.1782066
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12424824367,
+        "country": "Cape Verde (Cabo Verde)",
+        "alpha_2": "CV",
+        "countries": [
+          "CV"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu dos Náufragos",
+        "tags": {
+          "contact:email": "museudosnaufragoss@gmail.com",
+          "contact:facebook": "https://www.facebook.com/MUSEUDOSNAUFRAGOS",
+          "contact:phone": "+238 528 11 73",
+          "name": "Museu dos Náufragos",
+          "tourism": "museum",
+          "website": "https://www.museudosnaufragos.com/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12629237663",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.917976,
+          16.175304
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12629237663,
+        "country": "Cape Verde (Cabo Verde)",
+        "alpha_2": "CV",
+        "countries": [
+          "CV"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu de Arqueologia da Boa Vista",
+        "tags": {
+          "fee": "yes",
+          "name": "Museu de Arqueologia da Boa Vista",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12740118602",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.917969,
+          16.1752944
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12740118602,
+        "country": "Cape Verde (Cabo Verde)",
+        "alpha_2": "CV",
+        "countries": [
+          "CV"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu de Arqueologia da Boa Vista",
+        "tags": {
+          "name": "Museu de Arqueologia da Boa Vista",
+          "opening_hours": "Mo-Fr 08:00-12:30, 14:00-17:00; Sa 08:00-13:00",
+          "tourism": "museum",
+          "website": "https://ipc.cv/museus/museu-de-arqueologia-da-boa-vista/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13456618701",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.9877976,
+          16.8906185
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13456618701,
+        "country": "Cape Verde (Cabo Verde)",
+        "alpha_2": "CV",
+        "countries": [
+          "CV"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "CNAD - National Centre for Arts, Craft and Design",
+        "tags": {
+          "name": "CNAD - National Centre for Arts, Craft and Design",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13627062601",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.3248059,
+          15.0342812
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13627062601,
+        "country": "Cape Verde (Cabo Verde)",
+        "alpha_2": "CV",
+        "countries": [
+          "CV"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu do café",
+        "tags": {
+          "name": "Museu do café",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40921367",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.7438695,
+          15.2641407
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 40921367,
+        "country": "Cape Verde (Cabo Verde)",
+        "alpha_2": "CV",
+        "countries": [
+          "CV"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu do Campo de Concentração do Tarrafal",
+        "tags": {
+          "abandoned:amenity": "prison_camp",
+          "alt_name": "Campo da Morte Lenta;Campo de Concentração do Tarrafal;Prisão do Tarrafal;Museu da Resistência do Tarrafal",
+          "area": "yes",
+          "concentration_camp": "estado_novo",
+          "contact:website": "https://ipc.cv/museus/museu-da-resistencia/",
+          "historic": "prison_camp",
+          "name": "Museu do Campo de Concentração do Tarrafal",
+          "official_name": "Colónia Penal de Cabo Verde; Campo de Trabalho de Chão Bom",
+          "official_name:1936-1956": "Colónia Penal de Cabo Verde",
+          "official_name:1962-1974": "Campo de Trabalho de Chão Bom",
+          "official_name:2000-2015": "Museu da Resistência",
+          "opening_hours": "09:00-12:00,14:00-18:00",
+          "operator": "Instituto do Património Cultural",
+          "tourism": "museum",
+          "wikidata": "Q1031493",
+          "wikimedia_commons": "Category:Tarrafal concentration camp",
+          "wikipedia": "pt:Campo de Concentração do Tarrafal"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/166337464",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.9462973,
+          16.7534524
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 166337464,
+        "country": "Cape Verde (Cabo Verde)",
+        "alpha_2": "CV",
+        "countries": [
+          "CV"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Biblioteca Municipal",
+        "tags": {
+          "amenity": "library",
+          "building": "service",
+          "name": "Biblioteca Municipal"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/194252477",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.5072307,
+          14.9209126
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 194252477,
+        "country": "Cape Verde (Cabo Verde)",
+        "alpha_2": "CV",
+        "countries": [
+          "CV"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museou Etnográfico",
+        "tags": {
+          "building": "yes",
+          "name": "Museou Etnográfico",
+          "opening_hours": "Mo-Fr 08:00-12:00,14:00-18:00",
+          "tourism": "museum",
+          "wikidata": "Q3330560",
+          "wikimedia_commons": "Category:Museu Etnográfico (Praia)",
+          "wikipedia": "en:Museu Etnográfico da Praia"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/194995973",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.9878247,
+          16.890333
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 194995973,
+        "country": "Cape Verde (Cabo Verde)",
+        "alpha_2": "CV",
+        "countries": [
+          "CV"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "CNAD - Centro Nacional de Artesanato e Design Mindelo",
+        "tags": {
+          "addr:city": "Mindelo",
+          "addr:postcode": "1027",
+          "addr:street": "Praça Amilcar Cabral",
+          "building": "yes",
+          "contact:facebook": "cnad.cv",
+          "contact:instagram": "cnad.cv",
+          "fee": "yes",
+          "name": "CNAD - Centro Nacional de Artesanato e Design Mindelo",
+          "name:en": "CNAD - National Centre for Arts, Craft and Design",
+          "name:pt": "Centro Nacional de Artesanato e Design Mindelo",
+          "opening_hours": "Tu-Fr 10:00-13:00,15:00-19:00; Sa 10:00-14:00,18:00-21:00; Su 17:00-21:00",
+          "phone": "+238 2317751",
+          "tourism": "museum",
+          "website": "https://cnad.cv",
+          "wikimedia_commons": "File:Centro Nacional de Artesanato e Design Mindelo, Cabo Verde.jpg"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/194995978",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.9889022,
+          16.8866552
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 194995978,
+        "country": "Cape Verde (Cabo Verde)",
+        "alpha_2": "CV",
+        "countries": [
+          "CV"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Biblioteca",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "image": "https://photos.app.goo.gl/VYJ63T3sPnso19mA6",
+          "name": "Biblioteca"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/461899259",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.701253,
+          15.092042
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 461899259,
+        "country": "Cape Verde (Cabo Verde)",
+        "alpha_2": "CV",
+        "countries": [
+          "CV"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu de Tabanka",
+        "tags": {
+          "building": "yes",
+          "name": "Museu de Tabanka",
+          "tourism": "museum",
+          "wikidata": "Q2686462",
+          "wikimedia_commons": "Category:Museu da Tabanca",
+          "wikipedia": "en:Museu da Tabanca"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1485836769",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.6011523,
+          14.9167036
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1485836769,
+        "country": "Cape Verde (Cabo Verde)",
+        "alpha_2": "CV",
+        "countries": [
+          "CV"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "shop": "ticket",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/12849568",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.5115063,
+          14.9146152
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 12849568,
+        "country": "Cape Verde (Cabo Verde)",
+        "alpha_2": "CV",
+        "countries": [
+          "CV"
+        ],
+        "categories": [
+          "museum",
+          "library"
+        ],
+        "name": "Arquivo Historico Nacional",
+        "tags": {
+          "amenity": "library",
+          "building": "public",
+          "name": "Arquivo Historico Nacional",
+          "tourism": "museum",
+          "type": "multipolygon",
+          "wikidata": "Q14915083"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/15021816",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.5113706,
+          14.9171993
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 15021816,
+        "country": "Cape Verde (Cabo Verde)",
+        "alpha_2": "CV",
+        "countries": [
+          "CV"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Biblioteca Nacional de Cabo Verde",
+        "tags": {
+          "amenity": "library",
+          "building": "office",
+          "name": "Biblioteca Nacional de Cabo Verde",
+          "name:de": "Nationalbibliothek von Kap Verde",
+          "name:en": "National Library of Cape Verde",
+          "name:pt": "Biblioteca Nacional de Cabo Verde",
+          "type": "multipolygon",
+          "website": "https://bn.cv/",
+          "wikidata": "Q6974145"
+        }
+      }
+    }
+  ]
+}

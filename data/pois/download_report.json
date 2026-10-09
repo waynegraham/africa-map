@@ -1,0 +1,247 @@
+{
+  "successful": [
+    {
+      "alpha_2": "DZ",
+      "count": 827
+    },
+    {
+      "alpha_2": "AO",
+      "count": 41
+    },
+    {
+      "alpha_2": "BJ",
+      "count": 76
+    },
+    {
+      "alpha_2": "BW",
+      "count": 64
+    },
+    {
+      "alpha_2": "BF",
+      "count": 61
+    },
+    {
+      "alpha_2": "CM",
+      "count": 98
+    },
+    {
+      "alpha_2": "CV",
+      "count": 26
+    },
+    {
+      "alpha_2": "CF",
+      "count": 5
+    },
+    {
+      "alpha_2": "TD",
+      "count": 17
+    },
+    {
+      "alpha_2": "KM",
+      "count": 12
+    },
+    {
+      "alpha_2": "CD",
+      "count": 45
+    },
+    {
+      "alpha_2": "CI",
+      "count": 39
+    },
+    {
+      "alpha_2": "DJ",
+      "count": 5
+    },
+    {
+      "alpha_2": "EG",
+      "count": 206
+    },
+    {
+      "alpha_2": "GQ",
+      "count": 3
+    },
+    {
+      "alpha_2": "SZ",
+      "count": 9
+    },
+    {
+      "alpha_2": "ET",
+      "count": 134
+    },
+    {
+      "alpha_2": "GA",
+      "count": 8
+    },
+    {
+      "alpha_2": "GM",
+      "count": 15
+    },
+    {
+      "alpha_2": "GH",
+      "count": 145
+    },
+    {
+      "alpha_2": "GN",
+      "count": 22
+    },
+    {
+      "alpha_2": "GW",
+      "count": 9
+    },
+    {
+      "alpha_2": "LS",
+      "count": 11
+    },
+    {
+      "alpha_2": "LY",
+      "count": 178
+    },
+    {
+      "alpha_2": "MG",
+      "count": 92
+    },
+    {
+      "alpha_2": "MW",
+      "count": 32
+    },
+    {
+      "alpha_2": "ML",
+      "count": 33
+    },
+    {
+      "alpha_2": "MR",
+      "count": 25
+    },
+    {
+      "alpha_2": "MU",
+      "count": 49
+    },
+    {
+      "alpha_2": "MA",
+      "count": 265
+    },
+    {
+      "alpha_2": "MZ",
+      "count": 69
+    },
+    {
+      "alpha_2": "NA",
+      "count": 98
+    },
+    {
+      "alpha_2": "NE",
+      "count": 43
+    },
+    {
+      "alpha_2": "NG",
+      "count": 91
+    },
+    {
+      "alpha_2": "RE",
+      "count": 83
+    },
+    {
+      "alpha_2": "RW",
+      "count": 18
+    },
+    {
+      "alpha_2": "ST",
+      "count": 7
+    },
+    {
+      "alpha_2": "SC",
+      "count": 14
+    },
+    {
+      "alpha_2": "SL",
+      "count": 23
+    },
+    {
+      "alpha_2": "SO",
+      "count": 9
+    },
+    {
+      "alpha_2": "ZA",
+      "count": 832
+    },
+    {
+      "alpha_2": "SS",
+      "count": 5
+    },
+    {
+      "alpha_2": "SD",
+      "count": 64
+    },
+    {
+      "alpha_2": "TZ",
+      "count": 294
+    },
+    {
+      "alpha_2": "TN",
+      "count": 217
+    },
+    {
+      "alpha_2": "UG",
+      "count": 143
+    },
+    {
+      "alpha_2": "ZM",
+      "count": 27
+    },
+    {
+      "alpha_2": "ZW",
+      "count": 66
+    }
+  ],
+  "failed": [
+    {
+      "alpha_2": "BI",
+      "country": "Burundi",
+      "error": "HTTP Error 504: Gateway Timeout"
+    },
+    {
+      "alpha_2": "CG",
+      "country": "Congo",
+      "error": "HTTP Error 504: Gateway Timeout"
+    },
+    {
+      "alpha_2": "ER",
+      "country": "Eritrea",
+      "error": "HTTP Error 504: Gateway Timeout"
+    },
+    {
+      "alpha_2": "KE",
+      "country": "Kenya",
+      "error": "HTTP Error 504: Gateway Timeout"
+    },
+    {
+      "alpha_2": "LR",
+      "country": "Liberia",
+      "error": "HTTP Error 504: Gateway Timeout"
+    },
+    {
+      "alpha_2": "YT",
+      "country": "Mayotte",
+      "error": "HTTP Error 504: Gateway Timeout"
+    },
+    {
+      "alpha_2": "SN",
+      "country": "Senegal",
+      "error": "HTTP Error 504: Gateway Timeout"
+    },
+    {
+      "alpha_2": "TG",
+      "country": "Togo",
+      "error": "HTTP Error 504: Gateway Timeout"
+    },
+    {
+      "alpha_2": "EH",
+      "country": "Western Sahara",
+      "error": "HTTP Error 504: Gateway Timeout"
+    }
+  ],
+  "source": "OpenStreetMap contributors",
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "complete": false,
+  "feature_count": 4655
+}

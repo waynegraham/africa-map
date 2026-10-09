@@ -1,0 +1,541 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/2139000058",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0608633,
+          12.0917647
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2139000058,
+        "country": "Chad",
+        "alpha_2": "TD",
+        "countries": [
+          "TD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "bibliotheque",
+        "tags": {
+          "amenity": "library",
+          "name": "bibliotheque",
+          "project:eurosha_2012": "yes",
+          "source": "gps survey",
+          "source:date": "2013-02-02"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2163801524",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0774352,
+          12.1254201
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2163801524,
+        "country": "Chad",
+        "alpha_2": "TD",
+        "countries": [
+          "TD"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée National المتحف الوطني",
+        "tags": {
+          "addr:city": "انجمينا",
+          "name": "Musée National المتحف الوطني",
+          "name:ar": "المتحف الوطني",
+          "name:fr": "Musée National",
+          "opening_hours": "Mo-Fr 08:30-20:00",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2187407189",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0769175,
+          12.1260043
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2187407189,
+        "country": "Chad",
+        "alpha_2": "TD",
+        "countries": [
+          "TD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Nationale مكتبة الوطنية",
+        "tags": {
+          "addr:city": "انجمينا",
+          "amenity": "library",
+          "name": "Bibliothèque Nationale مكتبة الوطنية",
+          "name:ar": "مكتبة الوطنية",
+          "name:fr": "Bibliothèque Nationale",
+          "opening_hours": "Mo-Fr 08:30-20:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4148891490",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0556506,
+          12.0991666
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4148891490,
+        "country": "Chad",
+        "alpha_2": "TD",
+        "countries": [
+          "TD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Institut Français du Tchad المعهد الفرنسي تشاد",
+        "tags": {
+          "addr:city": "انجمينا",
+          "amenity": "library",
+          "name": "Institut Français du Tchad المعهد الفرنسي تشاد",
+          "name:ar": "المعهد الفرنسي تشاد",
+          "name:fr": "Institut Français du Tchad",
+          "operator": "سفارة فرنسا"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4543040898",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0975885,
+          12.0890676
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4543040898,
+        "country": "Chad",
+        "alpha_2": "TD",
+        "countries": [
+          "TD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Alliance biblique du Tchad",
+        "tags": {
+          "amenity": "library",
+          "name": "Alliance biblique du Tchad",
+          "name:fr": "Alliance biblique du Tchad"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4809194621",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3888153,
+          9.1510024
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4809194621,
+        "country": "Chad",
+        "alpha_2": "TD",
+        "countries": [
+          "TD"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Regional de Sarh متحف ساره الإقليمي",
+        "tags": {
+          "alt_name:ar": "متحف صارح الإقليمي",
+          "name": "Musée Regional de Sarh متحف ساره الإقليمي",
+          "name:ar": "متحف ساره الإقليمي",
+          "name:fr": "Musée Regional de Sarh",
+          "tourism": "museum",
+          "wikidata": "Q111846701"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4816101626",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1487744,
+          12.1790609
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4816101626,
+        "country": "Chad",
+        "alpha_2": "TD",
+        "countries": [
+          "TD"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de Gaoui",
+        "tags": {
+          "addr:city": "Gaoui",
+          "addr:city:ar": "جاوي",
+          "addr:city:fr": "Gaoui",
+          "name": "Musée de Gaoui",
+          "name:ar": "متحف جاوي",
+          "name:fr": "Musée de Gaoui",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7617784585",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2841642,
+          11.043393
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7617784585,
+        "country": "Chad",
+        "alpha_2": "TD",
+        "countries": [
+          "TD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre de Lecture et d'Animation Culturelle (CLAC)",
+        "tags": {
+          "amenity": "library",
+          "name": "Centre de Lecture et d'Animation Culturelle (CLAC)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7900602585",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4291744,
+          22.0261418
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7900602585,
+        "country": "Chad",
+        "alpha_2": "TD",
+        "countries": [
+          "TD"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Terko تركو",
+        "tags": {
+          "name": "Terko تركو",
+          "name:ar": "تركو",
+          "name:fr": "Terko",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7975967686",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3712351,
+          10.2801004
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7975967686,
+        "country": "Chad",
+        "alpha_2": "TD",
+        "countries": [
+          "TD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque",
+          "name:fr": "Bibliothèque alnaja"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197730009",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0611343,
+          12.0992739
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 197730009,
+        "country": "Chad",
+        "alpha_2": "TD",
+        "countries": [
+          "TD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "CEFOD",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "CEFOD",
+          "source": "bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/199599925",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0774266,
+          12.1254069
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 199599925,
+        "country": "Chad",
+        "alpha_2": "TD",
+        "countries": [
+          "TD"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée national المتحف الوطني",
+        "tags": {
+          "addr:city": "انجمينا",
+          "addr:street": "شارع ساره",
+          "building": "yes",
+          "building_base_material:concrete": "yes",
+          "building_roof_material:concrete": "yes",
+          "building_status": "good",
+          "historic": "yes",
+          "name": "Musée national المتحف الوطني",
+          "name:ar": "المتحف الوطني",
+          "name:fr": "musée national du Tchad",
+          "project:eurosha_2012": "yes",
+          "source": "bing:ortofoto",
+          "tourism": "museum",
+          "wikidata": "Q2684769",
+          "wikipedia": "en:Chad National Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/199599927",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0768785,
+          12.1259696
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 199599927,
+        "country": "Chad",
+        "alpha_2": "TD",
+        "countries": [
+          "TD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Nationale مكتبة الوطنية",
+        "tags": {
+          "addr:city": "انجمينا",
+          "amenity": "library",
+          "building": "yes",
+          "building_status": "medium",
+          "name": "Bibliothèque Nationale مكتبة الوطنية",
+          "name:ar": "مكتبة الوطنية",
+          "name:fr": "Bibliothèque Nationale",
+          "opening_hours": "Mo-Fr 08:30-20:00",
+          "project:eurosha_2012": "yes",
+          "source": "bing:ortofoto"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/279514472",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1239724,
+          15.1189424
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 279514472,
+        "country": "Chad",
+        "alpha_2": "TD",
+        "countries": [
+          "TD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/279721365",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0562435,
+          12.0993276
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 279721365,
+        "country": "Chad",
+        "alpha_2": "TD",
+        "countries": [
+          "TD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque المكتبة",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque المكتبة",
+          "name:ar": "المكتبة",
+          "name:fr": "Bibliothèque",
+          "operator": "IFT"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286028137",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9903429,
+          12.1228115
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 286028137,
+        "country": "Chad",
+        "alpha_2": "TD",
+        "countries": [
+          "TD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre Catholique Universitaire",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Centre Catholique Universitaire"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/585428041",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2261993,
+          9.6571608
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 585428041,
+        "country": "Chad",
+        "alpha_2": "TD",
+        "countries": [
+          "TD"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Palais Royal de Léré القصر الملكي في ليري",
+        "tags": {
+          "name": "Palais Royal de Léré القصر الملكي في ليري",
+          "name:ar": "القصر الملكي في ليري",
+          "name:de": "Königspalast von Léré",
+          "name:fr": "Palais Royal de Léré",
+          "name:mua": "Yaŋ Goŋ Ləre",
+          "tourism": "museum"
+        }
+      }
+    }
+  ]
+}

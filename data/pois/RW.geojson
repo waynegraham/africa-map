@@ -1,0 +1,597 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/435448836",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7393582,
+          -2.3602205
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 435448836,
+        "country": "Rwanda",
+        "alpha_2": "RW",
+        "countries": [
+          "RW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "King's Palace Museum",
+        "tags": {
+          "name": "King's Palace Museum",
+          "name:en": "King's Palace Museum",
+          "name:fr": "Musée du Palais du Roi",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2451817788",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7165707,
+          -2.5938838
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2451817788,
+        "country": "Rwanda",
+        "alpha_2": "RW",
+        "countries": [
+          "RW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "opening_hours": "Mo-Fr 08:30-20:00",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5308726222",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6365772,
+          -1.5045408
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5308726222,
+        "country": "Rwanda",
+        "alpha_2": "RW",
+        "countries": [
+          "RW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Karisoke Exhibition",
+        "tags": {
+          "name": "Karisoke Exhibition",
+          "name:fr": "Exposition Karisoke",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6246725185",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3477693,
+          -2.0605025
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6246725185,
+        "country": "Rwanda",
+        "alpha_2": "RW",
+        "countries": [
+          "RW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museum of Environment",
+        "tags": {
+          "name": "Museum of Environment",
+          "tourism": "museum",
+          "wikidata": "Q111925578"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6316476087",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7411151,
+          -2.3690798
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6316476087,
+        "country": "Rwanda",
+        "alpha_2": "RW",
+        "countries": [
+          "RW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museum of Rwesero (former National Art Gallery)",
+        "tags": {
+          "name": "Museum of Rwesero (former National Art Gallery)",
+          "name:en": "Kwigira Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6419557788",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0989854,
+          -1.9523151
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6419557788,
+        "country": "Rwanda",
+        "alpha_2": "RW",
+        "countries": [
+          "RW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Campaign Against Genocide Museum",
+        "tags": {
+          "check_date": "2023-04-07",
+          "fee": "yes",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "museum": "history",
+          "name": "Campaign Against Genocide Museum",
+          "name:en": "Campaign Against Genocide Museum",
+          "name:fr": "Musée de la Campagne contre le Génocide",
+          "operator:type": "government",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "tourism": "museum",
+          "wheelchair": "yes",
+          "wikidata": "Q107315475",
+          "wikimedia_commons": "Category:Campaign Against Genocide Museum",
+          "wikipedia": "fr:Musée de la campagne contre le génocide"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8951500463",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0882553,
+          -1.94272
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8951500463,
+        "country": "Rwanda",
+        "alpha_2": "RW",
+        "countries": [
+          "RW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre de Documentation et de Pastorale",
+        "tags": {
+          "amenity": "library",
+          "check_date": "2023-04-08",
+          "name": "Centre de Documentation et de Pastorale",
+          "name:fr": "Centre de Documentation et de Pastorale",
+          "short_name": "CEDOREP",
+          "short_name:fr": "CEDOREP"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10782422822",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5636449,
+          -1.4308101
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10782422822,
+        "country": "Rwanda",
+        "alpha_2": "RW",
+        "countries": [
+          "RW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Ellen DeGeneres Campus of the Dian Fossey Gorilla Fund",
+        "tags": {
+          "addr:street": "NR 18",
+          "air_conditioning": "no",
+          "charge": "20 USD",
+          "fee": "yes",
+          "internet_access": "wlan",
+          "internet_access:fee": "customers",
+          "name": "Ellen DeGeneres Campus of the Dian Fossey Gorilla Fund",
+          "opening_hours": "Mo-Su 09:00-17:00",
+          "tourism": "museum",
+          "website": "https://gorillafund.org",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10782422823",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3864105,
+          -1.5943452
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10782422823,
+        "country": "Rwanda",
+        "alpha_2": "RW",
+        "countries": [
+          "RW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Ross Carr Museum And Gardens",
+        "tags": {
+          "name": "Ross Carr Museum And Gardens",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25796157",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0601667,
+          -1.9312656
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 25796157,
+        "country": "Rwanda",
+        "alpha_2": "RW",
+        "countries": [
+          "RW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Kigali Genocide Memorial",
+        "tags": {
+          "building": "yes",
+          "fee": "no",
+          "name": "Kigali Genocide Memorial",
+          "name:en": "Kigali Genocide Memorial",
+          "name:fr": "Mémorial du Génocide de Kigali",
+          "operator": "Government of Rwanda",
+          "operator:type": "government",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/173163227",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0788404,
+          -1.9344607
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 173163227,
+        "country": "Rwanda",
+        "alpha_2": "RW",
+        "countries": [
+          "RW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Rotary Library",
+        "tags": {
+          "amenity": "library",
+          "designation": "Rotary club Library",
+          "name": "Rotary Library",
+          "name:en": "Rotary Library",
+          "name:fr": "Bibliothèque Rotary"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/173293813",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0532222,
+          -1.9466255
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 173293813,
+        "country": "Rwanda",
+        "alpha_2": "RW",
+        "countries": [
+          "RW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Kandt House Museum",
+        "tags": {
+          "addr:city": "Kigali",
+          "addr:housenumber": "02",
+          "addr:postbox": "6397",
+          "addr:street": "Rue KN 90",
+          "building": "museum",
+          "building:material": "cement_block",
+          "fee": "yes",
+          "name": "Kandt House Museum",
+          "old_name:fr": "Musée d'histoire naturelle de la maison Kandt",
+          "roof:levels": "1",
+          "roof:shape": "hipped",
+          "source": "The Institute of National Museums of Rwanda (INMR)",
+          "tourism": "museum",
+          "wikidata": "Q11295489",
+          "wikimedia_commons": "Category:Kandt House Museum",
+          "wikipedia": "fr:Kandt House Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237255640",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7452441,
+          -2.5887242
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 237255640,
+        "country": "Rwanda",
+        "alpha_2": "RW",
+        "countries": [
+          "RW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Ethnographic Museum",
+        "tags": {
+          "building": "yes",
+          "image": "https://commons.wikimedia.org/wiki/File:RwandaNationalMuseum.jpg",
+          "name": "Ethnographic Museum",
+          "name:fr": "Musée Ethnographique",
+          "operator": "Institute of National Museums of Rwanda",
+          "operator:fr": "Institut des Musées Nationaux du Rwanda",
+          "tourism": "museum",
+          "website": "http://museum.gov.rw",
+          "wikidata": "Q2110810"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262676419",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1730225,
+          -1.9752851
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 262676419,
+        "country": "Rwanda",
+        "alpha_2": "RW",
+        "countries": [
+          "RW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Rwanda Art Museum",
+        "tags": {
+          "building": "yes",
+          "name": "Rwanda Art Museum",
+          "name:fr": "Musée d'Art du Rwanda",
+          "old_name": "Palais Présidentiel",
+          "old_name:fr": "Palais Présidentiel",
+          "tourism": "museum",
+          "wikidata": "Q16678464"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/491234039",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5249896,
+          -2.4849659
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 491234039,
+        "country": "Rwanda",
+        "alpha_2": "RW",
+        "countries": [
+          "RW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Ubumenyi",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "check_date": "2023-04-18",
+          "comment": "Name: Ubumenyi, 4 Rooms, Function: Library",
+          "condition": "0",
+          "facility_t": "0",
+          "name": "Ubumenyi"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/506216470",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7425445,
+          -2.6167796
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 506216470,
+        "country": "Rwanda",
+        "alpha_2": "RW",
+        "countries": [
+          "RW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Campus Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Campus Library",
+          "name:en": "Campus Library",
+          "office": "educational_institution",
+          "opening_hours": "08:30-12:30,15:30-20:00",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/721062019",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3476834,
+          -2.0605521
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 721062019,
+        "country": "Rwanda",
+        "alpha_2": "RW",
+        "countries": [
+          "RW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/765165567",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.063069,
+          -1.9586311
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 765165567,
+        "country": "Rwanda",
+        "alpha_2": "RW",
+        "countries": [
+          "RW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "CST Library",
+        "tags": {
+          "addr:city": "Kigali",
+          "addr:housenumber": "CST",
+          "addr:postcode": "250",
+          "addr:street": "KN 3 Avenue",
+          "amenity": "library",
+          "building": "yes",
+          "check_date": "2023-04-19",
+          "internet_access": "yes",
+          "internet_access:ssid": "UR-CST Library",
+          "name": "CST Library",
+          "name:en": "CST Library",
+          "operator": "College Of science and Technology",
+          "operator:type": "public"
+        }
+      }
+    }
+  ]
+}

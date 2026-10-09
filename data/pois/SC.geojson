@@ -1,0 +1,414 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/439192201",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4530468,
+          -4.6229567
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 439192201,
+        "country": "Seychelles",
+        "alpha_2": "SC",
+        "countries": [
+          "SC"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museum of Natural History",
+        "tags": {
+          "addr:street": "Independence Avenue",
+          "description": "entrance fee : 15 SCR (non resident)",
+          "email": "nathismus@gov.sc",
+          "name": "Museum of Natural History",
+          "name:fr": "Musée d'histoire naturelle",
+          "opening_hours": "Mo-Th 8:30-16:30; Fr 8:30-12:00; Sa 9:00-13:00; PH closed",
+          "phone": "+248 4321333",
+          "tourism": "museum",
+          "wikidata": "Q17560817"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/765251899",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.7157362,
+          -4.3268883
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 765251899,
+        "country": "Seychelles",
+        "alpha_2": "SC",
+        "countries": [
+          "SC"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "National Library",
+        "tags": {
+          "amenity": "library",
+          "name": "National Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1603428739",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5192017,
+          -4.7110076
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1603428739,
+        "country": "Seychelles",
+        "alpha_2": "SC",
+        "countries": [
+          "SC"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Domaine de Val des Pres (Craft Village)",
+        "tags": {
+          "name": "Domaine de Val des Pres (Craft Village)",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1603480853",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5230931,
+          -4.7194432
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1603480853,
+        "country": "Seychelles",
+        "alpha_2": "SC",
+        "countries": [
+          "SC"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "La Grande Maison",
+        "tags": {
+          "check_date": "2025-03-18",
+          "cuisine": "creole",
+          "fee": "no",
+          "name": "La Grande Maison",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2674570107",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5074673,
+          -4.6204875
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2674570107,
+        "country": "Seychelles",
+        "alpha_2": "SC",
+        "countries": [
+          "SC"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2812854669",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.7494005,
+          -4.3205912
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2812854669,
+        "country": "Seychelles",
+        "alpha_2": "SC",
+        "countries": [
+          "SC"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Praslin Museum",
+        "tags": {
+          "name": "Praslin Museum",
+          "tourism": "museum",
+          "website": "http://praslinmuseum.29sud.com/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4439083682",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4803649,
+          -4.7509748
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4439083682,
+        "country": "Seychelles",
+        "alpha_2": "SC",
+        "countries": [
+          "SC"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Baie Lazare Public Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Baie Lazare Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4439083684",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4803582,
+          -4.7508851
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4439083684,
+        "country": "Seychelles",
+        "alpha_2": "SC",
+        "countries": [
+          "SC"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Lazare Souvenir Museum Gallery",
+        "tags": {
+          "name": "Lazare Souvenir Museum Gallery",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4623913107",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.449341,
+          -4.6222035
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4623913107,
+        "country": "Seychelles",
+        "alpha_2": "SC",
+        "countries": [
+          "SC"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Kaz Zanana",
+        "tags": {
+          "name": "Kaz Zanana",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5638156121",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.8256779,
+          -4.3637306
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5638156121,
+        "country": "Seychelles",
+        "alpha_2": "SC",
+        "countries": [
+          "SC"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "L’Union Estate Farm",
+        "tags": {
+          "name": "L’Union Estate Farm",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7495617508",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2041989,
+          -3.723283
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7495617508,
+        "country": "Seychelles",
+        "alpha_2": "SC",
+        "countries": [
+          "SC"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Bird Island Museum",
+        "tags": {
+          "museum": "Library,_local_history,_bird_and_turtle_species_as_well_as_ocean/beach_polution_awareness.",
+          "name": "Bird Island Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14255051805",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5036112,
+          -4.7462093
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 14255051805,
+        "country": "Seychelles",
+        "alpha_2": "SC",
+        "countries": [
+          "SC"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "survey:date": "2026-10-06",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/544286981",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4525723,
+          -4.6235253
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 544286981,
+        "country": "Seychelles",
+        "alpha_2": "SC",
+        "countries": [
+          "SC"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "National Museum of History",
+        "tags": {
+          "building": "yes",
+          "building:levels": "2",
+          "name": "National Museum of History",
+          "name:fr": "Musée national d'histoire",
+          "tourism": "museum",
+          "url": "http://seychellesnationalmuseums.org/about-the-museum-of-history/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/616378693",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4541774,
+          -4.6260301
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 616378693,
+        "country": "Seychelles",
+        "alpha_2": "SC",
+        "countries": [
+          "SC"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "National Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "National Library",
+          "opening_hours": "Mo-Fr 08:30-17:00; Sa 08:30-13:00"
+        }
+      }
+    }
+  ]
+}

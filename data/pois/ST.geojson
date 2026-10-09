@@ -1,0 +1,214 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/5414644196",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7425563,
+          0.2576468
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5414644196,
+        "country": "São Tomé and Príncipe",
+        "alpha_2": "ST",
+        "countries": [
+          "ST"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Biblioteca Paroquial de Santana",
+        "tags": {
+          "amenity": "library",
+          "name": "Biblioteca Paroquial de Santana"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/280771623",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6402646,
+          0.299754
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 280771623,
+        "country": "São Tomé and Príncipe",
+        "alpha_2": "ST",
+        "countries": [
+          "ST"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Coffe Museum",
+        "tags": {
+          "building": "yes",
+          "name": "Coffe Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/314939486",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7370256,
+          0.3400367
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 314939486,
+        "country": "São Tomé and Príncipe",
+        "alpha_2": "ST",
+        "countries": [
+          "ST"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Biblioteca Nacional",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Biblioteca Nacional"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/561537788",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7427107,
+          0.2567331
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 561537788,
+        "country": "São Tomé and Príncipe",
+        "alpha_2": "ST",
+        "countries": [
+          "ST"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Biblioteca Municipal de Cantagalo",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Biblioteca Municipal de Cantagalo"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/561569506",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6831074,
+          0.297328
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 561569506,
+        "country": "São Tomé and Príncipe",
+        "alpha_2": "ST",
+        "countries": [
+          "ST"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Biblioteca da Trindade",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Biblioteca da Trindade"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1314407940",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.420447,
+          1.6393906
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1314407940,
+        "country": "São Tomé and Príncipe",
+        "alpha_2": "ST",
+        "countries": [
+          "ST"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centro Cultural Português",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Centro Cultural Português"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/15094487",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.739441,
+          0.3459575
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 15094487,
+        "country": "São Tomé and Príncipe",
+        "alpha_2": "ST",
+        "countries": [
+          "ST"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu Nacional Forte São Sebastião",
+        "tags": {
+          "building": "yes",
+          "historic": "fort",
+          "name": "Museu Nacional Forte São Sebastião",
+          "name:en": "São Sebastião Museum",
+          "name:es": "Museo Nacional - Fuerte de San Sebastián",
+          "start_date": "1566",
+          "tourism": "museum",
+          "type": "multipolygon",
+          "wikidata": "Q2110836",
+          "wikipedia": "pt:Forte de São Sebastião (São Tomé)"
+        }
+      }
+    }
+  ]
+}

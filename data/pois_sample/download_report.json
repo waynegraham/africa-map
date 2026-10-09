@@ -1,0 +1,14 @@
+{
+  "successful": [],
+  "failed": [
+    {
+      "alpha_2": "LS",
+      "country": "Lesotho",
+      "error": "HTTP Error 504: Gateway Timeout"
+    }
+  ],
+  "source": "OpenStreetMap contributors",
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "complete": false,
+  "feature_count": 0
+}

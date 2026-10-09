@@ -1,0 +1,259 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/6933350285",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.938169,
+          15.3368737
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6933350285,
+        "country": "Eritrea",
+        "alpha_2": "ER",
+        "countries": [
+          "ER"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/232198848",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4670115,
+          15.6063615
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 232198848,
+        "country": "Eritrea",
+        "alpha_2": "ER",
+        "countries": [
+          "ER"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Public Library ቤተ መጻሕፍቲ المكتبة العامة",
+        "tags": {
+          "addr:city": "Massawa مصوع",
+          "addr:city:ar": "مصوع",
+          "addr:city:en": "Massawa",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Public Library ቤተ መጻሕፍቲ المكتبة العامة",
+          "name:ar": "المكتبة العامة",
+          "name:en": "Public Library",
+          "name:ti": "ቤተ መጻሕፍቲ"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/249605776",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4517829,
+          15.6055041
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 249605776,
+        "country": "Eritrea",
+        "alpha_2": "ER",
+        "countries": [
+          "ER"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Northern Red Sea Region Museum متحف منطقة شمال البحر الأحمر",
+        "tags": {
+          "addr:city": "مصوع",
+          "building": "yes",
+          "name": "Northern Red Sea Region Museum متحف منطقة شمال البحر الأحمر",
+          "name:ar": "متحف منطقة شمال البحر الأحمر",
+          "name:en": "Northern Red Sea Region Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/278139845",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9272013,
+          15.33349
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 278139845,
+        "country": "Eritrea",
+        "alpha_2": "ER",
+        "countries": [
+          "ER"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "ሃገራዊ ቤተ መዘክር متحف إرتريا الوطني",
+        "tags": {
+          "addr:city": "أسمرة",
+          "addr:city:ar": "أسمرة",
+          "addr:street": "Maryam Gmbi Street شارع مريم غمبي",
+          "addr:street:ar": "شارع مريم غمبي",
+          "addr:street:en": "Maryam Gmbi Street",
+          "building": "yes",
+          "name": "ሃገራዊ ቤተ መዘክር متحف إرتريا الوطني",
+          "name:ar": "متحف إرتريا الوطني",
+          "name:en": "Nation Museum of Eritrea",
+          "opening_hours": "09:00-11:00,15:00-17:00; We off",
+          "tourism": "museum",
+          "wikidata": "Q1968666"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/458861464",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9401784,
+          15.3334968
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 458861464,
+        "country": "Eritrea",
+        "alpha_2": "ER",
+        "countries": [
+          "ER"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Asmara Public Library مكتبة أسمرة العامة",
+        "tags": {
+          "addr:city": "أسمرة",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Asmara Public Library مكتبة أسمرة العامة",
+          "name:ar": "مكتبة أسمرة العامة",
+          "name:en": "Asmara Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/613550455",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7740959,
+          15.2443886
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 613550455,
+        "country": "Eritrea",
+        "alpha_2": "ER",
+        "countries": [
+          "ER"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Library of the EIT مكتبة المعهد إرتريا للتكنولوجيا",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "building:levels": "3",
+          "height": "9.4",
+          "name": "Library of the EIT مكتبة المعهد إرتريا للتكنولوجيا",
+          "name:ar": "مكتبة المعهد إرتريا للتكنولوجيا",
+          "name:en": "Library of the EIT"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/633762616",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3745932,
+          14.8440771
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 633762616,
+        "country": "Eritrea",
+        "alpha_2": "ER",
+        "countries": [
+          "ER"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "ህዝባዊ ቤት ንባብ",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "ህዝባዊ ቤት ንባብ",
+          "name:en": "public library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/633762617",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3746041,
+          14.8440634
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 633762617,
+        "country": "Eritrea",
+        "alpha_2": "ER",
+        "countries": [
+          "ER"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/2563046459",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.5824956,
+          13.4602239
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2563046459,
+        "country": "Gambia",
+        "alpha_2": "GM",
+        "countries": [
+          "GM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Arch 22 Museum",
+        "tags": {
+          "fee": "yes",
+          "name": "Arch 22 Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3741390427",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.6831615,
+          13.4555744
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3741390427,
+        "country": "Gambia",
+        "alpha_2": "GM",
+        "countries": [
+          "GM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "American Corner",
+        "tags": {
+          "amenity": "library",
+          "name": "American Corner"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4342498701",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.7533833,
+          13.1661092
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4342498701,
+        "country": "Gambia",
+        "alpha_2": "GM",
+        "countries": [
+          "GM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Lamin's Museum",
+        "tags": {
+          "designation": "natural history museum",
+          "name": "Lamin's Museum",
+          "opening_hours": "09:00-19:00",
+          "operator": "Lamin Bojang",
+          "source": "local knowledge",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5247933757",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.7638634,
+          13.5437466
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5247933757,
+        "country": "Gambia",
+        "alpha_2": "GM",
+        "countries": [
+          "GM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5995909974",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.7564381,
+          13.311999
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5995909974,
+        "country": "Gambia",
+        "alpha_2": "GM",
+        "countries": [
+          "GM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8390388917",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.0088273,
+          13.3313158
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8390388917,
+        "country": "Gambia",
+        "alpha_2": "GM",
+        "countries": [
+          "GM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "MRC library",
+        "tags": {
+          "amenity": "library",
+          "name": "MRC library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9046313132",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.7901678,
+          13.3516926
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9046313132,
+        "country": "Gambia",
+        "alpha_2": "GM",
+        "countries": [
+          "GM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Community Center Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Community Center Library",
+          "operator": "Tanji VDC"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255612670",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.5757846,
+          13.455978
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 255612670,
+        "country": "Gambia",
+        "alpha_2": "GM",
+        "countries": [
+          "GM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Gambia National Museum",
+        "tags": {
+          "building": "yes",
+          "name": "Gambia National Museum",
+          "name:fr": "Musée national de Gambie",
+          "tourism": "museum",
+          "wikidata": "Q1967468",
+          "wikipedia": "en:Gambia National Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255713471",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.5849776,
+          13.4595876
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 255713471,
+        "country": "Gambia",
+        "alpha_2": "GM",
+        "countries": [
+          "GM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Gambia National Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Gambia National Library",
+          "name:fr": "Bibliothèque nationale de Gambie",
+          "operator": "Gambia National Library Services Authority",
+          "operator:fr": "Autorité des services de la bibliothèque nationale de Gambie",
+          "wikidata": "Q6974175"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263257171",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.3823611,
+          13.3363207
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 263257171,
+        "country": "Gambia",
+        "alpha_2": "GM",
+        "countries": [
+          "GM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Maurel Frères Building",
+        "tags": {
+          "description": "Slavery museum",
+          "heritage": "1",
+          "heritage:operator": "whc",
+          "heritage:website": "http://whc.unesco.org/en/list/761/",
+          "name": "Maurel Frères Building",
+          "ref:whc": "761-007",
+          "tourism": "museum",
+          "whc:criteria": "(iii),(vi)",
+          "whc:inscription_date": "2003",
+          "wikidata": "Q1590899",
+          "wikipedia": "de:Gebäude von Maurel Frères"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/585903900",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.6755724,
+          13.4585126
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 585903900,
+        "country": "Gambia",
+        "alpha_2": "GM",
+        "countries": [
+          "GM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "MDI Libray",
+        "tags": {
+          "amenity": "library",
+          "building": "university",
+          "name": "MDI Libray"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/833713378",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.763979,
+          13.543768
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 833713378,
+        "country": "Gambia",
+        "alpha_2": "GM",
+        "countries": [
+          "GM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Slave House",
+        "tags": {
+          "building": "yes",
+          "description": "Underground slave house.\nVideo at https://www.youtube.com/watch?v=8fi5Bo1gLuo",
+          "name": "Slave House",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1018521719",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.0684068,
+          13.754409
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1018521719,
+        "country": "Gambia",
+        "alpha_2": "GM",
+        "countries": [
+          "GM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Kerr Batch Stone Circles Museum",
+        "tags": {
+          "building": "yes",
+          "museum": "history",
+          "name": "Kerr Batch Stone Circles Museum",
+          "tourism": "museum",
+          "wikidata": "Q1739581",
+          "wikipedia": "de:Kerr Batch Stone Circles Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1018524259",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.8737768,
+          13.6910948
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1018524259,
+        "country": "Gambia",
+        "alpha_2": "GM",
+        "countries": [
+          "GM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Wassu Stone Circles Museum",
+        "tags": {
+          "building": "yes",
+          "fee": "yes",
+          "museum": "history",
+          "name": "Wassu Stone Circles Museum",
+          "tourism": "museum",
+          "wikidata": "Q2552179",
+          "wikipedia": "de:Wassu Stone Circles Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1558615779",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.6728468,
+          13.4769592
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1558615779,
+        "country": "Gambia",
+        "alpha_2": "GM",
+        "countries": [
+          "GM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Kachikally Museum",
+        "tags": {
+          "building": "yes",
+          "museum": "history",
+          "name": "Kachikally Museum",
+          "tourism": "museum",
+          "wikidata": "Q1720898",
+          "wikipedia": "en:Kachikally Museum and Crocodile Pool"
+        }
+      }
+    }
+  ]
+}

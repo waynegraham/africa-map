@@ -1,0 +1,2735 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/359594979",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5210264,
+          11.9883725
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 359594979,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "National Museum Gidan Makama Kano",
+        "tags": {
+          "addr:city": "Kan Karofi",
+          "addr:street": "Emir Palace Road",
+          "alt_name": "Gidan Makama",
+          "name": "National Museum Gidan Makama Kano",
+          "opening_hours": "08:00-17:00",
+          "operator": "National Commission for Museums and Monuments",
+          "source": "steadfast.com.ng;kanostreetsonosm.org.ng",
+          "tourism": "museum",
+          "website": "https://ncmm.gov.ng/",
+          "wikidata": "Q5559489",
+          "wikipedia": "en:Gidan Makama Museum Kano"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/889227741",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.330284,
+          6.62895
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 889227741,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Lasu Museum",
+        "tags": {
+          "name": "Lasu Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/889344012",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8808124,
+          6.4166073
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 889344012,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Velekete Slave Market Museum",
+        "tags": {
+          "name": "Velekete Slave Market Museum",
+          "tourism": "museum",
+          "wikidata": "Q22084536",
+          "wikimedia_commons": "Category:Velekete Slave Market",
+          "wikipedia": "en:Velekete Slave Market"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/959849752",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8956865,
+          7.4026583
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 959849752,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Festac",
+        "tags": {
+          "name": "Festac",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1874729487",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.886564,
+          9.9137199
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1874729487,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Jos Museum",
+        "tags": {
+          "name": "Jos Museum",
+          "tourism": "museum",
+          "wheelchair": "no",
+          "wikidata": "Q6279125",
+          "wikipedia": "en:Jos Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2161119694",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6264054,
+          6.3220637
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2161119694,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "edo state library",
+        "tags": {
+          "amenity": "library",
+          "name": "edo state library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2178128756",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5590206,
+          11.9985899
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2178128756,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kano State LIbrary",
+        "tags": {
+          "amenity": "library",
+          "name": "Kano State LIbrary"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2455133622",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.518436,
+          6.432387
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2455133622,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "National Library",
+        "tags": {
+          "addr:street": "NTA Road",
+          "amenity": "library",
+          "ele": "247.300003",
+          "fixme": "many bad keys",
+          "name": "National Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2455133699",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.491271,
+          6.435965
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2455133699,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "State Central Library",
+        "tags": {
+          "addr:street": "Market Road",
+          "amenity": "library",
+          "ele": "224.600006",
+          "fixme": "many bad keys",
+          "name": "State Central Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2639256386",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8687118,
+          7.3849462
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2639256386,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "National Museum",
+        "tags": {
+          "addr:city": "Ibadan",
+          "name": "National Museum",
+          "tourism": "museum",
+          "website": "https://national-museum-of-unity.business.site/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2895370501",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4252266,
+          11.9725702
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2895370501,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Faculty of Engineering",
+        "tags": {
+          "amenity": "library",
+          "name": "Faculty of Engineering",
+          "operator": "University"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3084912687",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8858458,
+          7.4358554
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3084912687,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "central library ibadan poly",
+        "tags": {
+          "amenity": "library",
+          "name": "central library ibadan poly"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4663065041",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1564246,
+          10.2942376
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4663065041,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4757969041",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3184062,
+          4.966256
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4757969041,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Slave History Museum",
+        "tags": {
+          "name": "Slave History Museum",
+          "name:en": "Slave History Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4882134391",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3338054,
+          6.5891273
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4882134391,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Aircraft",
+        "tags": {
+          "name": "Aircraft",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4986133435",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3749019,
+          5.1154354
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4986133435,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5012375461",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1692409,
+          10.280795
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5012375461,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "shehu abubakar gombe",
+        "tags": {
+          "amenity": "library",
+          "name": "shehu abubakar gombe"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5338962021",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5419962,
+          5.4827697
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5338962021,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Library Complex NRCRI",
+        "tags": {
+          "amenity": "library",
+          "name": "Library Complex NRCRI"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5885752964",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4832708,
+          9.0511631
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5885752964,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "National Library of Nigeria",
+        "tags": {
+          "addr:city": "Abuja",
+          "addr:housenumber": "Plot 274",
+          "addr:street": "Sanusi Dantata House",
+          "amenity": "library",
+          "internet_access": "yes",
+          "internet_access:fee": "yes",
+          "name": "National Library of Nigeria"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6068313289",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.460468,
+          9.0762515
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6068313289,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Thought Pyramid Art Centre",
+        "tags": {
+          "addr:housenumber": "18",
+          "addr:street": "Libreville Crescent",
+          "name": "Thought Pyramid Art Centre",
+          "opening_hours": "Mo-Sa 09:00-19:00",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6122566943",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3998117,
+          6.5201116
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6122566943,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Unilag Main Library",
+        "tags": {
+          "amenity": "library",
+          "check_date": "2023-04-17",
+          "name": "Unilag Main Library",
+          "website": "https://facebook.com/unilagbookshop"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6207571585",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3569515,
+          11.7151673
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6207571585,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Jigawa State Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Jigawa State Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149106382",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1147646,
+          6.2489972
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7149106382,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Digital Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Digital Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7252695489",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1766403,
+          10.3040508
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7252695489,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Zoological park",
+        "tags": {
+          "name": "Zoological park",
+          "opening_hours": "Mo-Su 08:00-05:00",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7252720192",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1717198,
+          10.3062409
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7252720192,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "NDIC E-Library G.S.U",
+        "tags": {
+          "amenity": "library",
+          "name": "NDIC E-Library G.S.U"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7252799890",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1729665,
+          10.3067853
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7252799890,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "International Institute for Islamic Research and Development",
+        "tags": {
+          "amenity": "library",
+          "name": "International Institute for Islamic Research and Development"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7252880787",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1731782,
+          10.3052921
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7252880787,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "University Main library",
+        "tags": {
+          "amenity": "library",
+          "name": "University Main library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7341063486",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1846067,
+          10.2856946
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7341063486,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Islamic Libry",
+        "tags": {
+          "addr:street": "New Commercial area",
+          "amenity": "library",
+          "name": "Islamic Libry",
+          "opening_hours": "Sa-Th 09:00-17:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7345337232",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4032457,
+          6.7412552
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7345337232,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "IUO Library",
+        "tags": {
+          "amenity": "library",
+          "entrance": "yes",
+          "internet_access": "yes",
+          "internet_access:fee": "no",
+          "name": "IUO Library",
+          "opening_hours": "Mo-Su 09:00-21:00",
+          "operator": "daniel",
+          "operator:type": "university"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7917880803",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8821558,
+          9.9658273
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7917880803,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "University of Jos Library",
+        "tags": {
+          "amenity": "library",
+          "name": "University of Jos Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7956224795",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2827696,
+          4.9331583
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7956224795,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Azaiki Foundation Public Library",
+        "tags": {
+          "addr:street": "Imgbi Road",
+          "amenity": "library",
+          "name": "Azaiki Foundation Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8567630851",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4235679,
+          6.4326191
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8567630851,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Didi Museum",
+        "tags": {
+          "museum": "art",
+          "name": "Didi Museum",
+          "opening_hours": "Mo-Sa 09:00-18:00",
+          "tourism": "museum",
+          "website": "http://didimuseum.org/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8753662624",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4866157,
+          6.4530724
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8753662624,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "National Museum of Unity",
+        "tags": {
+          "name": "National Museum of Unity",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8851563683",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7341177,
+          7.7954438
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8851563683,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Stella Obasanjo Library",
+        "tags": {
+          "addr:street": "Ibb way",
+          "amenity": "library",
+          "name": "Stella Obasanjo Library",
+          "operator": "Ministry of Education",
+          "operator:type": "government"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9662031273",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6453738,
+          12.5034946
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9662031273,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Abudullahi Fodio Central Museum",
+        "tags": {
+          "name": "Abudullahi Fodio Central Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10003376697",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8272918,
+          10.3104565
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10003376697,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "State Library",
+        "tags": {
+          "amenity": "library",
+          "internet_access": "yes",
+          "name": "State Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10003376702",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8247732,
+          10.3064691
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10003376702,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "National Library",
+        "tags": {
+          "amenity": "library",
+          "name": "National Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11153543906",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1675321,
+          10.3069387
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11153543906,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "opening_hours": "Su-Th 08:00-02:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11178606437",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1194718,
+          10.2880283
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11178606437,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "National Library, Gombe",
+        "tags": {
+          "addr:postcode": "760251",
+          "addr:street": "GOMBE - YOLA ROAD",
+          "amenity": "library",
+          "name": "National Library, Gombe"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11750293370",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7223333,
+          6.8921563
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11750293370,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Laz Otti Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Laz Otti Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11937760917",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1359784,
+          7.3027927
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11937760917,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "SEET Library",
+        "tags": {
+          "amenity": "library",
+          "check_date": "2024-05-27",
+          "name": "SEET Library",
+          "name:en": "SEET Library",
+          "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su off"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11937804183",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1355217,
+          7.3013006
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11937804183,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "SAAT Library",
+        "tags": {
+          "amenity": "library",
+          "check_date": "2024-05-27",
+          "name": "SAAT Library",
+          "name:en": "SAAT Library",
+          "opening_hours": "Mo-Fr 08:00-17:30; Sa-Su off"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13042245180",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4414538,
+          10.6101293
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13042245180,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "FACULTY OF AIR ENGINEERING LIBRARY",
+        "tags": {
+          "amenity": "library",
+          "name": "FACULTY OF AIR ENGINEERING LIBRARY"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13536246692",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4053573,
+          6.4458576
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13536246692,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Pan African Research Centre",
+        "tags": {
+          "addr:city": "Lagos",
+          "addr:housenumber": "27",
+          "addr:street": "Boyle Street",
+          "air_conditioning": "yes",
+          "amenity": "library",
+          "internet_access": "wlan",
+          "name": "Pan African Research Centre",
+          "operator": "pada lagos",
+          "operator:type": "private_non_profit"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13950768471",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8890746,
+          6.4117482
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13950768471,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Badagry Heritage Museum",
+        "tags": {
+          "museum": "history",
+          "name": "Badagry Heritage Museum",
+          "tourism": "museum",
+          "wikidata": "Q111008534",
+          "wikipedia": "en:Badagry Heritage Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13950768472",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8888105,
+          6.4120549
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13950768472,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Badagry Divisional Libary",
+        "tags": {
+          "amenity": "library",
+          "name": "Badagry Divisional Libary",
+          "wikidata": "Q86345927"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13950768473",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8844565,
+          6.4123233
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13950768473,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Mobee Royal Family Original Slave Tade Relics Museum",
+        "tags": {
+          "museum": "history",
+          "name": "Mobee Royal Family Original Slave Tade Relics Museum",
+          "tourism": "museum",
+          "wikidata": "Q110819447"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13950768474",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8841028,
+          6.4119284
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13950768474,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Seriki William Abass Slave Museum",
+        "tags": {
+          "museum": "history",
+          "name": "Seriki William Abass Slave Museum",
+          "tourism": "museum",
+          "wikidata": "Q132730791",
+          "wikipedia": "en:Seriki Williams Abass Slave Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14106013236",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3936814,
+          6.7298639
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 14106013236,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Alumni",
+        "tags": {
+          "amenity": "library",
+          "name": "Alumni"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14106013237",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3888068,
+          6.7181742
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 14106013237,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Reading Room",
+        "tags": {
+          "amenity": "library",
+          "name": "Reading Room"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14125043220",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4580412,
+          7.6814387
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 14125043220,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Library",
+        "tags": {
+          "amenity": "library",
+          "education": "university",
+          "name": "Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14181143546",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0589716,
+          12.5678223
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 14181143546,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160171907",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6033558,
+          6.3914064
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 160171907,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160171911",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6031224,
+          6.3911026
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 160171911,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/303979158",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8723358,
+          7.3952158
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 303979158,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Library and Resource Centre,Leventis Building,Jericho Road.",
+        "tags": {
+          "addr:city": "Ibadan",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Library and Resource Centre,Leventis Building,Jericho Road."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/362847568",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.896106,
+          7.4466477
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 362847568,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kenneth Dike",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Kenneth Dike",
+          "opening_hours": "24/7",
+          "operator": "University",
+          "source": "bing",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/479771841",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4347419,
+          10.5220377
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 479771841,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "National Library",
+        "tags": {
+          "amenity": "library",
+          "name": "National Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/501775821",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9239331,
+          4.901837
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 501775821,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "P S Library (Donal Ekong extention)",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "P S Library (Donal Ekong extention)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/599038677",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5285709,
+          7.5165687
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 599038677,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museum of Natural History",
+        "tags": {
+          "building": "yes",
+          "fee": "yes",
+          "name": "Museum of Natural History",
+          "opening_hours": "Mo-Sa 08:00-16:00",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/617712369",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5230479,
+          7.5198423
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 617712369,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Hezekiah Oluwasanmi Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Hezekiah Oluwasanmi Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/625458525",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7455615,
+          5.5159624
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 625458525,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/630008904",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5376404,
+          9.6136512
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 630008904,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Federal library Minna",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Federal library Minna"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/633067733",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3279833,
+          13.0339625
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 633067733,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/670260325",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3256804,
+          4.9657624
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 670260325,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Cross River State Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Cross River State Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/670573499",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4921724,
+          9.3499534
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 670573499,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Ibrahim Babangida Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Ibrahim Babangida Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/671991295",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.403518,
+          6.4444185
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 671991295,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "National Museum",
+        "tags": {
+          "addr:city": "Lagos",
+          "name": "National Museum",
+          "tourism": "museum",
+          "wikidata": "Q1311732",
+          "wikipedia": "en:Nigerian National Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/732555018",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4140438,
+          6.730657
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 732555018,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/746433964",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8550216,
+          6.4881977
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 746433964,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Yemisi Shyllon Museum of Art",
+        "tags": {
+          "building": "yes",
+          "name": "Yemisi Shyllon Museum of Art",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/760061890",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.375323,
+          6.5176029
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 760061890,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Central Library",
+        "tags": {
+          "access": "permit",
+          "amenity": "library",
+          "building": "yes",
+          "internet_access": "yes",
+          "internet_access:fee": "yes",
+          "name": "Central Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/761720586",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9783291,
+          4.8016926
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 761720586,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/765991257",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4499671,
+          10.5179055
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 765991257,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "E-Library and Medicine Hall",
+        "tags": {
+          "amenity": "library",
+          "building": "university",
+          "name": "E-Library and Medicine Hall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/837679742",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1833338,
+          7.2569591
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 837679742,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Ondo State Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "layer": "1",
+          "name": "Ondo State Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/852462906",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6864337,
+          7.8683562
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 852462906,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "name": "Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/899488909",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5003763,
+          9.0847246
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 899488909,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1036276640",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.584396,
+          8.4821616
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1036276640,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Ilorin National Museum",
+        "tags": {
+          "building": "yes",
+          "museum": "local",
+          "name": "Ilorin National Museum",
+          "operator": "National Commission for Museums and Monuments",
+          "operator:type": "government",
+          "source": "microsoft/BuildingFootprints",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1064622424",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0100206,
+          6.0233322
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1064622424,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Igbo-Ukwu Museum",
+        "tags": {
+          "addr:city": "Igbo-Ukwu, Aguata",
+          "addr:street": "Umudege Ezinifite Road",
+          "building": "yes",
+          "museum": "archaeological",
+          "name": "Igbo-Ukwu Museum",
+          "operator": "National Commission for Museums and Monuments",
+          "operator:type": "public/government",
+          "source": "microsoft/BuildingFootprints",
+          "start_date": "1989-12-29",
+          "tourism": "museum",
+          "website": "https://museum.ng/museums/national-museums-list/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1159011373",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7407125,
+          7.804661
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1159011373,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Lokoja National Museum",
+        "tags": {
+          "addr:city": "Lokoja",
+          "addr:street": "Lugard Road",
+          "building": "yes",
+          "museum": "local",
+          "name": "Lokoja National Museum",
+          "operator": "National Commission for Museums and Monuments",
+          "operator:type": "public/government",
+          "start_date": "2006-06-30",
+          "tourism": "museum",
+          "website": "https://museum.ng/museums/national-museums-list/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1167573499",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5088215,
+          6.461786
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1167573499,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Enugu's National Museum of Unity",
+        "tags": {
+          "addr:city": "Enugu",
+          "addr:street": "Abakaliki Road",
+          "building": "yes",
+          "museum": "local",
+          "name": "Enugu's National Museum of Unity",
+          "operator": "National Commission for Museums and Monuments",
+          "operator:type": "public/government",
+          "start_date": "2006",
+          "tourism": "museum",
+          "website": "https://museum.ng/",
+          "wikidata": "Q111842991"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1217215428",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8894897,
+          9.950355
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1217215428,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Main Camp Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Main Camp Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1247357530",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4414578,
+          10.6101349
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1247357530,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "AIR ENGINEERING LIBRARY",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "AIR ENGINEERING LIBRARY",
+          "source": "microsoft/BuildingFootprints"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1248133507",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.442004,
+          10.6098527
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1248133507,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "AFIT library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "internet_access": "wlan",
+          "name": "AFIT library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1291121036",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.346718,
+          7.1507683
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1291121036,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Kuti Heritage Museum",
+        "tags": {
+          "addr:city": "Abeokuta",
+          "addr:housenumber": "15",
+          "addr:street": "Nepa Road",
+          "building": "yes",
+          "facebook": "https://www.facebook.com/thekutiheritagemuseum/",
+          "name": "Kuti Heritage Museum",
+          "phone": "+234 808 369 0082",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1552522837",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.45803,
+          7.6814454
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1552522837,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/3002930",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.174767,
+          6.6785568
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 3002930,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "School Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "School Library",
+          "type": "multipolygon"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/9324151",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9210524,
+          4.9044167
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 9324151,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Donald Ekong Library",
+        "tags": {
+          "addr:city": "University of Port Harcourt, Abuja Campus, Choba, Rivers State.",
+          "addr:street": "Prof. K. C. Harrison Close",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Donald Ekong Library",
+          "note": "1. Dept. of Library and Information Science  G/L",
+          "type": "multipolygon"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/10307824",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4034477,
+          6.4445558
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 10307824,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum",
+          "type": "multipolygon"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/11348081",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1570223,
+          6.6704174
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 11348081,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Covenant University Center for Learning Resources",
+        "tags": {
+          "amenity": "library",
+          "building": "university",
+          "name": "Covenant University Center for Learning Resources",
+          "type": "multipolygon"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/12001958",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4084359,
+          6.8641252
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 12001958,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Nnamdi Azikiwe Library",
+        "tags": {
+          "addr:city": "Nsukka",
+          "addr:street": "Owere Eze road",
+          "amenity": "library",
+          "building": "yes",
+          "building:levels": "6",
+          "name": "Nnamdi Azikiwe Library",
+          "operator": "University of Nigeria Nsukka",
+          "type": "multipolygon"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/13441290",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1152534,
+          6.2484859
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 13441290,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Unizik Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Unizik Library",
+          "type": "multipolygon"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/17567048",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5599272,
+          7.4826094
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 17567048,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Ife National Museum",
+        "tags": {
+          "building": "yes",
+          "museum": "local",
+          "name": "Ife National Museum",
+          "operator": "National Commission for Museums and Monuments",
+          "operator:type": "government",
+          "start_date": "1954",
+          "tourism": "museum",
+          "type": "multipolygon",
+          "website": "https://museum.ng/",
+          "wikidata": "Q110818482",
+          "wikipedia": "en:Ife National Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/17728147",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1344282,
+          7.3040115
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 17728147,
+        "country": "Nigeria",
+        "alpha_2": "NG",
+        "countries": [
+          "NG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Albert Ilemobade Library",
+        "tags": {
+          "access": "students",
+          "amenity": "library",
+          "baby_feeding": "no",
+          "books": "academic",
+          "building": "yes",
+          "check_date": "2024-05-27",
+          "description": "FUTA Library",
+          "internet_access": "wlan",
+          "internet_access:fee": "customers",
+          "name": "Albert Ilemobade Library",
+          "operator:type": "university",
+          "polling_station": "no",
+          "type": "multipolygon",
+          "wheelchair": "yes"
+        }
+      }
+    }
+  ]
+}

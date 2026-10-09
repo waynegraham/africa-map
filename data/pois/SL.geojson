@@ -1,0 +1,720 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/3563419694",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.2359032,
+          8.4867692
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3563419694,
+        "country": "Sierra Leone",
+        "alpha_2": "SL",
+        "countries": [
+          "SL"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "National Museum",
+        "tags": {
+          "addr:city": "Freetown",
+          "addr:street": "Pademba Road",
+          "name": "National Museum",
+          "name:en": "National Museum",
+          "name:lt": "Nacionalinis muziejus",
+          "tourism": "museum",
+          "website": "https://www.sierraleoneheritage.org/museum/",
+          "wikidata": "Q3330698",
+          "wikipedia": "en:Sierra Leone National Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3589578710",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.0907357,
+          8.5452727
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3589578710,
+        "country": "Sierra Leone",
+        "alpha_2": "SL",
+        "countries": [
+          "SL"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Jaiama Community Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Jaiama Community Library",
+          "osm_id": "2401623907"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3589607745",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.7422305,
+          7.9690869
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3589607745,
+        "country": "Sierra Leone",
+        "alpha_2": "SL",
+        "countries": [
+          "SL"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bo Library",
+        "tags": {
+          "addr:street": "High Court Drive",
+          "amenity": "library",
+          "name": "Bo Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3589640104",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.7493806,
+          7.9507686
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3589640104,
+        "country": "Sierra Leone",
+        "alpha_2": "SL",
+        "countries": [
+          "SL"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Regional Library",
+        "tags": {
+          "addr:street": "Bo-Tiama Highway",
+          "amenity": "library",
+          "name": "Regional Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4489200393",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.1875969,
+          7.87777
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4489200393,
+        "country": "Sierra Leone",
+        "alpha_2": "SL",
+        "countries": [
+          "SL"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "City Library",
+        "tags": {
+          "amenity": "library",
+          "check_date": "2024-07-19",
+          "name": "City Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4489255789",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.1974822,
+          7.8616918
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4489255789,
+        "country": "Sierra Leone",
+        "alpha_2": "SL",
+        "countries": [
+          "SL"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Regional Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Regional Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4513684940",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.694654,
+          8.0977782
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4513684940,
+        "country": "Sierra Leone",
+        "alpha_2": "SL",
+        "countries": [
+          "SL"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "addr:city": "Pendembu",
+          "addr:state": "Kailahun",
+          "addr:street": "Seilbu",
+          "amenity": "library",
+          "man_made": "Yes",
+          "shop": "convenience",
+          "source": "Red Cross Field Survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4540110820",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.2369375,
+          8.486284
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4540110820,
+        "country": "Sierra Leone",
+        "alpha_2": "SL",
+        "countries": [
+          "SL"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Jan In",
+        "tags": {
+          "addr:city": "Freetown",
+          "addr:housenumber": "12",
+          "addr:postcode": "wr",
+          "addr:state": "Koinadugu",
+          "addr:street": "gbawuria",
+          "amenity": "library",
+          "cuisine": "mexican",
+          "name": "Jan In",
+          "office": "lawyer",
+          "shop": "chemist",
+          "source": "Red Cross Field Survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4540110891",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.2354206,
+          8.4899676
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4540110891,
+        "country": "Sierra Leone",
+        "alpha_2": "SL",
+        "countries": [
+          "SL"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "SL Diocesan's Book Shop",
+        "tags": {
+          "addr:city": "Freetown",
+          "addr:housenumber": "3",
+          "addr:state": "western urban",
+          "addr:street": "Gloucester street",
+          "amenity": "library",
+          "name": "SL Diocesan's Book Shop",
+          "shop": "books",
+          "source": "Red Cross Field Survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4540110962",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.2322611,
+          8.4881131
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4540110962,
+        "country": "Sierra Leone",
+        "alpha_2": "SL",
+        "countries": [
+          "SL"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "liberty",
+        "tags": {
+          "addr:city": "Freetown",
+          "addr:housenumber": "25",
+          "addr:state": "Western urban",
+          "addr:street": "howe",
+          "amenity": "library",
+          "name": "liberty",
+          "source": "Red Cross Field Survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4861866395",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.050827,
+          8.8707316
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4861866395,
+        "country": "Sierra Leone",
+        "alpha_2": "SL",
+        "countries": [
+          "SL"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Regional Library",
+        "tags": {
+          "address": "Magburaka Highway",
+          "amenity": "library",
+          "categories": "Government Infrastructure",
+          "name": "Regional Library",
+          "no": "71",
+          "x_coord": "824407",
+          "y_coord": "981849"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4861866396",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.0445147,
+          8.8820008
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4861866396,
+        "country": "Sierra Leone",
+        "alpha_2": "SL",
+        "countries": [
+          "SL"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "City Library",
+        "tags": {
+          "address": "Station Road",
+          "amenity": "library",
+          "categories": "Government Infrastructure",
+          "name": "City Library",
+          "no": "70",
+          "x_coord": "825092",
+          "y_coord": "983102"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6367305043",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.2329195,
+          8.4860436
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6367305043,
+        "country": "Sierra Leone",
+        "alpha_2": "SL",
+        "countries": [
+          "SL"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Sierra Leone Library Board",
+        "tags": {
+          "amenity": "library",
+          "name": "Sierra Leone Library Board",
+          "wikidata": "Q55638476"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11758326240",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.5511652,
+          9.5855013
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11758326240,
+        "country": "Sierra Leone",
+        "alpha_2": "SL",
+        "countries": [
+          "SL"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "KABALA COMMUNITY LIBRARY",
+        "tags": {
+          "addr:city": "KABALA",
+          "addr:street": "Old Makeni Road",
+          "amenity": "library",
+          "name": "KABALA COMMUNITY LIBRARY"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33196181",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.2211412,
+          8.4774353
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 33196181,
+        "country": "Sierra Leone",
+        "alpha_2": "SL",
+        "countries": [
+          "SL"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/173226207",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.2328739,
+          8.4860524
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 173226207,
+        "country": "Sierra Leone",
+        "alpha_2": "SL",
+        "countries": [
+          "SL"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Sierra Leone Library Board",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Sierra Leone Library Board"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/273031314",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.5763488,
+          8.2791659
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 273031314,
+        "country": "Sierra Leone",
+        "alpha_2": "SL",
+        "countries": [
+          "SL"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Library Board Kailahun Town",
+        "tags": {
+          "addr:city": "Kailahun",
+          "addr:housenumber": "26",
+          "addr:state": "Kailahun",
+          "addr:street": "Kodime Street",
+          "amenity": "library",
+          "building": "yes",
+          "building:condition": "average",
+          "building:levels": "1",
+          "building:material": "brick",
+          "name": "Library Board Kailahun Town",
+          "source": "Red Cross Field Survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/291935303",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.9410473,
+          8.6604552
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 291935303,
+        "country": "Sierra Leone",
+        "alpha_2": "SL",
+        "countries": [
+          "SL"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/291935309",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.9414919,
+          8.6600931
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 291935309,
+        "country": "Sierra Leone",
+        "alpha_2": "SL",
+        "countries": [
+          "SL"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/295461908",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.6477946,
+          8.022566
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 295461908,
+        "country": "Sierra Leone",
+        "alpha_2": "SL",
+        "countries": [
+          "SL"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/307686732",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.2094312,
+          8.4893944
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 307686732,
+        "country": "Sierra Leone",
+        "alpha_2": "SL",
+        "countries": [
+          "SL"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "National Railway Museum",
+        "tags": {
+          "building": "yes",
+          "name": "National Railway Museum",
+          "source": "MSF-CH",
+          "tourism": "museum",
+          "wikidata": "Q15122535",
+          "wikipedia": "en:Sierra Leone National Railway Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308210874",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.0676258,
+          8.3395085
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 308210874,
+        "country": "Sierra Leone",
+        "alpha_2": "SL",
+        "countries": [
+          "SL"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Chukuma Johnson Memorial Childrens Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Chukuma Johnson Memorial Childrens Library",
+          "source": "MSF-CH"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1238653601",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.1633409,
+          8.1753414
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1238653601,
+        "country": "Sierra Leone",
+        "alpha_2": "SL",
+        "countries": [
+          "SL"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Kent Slave House",
+        "tags": {
+          "amenity": "school",
+          "building": "yes",
+          "description": "today used as school",
+          "name": "Kent Slave House",
+          "place": "locality",
+          "source": "microsoft/BuildingFootprints",
+          "tourism": "museum",
+          "unocha:pcode": "SLE04010400028"
+        }
+      }
+    }
+  ]
+}

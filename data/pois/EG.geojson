@@ -1,0 +1,6556 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/99200232",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2355256,
+          30.0415381
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 99200232,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Japanese foundation Cairo office",
+        "tags": {
+          "amenity": "library",
+          "name": "Japanese foundation Cairo office",
+          "name:ar": "مؤسسة اليابانية مكتب القاهرة",
+          "opening_hours": "10:00-17:30"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/317180903",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2337768,
+          30.0419082
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 317180903,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Japanese foundation Cairo office",
+        "tags": {
+          "amenity": "library",
+          "name": "Japanese foundation Cairo office",
+          "opening_hours": "10:00-17:30"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/328965969",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2507258,
+          30.0283804
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 328965969,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف جاير أندرسون",
+        "tags": {
+          "fee": "yes",
+          "name": "متحف جاير أندرسون",
+          "name:ar": "متحف جاير أندرسون",
+          "name:en": "Gayer-Anderson Museum",
+          "name:fa": "موزه گایر-اندرسون",
+          "tourism": "museum",
+          "wheelchair": "no",
+          "wikidata": "Q2190649",
+          "wikimedia_commons": "Category:Gayer-Anderson Museum",
+          "wikipedia": "en:Gayer-Anderson Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/384494709",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3074812,
+          30.1294036
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 384494709,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "مسلة المطرية",
+        "tags": {
+          "name": "مسلة المطرية",
+          "name:ar": "مسلة المطرية",
+          "name:en": "Masallat Al-Matareya",
+          "name:en1": "Masalla Obelisk",
+          "name:en2": "Obelisk of Senusret I",
+          "tourism": "museum",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/432875456",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2287249,
+          29.9961855
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 432875456,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "المتخف الجيولوجي المصري",
+        "tags": {
+          "alt_name": "المتخف الجيولوجي المصري",
+          "check_date": "2026-06-09",
+          "name": "المتخف الجيولوجي المصري",
+          "name:ar": "المتخف الجيولوجي المصري",
+          "name:en": "Egyptian Geological Museum",
+          "note": "correct arabic tag",
+          "tourism": "museum",
+          "wheelchair": "no",
+          "wikidata": "Q5348411",
+          "wikimedia_commons": "Category:Egyptian Geological Museum",
+          "wikipedia": "en:Egyptian Geological Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/595353662",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2484349,
+          31.36562
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 595353662,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف كهف رومل",
+        "tags": {
+          "alt_name": "متحف كهف رومل",
+          "name": "متحف كهف رومل",
+          "name:ar": "متحف كهف رومل",
+          "name:en": "Rommel Cave Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/664382855",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2948309,
+          29.8470384
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 664382855,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Rokn Farouk",
+        "tags": {
+          "name": "Rokn Farouk",
+          "name:ar": "ركن فاروق",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/664382856",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3257085,
+          29.8601958
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 664382856,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Wax museum",
+        "tags": {
+          "name": "Wax museum",
+          "name:ar": "متحف الشمع",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/670115369",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2248842,
+          30.0076221
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 670115369,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف أم كلثوم",
+        "tags": {
+          "name": "متحف أم كلثوم",
+          "name:ar": "متحف أم كلثوم",
+          "name:en": "Om Kalthom Museum",
+          "name:fa": "موزه ام کلثوم",
+          "tourism": "museum",
+          "wikidata": "Q7881638",
+          "wikimedia_commons": "Category:Umm Kulthum Museum",
+          "wikipedia": "en:Umm Kulthum Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/841519509",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2149905,
+          30.0585474
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 841519509,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "بريتيش كونسل",
+        "tags": {
+          "alt_name": "بريتيش كونسل",
+          "amenity": "library",
+          "name": "بريتيش كونسل",
+          "name:ar": "بريتيش كونسل",
+          "name:en": "British Council"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/961793913",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.176465,
+          29.9692025
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 961793913,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Wissa Wassef Art Center",
+        "tags": {
+          "name": "Wissa Wassef Art Center",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/987129757",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2712874,
+          30.0539141
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 987129757,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1144103214",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5424595,
+          25.4504594
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1144103214,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1266500053",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8412971,
+          29.3172046
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1266500053,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1947175187",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5670088,
+          29.9550854
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1947175187,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف السويس القومى",
+        "tags": {
+          "name": "متحف السويس القومى",
+          "name:ar": "متحف السويس القومى",
+          "name:en": "Suez National Museum",
+          "tourism": "museum",
+          "wikidata": "Q63973129",
+          "wikimedia_commons": "Category:Suez National Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2314542914",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.9667792,
+          28.5671514
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2314542914,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "مركز زوار محمية سانت كاترين",
+        "tags": {
+          "name": "مركز زوار محمية سانت كاترين",
+          "name:ar": "مركز زوار محمية سانت كاترين",
+          "name:en": "St Catherine Protectorate Visitor Center",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2404710478",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8095703,
+          29.3880381
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2404710478,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501967940",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3235578,
+          30.095758
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2501967940,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المجلس البريطانى",
+        "tags": {
+          "amenity": "library",
+          "name": "المجلس البريطانى",
+          "name:ar": "المجلس البريطانى",
+          "name:en": "British Council"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2668434195",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2613757,
+          30.049967
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2668434195,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Egyptian Textile Museum",
+        "tags": {
+          "addr:city": "Cairo",
+          "addr:housenumber": "121",
+          "addr:street": "El Muez St.",
+          "fee": "yes",
+          "name": "Egyptian Textile Museum",
+          "name:en": "Egyptian Textile Museum",
+          "opening_hours": "09:00-16:30",
+          "phone": "0227865227",
+          "tourism": "museum",
+          "website": "https://www.facebook.com/EgyptianTextileMuseum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2714424616",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.916755,
+          29.9447684
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2714424616,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3119540922",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3952966,
+          31.0525421
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3119540922,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة مصر العامة",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة مصر العامة",
+          "name:ar": "مكتبة مصر العامة",
+          "name:en": "Misr Library",
+          "wikidata": "Q68652779"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3220031413",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.236004,
+          30.0457378
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3220031413,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Goethe-Institut Library",
+        "tags": {
+          "addr:city:en": "Cairo",
+          "amenity": "library",
+          "name": "Goethe-Institut Library",
+          "operator": "Goethe-Institut e.V."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3358845694",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2524145,
+          30.0238453
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3358845694,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Talaat Harb Culture Center",
+        "tags": {
+          "addr:housenumber": "1",
+          "addr:street": "شارع السيدة نفيسة",
+          "name": "Talaat Harb Culture Center",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3358845731",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.23005,
+          30.0392754
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3358845731,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Japanese foundation Cairo office",
+        "tags": {
+          "amenity": "library",
+          "name": "Japanese foundation Cairo office",
+          "opening_hours": "10:00-17:30"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3762500099",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.9761113,
+          28.5561737
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3762500099,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف دير القديسة كاترين",
+        "tags": {
+          "name": "متحف دير القديسة كاترين",
+          "name:ar": "متحف دير القديسة كاترين",
+          "name:de": "Museum des Katharinenklosters",
+          "name:es": "Museo del Monasterio de Santa Catalina",
+          "name:fr": "Musée du Monastère Sainte-Catherine",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4214211407",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.261014,
+          30.047772
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4214211407,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "خان الخليلي و ش الحسين",
+        "tags": {
+          "addr:street": "شارع الحسيني",
+          "name": "خان الخليلي و ش الحسين",
+          "name:ar": "خان الخليلي و ش الحسين",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4224792592",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2591627,
+          30.051842
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4224792592,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4431297492",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.801455,
+          31.432216
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4431297492,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة مصر العامة",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة مصر العامة",
+          "name:ar": "مكتبة مصر العامة",
+          "name:en": "public Masr library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4463978193",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2767421,
+          30.1265867
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4463978193,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة لافلى ستيودنت",
+        "tags": {
+          "addr:housenumber": "1",
+          "addr:street": "شارع مسجد الرحمن من شارع ترعة الشابورى 70 متر من مطعم الحسينى خلف مدرسة هدى شعراوى",
+          "amenity": "library",
+          "email": "sasahoksha.sh@gmail.com",
+          "internet_access": "wlan",
+          "name": "مكتبة لافلى ستيودنت",
+          "name:ar": "مكتبة لافلى ستيودنت",
+          "name:en": "Lovely student",
+          "phone": "01119399588"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4635197989",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.282331,
+          30.074232
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4635197989,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة دار الطب",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة دار الطب",
+          "name:ar": "مكتبة دار الطب"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4686743689",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5427677,
+          25.447253
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4686743689,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة بدر",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة بدر",
+          "name:ar": "مكتبة بدر"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4711849189",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6775122,
+          30.5345306
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4711849189,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الشوبكي",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة الشوبكي",
+          "name:ar": "مكتبة الشوبكي"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4821475021",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9156353,
+          29.9668692
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4821475021,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "تامر وهشام",
+        "tags": {
+          "amenity": "library",
+          "name": "تامر وهشام",
+          "name:ar": "تامر وهشام",
+          "name:en": "Tamer and hasham"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4903927825",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8839688,
+          24.0408009
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4903927825,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Nile Museum",
+        "tags": {
+          "name": "Nile Museum",
+          "name:en": "Nile Museum",
+          "name:es": "Museo del Nilo",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5022497344",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3272709,
+          30.0910437
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5022497344,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5267589822",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6398801,
+          25.7025345
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5267589822,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "museum": "archaeological",
+          "name:en": "Mummification Museum",
+          "name:tr": "Mumyalama Müzesi",
+          "opening_hours": "Mo-Su 09:00-14:00,17:00-21:00",
+          "tourism": "museum",
+          "wikidata": "Q3330049",
+          "wikimedia_commons": "Category:Mummification Museum, Luxor",
+          "wikipedia": "ar:متحف التحنيط"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5340679527",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.518037,
+          29.2037725
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5340679527,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "بيت سيوة",
+        "tags": {
+          "addr:city": "سيوة",
+          "name": "بيت سيوة",
+          "name:ar": "بيت سيوة",
+          "name:en": "House of Siwa",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5628676422",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2822805,
+          30.0942356
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5628676422,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "جمال",
+        "tags": {
+          "amenity": "library",
+          "internet_access": "wlan",
+          "name": "جمال",
+          "name:ar": "جمّال",
+          "opening_hours": "Fr-We 00:00-24:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5852588986",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.2982815,
+          31.266038
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5852588986,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "مسجد التوفيقي",
+        "tags": {
+          "name": "مسجد التوفيقي",
+          "name:ar": "مسجد التوفيقي",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5914939590",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4069016,
+          26.9365139
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5914939590,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "addr:street": "شارع الجسر الشرقى",
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6161782771",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6328437,
+          25.7039153
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6161782771,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Nūn Art Gallery",
+        "tags": {
+          "addr:street": "Ramla, Luxor west bank",
+          "email": "info@nun-art-gallery.com",
+          "name": "Nūn Art Gallery",
+          "name:en": "Nut Art Store & Kaffee",
+          "opening_hours": "Mo-Su 10:00-22:00",
+          "source": "DuMont Reise-Taschenbuch Ägypten – Die klassische Nilreise",
+          "tourism": "museum",
+          "website": "https://www.nun-art-gallery.com/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6412444685",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9685081,
+          31.2451159
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6412444685,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "mahmoud saied museum",
+        "tags": {
+          "name": "mahmoud saied museum",
+          "name:en": "متحف محمود سعيد",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6416332108",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9695783,
+          31.2444496
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6416332108,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف محمود سعيد",
+        "tags": {
+          "name": "متحف محمود سعيد",
+          "name:en": "Mahmoud Saeed Museum",
+          "name:ru": "Музей Махмуда Саида",
+          "opening_hours": "Tu-Th, Sa-Su 00:00-24:00",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6508788682",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9547794,
+          29.9726714
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6508788682,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة بيت اللغات",
+        "tags": {
+          "addr:city": "مدينة 6 أكتوبر",
+          "addr:city:en": "6th of October City",
+          "addr:country": "EG",
+          "addr:district": "الحى 1",
+          "addr:district:en": "District 1",
+          "addr:housenumber": "440",
+          "addr:province": "الجيزة",
+          "addr:province:en": "El Giza",
+          "addr:street": "شارع معهد الفنون التطبيقية",
+          "addr:street:en": "Practical Art Institute Street",
+          "addr:subdistrict": "منطقة خدمات",
+          "addr:subdistrict:en": "Services Area",
+          "amenity": "library",
+          "name": "مكتبة بيت اللغات",
+          "name:en": "Home Of Languages"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6570773387",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2614212,
+          30.0465867
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6570773387,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "سيدنا الحسين",
+        "tags": {
+          "name": "سيدنا الحسين",
+          "name:ar": "سيدنا الحسين",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6573013885",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2510038,
+          30.019316
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6573013885,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "السيدة نفيسه",
+        "tags": {
+          "name": "السيدة نفيسه",
+          "name:ar": "السيدة نفيسه",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6603581285",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.8231072,
+          27.1961002
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6603581285,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "name:en": "Selkhet Papyrus",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7181559385",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.2999977,
+          31.2701213
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7181559385,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف بور سعيد الحربي",
+        "tags": {
+          "name": "متحف بور سعيد الحربي",
+          "name:ar": "متحف بور سعيد الحربي",
+          "name:en": "Port Saïd Military Museum",
+          "name:fr": "Musée militaire de Port Saïd",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7244517886",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6246003,
+          25.7149153
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7244517886,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "name:en": "Art from People to People Foundation",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7245471495",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.8565571,
+          26.987356
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7245471495,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Mini Egypt",
+        "tags": {
+          "name": "Mini Egypt",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7295350741",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5536251,
+          30.6174128
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7295350741,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة وخردوات أبو لين",
+        "tags": {
+          "addr:city": "الزقازيق",
+          "addr:housenumber": "6",
+          "addr:postcode": "44839",
+          "addr:street": "المسلمية ش الجامع الكبير",
+          "amenity": "library",
+          "internet_access": "wlan",
+          "internet_access:ssid": "Leen",
+          "name": "مكتبة وخردوات أبو لين",
+          "name:ar": "مكتبة وخردوات أبو لين",
+          "phone": "+201275027515"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7646072885",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2528692,
+          30.0742035
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7646072885,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "طباعه اورق",
+        "tags": {
+          "amenity": "library",
+          "name": "طباعه اورق",
+          "name:ar": "طباعه اورق"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7695709616",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8174356,
+          27.9298655
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7695709616,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8139814217",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3188138,
+          27.9074779
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8139814217,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "King Tut Museum",
+        "tags": {
+          "addr:housenumber": "38",
+          "addr:street": "Халоми",
+          "level": "-2",
+          "name": "King Tut Museum",
+          "name:ru": "Музей Тутанхамона",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8329465925",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2302882,
+          30.0068683
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8329465925,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "check_date": "2024-10-29",
+          "name:en": "Street library. All languages"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8461567053",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0466143,
+          30.1732906
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8461567053,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبه اولاد حسونه",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبه اولاد حسونه",
+          "name:ar": "مكتبه اولاد حسونه",
+          "name:en": "Awlad Hassounah Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8491899517",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8981092,
+          29.518671
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8491899517,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف كوم اوشيم",
+        "tags": {
+          "name": "متحف كوم اوشيم",
+          "name:en": "Kom oshim museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8557724621",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2849887,
+          30.0800327
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8557724621,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "هارفارد",
+        "tags": {
+          "amenity": "library",
+          "contact:facebook": "https://www.facebook.com/lawshams100/",
+          "contact:whatsapp": "+20 120 0551320",
+          "name": "هارفارد",
+          "name:ar": "هارفارد",
+          "name:en": "Harvard",
+          "phone": "+20 111 4046293"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9014684771",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2377781,
+          30.9630751
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9014684771,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبه ياسمين وريحان",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبه ياسمين وريحان",
+          "name:ar": "مكتبه ياسمين وريحان",
+          "name:en": "Yasmine and Rihan Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9216509717",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9684299,
+          27.0619204
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9216509717,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "name:en": "Badr Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9318123797",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2361251,
+          30.0329262
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9318123797,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Médiathèque de l’IFE de Mounira",
+        "tags": {
+          "amenity": "library",
+          "name": "Médiathèque de l’IFE de Mounira",
+          "opening_hours": "Su-Th 11:00-18:00; Fr 10:00-17:00; Sa off"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9364095517",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2242203,
+          30.0594759
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9364095517,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Al Masar Art Gallery",
+        "tags": {
+          "name": "Al Masar Art Gallery",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9516376627",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3457962,
+          27.9310328
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9516376627,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9545731219",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.713194,
+          26.1652292
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9545731219,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبه نور الاسلام",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبه نور الاسلام",
+          "name:ar": "مكتبه نور الاسلام",
+          "name:en": "Noor Al Islam Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9597576973",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9011855,
+          31.1952366
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9597576973,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "La Médiathèque d’Alexandrie",
+        "tags": {
+          "amenity": "library",
+          "name": "La Médiathèque d’Alexandrie",
+          "opening_hours": "Mo,Th,Sa,Su 11:00-17:00; Tu,We 11:00-19:00; Fr 12:00-17:00",
+          "website": "https://www.ifegypte.com/lif-egypte-et-ses-antennes/alexandrie/la-mediatheque/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9629067137",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9012293,
+          31.1976064
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9629067137,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف كڤافيس",
+        "tags": {
+          "museum": "person",
+          "name": "متحف كڤافيس",
+          "name:ar": "متحف كڤافيس",
+          "name:en": "Cavafy Museum",
+          "tourism": "museum",
+          "wikidata": "Q16327758",
+          "wikimedia_commons": "Category:Museum of Constantine P. Cavafy",
+          "wikipedia": "en:Cavafy Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9659929843",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.217199,
+          29.9972735
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9659929843,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Cleopatra’s Museum",
+        "tags": {
+          "name": "Cleopatra’s Museum",
+          "name:ar": "متحف كليوباترا",
+          "name:en": "Cleopatra’s Museum",
+          "tourism": "museum",
+          "website": "https://www.pharaonicvillage.com"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10207281117",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5446872,
+          29.2048989
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10207281117,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "name:en": "Temple of Amun entrance way",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10219279820",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9133372,
+          31.2007712
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10219279820,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "internet_access": "wlan",
+          "name:en": "francais",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10296724668",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.616622,
+          22.3401982
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10296724668,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Abu Simbel Temples salvage documentation center",
+        "tags": {
+          "name": "Abu Simbel Temples salvage documentation center",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10673175005",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2239665,
+          30.0621364
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10673175005,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "name:en": "SWISS ARCHEOLOGICAL MUSEUM",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10810902994",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.644489,
+          25.7076634
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10810902994,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Luxor Museum",
+        "tags": {
+          "name": "Luxor Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10970005505",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5359275,
+          30.557626
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10970005505,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة سمير قلاظة",
+        "tags": {
+          "addr:housenumber": "1",
+          "addr:street": "شارع المقابر",
+          "amenity": "library",
+          "email": "samirklaza@gmail.com",
+          "name": "مكتبة سمير قلاظة",
+          "name:en": "samirklaza",
+          "opening_hours": "Sa-Th 09:00-12:00",
+          "phone": "01007673849"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11443230969",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.244208,
+          30.0557471
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11443230969,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "name:en": "Studio Emad Eddin Foundation",
+          "name:fr": "Studio Emad Eddin Foundation",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11472320269",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9135029,
+          31.1950937
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11472320269,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museum of Fine Arts",
+        "tags": {
+          "name": "Museum of Fine Arts",
+          "name:en": "Museum of Fine Arts",
+          "tourism": "museum",
+          "wikidata": "Q28162764",
+          "wikimedia_commons": "Category:Museum of Fine Arts, Alexandria",
+          "wikipedia": "ar:متحف الفنون الجميلة بالاسكندرية"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11572597830",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9091036,
+          31.2010233
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11572597830,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "access": "permissive",
+          "amenity": "library",
+          "level": "0",
+          "opening_hours": "Mo-Th 13:00-19:00; Fr-Su,PH off"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11752447369",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.8179727,
+          27.2506993
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11752447369,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "name:en": "The Bible Society of Egypt"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12204790085",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3106874,
+          30.0865458
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12204790085,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف جمال عبد الناصر",
+        "tags": {
+          "name": "متحف جمال عبد الناصر",
+          "name:ar": "متحف جمال عبد الناصر",
+          "name:en": "Gamal Abdel Nasser Museum",
+          "name:zh-Hans": "加迈勒·阿卜杜勒·纳赛尔博物馆",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12278326845",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4221213,
+          31.4048922
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12278326845,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف رشيد",
+        "tags": {
+          "contact:facebook": "RashidNationalMuseum",
+          "email": "rashidnationalmuseum@gmail.com",
+          "name": "متحف رشيد",
+          "name:ar": "متحف رشيد",
+          "name:de": "Rosetta-Museum",
+          "name:en": "Rashid National Museum",
+          "name:fr": "Musée National Rashid",
+          "phone": "+20 45 2921733",
+          "tourism": "museum",
+          "website": "https://www.facebook.com/RashidNationalMuseum",
+          "wikidata": "Q42332082",
+          "wikipedia": "ar:متحف رشيد القومي"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12299523401",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1751941,
+          29.9719641
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12299523401,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف آدم حنين",
+        "tags": {
+          "name": "متحف آدم حنين",
+          "name:en": "Adam Henein Museum",
+          "tourism": "museum",
+          "website": "https://www.adamheneinmuseum.com/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12802366401",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2625649,
+          30.0309246
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12802366401,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "المتحف الحربي القومي",
+        "tags": {
+          "name": "المتحف الحربي القومي",
+          "name:en": "National Military museum",
+          "tourism": "museum",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12802396501",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.261593,
+          30.050709
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12802396501,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "سبيل وكتاب عبدالرحمن كتخدا",
+        "tags": {
+          "name": "سبيل وكتاب عبدالرحمن كتخدا",
+          "name:en": "Sabil-Kuttab of Abdel Rahman Katkhuda",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13337968891",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2428189,
+          30.0329644
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13337968891,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "بيت السناري",
+        "tags": {
+          "check_date": "2025-11-28",
+          "contact:facebook": "https://www.facebook.com/Bayt.AlSinnari/",
+          "email": "bayt.alsinnari@bibalex.org",
+          "museum": "history",
+          "name": "بيت السناري",
+          "name:ar": "بيت السناري",
+          "name:en": "Bayt al-Sinnari",
+          "operator": "Bibliotheca Alexandrina",
+          "operator:type": "public",
+          "phone": "+20 223909471",
+          "start_date": "1794",
+          "tourism": "museum",
+          "website": "https://bibalex.org/BaytAlsinnari/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13442278363",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2478331,
+          30.0434053
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13442278363,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف قصر عابدين",
+        "tags": {
+          "name": "متحف قصر عابدين",
+          "name:en": "Abdeen Palace Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13448197080",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2169877,
+          29.9981468
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13448197080,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف أنور السادات",
+        "tags": {
+          "name": "متحف أنور السادات",
+          "name:ar": "متحف أنور السادات",
+          "name:en": "Sadat's Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13448197081",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2168924,
+          29.9981468
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13448197081,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف تاريخ مصر الحديث",
+        "tags": {
+          "name": "متحف تاريخ مصر الحديث",
+          "name:ar": "متحف تاريخ مصر الحديث",
+          "name:en": "Egypt's Modern History Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13448197082",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.216811,
+          29.998149
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13448197082,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف بناة الأهرامات",
+        "tags": {
+          "name": "متحف بناة الأهرامات",
+          "name:ar": "متحف بناة الأهرامات",
+          "name:en": "Museum Of Pyramids Building",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13448197083",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.216728,
+          29.9981504
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13448197083,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف التحنيط",
+        "tags": {
+          "name": "متحف التحنيط",
+          "name:ar": "متحف التحنيط",
+          "name:en": "Mummification Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13448197084",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2166442,
+          29.9981511
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13448197084,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "المتحف القبطى",
+        "tags": {
+          "name": "المتحف القبطى",
+          "name:ar": "المتحف القبطى",
+          "name:en": "Coptic Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13448197085",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2165645,
+          29.9981525
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13448197085,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف نابليون",
+        "tags": {
+          "name": "متحف نابليون",
+          "name:ar": "متحف نابليون",
+          "name:en": "Napoleon's Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13448197086",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2164971,
+          29.9981511
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13448197086,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف المخترعين",
+        "tags": {
+          "name": "متحف المخترعين",
+          "name:ar": "متحف المخترعين",
+          "name:en": "Inventors Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13448197094",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.218377,
+          29.9965532
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13448197094,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "name:en": "Islamic Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13448197096",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2182073,
+          29.9965639
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13448197096,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف عبد الناصر",
+        "tags": {
+          "name": "متحف عبد الناصر",
+          "name:ar": "متحف عبد الناصر",
+          "name:en": "Nasser's Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13536382946",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2172423,
+          29.9976227
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13536382946,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف التراث",
+        "tags": {
+          "name": "متحف التراث",
+          "name:ar": "متحف التراث",
+          "name:en": "Heritage Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13536382947",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.217422,
+          29.9976041
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13536382947,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف الحياة اليومية لمصر الفرعونية",
+        "tags": {
+          "name": "متحف الحياة اليومية لمصر الفرعونية",
+          "name:ar": "متحف الحياة اليومية لمصر الفرعونية",
+          "name:en": "Daily Life in Ancient Egypt's Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13629828784",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9437077,
+          31.2054762
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13629828784,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف التاريخ الطبيعي",
+        "tags": {
+          "name": "متحف التاريخ الطبيعي",
+          "name:ar": "متحف التاريخ الطبيعي",
+          "name:en": "Natural History Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13714532701",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2985336,
+          27.8626504
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13714532701,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Public library",
+        "tags": {
+          "amenity": "library",
+          "name": "Public library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13949685311",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7724259,
+          27.2833934
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13949685311,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Dr Hamid Gohar",
+        "tags": {
+          "name": "Dr Hamid Gohar",
+          "opening_hours": "Mo-Su 09:00-16:00; Fr off",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14039142802",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2620228,
+          29.7481877
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 14039142802,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الصفوة",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة الصفوة"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14070972630",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7563981,
+          30.0014178
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 14070972630,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة مسجد مصر الكبير عامة",
+        "tags": {
+          "alt_name": "مكتبة مركز مصر الثقافي الاسلامي عامة",
+          "alt_name:ar": "مكتبة مركز مصر الثقافي الاسلامي عامة",
+          "alt_name:en": "Egypt's Islamic Cultural Center",
+          "amenity": "library",
+          "name": "مكتبة مسجد مصر الكبير عامة",
+          "name:ar": "مكتبة مسجد مصر الكبير عامة",
+          "name:en": "The Grand Misr Mosque",
+          "short_name": "GMM;EICC",
+          "short_name:en": "GMM;EICC"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14116244100",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2645521,
+          30.0489433
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 14116244100,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Sahah itqon",
+        "tags": {
+          "amenity": "library",
+          "name": "Sahah itqon"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14262396685",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1320238,
+          31.1348917
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 14262396685,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الطفل",
+        "tags": {
+          "addr:street": "شارع احمد عرابى",
+          "amenity": "library",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "name": "مكتبة الطفل"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/10873198",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2336017,
+          30.0478467
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 10873198,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "المتحف المصري",
+        "tags": {
+          "addr:city:en": "Cairo",
+          "addr:city:fr": "Le Caire",
+          "alt_name:en": "Egyptian Museum of Antiquities;Museum of Cairo",
+          "alt_name:fr": "Musée égyptien du Caire",
+          "building": "museum",
+          "building:colour": "#ff7e70",
+          "fee": "yes",
+          "height": "16",
+          "image": "https://photos.app.goo.gl/QAaQ5bzibEfjomnQA",
+          "name": "المتحف المصري",
+          "name:ar": "المتحف المصري",
+          "name:cs": "Egyptské muzeum",
+          "name:de": "Ägyptisches Museum",
+          "name:en": "Egyptian Museum",
+          "name:es": "Museo Egipcio",
+          "name:fa": "موزه مصر",
+          "name:fr": "Musée égyptien",
+          "name:hi": "मिस्र का संग्रहालय",
+          "name:hu": "Egyiptomi Múzeum",
+          "name:it": "Museo di antichità egiziane",
+          "name:ko": "이집트 박물관",
+          "name:ml": "ഈജിപ്ഷ്യൻ മ്യൂസിയം",
+          "name:pa": "ਮਿਸਰ ਅਜਾਇਬਘਰ",
+          "name:pl": "Muzeum Egipskie",
+          "name:pt": "Museu Egípcio",
+          "name:ro": "Muzeul Egiptean",
+          "name:ru": "Египетский музей",
+          "name:sr": "Египатски музеј",
+          "name:tr": "Mısır Müzesi",
+          "name:ur": "مصری عجائب گھر",
+          "opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-16:00",
+          "roof:colour": "#ff7e70",
+          "tourism": "museum",
+          "website": "https://egyptianmuseumcairo.eg/emc/ar/",
+          "wikidata": "Q201219",
+          "wikimedia_commons": "Category:Egyptian Museum (Cairo)",
+          "wikipedia": "ar:المتحف المصري"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28825451",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9089558,
+          31.2086641
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 28825451,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الإسكندرية",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة الإسكندرية",
+          "name:ar": "مكتبة الإسكندرية",
+          "name:en": "Bibliotheca Alexandrina",
+          "name:fa": "کتابخانه جدید اسکندریه",
+          "name:fr": "Bibliotheca Alexandrina",
+          "website": "http://www.bibalex.org",
+          "wikidata": "Q501851",
+          "wikimedia_commons": "Category:Bibliotheca Alexandrina",
+          "wikipedia": "en:Bibliotheca Alexandrina"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28825875",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9189348,
+          31.2033697
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 28825875,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف الموزاييك",
+        "tags": {
+          "name": "متحف الموزاييك",
+          "name:ar": "متحف الموزاييك",
+          "name:en": "Mosaic Museum",
+          "name:zh": "马赛克博物馆",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28829955",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2091708,
+          30.0466925
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 28829955,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "المتحف الزراعي",
+        "tags": {
+          "leisure": "park",
+          "name": "المتحف الزراعي",
+          "name:ar": "المتحف الزراعي",
+          "name:de": "Landwirtschaftsmuseum",
+          "name:en": "Agricultural Museum",
+          "name:es": "Museo de Agricultura",
+          "tourism": "museum",
+          "wikidata": "Q2420309",
+          "wikimedia_commons": "Category:Egyptian Agricultural Museum",
+          "wikipedia": "en:Agricultural Museum, Egypt"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29853309",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2524091,
+          30.0443679
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 29853309,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "دار الكتب",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "int_name": "Dar Al-Kutub",
+          "name": "دار الكتب",
+          "name:ar": "دار الكتب",
+          "name:de": "Bibliothek"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29974285",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2572396,
+          30.0296912
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 29974285,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف مصطفى كامل",
+        "tags": {
+          "name": "متحف مصطفى كامل",
+          "name:ar": "متحف مصطفى كامل",
+          "name:en": "Mustafa Kamel Museum",
+          "name:fa": "موزه مصطفی کامل",
+          "note": "tag name --> arabic",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29978011",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2717697,
+          30.0569888
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 29978011,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "معهد الدراسات الشرقية للآباء الدومنيكان",
+        "tags": {
+          "addr:city": "العباسية القاهرة",
+          "addr:housename": "معهد الدراسات الشرقية للآباء الدومنيكان",
+          "addr:housenumber": "1",
+          "addr:postcode": "11381",
+          "addr:street": "ميدان الحلبي",
+          "alt_name": "إيديو",
+          "amenity": "library",
+          "name": "معهد الدراسات الشرقية للآباء الدومنيكان",
+          "name:ar": "معهد الدراسات الشرقية للآباء الدومنيكان",
+          "name:en": "Dominican Institute for Oriental Studies in Cairo",
+          "name:fr": "Institut dominicain d'études orientales",
+          "operator": "Private",
+          "phone": "+20 2 24 83 43 69",
+          "website": "https://www.ideo-cairo.org/",
+          "wheelchair": "limited",
+          "wikipedia": "fr:Institut dominicain d'études orientales"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30065591",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2229447,
+          30.0406374
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 30065591,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف محمود مختار",
+        "tags": {
+          "name": "متحف محمود مختار",
+          "name:ar": "متحف محمود مختار",
+          "name:en": "Mahmoud Mukhtar Museum",
+          "tourism": "museum",
+          "wikidata": "Q6933506",
+          "wikimedia_commons": "Category:Mahmoud Mokhtar museum",
+          "wikipedia": "en:Mukhtar Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30065918",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2175989,
+          30.0214538
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 30065918,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف أحمد شوقي",
+        "tags": {
+          "name": "متحف أحمد شوقي",
+          "name:ar": "متحف أحمد شوقي",
+          "name:en": "Ahmed Shawqi Museum",
+          "note": "tag name --> arabic",
+          "tourism": "museum",
+          "wikidata": "Q372088",
+          "wikimedia_commons": "Category:Ahmed Shawki Museum",
+          "wikipedia": "en:Ahmed Shawki Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34068277",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2248462,
+          29.8698342
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 34068277,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف إيمحتب",
+        "tags": {
+          "building": "museum",
+          "name": "متحف إيمحتب",
+          "name:ar": "متحف إيمحتب",
+          "name:en": "Imhotep Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/46579853",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2527223,
+          30.0446521
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 46579853,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف الفنون الأسلامية",
+        "tags": {
+          "alt_name:en": "Islamic Art Museum",
+          "building": "yes",
+          "name": "متحف الفنون الأسلامية",
+          "name:ar": "متحف الفنون الأسلامية",
+          "name:de": "Museum für Islamische Kunst",
+          "name:en": "Museum of Islamic Art",
+          "name:es": "Museo de Arte Islámico",
+          "tourism": "museum",
+          "wikidata": "Q3330629",
+          "wikimedia_commons": "Category:Museum of Islamic Art, Cairo",
+          "wikipedia": "en:Museum of Islamic Art, Cairo"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/92965956",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3453051,
+          27.9318926
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 92965956,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "addr:street": "طريق السلام",
+          "alt_name:ru": "Музей Шарм эль-Шейх",
+          "barrier": "fence",
+          "contact:facebook": "sharmmuseum",
+          "name:en": "Sharm El-Sheikh Miseum",
+          "name:ru": "Музей Шарм-эш-Шейх",
+          "opening_hours": "Mo-Su 10:00-13:00, 17:00-23:00",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/97229402",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2230777,
+          30.0428052
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 97229402,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف الفن الحديث",
+        "tags": {
+          "building": "yes",
+          "name": "متحف الفن الحديث",
+          "name:ar": "متحف الفن الحديث",
+          "name:en": "Museum of Egyptian Modern Arts",
+          "name:fa": "موزه هنرهای مدرن مصر",
+          "roof:shape": "flat",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/97352936",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1013031,
+          29.0840621
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 97352936,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف بنى سويف",
+        "tags": {
+          "building": "yes",
+          "name": "متحف بنى سويف",
+          "name:ar": "متحف بنى سويف",
+          "name:en": "Beni Suef Museum",
+          "tourism": "museum",
+          "wikidata": "Q12238625",
+          "wikimedia_commons": "Category:Beni Suef Museum",
+          "wikipedia": "ar:متحف بني سويف"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/97937687",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2310665,
+          30.05546
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 97937687,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف المركبات الملكية",
+        "tags": {
+          "building": "yes",
+          "name": "متحف المركبات الملكية",
+          "name:en": "Royal Carriages Museum",
+          "name:fa": "موزه ارابه های سلطنتی",
+          "roof:shape": "flat",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/99756106",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.8213935,
+          27.1596541
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 99756106,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "charge": "Normal / student, foreigners 200 / 100 EGP, nationals 80 / 40 EGP",
+          "fee": "yes",
+          "museum": "history",
+          "museum_type": "municipal",
+          "name:en": "Hurghada Museum",
+          "name:ru": "Музей Хургады",
+          "opening_hours": "10:00-13:00,17:00-23:00",
+          "tourism": "museum",
+          "wikimedia_commons": "File:Hurghada Museum.jpg"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/100024722",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7702706,
+          28.0949215
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 100024722,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف اخناتون",
+        "tags": {
+          "landuse": "construction",
+          "name": "متحف اخناتون",
+          "name:ar": "متحف اخناتون",
+          "name:en": "Echnaton Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110654251",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2277975,
+          30.0663471
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 110654251,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "دار المحفوظات الوطنية",
+        "tags": {
+          "addr:city": "القاهرة",
+          "amenity": "library",
+          "building": "yes",
+          "name": "دار المحفوظات الوطنية",
+          "name:ar": "دار المحفوظات الوطنية",
+          "name:en": "National Archives of Egypt"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110658128",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9131473,
+          31.2011126
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 110658128,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف الإسكندرية القومي",
+        "tags": {
+          "name": "متحف الإسكندرية القومي",
+          "name:ar": "متحف الإسكندرية القومي",
+          "name:en": "Alexandria National Museum",
+          "tourism": "museum",
+          "wikidata": "Q201383",
+          "wikimedia_commons": "Category:Alexandria National Museum",
+          "wikipedia": "en:Alexandria National Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110658139",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9068731,
+          31.1992602
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 110658139,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "المتحف اليونانى الرومانى",
+        "tags": {
+          "building": "yes",
+          "check_date": "2024-10-26",
+          "fee": "yes",
+          "museum": "archaeological",
+          "name": "المتحف اليونانى الرومانى",
+          "name:ar": "المتحف اليونانى الرومانى",
+          "name:en": "Graeco-Roman Museum",
+          "opening_hours": "Mo-Su 09:00-17:00",
+          "tourism": "museum",
+          "website": "https://egymonuments.gov.eg/ar/museums/graeco-roman-museum",
+          "wikidata": "Q1546319",
+          "wikimedia_commons": "Category:Greco-Roman Museum, Alexandria",
+          "wikipedia": "en:Graeco-Roman Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/115784229",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6574848,
+          25.7203119
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 115784229,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "المتحف المفتوح",
+        "tags": {
+          "name": "المتحف المفتوح",
+          "name:ar": "المتحف المفتوح",
+          "name:de": "Freilichtmuseum",
+          "name:en": "Open-Air Museum",
+          "tourism": "museum",
+          "wikidata": "Q13218762",
+          "wikimedia_commons": "Category:Karnak open air museum",
+          "wikipedia": "en:Karnak Open Air Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/118616416",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3359964,
+          30.0854996
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 118616416,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الطفل",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "مكتبة الطفل",
+          "name:ar": "مكتبة الطفل",
+          "name:en": "Childrens' Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/157363780",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6434612,
+          31.126293
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 157363780,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الطفل",
+        "tags": {
+          "addr:city": "دسوق",
+          "addr:street": "الجيش",
+          "amenity": "library",
+          "building": "yes",
+          "name": "مكتبة الطفل",
+          "name:ar": "مكتبة الطفل",
+          "name:en": "Children's Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/157879323",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9081435,
+          31.208971
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 157879323,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "مركز القبة السماوية العلمي",
+        "tags": {
+          "building": "yes",
+          "name": "مركز القبة السماوية العلمي",
+          "name:ar": "مركز القبة السماوية العلمي",
+          "name:en": "Planetarium Science Center",
+          "tourism": "museum",
+          "wikidata": "Q7201222",
+          "wikimedia_commons": "Category:Bibliotheca Alexandrina planetarium",
+          "wikipedia": "en:Planetarium Science Center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165291827",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2228134,
+          30.0661854
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 165291827,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Greater Cairo Public Library",
+        "tags": {
+          "addr:housenumber": "15",
+          "addr:street": "Mohamed Mazhar",
+          "amenity": "library",
+          "check_date": "2024-10-21",
+          "contact:phone": "+2027362271",
+          "designation": "Public",
+          "name": "Greater Cairo Public Library",
+          "opening_hours": "Fr,PH 09:00-17:00 closed"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165498921",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2236904,
+          30.0424754
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 165498921,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "المركز الثقافي الوطني",
+        "tags": {
+          "amenity": "social_centre",
+          "name": "المركز الثقافي الوطني",
+          "name:de": "Nationales Kulturzentrum",
+          "name:en": "National Cultural Centre",
+          "name:fa": "مرکز فرهنگی ملی",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165849552",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2259625,
+          30.0430216
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 165849552,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Music Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Music Library",
+          "roof:shape": "flat"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/166492684",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2130879,
+          30.0671124
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 166492684,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Khaled Ibn ElWaleed",
+        "tags": {
+          "amenity": "library",
+          "name": "Khaled Ibn ElWaleed",
+          "name:ar": "خالد بن الوليد"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/167131288",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7208492,
+          29.5899195
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 167131288,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/167140781",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.720214,
+          29.5921803
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 167140781,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197958374",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2507897,
+          30.0284388
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 197958374,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "بيت الكريتلية",
+        "tags": {
+          "alt_name": "House of the Cretans",
+          "fee": "yes",
+          "name": "بيت الكريتلية",
+          "name:ar": "بيت الكريتلية",
+          "name:en": "Bayt El Kritliya",
+          "name:es": "Bayt El Kritliya",
+          "tourism": "museum",
+          "wheelchair": "limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197961520",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.223104,
+          30.0564865
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 197961520,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف الخزف الإسلامي",
+        "tags": {
+          "addr:city": "القاهرة",
+          "building": "yes",
+          "name": "متحف الخزف الإسلامي",
+          "name:ar": "متحف الخزف الإسلامي",
+          "name:en": "Museum of Islamic Ceramics",
+          "name:es": "Museo de Cerámica Islamica",
+          "tourism": "museum",
+          "website": "http://www.icm.gov.eg/",
+          "wheelchair": "no",
+          "wikidata": "Q6940902",
+          "wikipedia": "ar:متحف الخزف الإسلامي"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/199298087",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9429483,
+          30.8415229
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 199298087,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف العلمين العسكري",
+        "tags": {
+          "fee": "yes",
+          "landuse": "commercial",
+          "name": "متحف العلمين العسكري",
+          "name:ar": "متحف العلمين العسكري",
+          "name:de": "Militärmuseum al-Alamain",
+          "name:en": "Al-Alamein Military Museum",
+          "opening_hours": "Mo-Su 09:00-16:00",
+          "tourism": "museum",
+          "wikidata": "Q12238614",
+          "wikimedia_commons": "Category:El Alamein Military Museum",
+          "wikipedia": "ar:متحف العلمين العسكري"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/201188348",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2195836,
+          30.0355567
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 201188348,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف محمود خليل",
+        "tags": {
+          "addr:country": "EG",
+          "addr:district": "الدقى",
+          "addr:district:en": "Al Doqi",
+          "addr:housenumber": "80",
+          "addr:postcode": "12612",
+          "addr:province": "الجيزه",
+          "addr:province:en": "Giza",
+          "addr:street": "شارع النيل",
+          "addr:street:en": "Al Nil Street",
+          "addr:subdistrict": "الاورمان",
+          "addr:subdistrict:en": "Al Orman",
+          "alt_name": "متحف محمود خليل",
+          "building": "public",
+          "name": "متحف محمود خليل",
+          "name:ar": "متحف محمود خليل",
+          "name:en": "Mahmoud Khaleel",
+          "note": "tag name --> arabic",
+          "tourism": "museum",
+          "wikidata": "Q4115728",
+          "wikimedia_commons": "Category:Mahmoud Khalil Museum",
+          "wikipedia": "en:Mohamed Mahmoud Khalil Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/202129674",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2172447,
+          29.9974686
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 202129674,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف النوبة",
+        "tags": {
+          "building": "yes",
+          "name": "متحف النوبة",
+          "name:ar": "متحف النوبة",
+          "name:en": "Nubia's History Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/213181178",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2247209,
+          30.0437152
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 213181178,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف الفن الحديث",
+        "tags": {
+          "building": "yes",
+          "fixme": "I was there and made a photo from the entrance so this building is correct - is the other building to the left and down also the Museum of Modern Art?",
+          "name": "متحف الفن الحديث",
+          "name:ar": "متحف الفن الحديث",
+          "name:en": "Museum of Egyptian Modern Arts",
+          "name:fa": "موزه هنرهای مدرن مصر",
+          "roof:shape": "flat",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/215304755",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2303596,
+          30.0057685
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 215304755,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "المتحف القبطى",
+        "tags": {
+          "barrier": "wall",
+          "exhibit": "history",
+          "name": "المتحف القبطى",
+          "name:ar": "المتحف القبطى",
+          "name:de": "Koptisches Museum",
+          "name:en": "The Coptic Museum",
+          "name:es": "Museo Copto",
+          "name:ko": "콥트 박물관",
+          "name:ml": "കോപ്റ്റിക് മ്യൂസിയം",
+          "name:pt": "Museu Copta",
+          "tourism": "museum",
+          "website": "http://www.coptic-cairo.com/museum/museum.html",
+          "wheelchair": "yes",
+          "wikidata": "Q1784177",
+          "wikimedia_commons": "Category:Coptic Museum in Cairo",
+          "wikipedia": "en:Coptic Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/222485063",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.9670212,
+          28.5669696
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 222485063,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "معرض الدير",
+        "tags": {
+          "building": "yes",
+          "name": "معرض الدير",
+          "name:ar": "معرض الدير",
+          "name:en": "Monastery Exhibition",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/222485065",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.9667656,
+          28.5669865
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 222485065,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "معرض الآثار",
+        "tags": {
+          "building": "yes",
+          "name": "معرض الآثار",
+          "name:ar": "معرض الآثار",
+          "name:en": "Archaeology Exhibition",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/222485068",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.9666,
+          28.5670872
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 222485068,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "معرض التاريخ الطبيعى",
+        "tags": {
+          "building": "yes",
+          "name": "معرض التاريخ الطبيعى",
+          "name:ar": "معرض التاريخ الطبيعى",
+          "name:en": "Natural History Exhibition",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/222485071",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.9665978,
+          28.5672926
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 222485071,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "معرض المحمية",
+        "tags": {
+          "building": "yes",
+          "name": "معرض المحمية",
+          "name:ar": "معرض المحمية",
+          "name:en": "Protectorate Exhibition",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/222485081",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.9669041,
+          28.5669601
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 222485081,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "بيت العصر البرونزى",
+        "tags": {
+          "building": "yes",
+          "name": "بيت العصر البرونزى",
+          "name:ar": "بيت العصر البرونزى",
+          "name:en": "Bronze Age House",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/238783288",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3152344,
+          29.8662292
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 238783288,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة المركزية",
+        "tags": {
+          "amenity": "library",
+          "building": "university",
+          "name": "المكتبة المركزية",
+          "name:ar": "المكتبة المركزية",
+          "operator": "جامعة حلوان"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/244353192",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9634111,
+          29.9955949
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 244353192,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الجامعة",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "مكتبة الجامعة",
+          "name:ar": "مكتبة الجامعة",
+          "name:en": "university library",
+          "operator": "Misr University for Science & Technology"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263544811",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8882354,
+          24.0894255
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 263544811,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Animalia",
+        "tags": {
+          "building": "yes",
+          "fee": "yes",
+          "name": "Animalia",
+          "name:en": "Animalia",
+          "opening_hours": "Mo-Su 09:00-17:00",
+          "tourism": "museum",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/275808825",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.9276894,
+          24.4530467
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 275808825,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف التمساح",
+        "tags": {
+          "building": "yes",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Kom_Ombo_Krokodilmuseum_24.jpg",
+          "museum": "archaeological;nature;history",
+          "name": "متحف التمساح",
+          "name:ar": "متحف التمساح",
+          "name:ca": "Museu dels cocodrils",
+          "name:en": "Crocodile Museum",
+          "name:fr": "Musée des crocodiles",
+          "name:pt": "Museu dos Crocodilos",
+          "tourism": "museum",
+          "wikidata": "Q130216123",
+          "wikimedia_commons": "Category:Crocodile Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/322873816",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2115227,
+          30.0252549
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 322873816,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة كلية الهندسة",
+        "tags": {
+          "addr:city": "جيزه",
+          "addr:housenumber": "9",
+          "addr:street": "شارع جامعة القاهرة",
+          "amenity": "library",
+          "building": "university",
+          "building:levels": "3",
+          "name": "مكتبة كلية الهندسة",
+          "name:ar": "مكتبة كلية الهندسة",
+          "name:en": "Faculty of Engineering Library",
+          "operator": "جامعة القاهرة",
+          "source": "http://www.eng.cu.edu.eg/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/362443498",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7722314,
+          27.2836095
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 362443498,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف الأسماك",
+        "tags": {
+          "name": "متحف الأسماك",
+          "name:ar": "متحف الأسماك",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/397050093",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6802916,
+          31.0949211
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 397050093,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "المتحف الزراعى",
+        "tags": {
+          "building": "yes",
+          "name": "المتحف الزراعى",
+          "name:ar": "المتحف الزراعى",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/397424296",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9631277,
+          31.2407873
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 397424296,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف المجوهرات الملكية",
+        "tags": {
+          "name": "متحف المجوهرات الملكية",
+          "name:ar": "متحف المجوهرات الملكية",
+          "name:en": "Royal Jewellery Museum",
+          "tourism": "museum",
+          "wikidata": "Q1323293",
+          "wikimedia_commons": "Category:Royal Jewelry Museum",
+          "wikipedia": "en:Royal Jewelry Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/400424568",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2489634,
+          30.0076128
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 400424568,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "المتحف القومي للحضارة المصرية",
+        "tags": {
+          "addr:city": "قاهرة",
+          "addr:street": "شارع عين الصيرة",
+          "museum": "archaeological",
+          "name": "المتحف القومي للحضارة المصرية",
+          "name:ar": "المتحف القومي للحضارة المصرية",
+          "name:de": "Nationalmuseum der ägyptischen Zivilisation",
+          "name:en": "National Museum of Egyptian Civilization",
+          "name:es": "Museo Nacional de Civilización Egipcia",
+          "name:fa": "موزه ملی تمدن مصر",
+          "name:fr": "Musée national de la civilisation égyptienne",
+          "short_name:en": "NMEC",
+          "tourism": "museum",
+          "website": "https://nmec.gov.eg/",
+          "wikidata": "Q29017001",
+          "wikimedia_commons": "Category:National Museum of Egyptian Civilization",
+          "wikipedia": "en:National Museum of Egyptian Civilization"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/409617867",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9473791,
+          31.103676
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 409617867,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/413985116",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2030836,
+          30.0262874
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 413985116,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة المركزية",
+        "tags": {
+          "amenity": "library",
+          "building": "university",
+          "name": "المكتبة المركزية",
+          "name:ar": "المكتبة المركزية",
+          "name:en": "Central Library",
+          "operator": "جامعة القاهرة"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/429911115",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.2830952,
+          30.5931855
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 429911115,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف الاسماعيلية",
+        "tags": {
+          "name": "متحف الاسماعيلية",
+          "name:ar": "متحف الاسماعيلية",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/429911116",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.2835958,
+          30.5929823
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 429911116,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف الاسماعيلية",
+        "tags": {
+          "name": "متحف الاسماعيلية",
+          "name:ar": "متحف الاسماعيلية",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/451331691",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2112352,
+          30.0170903
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 451331691,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة المركزية بكلية الزراعة",
+        "tags": {
+          "amenity": "library",
+          "building": "university",
+          "name": "المكتبة المركزية بكلية الزراعة",
+          "name:ar": "المكتبة المركزية بكلية الزراعة",
+          "name:en": "Central Library, Faculty of Agriculture",
+          "operator": "جامعة القاهرة"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/476957077",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6021249,
+          25.7174353
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 476957077,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Madinet Habu",
+        "tags": {
+          "name": "Madinet Habu",
+          "name:ja": "メディネト・ハブ (ラムセス3世葬祭殿)",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/477442397",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6493392,
+          25.7100015
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 477442397,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة مصر العامة بالأقصر",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "image": "https://photos.app.goo.gl/2pugSpSnkhwcVH4f9",
+          "name": "مكتبة مصر العامة بالأقصر",
+          "name:ar": "مكتبة مصر العامة بالأقصر",
+          "name:en": "Misr Public Library at Luxor"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/502355931",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5002185,
+          30.0198529
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 502355931,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الجامعة الأمريكية",
+        "tags": {
+          "amenity": "library",
+          "building": "university",
+          "building:levels": "3",
+          "internet_access": "wlan",
+          "internet_access:fee": "customers",
+          "name": "مكتبة الجامعة الأمريكية",
+          "name:ar": "مكتبة الجامعة الأمريكية",
+          "name:en": "AUC Library",
+          "operator": "الجامعة الأمريكية بالقاهرة فرع القاهرة الجديدة",
+          "operator:type": "university"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/503341027",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0640348,
+          31.3104492
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 503341027,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/525151654",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0215571,
+          29.2639852
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 525151654,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف الحفريات و تغير المناخ",
+        "tags": {
+          "building": "yes",
+          "ele": "100",
+          "name": "متحف الحفريات و تغير المناخ",
+          "name:ar": "متحف الحفريات و تغير المناخ",
+          "name:en": "Museum Of Paleontology And Climate Change",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/554288113",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3261703,
+          27.8988485
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 554288113,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/554848968",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8869909,
+          24.084979
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 554848968,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Aswan Museum",
+        "tags": {
+          "building": "yes",
+          "name": "Aswan Museum",
+          "name:de": "Assuan-Museum",
+          "name:en": "Aswan Museum",
+          "start_date": "1912",
+          "tourism": "museum",
+          "wikidata": "Q535586",
+          "wikimedia_commons": "Category:Aswan Museum",
+          "wikipedia": "en:Aswan Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/639968018",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2377092,
+          31.3554356
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 639968018,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Misr Public Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "contact:facebook": "https://www.facebook.com/Mplmatruh/",
+          "name": "Misr Public Library",
+          "name:ar": "مكتبة مصر العامة مرسى مطروح",
+          "opening_hours": "09:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/653703866",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2552077,
+          29.8495386
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 653703866,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف ممفيس",
+        "tags": {
+          "area": "yes",
+          "museum": "archaeological",
+          "name": "متحف ممفيس",
+          "name:ar": "متحف ممفيس",
+          "name:en": "Mit Rahina Museum",
+          "name:fr": "Musée en plein air de Memphis",
+          "name:pt": "Museu de Mênfis",
+          "name:ru": "Музей Мемфиса",
+          "old_name:ar": "متحف ممفيس",
+          "opening_hours": "Mo-Su 08:00-16:00",
+          "outdoor": "yes",
+          "tourism": "museum",
+          "website": "https://www.mitrahinamuseum.com/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/686194645",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.235244,
+          30.0413425
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 686194645,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/690921437",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.2732946,
+          30.5900846
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 690921437,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف السويس القومي",
+        "tags": {
+          "name": "متحف السويس القومي",
+          "name:en": "Suez Canal Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/751954217",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2294836,
+          30.0265186
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 751954217,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف قصر محمد علي",
+        "tags": {
+          "building": "yes",
+          "name": "متحف قصر محمد علي",
+          "name:en": "Mohamed Ali Palace Museum",
+          "name:fa": "موزه کاخ محمد علی",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/751954231",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2287894,
+          30.0285522
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 751954231,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Hunting Hall Museum",
+        "tags": {
+          "building": "yes",
+          "name": "Hunting Hall Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/822643170",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3369823,
+          30.1022497
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 822643170,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف الطفل",
+        "tags": {
+          "name": "متحف الطفل",
+          "name:ar": "متحف الطفل",
+          "name:en": "Child Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/968780893",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2713241,
+          29.9732368
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 968780893,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة المعادي العامة",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "check_date": "2025-09-29",
+          "name": "مكتبة المعادي العامة",
+          "name:ar": "مكتبة المعادي العامة",
+          "name:en": "Maadi Public Library",
+          "operator:type": "public",
+          "phone": "+20 227548541",
+          "website": "https://escd-egypt.org"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1005507346",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7517738,
+          28.1061825
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1005507346,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "قصر الثقافة",
+        "tags": {
+          "amenity": "library",
+          "building": "library",
+          "name": "قصر الثقافة",
+          "name:ar": "قصر الثقافة",
+          "name:en": "Culture Palace"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1008645834",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9631368,
+          31.2407773
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1008645834,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف المجوهرات الملكية",
+        "tags": {
+          "addr:city": "Alexandria",
+          "addr:housenumber": "27",
+          "addr:street": "شارع احمد يحيي باشا",
+          "building": "museum",
+          "name": "متحف المجوهرات الملكية",
+          "name:ar": "متحف المجوهرات الملكية",
+          "name:en": "Royal Jewellery Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1058766113",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5668976,
+          29.9551745
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1058766113,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف السويس القومى",
+        "tags": {
+          "building": "yes",
+          "name": "متحف السويس القومى",
+          "name:ar": "متحف السويس القومى",
+          "name:en": "Suez National Museum",
+          "tourism": "museum",
+          "wikidata": "Q63973129",
+          "wikimedia_commons": "Category:Suez National Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1113392671",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2179677,
+          30.0331319
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1113392671,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة مصر العامة",
+        "tags": {
+          "addr:country": "EG",
+          "addr:district": "الدقى",
+          "addr:district:en": "Al Doqi",
+          "addr:housenumber": "2",
+          "addr:postcode": "12612",
+          "addr:province": "الجيزه",
+          "addr:province:en": "Giza",
+          "addr:street": "شارع الطحاويه",
+          "addr:street:en": "Al Tahawya Street",
+          "addr:subdistrict": "الاورمان",
+          "addr:subdistrict:en": "Al Orman",
+          "amenity": "library",
+          "building": "yes",
+          "name": "مكتبة مصر العامة",
+          "name:ar": "مكتبة مصر العامة",
+          "name:en": "Egypt's Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1120405392",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.8230157,
+          27.0995523
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1120405392,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Sand City Museum",
+        "tags": {
+          "museum": "art",
+          "museum_type": "municipal",
+          "name": "Sand City Museum",
+          "opening_hours": "Mo-Su 09:00-17:00",
+          "tourism": "museum",
+          "website": "http://www.sandcityegypt.com/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1123907682",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9542615,
+          31.215228
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1123907682,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1128059224",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8891931,
+          24.0794505
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1128059224,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف النوبة",
+        "tags": {
+          "building": "yes",
+          "fee": "yes",
+          "name": "متحف النوبة",
+          "name:ar": "متحف النوبة",
+          "name:en": "Nubian Museum",
+          "name:fr": "Musée nubien",
+          "name:ru": "Нубийский музей",
+          "opening_hours": "Sa-We 09:00-17:00; Th,Fr 09:00-17:00,18:00-21:00",
+          "tourism": "museum",
+          "website": "https://egymonuments.gov.eg/en/museums/nubia-museum",
+          "wikidata": "Q2354677",
+          "wikimedia_commons": "Category:Nubia Museum, Aswan",
+          "wikipedia": "ar:متحف النوبة"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1130720585",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9425029,
+          29.9730484
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1130720585,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "6th of October University Library",
+        "tags": {
+          "addr:city": "مدينة 6 أكتوبر",
+          "addr:postcode": "12596",
+          "addr:street": "طريق التحرير",
+          "amenity": "library",
+          "building": "yes",
+          "layer": "2",
+          "name": "6th of October University Library",
+          "operator": "6th of October University",
+          "operator:type": "university"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1168450065",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3956592,
+          31.0527897
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1168450065,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "wikidata": "Q12244813"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1221936068",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2073729,
+          30.0277737
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1221936068,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "university",
+          "operator": "جامعة القاهرة"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1225447501",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3483351,
+          30.0619851
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1225447501,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة مدينة نصر العامة",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "مكتبة مدينة نصر العامة",
+          "name:ar": "مكتبة مدينة نصر العامة",
+          "name:en": "Nasr City Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1225662152",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2791042,
+          30.0758759
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1225662152,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة عرب المحمدي للطفل",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "مكتبة عرب المحمدي للطفل",
+          "name:ar": "مكتبة عرب المحمدي للطفل",
+          "name:en": "Arab Al Mohammedi Children's Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1230328824",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2635146,
+          30.0294231
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1230328824,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف المركبات الملكية",
+        "tags": {
+          "addr:city": "القاهرة",
+          "alt_name": "متحف الركايب الملكية",
+          "alt_name:ar": "متحف الركايب الملكية",
+          "building": "yes",
+          "name": "متحف المركبات الملكية",
+          "name:ar": "متحف المركبات الملكية",
+          "name:en": "The Carriage Museum",
+          "name:fr": "Musée des Attelages",
+          "tourism": "museum",
+          "wikidata": "Q5046116",
+          "wikipedia": "ar:متحف المركبات الملكية"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1232407709",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2602192,
+          30.0300978
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1232407709,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف الشرطة",
+        "tags": {
+          "building": "museum",
+          "exhibit": "history",
+          "name": "متحف الشرطة",
+          "name:ar": "متحف الشرطة",
+          "name:en": "Police Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1232407711",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.260165,
+          30.0301776
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1232407711,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف الشرطة",
+        "tags": {
+          "building": "museum",
+          "exhibit": "history",
+          "name": "متحف الشرطة",
+          "name:ar": "متحف الشرطة",
+          "name:en": "Police Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1245275958",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6100959,
+          30.1189731
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1245275958,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة الجامعة البريطانية في مصر",
+        "tags": {
+          "amenity": "library",
+          "building": "university",
+          "name": "المكتبة الجامعة البريطانية في مصر",
+          "name:ar": "المكتبة الجامعة البريطانية في مصر",
+          "name:en": "The Library The British University in Egypt",
+          "operator": "الجامعة البريطانية فى مصر"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1280943959",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8997211,
+          29.5183653
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1280943959,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "كارنيس",
+        "tags": {
+          "building": "yes",
+          "name": "كارنيس",
+          "name:ar": "كارنيس",
+          "name:en": "Karanis",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1316037821",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2616572,
+          30.0504413
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1316037821,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "قصر الأمير بشتاك",
+        "tags": {
+          "building": "palace",
+          "name": "قصر الأمير بشتاك",
+          "name:ar": "قصر الأمير بشتاك",
+          "name:en": "Beshtak Palace",
+          "name:fa": "کاخ شاهزاده بشتاک",
+          "tourism": "museum",
+          "wikidata": "Q4896257",
+          "wikimedia_commons": "Category:Bashtak palace",
+          "wikipedia": "en:Beshtak Palace"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1328432963",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.231015,
+          30.09819
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1328432963,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1425778865",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3423795,
+          29.8587406
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1425778865,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف مرصد حلوان",
+        "tags": {
+          "building": "yes",
+          "building:levels": "1",
+          "museum": "science",
+          "name": "متحف مرصد حلوان",
+          "name:en": "Helwan Observatory Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1436763494",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8296118,
+          25.071883
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1436763494,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الطفل",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "مكتبة الطفل"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1437032099",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3799347,
+          31.0452877
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1437032099,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "دار بن لقمان",
+        "tags": {
+          "building": "yes",
+          "name": "دار بن لقمان",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1466152454",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2174886,
+          29.9973793
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1466152454,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف المراكب",
+        "tags": {
+          "building": "yes",
+          "name": "متحف المراكب",
+          "name:ar": "متحف المراكب",
+          "name:en": "Boats Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1466152502",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2175557,
+          29.9974013
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1466152502,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "قاعة د حسن رجب",
+        "tags": {
+          "building": "yes",
+          "name": "قاعة د حسن رجب",
+          "name:ar": "قاعة د حسن رجب",
+          "name:en": "Dr Hassan Ragab's Hall",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1486836564",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2414257,
+          30.0059135
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1486836564,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "المخزن المتحفي",
+        "tags": {
+          "name": "المخزن المتحفي",
+          "name:ar": "المخزن المتحفي",
+          "name:en": "Museum Storage",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1530040573",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8967651,
+          30.8508281
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1530040573,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف العلمين",
+        "tags": {
+          "building": "yes",
+          "construction": "yes",
+          "museum": "history",
+          "name": "متحف العلمين",
+          "name:ar": "متحف العلمين",
+          "name:en": "El Alamein Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1530040574",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8988383,
+          30.8499372
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1530040574,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة الثقافية",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "construction": "yes",
+          "name": "المكتبة الثقافية",
+          "name:ar": "المكتبة الثقافية",
+          "name:en": "Cultural Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/16108194",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9213975,
+          29.9413949
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 16108194,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "قصر ثقافة الحى السادس",
+        "tags": {
+          "addr:city": "مدينة 6 أكتوبر",
+          "addr:housename": "قصر ثقافة الحى السادس",
+          "addr:postcode": "12573",
+          "addr:street": "Gaewad Hosni",
+          "amenity": "library",
+          "building": "yes",
+          "name": "قصر ثقافة الحى السادس",
+          "name:ar": "قصر ثقافة الحى السادس",
+          "name:en": "sixth district Culture Palace",
+          "operator": "حكومى",
+          "type": "multipolygon"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/16783121",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1192355,
+          29.9945706
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 16783121,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "المتحف المصري الكبير",
+        "tags": {
+          "building": "museum",
+          "building:colour": "beige",
+          "check_date": "2025-11-26",
+          "height": "46",
+          "museum": "archaeological",
+          "name": "المتحف المصري الكبير",
+          "name:ar": "المتحف المصري الكبير",
+          "name:de": "Großes Ägyptisches Museum",
+          "name:en": "Grand Egyptian Museum",
+          "name:es": "Gran Museo Egipcio",
+          "name:fa": "موزه بزرگ مصر",
+          "name:fr": "Grand Musée égyptien",
+          "name:hu": "Nagy Egyiptomi Múzeum",
+          "name:it": "Grande Museo Egiziano",
+          "name:ko": "이집트 대박물관",
+          "name:pt": "Grande Museu Egípcio",
+          "opening_hours:url": "https://www.visit-gem.com/",
+          "roof:colour": "beige",
+          "short_name": "GEM",
+          "start_date": "2025-11-01",
+          "tourism": "museum",
+          "type": "multipolygon",
+          "website": "https://www.visit-gem.com",
+          "wikidata": "Q2583681",
+          "wikimedia_commons": "Category:Grand Egyptian Museum",
+          "wikipedia": "en:Grand Egyptian Museum",
+          "year_of_construction": "2009..2024"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/16842115",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2600565,
+          30.0305074
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 16842115,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف الشرطة",
+        "tags": {
+          "building": "museum",
+          "exhibit": "history",
+          "name": "متحف الشرطة",
+          "name:ar": "متحف الشرطة",
+          "name:en": "Police Museum",
+          "name:fa": "موزه پلیس",
+          "tourism": "museum",
+          "type": "multipolygon"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/16868025",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3110801,
+          30.0609939
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 16868025,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة المركزية",
+        "tags": {
+          "amenity": "library",
+          "building": "university",
+          "name": "المكتبة المركزية",
+          "name:ar": "المكتبة المركزية",
+          "name:en": "Central Library",
+          "operator": "جامعة الأزهر",
+          "type": "multipolygon"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/16868326",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.248226,
+          30.0081842
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 16868326,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "المتحف القومى للحضارة المصرية",
+        "tags": {
+          "building": "museum",
+          "building:levels": "3",
+          "height": "20",
+          "name": "المتحف القومى للحضارة المصرية",
+          "name:ar": "المتحف القومى للحضارة المصرية",
+          "name:en": "National Museum of Egyptian Civilisation",
+          "name:fa": "موزه ملی تمدن مصر",
+          "name:zh": "埃及文明国家博物馆",
+          "opening_hours": "Sa-Th 09:00-17:00",
+          "roof:material": "gravel",
+          "roof:shape": "flat",
+          "tourism": "museum",
+          "type": "multipolygon",
+          "website": "https://nmec.gov.eg",
+          "wikidata": "Q29017001"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/17034887",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3608209,
+          31.0420735
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 17034887,
+        "country": "Egypt",
+        "alpha_2": "EG",
+        "countries": [
+          "EG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة المركزية",
+        "tags": {
+          "amenity": "library",
+          "name": "المكتبة المركزية",
+          "name:ar": "المكتبة المركزية",
+          "name:en": "The Central Library",
+          "type": "multipolygon"
+        }
+      }
+    }
+  ]
+}

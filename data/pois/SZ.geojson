@@ -1,0 +1,269 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/59731784",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0303617,
+          -26.2037584
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 59731784,
+        "country": "Eswatini (Swaziland)",
+        "alpha_2": "SZ",
+        "countries": [
+          "SZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2117051950",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2076477,
+          -26.4467458
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2117051950,
+        "country": "Eswatini (Swaziland)",
+        "alpha_2": "SZ",
+        "countries": [
+          "SZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Swaziland National Museum",
+        "tags": {
+          "designation": "Museum",
+          "name": "Swaziland National Museum",
+          "source": "Bing",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3394179408",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.9485158,
+          -26.4544306
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3394179408,
+        "country": "Eswatini (Swaziland)",
+        "alpha_2": "SZ",
+        "countries": [
+          "SZ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "National Library",
+        "tags": {
+          "amenity": "library",
+          "name": "National Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4722813490",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1965461,
+          -27.1094304
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4722813490,
+        "country": "Eswatini (Swaziland)",
+        "alpha_2": "SZ",
+        "countries": [
+          "SZ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "wikidata": "Q68652918"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7533299986",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3764309,
+          -26.4974811
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7533299986,
+        "country": "Eswatini (Swaziland)",
+        "alpha_2": "SZ",
+        "countries": [
+          "SZ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Manzini National Library",
+        "tags": {
+          "amenity": "library",
+          "internet_access": "wlan",
+          "internet_access:ssid": "MANZINI_LIBRARY",
+          "name": "Manzini National Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/248331390",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1274933,
+          -25.9537373
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 248331390,
+        "country": "Eswatini (Swaziland)",
+        "alpha_2": "SZ",
+        "countries": [
+          "SZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Bulembu Museum",
+        "tags": {
+          "building": "yes",
+          "building:levels": "1",
+          "height": "6",
+          "name": "Bulembu Museum",
+          "subject": "Havelock Asbestos Mine",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/428720720",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.9216986,
+          -26.1054994
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 428720720,
+        "country": "Eswatini (Swaziland)",
+        "alpha_2": "SZ",
+        "countries": [
+          "SZ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Sugar Cane Museum",
+        "tags": {
+          "building": "yes",
+          "building:levels": "1",
+          "name": "Sugar Cane Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1010807491",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1346697,
+          -26.3232232
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1010807491,
+        "country": "Eswatini (Swaziland)",
+        "alpha_2": "SZ",
+        "countries": [
+          "SZ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Sifundzani Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Sifundzani Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/2170584",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.145252,
+          -26.3259675
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 2170584,
+        "country": "Eswatini (Swaziland)",
+        "alpha_2": "SZ",
+        "countries": [
+          "SZ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mbabane national library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Mbabane national library",
+          "type": "multipolygon"
+        }
+      }
+    }
+  ]
+}

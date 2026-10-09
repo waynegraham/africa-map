@@ -1,0 +1,1336 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1700726358",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2711159,
+          -8.8181445
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1700726358,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu das Telecomunicações",
+        "tags": {
+          "name": "Museu das Telecomunicações",
+          "name:de": "Fernmeldemuseum",
+          "name:en": "Telecommunications Museum",
+          "name:es": "Museo de las Telecomunicaciones",
+          "name:fr": "Musée des Télécommunications",
+          "name:it": "Museo delle Telecomunicazioni",
+          "name:nl": "Telecommunicatie Museum",
+          "name:pl": "Muzeum Telekomunikacji",
+          "name:pt": "Museu das Telecomunicações",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1700958810",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2233993,
+          -8.8091638
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1700958810,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu Nacional de História Militar",
+        "tags": {
+          "addr:city": "Luanda",
+          "name": "Museu Nacional de História Militar",
+          "name:de": "Nationales Museum für Militärgeschichte",
+          "name:en": "National Museum of Military History",
+          "name:es": "Museo Nacional de Historia Militar",
+          "name:fr": "Musée National d'histoire militaire",
+          "name:it": "Museo Nazionale di Storia Militare",
+          "name:ja": "国立軍事し博物館",
+          "name:nl": "Nationaal Museum voor Militaire Geschiedenis",
+          "name:pl": "Narodowe Muzeum Historii Wojskowej",
+          "name:pt": "Museu Nacional de História Militar",
+          "name:ru": "Национальный Музей Военной Истории",
+          "name:zh-Hans": "国家军史馆",
+          "name:zh-Hant": "國家軍史館",
+          "tourism": "museum",
+          "wikidata": "Q868147"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2463003365",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3969773,
+          -12.5778403
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2463003365,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu Nacional de Arqueologia",
+        "tags": {
+          "name": "Museu Nacional de Arqueologia",
+          "operator": "Ministério da Cultura",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2869781444",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1049569,
+          -8.9588698
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2869781444,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu Nacional da Escravatura",
+        "tags": {
+          "addr:city": "Luanda",
+          "name": "Museu Nacional da Escravatura",
+          "name:de": "Nationales Sklavenmuseum",
+          "name:en": "National Slavery Museum",
+          "name:es": "Museo Nacional de la Esclavitud",
+          "name:fr": "Musée National de l'Esclavage",
+          "name:it": "Museo Nazionale della Schiavitù",
+          "name:nl": "Nationaal Slavernijmuseum",
+          "name:pl": "Narodowe Muzeum Niewolnictwa",
+          "name:pt": "Museu Nacional da Escravatura",
+          "name:ru": "Национальный Музей Рабства",
+          "opening_hours": "Mo-Fr 09:00-18:00",
+          "phone": "+244 222 371 622",
+          "tourism": "museum",
+          "wikidata": "Q868140",
+          "wikipedia": "en:National Museum of Slavery (Angola)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3747403917",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7447869,
+          -12.7744821
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3747403917,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mediateca Huambo",
+        "tags": {
+          "addr:city": "Huambo",
+          "addr:street": "Rua Comandante Nzangi",
+          "amenity": "library",
+          "name": "Mediateca Huambo",
+          "website": "https://www.mediatecas.gov.ao/mediatecas/Mediateca%20do%20Huambo"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4058378015",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8347394,
+          -7.3788544
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4058378015,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu Regional do Dundo",
+        "tags": {
+          "name": "Museu Regional do Dundo",
+          "note": "verify location",
+          "tourism": "museum",
+          "wikidata": "Q60580210",
+          "wikipedia": "pt:Museu do Dundo"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4189768201",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2443927,
+          -8.8153194
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4189768201,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Casa Museu Óscar Ribas",
+        "tags": {
+          "addr:city": "Luanda",
+          "addr:street": "Comandante Eurico",
+          "name": "Casa Museu Óscar Ribas",
+          "name:de": "Hausmuseum Óscar Ribas",
+          "name:en": "Óscar Ribas House Museum",
+          "name:es": "Casa Museo Óscar Ribas",
+          "name:it": "Casa Museo Óscar Ribas",
+          "name:nl": "Huis Museum Óscar Ribas",
+          "name:pl": "Muzeum Domu Óscar Ribas",
+          "name:pt": "Casa Museu Óscar Ribas",
+          "name:ru": "Домашний Музей Оскар Рибас",
+          "operator": "Ministério da Cultura",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4792600775",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2098252,
+          -8.8504334
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4792600775,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Biblioteca Distrital da Samba",
+        "tags": {
+          "addr:city": "Luanda",
+          "addr:street": "Estrada da Samba",
+          "amenity": "library",
+          "name": "Biblioteca Distrital da Samba",
+          "operator": "Comissão Administrativa da Cidade de Luanda"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5006999328",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2540473,
+          -8.8140681
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5006999328,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Edições Angola, Lda (EAL)",
+        "tags": {
+          "addr:city": "Luanda",
+          "amenity": "library",
+          "name": "Edições Angola, Lda (EAL)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5007030946",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.245429,
+          -8.8319583
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5007030946,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mediateca de Luanda , REMA",
+        "tags": {
+          "addr:city": "Luanda",
+          "amenity": "library",
+          "name": "Mediateca de Luanda , REMA"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5007058908",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2760428,
+          -8.881245
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5007058908,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Biblioteca Kilamba Kiaxi",
+        "tags": {
+          "amenity": "library",
+          "name": "Biblioteca Kilamba Kiaxi"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5891924764",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2278019,
+          -8.8135824
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5891924764,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu Nacional de Antropologia",
+        "tags": {
+          "addr:city": "Luanda",
+          "addr:street": "Avenida Lino Dias",
+          "name": "Museu Nacional de Antropologia",
+          "name:de": "Nationales Anthropologie-Museum",
+          "name:en": "National Anthropology Museum",
+          "name:es": "Museo Nacional de Antropología",
+          "name:fr": "Musée National d'anthropologie",
+          "name:it": "Museo Nazionale di Antropologia",
+          "name:nl": "Nationaal Antropologisch Museum",
+          "name:pl": "Narodowe Muzeum Antropologii",
+          "name:pt": "Museu Nacional de Antropologia",
+          "name:ru": "Национальный Музей Антропологии",
+          "phone": "+244 222 337 024, +244 222 390 638",
+          "tourism": "museum",
+          "wikidata": "Q10333588",
+          "wikipedia": "en:Museu Nacional de Antropologia (Angola)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6138154280",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2618772,
+          -8.9390664
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6138154280,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Livraria Jerico",
+        "tags": {
+          "amenity": "library",
+          "name": "Livraria Jerico"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6345121985",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2468776,
+          -6.2656409
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6345121985,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museum dos Reis do Kongo",
+        "tags": {
+          "name": "Museum dos Reis do Kongo",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6516438771",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2373657,
+          -8.8089663
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6516438771,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu de Geologia Facuan",
+        "tags": {
+          "addr:city": "Luanda",
+          "addr:street": "Avenida 4 de Fevereiro",
+          "name": "Museu de Geologia Facuan",
+          "name:de": "Facuan Geologisches Museum",
+          "name:en": "Facuan Geology Museum",
+          "name:es": "Museo de Geología de Facuán",
+          "name:fr": "Musée de Géologie de Facuan",
+          "name:it": "Museo di Geologia di Facuan",
+          "name:nl": "Facuan Geologisch Museum",
+          "name:pl": "Muzeum Geologii Facuan",
+          "name:pt": "Museu de Geologia Facuan",
+          "name:ru": "Музей геологии факультета",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7691050756",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4886878,
+          -14.9154348
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7691050756,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu de Ciência e Tecnologia da Huíla",
+        "tags": {
+          "addr:city": "Lubango",
+          "addr:street": "Largo Paulo da Silva Mungongo",
+          "museum": "history",
+          "name": "Museu de Ciência e Tecnologia da Huíla",
+          "opening_hours": "Mo-Fr 08:00-18:00",
+          "operator": "Ministério do Ensino Superior, Ciência, Tecnologia e Inovação",
+          "operator:type": "public",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8870955669",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2280832,
+          -8.8487211
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8870955669,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu da Força Aérea",
+        "tags": {
+          "name": "Museu da Força Aérea",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9589485303",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0139419,
+          -14.7346901
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9589485303,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Biblioteca da Tia Caindi",
+        "tags": {
+          "addr:housenumber": "1",
+          "amenity": "library",
+          "internet_access": "yes",
+          "name": "Biblioteca da Tia Caindi"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10286512369",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2334048,
+          -8.8108992
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10286512369,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu da Moeda",
+        "tags": {
+          "addr:city": "Luanda",
+          "addr:housenumber": "151",
+          "addr:street": "Avenida 4 de Fevereiro",
+          "description": "Underground Museum",
+          "layer": "-1",
+          "name": "Museu da Moeda",
+          "name:de": "Münzmuseum",
+          "name:en": "Coin Museum",
+          "name:es": "Museo de la Moneda",
+          "name:fr": "Musée de la Monnaie",
+          "name:it": "Museo delle Monete",
+          "name:nl": "Muntenmuseum",
+          "name:pl": "Muzeum Monety",
+          "name:pt": "Museu da Moeda",
+          "name:ru": "Музей Монет",
+          "phone": "+244 226 431 231",
+          "tourism": "museum",
+          "website": "https://www.museudamoeda.bna.ao/",
+          "wikidata": "Q87268875"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11612113470",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7816245,
+          -11.2875915
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11612113470,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11612113474",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9718875,
+          -13.1155546
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11612113474,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "fixme": "does this exist?",
+          "internet_access": "wlan",
+          "name:vi": "Dự án kim cương",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11612149269",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7842633,
+          -11.28557
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11612149269,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "name:vi": "Điểm đang làm +++",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12496726395",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1621099,
+          -15.1587475
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12496726395,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "museum": "military",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/190450074",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7393028,
+          -12.7776886
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 190450074,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Biblioteca",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Biblioteca"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/190451361",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7390366,
+          -12.7797142
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 190451361,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu Municipal",
+        "tags": {
+          "building": "yes",
+          "name": "Museu Municipal",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/210358385",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7482892,
+          -9.4328348
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 210358385,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Casa da Juventude de Cacuso",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Casa da Juventude de Cacuso"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/220689322",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2384618,
+          -8.8153575
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 220689322,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Nossa Senhora da Muxima - Museu Nacional de Historia Natural",
+        "tags": {
+          "addr:city": "Luanda",
+          "addr:street": "Gamal Abdel Nasser",
+          "building": "yes",
+          "name": "Nossa Senhora da Muxima - Museu Nacional de Historia Natural",
+          "name:de": "Our Lady Muxima - Nationalmuseum für Naturgeschichte Angolas",
+          "name:en": "Our Lady Muxima - National Museum of Natural History of Angola",
+          "name:es": "Nuestra Señora de la Muxima - Museo Nacional de Historia Natural de Angola",
+          "name:fr": "Our Lady Muxima - Musée National d'Histoire Naturelle de l'Angola",
+          "name:it": "Nostra Signora della Muxima - Museo Nazionale di Storia Naturale dell'Angola",
+          "name:nl": "Onze-Lieve-Vrouw van de Muxima - Nationaal Natuurhistorisch Museum van Angola",
+          "name:pl": "Matka Boża z Muximy - Narodowe Muzeum Historii Naturalnej Angoli",
+          "name:pt": "Nossa Senhora da Muxima - Museu Nacional de Historia Natural de Angola",
+          "name:ru": "Наша леди Муксима - Национальный Музей Естествознания Анголы",
+          "phone": "+244 222 334 055",
+          "tourism": "museum",
+          "wikidata": "Q10333589"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/235781994",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5402629,
+          -12.4309023
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 235781994,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu Dos Caminhos de Ferro",
+        "tags": {
+          "name": "Museu Dos Caminhos de Ferro",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/239029429",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4648643,
+          -14.9084075
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 239029429,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Biblioteca",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Biblioteca"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/281399412",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.366243,
+          -6.1262215
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 281399412,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mediateca Soyo",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Mediateca Soyo"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343911669",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4020485,
+          -12.5904746
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 343911669,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mediateca de Benguela",
+        "tags": {
+          "amenity": "library",
+          "name": "Mediateca de Benguela"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371137660",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7335105,
+          -12.7757194
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 371137660,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Biblioteca provincial do Huambo",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Biblioteca provincial do Huambo"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/400038292",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4914497,
+          -14.9177733
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 400038292,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu Regional da Huíla",
+        "tags": {
+          "addr:city": "Lubango",
+          "addr:street": "Av. Dr. Agostinho Neto",
+          "altitude": "1787,599976",
+          "building": "yes",
+          "description": "O Museu regional da Huíla é de carácter etnográfico, representando os hábitos e costumes dos povos da região sul do país (Nyanecas, Hereros, Tchiambo e Nganguelas). Fundado em 1956, sendo que sua abertura oficial foi em 1957.",
+          "email": "mrhuila@gmail.com",
+          "latitude": "-14,9178081",
+          "longitude": "13,491437",
+          "museum": "history",
+          "name": "Museu Regional da Huíla",
+          "opening_hours": "Segunda a sexta das 9h às 16h",
+          "phone": "+244925531319;+244937131484;+244923245306",
+          "precision": "4,4",
+          "tourism": "museum",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/408043157",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2356521,
+          -8.812179
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 408043157,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Palácio de Ferro",
+        "tags": {
+          "addr:city": "Luanda",
+          "addr:street": "Major Kanhangulo",
+          "building": "yes",
+          "name": "Palácio de Ferro",
+          "name:de": "Eisenpalast",
+          "name:en": "Iron Palace",
+          "name:es": "Palacio de Hierro",
+          "name:fr": "Palais de Fer",
+          "name:it": "Palazzo del Ferro",
+          "name:ja": "鉄の宮",
+          "name:nl": "IJzer Paleis",
+          "name:pl": "Pałac Żelazny",
+          "name:pt": "Palácio de Ferro",
+          "name:ru": "Железный Дворец",
+          "name:zh-Hans": "铁宫",
+          "name:zh-Hant": "鐵宮",
+          "tourism": "museum",
+          "wikidata": "Q7128887",
+          "wikipedia": "en:Palácio de Ferro"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/498085554",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.893932,
+          -9.9999722
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 498085554,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Biblioteca Maria Carolina",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Biblioteca Maria Carolina"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/528180740",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2245973,
+          -8.8097732
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 528180740,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu de Ciência e Tecnologia",
+        "tags": {
+          "addr:city": "Luanda",
+          "addr:street": "Rua Simão Masc",
+          "building": "yes",
+          "height": "6",
+          "name": "Museu de Ciência e Tecnologia",
+          "name:de": "Wissenschafts- und Technikmuseum",
+          "name:en": "Science and Technology Museum",
+          "name:es": "Museo de Ciencia y Tecnología",
+          "name:fr": "Musée des Sciences et de la Technologie",
+          "name:it": "Museo della Scienza e della Tecnologia",
+          "name:ja": "科学技術館",
+          "name:nl": "Museum voor Wetenschap en Technologie",
+          "name:pl": "Muzeum Nauki i Techniki",
+          "name:pt": "Museu de Ciência e Tecnologia",
+          "name:ru": "Музей Науки и Техники",
+          "name:zh-Hans": "科学技术博物馆",
+          "name:zh-Hant": "科學技術博物館",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/533702090",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7062143,
+          -17.0660448
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 533702090,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mediateca de Ondjiva",
+        "tags": {
+          "addr:city": "Ondjiva",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Mediateca de Ondjiva"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/673082053",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4844888,
+          -14.9202776
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 673082053,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mediateca do Lubango",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Mediateca do Lubango"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/678152761",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9339035,
+          -12.3855101
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 678152761,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mediateca do Bié",
+        "tags": {
+          "amenity": "library",
+          "name": "Mediateca do Bié"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/853274076",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3488017,
+          -9.5521563
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 853274076,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Biblioteca",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Biblioteca"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1491748858",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1964312,
+          -5.5587379
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1491748858,
+        "country": "Angola",
+        "alpha_2": "AO",
+        "countries": [
+          "AO"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu de Cabinda",
+        "tags": {
+          "building": "yes",
+          "museum": "history",
+          "name": "Museu de Cabinda",
+          "tourism": "museum"
+        }
+      }
+    }
+  ]
+}

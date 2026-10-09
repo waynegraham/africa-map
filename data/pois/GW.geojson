@@ -1,0 +1,262 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1945645241",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.5830485,
+          11.8601811
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1945645241,
+        "country": "Guinea-Bissau",
+        "alpha_2": "GW",
+        "countries": [
+          "GW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centro Cultural Francês",
+        "tags": {
+          "amenity": "library",
+          "name": "Centro Cultural Francês"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1945690850",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.5891938,
+          11.8590264
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1945690850,
+        "country": "Guinea-Bissau",
+        "alpha_2": "GW",
+        "countries": [
+          "GW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Biblioteca do Centro Cultural do Brasil",
+        "tags": {
+          "amenity": "library",
+          "name": "Biblioteca do Centro Cultural do Brasil"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1949160909",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.5876317,
+          11.861867
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1949160909,
+        "country": "Guinea-Bissau",
+        "alpha_2": "GW",
+        "countries": [
+          "GW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Biblioteca do Centro Cultural Português",
+        "tags": {
+          "amenity": "library",
+          "internet_access": "wlan",
+          "name": "Biblioteca do Centro Cultural Português"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2025551201",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.6103729,
+          11.8568921
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2025551201,
+        "country": "Guinea-Bissau",
+        "alpha_2": "GW",
+        "countries": [
+          "GW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Biblioteca Publica",
+        "tags": {
+          "amenity": "library",
+          "name": "Biblioteca Publica"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2025553058",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.6108021,
+          11.8568659
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2025553058,
+        "country": "Guinea-Bissau",
+        "alpha_2": "GW",
+        "countries": [
+          "GW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museo Ethnográfico",
+        "tags": {
+          "name": "Museo Ethnográfico",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6034845905",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.5788355,
+          11.8610376
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6034845905,
+        "country": "Guinea-Bissau",
+        "alpha_2": "GW",
+        "countries": [
+          "GW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/130126037",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.5852955,
+          11.8629234
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 130126037,
+        "country": "Guinea-Bissau",
+        "alpha_2": "GW",
+        "countries": [
+          "GW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museu Etnográfico",
+        "tags": {
+          "building": "yes",
+          "name": "Museu Etnográfico",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/496870233",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.47603,
+          11.5778624
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 496870233,
+        "country": "Guinea-Bissau",
+        "alpha_2": "GW",
+        "countries": [
+          "GW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/991715398",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.1658831,
+          12.2777336
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 991715398,
+        "country": "Guinea-Bissau",
+        "alpha_2": "GW",
+        "countries": [
+          "GW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Memorial da Escravatura e do Tráfico Negreiro de Cacheu",
+        "tags": {
+          "air_conditioning": "no",
+          "building": "yes",
+          "museum": "history",
+          "name": "Memorial da Escravatura e do Tráfico Negreiro de Cacheu",
+          "payment:cash": "yes",
+          "tourism": "museum"
+        }
+      }
+    }
+  ]
+}

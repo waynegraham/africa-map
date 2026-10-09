@@ -1,0 +1,2068 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/2108156636",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.2701405,
+          14.7122174
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2108156636,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Espace Culturelle Lat Daro",
+        "tags": {
+          "amenity": "library",
+          "name": "Espace Culturelle Lat Daro"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2115136317",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.467169,
+          14.6824619
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2115136317,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliotheque de l'ESP",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliotheque de l'ESP",
+          "opening_hours": "08:00-12:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2151985555",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.8909484,
+          14.7654092
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2151985555,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque de l'ENSA",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque de l'ENSA"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2265854283",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4535408,
+          14.7091395
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2265854283,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Librairie Sénégalaise",
+        "tags": {
+          "amenity": "library",
+          "name": "Librairie Sénégalaise",
+          "phone": "338241963",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2267361349",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.5039267,
+          16.0258483
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2267361349,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de l'Aéropostale Jean Mermoz",
+        "tags": {
+          "name": "Musée de l'Aéropostale Jean Mermoz",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2313010150",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4353951,
+          14.6682333
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2313010150,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Médiathèque de l'Institut Français",
+        "tags": {
+          "air_conditioning": "yes",
+          "amenity": "library",
+          "check_date": "2024-09-21",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "name": "Médiathèque de l'Institut Français",
+          "opening_hours": "Mo, Th 13:00-19:00; Tu, We, Fr, Sa 09:00-19:00",
+          "website": "https://mediatheque.ifs.sn/",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3265128421",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.6606419,
+          14.1856203
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3265128421,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "CDI",
+        "tags": {
+          "amenity": "library",
+          "name": "CDI"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3340499130",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.7345905,
+          12.9273909
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3340499130,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3580025765",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.3884296,
+          14.7812253
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3580025765,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Foyer Culturel Hamo 4",
+        "tags": {
+          "name": "Foyer Culturel Hamo 4",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3664195914",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4429928,
+          14.6789213
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3664195914,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque \"Nayef ben Abdelaziz Al Saoud\"",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque \"Nayef ben Abdelaziz Al Saoud\""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4128479759",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4554081,
+          14.7144319
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4128479759,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Sicap Liberté",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Sicap Liberté"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4985311433",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.3687998,
+          13.8706392
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4985311433,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "USAID library",
+        "tags": {
+          "amenity": "library",
+          "name": "USAID library",
+          "operator": "Adji Senghor"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5081974321",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.8738661,
+          14.864183
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5081974321,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Daaray Kamil (Bibliothèque Cheikhoul Khadim)",
+        "tags": {
+          "amenity": "library",
+          "name": "Daaray Kamil (Bibliothèque Cheikhoul Khadim)",
+          "name:fr": "Daaray Kamil (Bibliothèque Cheikhoul Khadim)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5171407229",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.3315903,
+          14.7865349
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5171407229,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5230081487",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.9346818,
+          14.7928782
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5230081487,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Nouro Té Wouté",
+        "tags": {
+          "adress": "10eme EX Riaom",
+          "amenity": "library",
+          "name": "Bibliothèque Nouro Té Wouté",
+          "utility:type": "public"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5338867549",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.389098,
+          14.7568699
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5338867549,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Municipale De Pikine Est",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Municipale De Pikine Est"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5426247122",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.2732575,
+          14.2406752
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5426247122,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque communale",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque communale"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5507711323",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4419673,
+          14.6671909
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5507711323,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musèe des Forces Armèes Senegalaises",
+        "tags": {
+          "name": "Musèe des Forces Armèes Senegalaises",
+          "name:fr": "Musèe des Forces Armèes Senegalaises",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5525482226",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4553655,
+          14.6975458
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5525482226,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Raw Material Company",
+        "tags": {
+          "name": "Raw Material Company",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5889443388",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4692449,
+          14.6985847
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5889443388,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Librairie Didactika",
+        "tags": {
+          "amenity": "library",
+          "name": "Librairie Didactika",
+          "phone": "33 825 02 30"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6269486285",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.5882632,
+          12.5555517
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6269486285,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de la Tradition Diola",
+        "tags": {
+          "name": "Musée de la Tradition Diola",
+          "tourism": "museum",
+          "wikidata": "Q16885306"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6276817085",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.7732167,
+          12.4549139
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6276817085,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Sangawatt",
+        "tags": {
+          "name": "Sangawatt",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6520874385",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.5401068,
+          12.5026618
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6520874385,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Fabrique",
+        "tags": {
+          "name": "Fabrique",
+          "name:fr": "Fabrique de transformation du cajou",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6655014438",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.6599604,
+          14.1198016
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6655014438,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée MAHICAO (Musée d'Art et d'Histoire des Cultures d'Afrique de l'Ouest)",
+        "tags": {
+          "addr:city": "Djilor Djidiack",
+          "addr:postcode": "23400",
+          "addr:street": "Route du Bord de Mer",
+          "check_date": "2026-02-25",
+          "contact:instagram": "museemahicao",
+          "culture": "art and history",
+          "museum": "archaeological",
+          "name": "Musée MAHICAO (Musée d'Art et d'Histoire des Cultures d'Afrique de l'Ouest)",
+          "opening_hours": "Mo-Su  10:00-13:00,15:00-18:00",
+          "operator": "Reginald GROUX",
+          "operator:type": "Non_Profit_Association",
+          "parking": "gratuit, non surveillé",
+          "phone": "+ 221 77 172 74 26",
+          "tourism": "museum",
+          "website": "https://mahicao.org/",
+          "wikidata": "Q110682482",
+          "wikimedia_commons": "Category:Musée MAHICAO"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6708804485",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.7451449,
+          12.9326889
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6708804485,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Diola",
+        "tags": {
+          "name": "Musée Diola",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6912059910",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.0058683,
+          14.4437639
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6912059910,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Khelcom",
+        "tags": {
+          "description": "Musée d'Art moderne",
+          "name": "Musée Khelcom",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6938010085",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.9383032,
+          14.7905562
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6938010085,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque centrale de l'université de Thies",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque centrale de l'université de Thies"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6973391885",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.954358,
+          15.3919359
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6973391885,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque des anciens manuscrits de Cheik Moussa Camara",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque des anciens manuscrits de Cheik Moussa Camara"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7072534900",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.9267372,
+          14.7931392
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7072534900,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Xamle",
+        "tags": {
+          "amenity": "library",
+          "level": "1",
+          "name": "Bibliothèque Xamle",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7139335439",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.5052765,
+          16.0238866
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7139335439,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de la Photographie",
+        "tags": {
+          "name": "Musée de la Photographie",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11950193752",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.0858785,
+          14.1528753
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11950193752,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Amadou DEME",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Amadou DEME"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11977536645",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.7405451,
+          12.4148882
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11977536645,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Kadioute",
+        "tags": {
+          "name": "Musée Kadioute",
+          "phone": "+221783517696",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12321400301",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.399608,
+          14.6706216
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12321400301,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée historique du Sénégal",
+        "tags": {
+          "museum": "history",
+          "name": "Musée historique du Sénégal",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12356023177",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.9160638,
+          14.7660068
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12356023177,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Keur Tostan",
+        "tags": {
+          "name": "Keur Tostan",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12397553457",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.7304697,
+          16.0437274
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12397553457,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "shop": "books"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13844180510",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4505956,
+          14.6980378
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13844180510,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13844204774",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4507813,
+          14.698168
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13844204774,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27294227",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4621381,
+          14.6855265
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 27294227,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Universitaire Centrale - BU - UCAD",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque Universitaire Centrale - BU - UCAD"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/193657117",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4796726,
+          14.7046262
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 193657117,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliotèque ESEA",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliotèque ESEA"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/195125475",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.5045586,
+          16.0270471
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 195125475,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "ETS F. HACHEM",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "building:condition": "good",
+          "building:levels": "1",
+          "building:material": "brick",
+          "name": "ETS F. HACHEM",
+          "roof:shape": "flat",
+          "source": "Field survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/195586976",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.506684,
+          16.0206776
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 195586976,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "building:condition": "good",
+          "building:levels": "1",
+          "building:material": "brick",
+          "roof:shape": "flat",
+          "source": "Field survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/201264740",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.2716319,
+          14.7138206
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 201264740,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre Culturel Maurice Gueye",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Centre Culturel Maurice Gueye"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/202196954",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.226855,
+          12.8117505
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 202196954,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/202287192",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.4228527,
+          16.0615846
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 202287192,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Universitaire Centrale",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque Universitaire Centrale"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/203537753",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.5045353,
+          16.0268862
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 203537753,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Harmattan",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "building:condition": "good",
+          "building:levels": "2",
+          "building:material": "brick",
+          "name": "Harmattan",
+          "roof:shape": "gabled",
+          "source": "Field survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/203569981",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.5033051,
+          16.0331844
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 203569981,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "building": "school",
+          "building:condition": "good",
+          "building:levels": "0",
+          "building:material": "brick",
+          "name": "Bibliothèque",
+          "operator:type": "private",
+          "roof:shape": "gabled",
+          "source": "field survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/207125182",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.2299941,
+          14.6939731
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 207125182,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Biblioteque Publique de Bargny",
+        "tags": {
+          "amenity": "library",
+          "name": "Biblioteque Publique de Bargny"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/217857425",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.399902,
+          14.6683505
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 217857425,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de la Mer",
+        "tags": {
+          "building": "yes",
+          "fee": "yes",
+          "name": "Musée de la Mer",
+          "name:en": "Maritime Museum",
+          "name:gcf": "Mizé a lanmè",
+          "opening_hours": "Tu-Su 10:30-12:00,14:30-18:00",
+          "phone": "+221 33 821 50 66",
+          "tourism": "museum",
+          "wikidata": "Q16665634",
+          "wikipedia": "fr:Musée de la Mer (Gorée)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/217896476",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.3974915,
+          14.6675652
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 217896476,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Ancien Musée de la Femme",
+        "tags": {
+          "building": "yes",
+          "name": "Ancien Musée de la Femme",
+          "tourism": "museum",
+          "wikidata": "Q3329908",
+          "wikipedia": "fr:Musée de la Femme Henriette-Bathily"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/325695274",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.5056829,
+          16.0189092
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 325695274,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "IFAN",
+        "tags": {
+          "building": "yes",
+          "building:condition": "good",
+          "building:levels": "2",
+          "building:material": "brick",
+          "building:use": "school",
+          "museum": "history",
+          "name": "IFAN",
+          "roof:shape": "flat",
+          "source": "Field survey",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340592169",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4383434,
+          14.663699
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 340592169,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Théodore-Monod d'Art africain",
+        "tags": {
+          "barrier": "wall",
+          "contact:facebook": "MuseeTheodoreMonod",
+          "contact:instagram": "museedartafricain",
+          "name": "Musée Théodore-Monod d'Art africain",
+          "opening_hours": "Tu-Su 09:00-17:00",
+          "operator": "Université Cheikh Anta Diop",
+          "phone": "+221338239268",
+          "start_date": "1931",
+          "tourism": "museum",
+          "website": "https://musee-monod.sn/",
+          "wikidata": "Q2629758",
+          "wikipedia": "fr:Musée Théodore-Monod d'Art africain"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/386718127",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.2863591,
+          12.547743
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 386718127,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Universitaire de Ziguinchor",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Universitaire de Ziguinchor",
+          "short_name": "BUZ"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/392288287",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.3780101,
+          14.7557156
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 392288287,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/395353420",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4702241,
+          14.6926677
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 395353420,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/413379608",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.4784142,
+          14.6971992
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 413379608,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliotheque universitaire",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliotheque universitaire",
+          "source": "Microsoft Bing orbital imagery 2013"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/496182485",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4350736,
+          14.6774489
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 496182485,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée des Civilisations Noires",
+        "tags": {
+          "building": "yes",
+          "contact:facebook": "mcndakar",
+          "contact:instagram": "mcndakar",
+          "contact:twitter": "mcndakar",
+          "name": "Musée des Civilisations Noires",
+          "opening_hours": "Tu-Su 10:00-19:00",
+          "phone": "+221338891180",
+          "start_date": "2018-12-06",
+          "tourism": "museum",
+          "website": "https://www.mcn.sn/",
+          "wikidata": "Q59521062",
+          "wikipedia": "fr:Musée des civilisations noires"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/587055501",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.5054071,
+          16.0188286
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 587055501,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "musée CRDS ex IFAN",
+        "tags": {
+          "addr:street": "Quai Henry Jay",
+          "amenity": "university",
+          "building": "yes",
+          "building:condition": "good",
+          "building:levels": "2",
+          "building:material": "brick",
+          "name": "musée CRDS ex IFAN",
+          "roof:shape": "flat",
+          "source": "Field survey",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/963241675",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.4686763,
+          15.9285195
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 963241675,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1040859551",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4713516,
+          14.6962329
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1040859551,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Léopold Sédar Senghor",
+        "tags": {
+          "check_date": "2026-01-09",
+          "name": "Musée Léopold Sédar Senghor",
+          "opening_hours": "Tu-Fr 10:00-12:00, 15:00-17:00",
+          "phone": "+22133 823 57 11",
+          "tourism": "museum",
+          "website": "https://www.au-senegal.com/la-maison-de-senghor-est-devenue-musee,10713.html",
+          "wikidata": "Q16885171",
+          "wikipedia": "fr:Musée Senghor - Fondation Léopold Sédar Senghor"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1106152422",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4421021,
+          14.6671229
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1106152422,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée des Forces Armées Sénégalaises",
+        "tags": {
+          "building": "yes",
+          "name": "Musée des Forces Armées Sénégalaises",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1158311567",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.2861089,
+          14.4599074
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1158311567,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Écomusée de Diakhao",
+        "tags": {
+          "addr:street": "Route Diakhao - Gossas",
+          "building": "yes",
+          "museum": "cultural",
+          "name": "Écomusée de Diakhao",
+          "name:fr": "Écomusée de Diakhao",
+          "source": "aerial imagery;survey",
+          "start_date": "2014-06-21",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1158438140",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.2437734,
+          15.6264813
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1158438140,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée des percussions de Louga",
+        "tags": {
+          "addr:city": "Louga",
+          "addr:street": "Route Nacionale 2",
+          "building": "yes",
+          "museum": "local",
+          "name": "Musée des percussions de Louga",
+          "operator": "Festival International de Folklore et de Percurssions de Louga",
+          "start_date": "2005",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1360403980",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.9932215,
+          16.6670084
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1360403980,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Multimédia de Ngaolé",
+        "tags": {
+          "addr:street": "Ngaolé",
+          "amenity": "library",
+          "building": "yes",
+          "description": "Cette bibliothèque multimédia a été mise en place par l'association des élèves et étudiants du village de ngaolé en partenariat avec l'association Senegal Succes School , l'appui de M. Aliou Sarr, ancien ministre du Sénégal et d'autres donateurs",
+          "internet_access": "yes",
+          "name": "Bibliothèque Multimédia de Ngaolé",
+          "operator": "Association des Elèves et Etudiants de Ngaolé (ASEEN)",
+          "operator:type": "public"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1419203965",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.9328673,
+          14.8003446
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1419203965,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Daniel Brottier",
+        "tags": {
+          "adress": "Thies ville",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque Daniel Brottier",
+          "utility:type": "private"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1425104560",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.5890569,
+          14.6489966
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1425104560,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1475535529",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4356216,
+          14.6784179
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1475535529,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée International sur la Biographie du Prophète (PSL)",
+        "tags": {
+          "building": "yes",
+          "name": "Musée International sur la Biographie du Prophète (PSL)",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/6293826",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.3972989,
+          14.6672666
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 6293826,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "attribution": "http://suchanek.name/texts/senegal/goree/index.html",
+          "building": "yes",
+          "tourism": "museum",
+          "type": "multipolygon",
+          "wikidata": "Q3329908",
+          "wikipedia": "fr:Musée de la Femme Henriette-Bathily"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/14866039",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.3995656,
+          14.6707272
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 14866039,
+        "country": "Senegal",
+        "alpha_2": "SN",
+        "countries": [
+          "SN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Fort d'Estrée",
+        "tags": {
+          "building": "yes",
+          "historic": "fort",
+          "museum": "history",
+          "name": "Fort d'Estrée",
+          "name:en": "Estrée Fort",
+          "opening_hours": "Tu-Su 10:00-13:00,14:30-17:00",
+          "tourism": "museum",
+          "type": "multipolygon",
+          "wikidata": "Q3330599",
+          "wikimedia_commons": "Category:Musée historique du Sénégal à Gorée",
+          "wikipedia": "fr:Musée historique du Sénégal à Gorée"
+        }
+      }
+    }
+  ]
+}

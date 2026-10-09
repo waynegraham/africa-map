@@ -1,0 +1,1382 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/925647492",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2517177,
+          -4.3637791
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 925647492,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Palais de Marbre",
+        "tags": {
+          "name": "Palais de Marbre",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2143732865",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2830153,
+          -4.3105701
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2143732865,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque du CEPAS",
+        "tags": {
+          "amenity": "library",
+          "check_date": "2023-05-19",
+          "name": "Bibliothèque du CEPAS"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2157576222",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3092649,
+          -4.4251977
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2157576222,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre Koulibaly",
+        "tags": {
+          "amenity": "library",
+          "name": "Centre Koulibaly",
+          "opening_hours": "Mo-Fr 08:00-17:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2468532098",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3140394,
+          0.0681971
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2468532098,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée d'Eala",
+        "tags": {
+          "name": "Musée d'Eala",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2563897063",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8582314,
+          -5.2632391
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2563897063,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque & auditoires",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque & auditoires",
+          "source": "GPS"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2995508300",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4084794,
+          -5.8979426
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2995508300,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3287578948",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2795603,
+          -4.3188764
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3287578948,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre régional de documentation sur les femmes, le genre et la construction de la paix",
+        "tags": {
+          "amenity": "library",
+          "check_date": "2023-05-08",
+          "name": "Centre régional de documentation sur les femmes, le genre et la construction de la paix"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3482580769",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3017488,
+          -4.3458629
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3482580769,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque scolaire",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque scolaire"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3906155721",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.477091,
+          -11.6496284
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3906155721,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée national de Lubumbashi",
+        "tags": {
+          "name": "Musée national de Lubumbashi",
+          "tourism": "museum",
+          "wikidata": "Q16335725",
+          "wikipedia": "fr:Musée national de Lubumbashi"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4553012059",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4853223,
+          -11.6310912
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4553012059,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5714060447",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.338573,
+          -4.4092539
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5714060447,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6255374597",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3702994,
+          -3.3084698
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6255374597,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque CLAC",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque CLAC"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6326471293",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4788333,
+          -11.6104167
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6326471293,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque des sciences sociales/interfacultaire",
+        "tags": {
+          "addr:street": "Route Kasapa",
+          "amenity": "library",
+          "name": "Bibliothèque des sciences sociales/interfacultaire",
+          "name:en": "Library",
+          "name:fr": "Bibliothèque des sciences sociales/interfacultaire de l'UNILU",
+          "opening_hours": "Mo-Fr 09:00-16:00; Sa 09:00-15:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6986664285",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.316613,
+          -4.3447662
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6986664285,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Ndaku ya la vie est belle",
+        "tags": {
+          "name": "Ndaku ya la vie est belle",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7273769239",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8482825,
+          -2.5004244
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7273769239,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Centrale de l’ISDR Bukavu",
+        "tags": {
+          "addr:city": "Bukavu",
+          "addr:housenumber": "3",
+          "addr:street": "avenue George Defour Q. Nkafu, Commune de Kadutu",
+          "amenity": "library",
+          "internet_access": "yes",
+          "internet_access:fee": "customers",
+          "name": "Bibliothèque Centrale de l’ISDR Bukavu",
+          "name:en": "Library of ISDR Bukavu",
+          "opening_hours": "Mo-Fr 08:00-17:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7796495314",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2835435,
+          0.1272896
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7796495314,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque UCG",
+        "tags": {
+          "amenity": "library",
+          "check_date": "2021-09-09",
+          "is_in:health_level10": "Cemuliki",
+          "is_in:health_level8": "Matanda",
+          "name": "Bibliothèque UCG",
+          "source": "OSM RDC;BCZ;AS"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8119050462",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2905002,
+          0.1432403
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8119050462,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre de Lecture et d'Animation Culturel/CLAC",
+        "tags": {
+          "amenity": "library",
+          "check_date": "2023-04-23",
+          "name": "Centre de Lecture et d'Animation Culturel/CLAC"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8560483417",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3420718,
+          -4.3790776
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8560483417,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Alliance franco-congolaise",
+        "tags": {
+          "amenity": "library",
+          "name": "Alliance franco-congolaise"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8566605759",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1999396,
+          -1.67177
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8566605759,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Pole institute",
+        "tags": {
+          "amenity": "library",
+          "name": "Pole institute",
+          "opening_hours": "Mo-Fr 08:00-16:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8662417323",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2995792,
+          -4.3411977
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8662417323,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Miezi",
+        "tags": {
+          "addr:housenumber": "103",
+          "addr:street": "Avenue Sport",
+          "amenity": "library",
+          "name": "Miezi",
+          "phone": "+243816975713",
+          "website": "https://leseditionsmiezi.com"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9084148526",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2942833,
+          0.1108435
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9084148526,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Nationale de BUTEMBO",
+        "tags": {
+          "is_in:health_level10": "Kahumba",
+          "is_in:health_level8": "Mitoya",
+          "name": "Musée Nationale de BUTEMBO",
+          "source": "OSM DRC;BCZ;AS",
+          "source:date": "2021-09-05",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10222381207",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2474266,
+          1.544422
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10222381207,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliotèque La voix de Dieu",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliotèque La voix de Dieu",
+          "source": "note 3385891"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10655753034",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4834597,
+          -11.667164
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10655753034,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mediathèque",
+        "tags": {
+          "amenity": "library",
+          "name": "Mediathèque",
+          "opening_hours": "Tu-Sa 08:00-18:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12511802980",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8734394,
+          -2.5007756
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12511802980,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Librairie SIM",
+        "tags": {
+          "amenity": "library",
+          "name": "Librairie SIM"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12674362699",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.282746,
+          -4.3042695
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12674362699,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Nationale du Congo",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Nationale du Congo"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12778382688",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3113627,
+          -4.3006815
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12778382688,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12840685301",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.590065,
+          -4.9608993
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12840685301,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Gaby",
+        "tags": {
+          "addr:housenumber": "14",
+          "addr:street": "mateko",
+          "amenity": "library",
+          "name": "Gaby",
+          "opening_hours": "24/7"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/105847849",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2924117,
+          -4.3211167
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 105847849,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée des arts congolaise",
+        "tags": {
+          "building": "yes",
+          "name": "Musée des arts congolaise",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/196168003",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1986811,
+          0.5088717
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 196168003,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Aliance Française de Kisangani",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Aliance Française de Kisangani",
+          "source": "Bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/196170687",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1929473,
+          0.5148576
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 196170687,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Imprimerie RENAPI",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "check_date": "2023-05-08",
+          "name": "Imprimerie RENAPI",
+          "source": "Bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/204921849",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.184546,
+          -4.3600481
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 204921849,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Mbudi Nature",
+        "tags": {
+          "addr:city": "Kinshasa",
+          "addr:housenumber": "233",
+          "addr:street": "Avenue Photo Pao",
+          "addr:suburb": "Quartier Mbudi-Mazal",
+          "amenity": "arts_centre",
+          "building": "yes",
+          "email": "webmaster@mbudinature.net",
+          "name": "Mbudi Nature",
+          "opening_hours": "Tu-Su 10:00-18:00",
+          "phone": "00243814032250",
+          "tourism": "museum",
+          "website": "http://mbudinature.net/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343990483",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3300343,
+          -4.3388822
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 343990483,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Urbaine de Kinshasa",
+        "tags": {
+          "addr:city": "Kinshasa",
+          "addr:street": "Avenue Saint Christophe",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque Urbaine de Kinshasa"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/383588321",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2434265,
+          -4.3361744
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 383588321,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422057598",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0567132,
+          -5.8547329
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 422057598,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Résidence du Premier Gouverneur Général du Congo",
+        "tags": {
+          "building": "yes",
+          "building:levels": "2",
+          "description": "(EN) Built in 1908, the house is a steel structure on stilts (FR) Construite en 1908, la maison est une structure en acier sur pilotis",
+          "material": "mixed",
+          "name": "Résidence du Premier Gouverneur Général du Congo",
+          "name:de": "Ehemalige Residenz des Generalgouverneurs",
+          "name:en": "Former residence of the Governor-General",
+          "name:nl": "Voormalige residentie van de gouverneur-generaal",
+          "source:date": "1898",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/434803710",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4111363,
+          -4.4101261
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 434803710,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Totanga",
+        "tags": {
+          "addr:city": "Kimbanseke",
+          "addr:housenumber": "3",
+          "addr:street": "Rue Kimpioka",
+          "amenity": "library",
+          "building": "yes",
+          "internet_access": "terminal",
+          "name": "Bibliothèque Totanga",
+          "operator": "Sœurs des Pauvres de Bergame",
+          "operator:type": "religious",
+          "website": "https://totanga.org"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/489359190",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3303951,
+          -4.3389838
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 489359190,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Médiathèque de la Funa",
+        "tags": {
+          "addr:city": "Kinshasa",
+          "addr:street": "Avenue Saint Christophe",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Médiathèque de la Funa"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/597124278",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3570564,
+          -4.4129715
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 597124278,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "addr:city": "Kinshasa",
+          "addr:housenumber": "13",
+          "addr:street": "Yanonge",
+          "amenity": "library",
+          "building": "residential",
+          "building:condition": "average",
+          "building:levels": "1",
+          "building:material": "brick"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/598037821",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3421087,
+          -4.3790778
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 598037821,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre Culturel de Lemba",
+        "tags": {
+          "addr:city": "Kinshasa",
+          "addr:street": "By Pass 1",
+          "amenity": "library",
+          "building": "yes",
+          "building:condition": "average",
+          "building:levels": "1",
+          "building:material": "brick",
+          "fixme": "Verify building address, complete name and position",
+          "name": "Centre Culturel de Lemba"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/598199564",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3585696,
+          -4.4088912
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 598199564,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Boutique Romains 12: 11-12",
+        "tags": {
+          "addr:city": "Kinshasa",
+          "addr:housenumber": "13",
+          "addr:street": "Yanonge",
+          "amenity": "library",
+          "building": "yes",
+          "building:condition": "average",
+          "building:levels": "1",
+          "building:material": "brick",
+          "name": "Boutique Romains 12: 11-12",
+          "shop": "variety_store"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/676838753",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3877835,
+          -4.3949851
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 676838753,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "addr:city": "Kinshasa",
+          "addr:housenumber": "1",
+          "addr:street": "Boulevard",
+          "amenity": "library",
+          "building": "yes",
+          "building:condition": "good",
+          "building:material": "brick",
+          "building:min_level": "2",
+          "is_in:admin_level7": "Masina",
+          "is_in:admin_level8": "nzuzi_wa_mbombo"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/709304296",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3807061,
+          -4.408721
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 709304296,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/966109731",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2447456,
+          1.5535584
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 966109731,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliotheuque Shalom",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliotheuque Shalom",
+          "opening_hours": "Mo-Su 08:00-22:00",
+          "operator": "Université Shalom",
+          "source:geometry": "Maxar_private;Ecopia.AI",
+          "source:geometry:date": "2019-07-01"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1092328650",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4614755,
+          -5.8360057
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1092328650,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Lisanga",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Lisanga"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1229581933",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2994391,
+          -4.3352425
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1229581933,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée national de la République démocratique du Congo",
+        "tags": {
+          "building": "yes",
+          "fee": "yes",
+          "name": "Musée national de la République démocratique du Congo",
+          "opening_hours": "Mo-Sa 09:00-16:00",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1549752851",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0558535,
+          -5.8595005
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1549752851,
+        "country": "Congo, Democratic Republic of the",
+        "alpha_2": "CD",
+        "countries": [
+          "CD"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Baobab de Stanley",
+        "tags": {
+          "building": "yes",
+          "name": "Baobab de Stanley",
+          "opening_hours": "Mo-Fr 09:00-17:00",
+          "payment:cash": "yes",
+          "payment:credit_cards": "no",
+          "payment:cryptocurrencies": "no",
+          "payment:debit_cards": "no",
+          "payment:electronic_purses": "no",
+          "payment:notes": "yes",
+          "tourism": "museum"
+        }
+      }
+    }
+  ]
+}

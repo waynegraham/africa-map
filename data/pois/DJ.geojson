@@ -1,0 +1,148 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/14221742154",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.1253913,
+          11.5584206
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 14221742154,
+        "country": "Djibouti",
+        "alpha_2": "DJ",
+        "countries": [
+          "DJ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Mémorial du Barrage de Djibouti EEGA",
+        "tags": {
+          "name": "Mémorial du Barrage de Djibouti EEGA",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/114995155",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.1488052,
+          11.5951138
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 114995155,
+        "country": "Djibouti",
+        "alpha_2": "DJ",
+        "countries": [
+          "DJ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque du Lycée",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque du Lycée"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/476571984",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.149963,
+          11.5941845
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 476571984,
+        "country": "Djibouti",
+        "alpha_2": "DJ",
+        "countries": [
+          "DJ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1528347621",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.1212899,
+          11.5454296
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1528347621,
+        "country": "Djibouti",
+        "alpha_2": "DJ",
+        "countries": [
+          "DJ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Archives Nationales et Bibliothèque Nationale",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Archives Nationales et Bibliothèque Nationale",
+          "name:en": "National Archives and Library",
+          "name:fr": "Archives Nationales et Bibliothèque Nationale"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1528347622",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.1213727,
+          11.5454952
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1528347622,
+        "country": "Djibouti",
+        "alpha_2": "DJ",
+        "countries": [
+          "DJ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    }
+  ]
+}

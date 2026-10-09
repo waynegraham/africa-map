@@ -1,0 +1,633 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/2210111916",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.3065391,
+          11.3131825
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2210111916,
+        "country": "Guinea",
+        "alpha_2": "GN",
+        "countries": [
+          "GN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Petit Musée du Fouta",
+        "tags": {
+          "name": "Petit Musée du Fouta",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3476325251",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.6776838,
+          9.5441199
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3476325251,
+        "country": "Guinea",
+        "alpha_2": "GN",
+        "countries": [
+          "GN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4008436243",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.2959053,
+          10.933358
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4008436243,
+        "country": "Guinea",
+        "alpha_2": "GN",
+        "countries": [
+          "GN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée du fortin de Boké",
+        "tags": {
+          "name": "Musée du fortin de Boké",
+          "tourism": "museum",
+          "wikidata": "Q63614770"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4519867554",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3009124,
+          10.3746635
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4519867554,
+        "country": "Guinea",
+        "alpha_2": "GN",
+        "countries": [
+          "GN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "American Reading Room",
+        "tags": {
+          "amenity": "library",
+          "name": "American Reading Room"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4541903268",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4674368,
+          8.5471231
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4541903268,
+        "country": "Guinea",
+        "alpha_2": "GN",
+        "countries": [
+          "GN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Theoro Jacques",
+        "tags": {
+          "addr:city": "Macenta",
+          "addr:state": "Macenta",
+          "amenity": "library",
+          "man_made": "yes",
+          "name": "Theoro Jacques",
+          "source": "Red Cross Field Survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4543522936",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4745522,
+          8.5448138
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4543522936,
+        "country": "Guinea",
+        "alpha_2": "GN",
+        "countries": [
+          "GN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Librairie Papeterie Guelaba",
+        "tags": {
+          "addr:city": "Macenta",
+          "addr:state": "Macenta",
+          "amenity": "library",
+          "name": "Librairie Papeterie Guelaba",
+          "source": "Red Cross Field Survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5379580142",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.5805733,
+          9.6814136
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5379580142,
+        "country": "Guinea",
+        "alpha_2": "GN",
+        "countries": [
+          "GN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque universitaire",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque universitaire"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5379580146",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.5825329,
+          9.6803423
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5379580146,
+        "country": "Guinea",
+        "alpha_2": "GN",
+        "countries": [
+          "GN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "bibliothèque américaine",
+        "tags": {
+          "amenity": "library",
+          "name": "bibliothèque américaine"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5537705322",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.564275,
+          9.6862967
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5537705322,
+        "country": "Guinea",
+        "alpha_2": "GN",
+        "countries": [
+          "GN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Cité Orange",
+        "tags": {
+          "amenity": "library",
+          "name": "Cité Orange"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5658823726",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.5853827,
+          10.3689633
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5658823726,
+        "country": "Guinea",
+        "alpha_2": "GN",
+        "countries": [
+          "GN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5731985454",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.3881248,
+          11.2279032
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5731985454,
+        "country": "Guinea",
+        "alpha_2": "GN",
+        "countries": [
+          "GN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothéque",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothéque",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5895184273",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.6501691,
+          9.5698982
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5895184273,
+        "country": "Guinea",
+        "alpha_2": "GN",
+        "countries": [
+          "GN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Point de lecture Afia",
+        "tags": {
+          "amenity": "library",
+          "name": "Point de lecture Afia"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6206774056",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.2895486,
+          10.9337854
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6206774056,
+        "country": "Guinea",
+        "alpha_2": "GN",
+        "countries": [
+          "GN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Salle de lecture",
+        "tags": {
+          "amenity": "library",
+          "name": "Salle de lecture"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6249891417",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.2716077,
+          10.9751653
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6249891417,
+        "country": "Guinea",
+        "alpha_2": "GN",
+        "countries": [
+          "GN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Universitaire",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Universitaire"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6345637939",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.6795317,
+          9.5429897
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6345637939,
+        "country": "Guinea",
+        "alpha_2": "GN",
+        "countries": [
+          "GN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Point de Lecture de Landrea",
+        "tags": {
+          "amenity": "library",
+          "name": "Point de Lecture de Landrea"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6991904530",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6935238,
+          10.6219174
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6991904530,
+        "country": "Guinea",
+        "alpha_2": "GN",
+        "countries": [
+          "GN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7141298786",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.2588537,
+          10.6835367
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7141298786,
+        "country": "Guinea",
+        "alpha_2": "GN",
+        "countries": [
+          "GN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Africain American",
+        "tags": {
+          "name": "Musée Africain American",
+          "opening_hours": "24/7",
+          "operator": "Williams/Bah",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10621894527",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8209618,
+          7.7471259
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10621894527,
+        "country": "Guinea",
+        "alpha_2": "GN",
+        "countries": [
+          "GN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque préfectorale",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque préfectorale"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/303686215",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.9895087,
+          10.8198152
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 303686215,
+        "country": "Guinea",
+        "alpha_2": "GN",
+        "countries": [
+          "GN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Gougoudje Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Gougoudje Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/330557283",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.5838111,
+          10.3633314
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 330557283,
+        "country": "Guinea",
+        "alpha_2": "GN",
+        "countries": [
+          "GN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/503008746",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.3310907,
+          12.0322667
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 503008746,
+        "country": "Guinea",
+        "alpha_2": "GN",
+        "countries": [
+          "GN"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "noname": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/552008098",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.7091103,
+          9.5046142
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 552008098,
+        "country": "Guinea",
+        "alpha_2": "GN",
+        "countries": [
+          "GN"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée national de Guinée",
+        "tags": {
+          "name": "Musée national de Guinée",
+          "tourism": "museum",
+          "wikidata": "Q16887490"
+        }
+      }
+    }
+  ]
+}

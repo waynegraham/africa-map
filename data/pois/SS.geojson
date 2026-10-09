@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/2070265956",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5847714,
+          4.8456245
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2070265956,
+        "country": "South Sudan",
+        "alpha_2": "SS",
+        "countries": [
+          "SS"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Nyakuron Cultural Center",
+        "tags": {
+          "name": "Nyakuron Cultural Center",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4397381005",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5643078,
+          4.8414196
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4397381005,
+        "country": "South Sudan",
+        "alpha_2": "SS",
+        "countries": [
+          "SS"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "International Christian Assembly",
+        "tags": {
+          "amenity": "library",
+          "name": "International Christian Assembly",
+          "name:en": "International Christian Assembly"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10135340011",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3004871,
+          4.1257784
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10135340011,
+        "country": "South Sudan",
+        "alpha_2": "SS",
+        "countries": [
+          "SS"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Fr. Leopoldo Anywar Museum",
+        "tags": {
+          "museum": "person",
+          "name": "Fr. Leopoldo Anywar Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/203371591",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.584724,
+          4.8425972
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 203371591,
+        "country": "South Sudan",
+        "alpha_2": "SS",
+        "countries": [
+          "SS"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Nyakuron Exhibition Center",
+        "tags": {
+          "building": "yes",
+          "name": "Nyakuron Exhibition Center",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1469147452",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5905306,
+          4.840047
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1469147452,
+        "country": "South Sudan",
+        "alpha_2": "SS",
+        "countries": [
+          "SS"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Main Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Main Library"
+        }
+      }
+    }
+  ]
+}

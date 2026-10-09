@@ -1,0 +1,4416 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/408799985",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7627097,
+          -0.1073721
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 408799985,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Kisumu National Museum",
+        "tags": {
+          "fee": "yes",
+          "museum": "nature",
+          "name": "Kisumu National Museum",
+          "operator": "National Museums of Kenya",
+          "operator:type": "government",
+          "tourism": "museum",
+          "website": "https://museums.or.ke/kisumu-museum/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/413939836",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.0579129,
+          -0.4527729
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 413939836,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Abasuba Community Peace Museum",
+        "tags": {
+          "name": "Abasuba Community Peace Museum",
+          "tourism": "museum",
+          "wikidata": "Q4663564"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/474970034",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4444724,
+          -1.577817
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 474970034,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Olorgesailie Prehistoric Site",
+        "tags": {
+          "historic": "archaeological_site",
+          "name": "Olorgesailie Prehistoric Site",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/612006955",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7789499,
+          -1.3128847
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 612006955,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "St Elizabeth Library",
+        "tags": {
+          "amenity": "library",
+          "name": "St Elizabeth Library",
+          "notes": "Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/612007506",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7784823,
+          -1.3192191
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 612007506,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kibera Library",
+        "tags": {
+          "amenity": "library",
+          "check_date": "2023-05-02",
+          "name": "Kibera Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/612007921",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7822235,
+          -1.3138699
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 612007921,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "unknown video library",
+        "tags": {
+          "amenity": "library",
+          "name": "unknown video library",
+          "opening_hours": "Mo-Fr 08:30-20:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/612008779",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7725954,
+          -1.3090938
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 612008779,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "G.A.A. Kibera Community Library",
+        "tags": {
+          "amenity": "library",
+          "check_date": "2023-05-02",
+          "name": "G.A.A. Kibera Community Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/612011372",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7946037,
+          -1.3107304
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 612011372,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Christ the King Library",
+        "tags": {
+          "amenity": "library",
+          "check_date": "2023-04-22",
+          "name": "Christ the King Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/612932024",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.9025953,
+          -2.2698111
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 612932024,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "German Post Office",
+        "tags": {
+          "name": "German Post Office",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/612932027",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.9023554,
+          -2.2674211
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 612932027,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Lamu Museum",
+        "tags": {
+          "fee": "yes",
+          "name": "Lamu Museum",
+          "tourism": "museum",
+          "wikidata": "Q15036545"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/646669310",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.4293818,
+          -3.3324562
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 646669310,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Wongonyi Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Wongonyi Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/650258722",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3878444,
+          -4.2571024
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 650258722,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Shimba Hills National Reserve",
+        "tags": {
+          "museum": "nature",
+          "name": "Shimba Hills National Reserve",
+          "operator": "Kenya Wildlife Service",
+          "operator:type": "public",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/656556828",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.0179067,
+          -3.3067514
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 656556828,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Gede Ruins",
+        "tags": {
+          "name": "Gede Ruins",
+          "name:de": "Gedi Ruinen",
+          "tourism": "museum",
+          "wikidata": "Q502518",
+          "wikimedia_commons": "Category:Ruins of Gedi",
+          "wikipedia": "en:Ruins of Gedi"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/772399177",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8814321,
+          -1.2315789
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 772399177,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1038202791",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8601496,
+          -1.2615006
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1038202791,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Why not youth group",
+        "tags": {
+          "amenity": "library",
+          "name": "Why not youth group"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1400871968",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0152994,
+          -1.0968826
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1400871968,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "JKUAT Library",
+        "tags": {
+          "amenity": "library",
+          "name": "JKUAT Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1457775345",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5557306,
+          -4.3039158
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1457775345,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "National Museum of Kenya- Coastal Forest Conservation Unit",
+        "tags": {
+          "name": "National Museum of Kenya- Coastal Forest Conservation Unit",
+          "opening_hours": "Mo-Fr 07:30-17:00",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1537511760",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8211999,
+          -1.2835382
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1537511760,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "McMillan Library",
+        "tags": {
+          "addr:city": "Nairobi",
+          "addr:street": "Banda Street",
+          "amenity": "library",
+          "check_date": "2023-05-11",
+          "name": "McMillan Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1561605413",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6725111,
+          -4.0627147
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1561605413,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mt. Kenya University",
+        "tags": {
+          "amenity": "library",
+          "name": "Mt. Kenya University"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1561614787",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6724229,
+          -4.0631762
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1561614787,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mt. Kenya University",
+        "tags": {
+          "amenity": "library",
+          "name": "Mt. Kenya University"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1732933781",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8906951,
+          -1.2512045
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1732933781,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Child piece Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Child piece Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1819766754",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8155884,
+          -1.233136
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1819766754,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Library Block",
+        "tags": {
+          "amenity": "library",
+          "name": "Library Block",
+          "wikidata": "Q1021627"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2013484479",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9944257,
+          0.4688805
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2013484479,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kenya Agricultural Research Institute library",
+        "tags": {
+          "amenity": "library",
+          "name": "Kenya Agricultural Research Institute library",
+          "project:eurosha_2012": "yes",
+          "source": "survey",
+          "source:date": "2012-11-13"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2306258773",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8691189,
+          -1.2574346
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2306258773,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Book Shop",
+        "tags": {
+          "amenity": "library",
+          "name": "Book Shop",
+          "opening_hours": "24/7",
+          "operator": "OWNER"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2317088376",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8668484,
+          -1.2604078
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2317088376,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "SLUM CODE",
+        "tags": {
+          "UNESCO POI'S": "EDUCATION",
+          "amenity": "library",
+          "name": "SLUM CODE",
+          "opening_hours": "Mo-Fr 08:30-20:00",
+          "operator": "BINIFACE MISE"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2374943969",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8501916,
+          -1.2624083
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2374943969,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mathare Community Youth Resource Center",
+        "tags": {
+          "amenity": "library",
+          "name": "Mathare Community Youth Resource Center",
+          "opening_hours": "24/7",
+          "operator": "Youths"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2406458864",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7644556,
+          0.288794
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2406458864,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "MMUST Main Library",
+        "tags": {
+          "addr:city": "Kakamega",
+          "addr:street": "Comrades Way",
+          "amenity": "library",
+          "name": "MMUST Main Library",
+          "website": "https://www.mmust.ac.ke/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2509934987",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8561596,
+          -1.2581178
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2509934987,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2665785249",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2762003,
+          0.5182383
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2665785249,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kenya National Library Service -Eldoret",
+        "tags": {
+          "addr:city": "Eldoret",
+          "addr:postcode": "30100",
+          "addr:street": "Kitale - Cherangani Road",
+          "amenity": "library",
+          "check_date": "2026-02-24",
+          "name": "Kenya National Library Service -Eldoret",
+          "operator": "KNLS"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2983360582",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8236504,
+          -1.3002891
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2983360582,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Athletics Museum",
+        "tags": {
+          "name": "Athletics Museum",
+          "operator": "Athletics Kenya",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3137021429",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1274698,
+          -0.481091
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3137021429,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kenya National Library Service - Karatina Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Kenya National Library Service - Karatina Library",
+          "note": "I have put in an approximate location based on my knowledge of the area;need to confirm the place.",
+          "operator": "Probably the Government of Kenya",
+          "wikidata": "Q68651976"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3431165217",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.651666,
+          -0.4457836
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3431165217,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kenya National Library Services-Mbalambala",
+        "tags": {
+          "addr:city": "Garissa",
+          "addr:street": "Garissa-Daadab Road",
+          "amenity": "library",
+          "name": "Kenya National Library Services-Mbalambala"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3693558405",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.760008,
+          1.9957463
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3693558405,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Giriftu Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Giriftu Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3695407062",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4165773,
+          3.3591218
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3695407062,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bute National Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Bute National Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3702721540",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.1855554,
+          2.3051624
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3702721540,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Elben Historical Site",
+        "tags": {
+          "name": "Elben Historical Site",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4193481417",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8845195,
+          -3.6009282
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4193481417,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "B68",
+        "tags": {
+          "name": "B68",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4230322991",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6706545,
+          -4.0603112
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4230322991,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kenya National Library Services",
+        "tags": {
+          "amenity": "library",
+          "name": "Kenya National Library Services"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4340374345",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0490511,
+          -1.4405337
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4340374345,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Agape Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Agape Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4499372144",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.1248278,
+          -3.2178582
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4499372144,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "House of Columns",
+        "tags": {
+          "addr:city": "Malindi",
+          "addr:street": "Silversand Road",
+          "alt_name": "Malindi Museum",
+          "alt_name:en": "Malindi Museum",
+          "alt_name:zh": "马林迪博物馆",
+          "alt_name:zh-Hans": "马林迪博物馆",
+          "alt_name:zh-Hant": "馬林迪博物館",
+          "fee": "yes",
+          "loc_name": "麻林地博物馆",
+          "loc_name:zh": "麻林地博物馆",
+          "loc_name:zh-Hans": "麻林地博物馆",
+          "loc_name:zh-Hant": "麻林地博物館",
+          "name": "House of Columns",
+          "name:en": "House of Columns",
+          "operator": "National Museums of Kenya",
+          "tourism": "museum",
+          "wikidata": "Q15036547",
+          "wikipedia": "en:Malindi Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4737879685",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7817748,
+          -1.313737
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4737879685,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kibera Town Center Library",
+        "tags": {
+          "amenity": "library",
+          "check_date": "2023-05-02",
+          "level": "1",
+          "name": "Kibera Town Center Library",
+          "opening_hours": "05:00-21:00",
+          "operator": "Human needs project"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4888026733",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8166695,
+          -1.2956364
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4888026733,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "British Council Kenya",
+        "tags": {
+          "addr:city": "Nairobi",
+          "addr:housenumber": "5",
+          "addr:street": "Upper Hill Road",
+          "amenity": "library",
+          "name": "British Council Kenya",
+          "name:en": "British Council Kenya"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5063910493",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7281922,
+          -1.4028861
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5063910493,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Judith Thomas Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Judith Thomas Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5063910504",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7282637,
+          -1.402664
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5063910504,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "African Adventist Heritage Musuem",
+        "tags": {
+          "name": "African Adventist Heritage Musuem",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5128771373",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6990859,
+          2.7840414
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5128771373,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Desert Museum - Loiyangalani",
+        "tags": {
+          "addr:city": "Loiyangalani",
+          "name": "Desert Museum - Loiyangalani",
+          "operator": "National Museums of Kenya",
+          "tourism": "museum",
+          "website": "https://www.museums.or.ke/desert-museum/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5361011984",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9364194,
+          -1.1780981
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5361011984,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kenyatta University Post Mordern Library",
+        "tags": {
+          "addr:city": "Nairobi",
+          "addr:postcode": "00100",
+          "addr:street": "Thika Road",
+          "amenity": "library",
+          "description": "Providing library services to students and staff at Kenyatta University",
+          "name": "Kenyatta University Post Mordern Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5361537112",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.740784,
+          -1.356086
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5361537112,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "JKUAT Karen Library",
+        "tags": {
+          "addr:housenumber": "Pofu Rd, Nairobi",
+          "amenity": "library",
+          "name": "JKUAT Karen Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5462120563",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2954476,
+          0.284073
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5462120563,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "magaret thatcher library",
+        "tags": {
+          "amenity": "library",
+          "name": "magaret thatcher library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5464606635",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8365141,
+          0.7434383
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5464606635,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Kipsaraman Museum",
+        "tags": {
+          "name": "Kipsaraman Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5485941636",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6415597,
+          -0.4528694
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5485941636,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "National Library Service Garissa",
+        "tags": {
+          "amenity": "library",
+          "name": "National Library Service Garissa"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5555073980",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8233358,
+          -1.2876028
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5555073980,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "The Judiciary Museum",
+        "tags": {
+          "addr:city": "Nairobi",
+          "addr:street": "City Hall Way",
+          "museum": "history",
+          "name": "The Judiciary Museum",
+          "operator:type": "government",
+          "tourism": "museum",
+          "website": "https://judiciary.go.ke/museum/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5555704197",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8164282,
+          -1.2904452
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5555704197,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Uhuru Park Museum",
+        "tags": {
+          "addr:city": "Nairobi",
+          "addr:housenumber": "Uhuru Park,",
+          "addr:street": "Processional Way",
+          "check_date": "2023-04-15",
+          "name": "Uhuru Park Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5616466749",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8793883,
+          -1.282905
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5616466749,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kenya National Library Services-Buruburu;Kenya National Library Services",
+        "tags": {
+          "addr:city": "Buruburu",
+          "addr:street": "Mumias South Road",
+          "amenity": "library",
+          "name": "Kenya National Library Services-Buruburu;Kenya National Library Services",
+          "toilets:wheelchair": "no",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5616470975",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0856842,
+          -1.0461847
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5616470975,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kenya National Library Services-Thika",
+        "tags": {
+          "addr:city": "Thika",
+          "addr:street": "General Kago Road",
+          "amenity": "library",
+          "email": "KnlsThika@knls.ac.ke",
+          "internet_access": "yes",
+          "internet_access:fee": "no",
+          "name": "Kenya National Library Services-Thika",
+          "operator": "Kenya National Library Service (KNLS)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5616501756",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6342226,
+          0.4429377
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5616501756,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "UW Kenya National Library Services-Lusumu",
+        "tags": {
+          "amenity": "library",
+          "name": "UW Kenya National Library Services-Lusumu"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5781093170",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7445494,
+          0.4898944
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5781093170,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Kabarnet Museum",
+        "tags": {
+          "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532084687650.jpg",
+          "name": "Kabarnet Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5781471051",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7438767,
+          0.4893079
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5781471051,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Polkadot Library Kabarnet",
+        "tags": {
+          "amenity": "library",
+          "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531910930781.jpg",
+          "image:project": "https://mapkibera.github.io/counties/data/images/cache/5781471051/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1531911164212jpg/orig.jpg",
+          "name": "Polkadot Library Kabarnet",
+          "wb_pb:id": "26126055"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5798782569",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7286697,
+          0.0519184
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5798782569,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Ravine Community Library",
+        "tags": {
+          "amenity": "library",
+          "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532681348447.jpg",
+          "name": "Ravine Community Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5817717032",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7345373,
+          0.0583816
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5817717032,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Karen Roses Joint Body Library",
+        "tags": {
+          "amenity": "library",
+          "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532678816440.jpg",
+          "name": "Karen Roses Joint Body Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5907109154",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7517735,
+          0.2799397
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5907109154,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kenya National Library Services (KNLS) - Kakamega",
+        "tags": {
+          "addr:city": "Kakamega",
+          "addr:street": "Kisumu-Kakamega Road",
+          "amenity": "library",
+          "email": "KnlsKakamega@knls.ac.ke",
+          "internet_access": "yes",
+          "internet_access:fee": "no",
+          "name": "Kenya National Library Services (KNLS) - Kakamega",
+          "operator": "Kenya National Library Services (KNLS)",
+          "phone": "+020-215-8369"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6058009844",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5642141,
+          -4.3465792
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6058009844,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Colobus Conservation",
+        "tags": {
+          "addr:city": "Diani Beach",
+          "addr:street": "Diani Beach Road",
+          "name": "Colobus Conservation",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6095562308",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7716075,
+          -0.6780292
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6095562308,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kenya National Library Services-Kisii",
+        "tags": {
+          "addr:city": "Kisii",
+          "addr:street": "B3",
+          "amenity": "library",
+          "name": "Kenya National Library Services-Kisii"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6106202817",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0052964,
+          1.0135069
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6106202817,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Kitale Museum",
+        "tags": {
+          "addr:city": "Kitale",
+          "addr:street": "Kwanza-Kapenguria Road",
+          "name": "Kitale Museum",
+          "tourism": "museum",
+          "wikidata": "Q15036543"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6115629922",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8743808,
+          -1.0895039
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6115629922,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Narok Museum",
+        "tags": {
+          "addr:city": "Narok",
+          "addr:street": "Kaplong-Narok-Maai Road",
+          "name": "Narok Museum",
+          "tourism": "museum",
+          "wikidata": "Q15036552"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6134851698",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6479545,
+          0.0490333
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6134851698,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kenya National Library Services-Meru",
+        "tags": {
+          "addr:city": "Meru",
+          "addr:street": "Meru-Nairobi Highway",
+          "amenity": "library",
+          "name": "Kenya National Library Services-Meru"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6134851705",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6507355,
+          0.0476226
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6134851705,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Meru Museum",
+        "tags": {
+          "addr:city": "Meru",
+          "addr:street": "Meru-Nairobi Highway",
+          "name": "Meru Museum",
+          "tourism": "museum",
+          "wikidata": "Q15036549"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6207546811",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8363527,
+          -1.3222979
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6207546811,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "DRSRS library",
+        "tags": {
+          "addr:city": "Nairobi",
+          "addr:street": "Popo Road",
+          "amenity": "library",
+          "name": "DRSRS library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6241666245",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4943278,
+          0.3383446
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6241666245,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Mumias Cultural Center",
+        "tags": {
+          "addr:city": "Mumias",
+          "addr:street": "Mumias-Bungoma Road",
+          "name": "Mumias Cultural Center",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6244921227",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.022252,
+          -0.1632566
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6244921227,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kenya National Library Services-Munyu",
+        "tags": {
+          "addr:city": "Naru Moru",
+          "addr:street": "Nyeri-Nanyuki Road",
+          "amenity": "library",
+          "name": "Kenya National Library Services-Munyu"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6247234535",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2370677,
+          0.0829285
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6247234535,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kenya National Library Services-Timau",
+        "tags": {
+          "addr:city": "Timau",
+          "addr:street": "A2",
+          "amenity": "library",
+          "name": "Kenya National Library Services-Timau"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6808015986",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9391632,
+          -1.4007172
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6808015986,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "African Heritage House",
+        "tags": {
+          "addr:city": "Mlolongo",
+          "addr:street": "Mombasa Road",
+          "name": "African Heritage House",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6860253194",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4504951,
+          -0.5348973
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6860253194,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kenya National Library Services",
+        "tags": {
+          "addr:city": "Embu",
+          "addr:street": "Embu-Nairobi Highway",
+          "amenity": "library",
+          "name": "Kenya National Library Services"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7309629116",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8572445,
+          -3.6343096
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7309629116,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque publique",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque publique"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7937755881",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7928391,
+          -1.3117892
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7937755881,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Shofco",
+        "tags": {
+          "amenity": "library",
+          "condition": "good",
+          "education:type": "library",
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1590567102281.jpg",
+          "name": "Shofco",
+          "operator:description": "Shofco",
+          "operator:funding": "Shofco",
+          "operator:type": "ngo"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7937755884",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7804903,
+          -1.3155421
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7937755884,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Katanas Library",
+        "tags": {
+          "amenity": "library",
+          "check_date": "2023-05-02",
+          "condition": "fair",
+          "education:type": "library",
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1590656417171.jpg",
+          "name": "Katanas Library",
+          "operator:type": "private"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8129086667",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.846075,
+          -1.2635783
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8129086667,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Green Park Self Help group and Mind Me Community Library",
+        "tags": {
+          "amenity": "library",
+          "condition": "good",
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1590395155045.jpg",
+          "name": "Green Park Self Help group and Mind Me Community Library",
+          "operator:description": "Green park self help group",
+          "operator:funding": "Desai Memorial Foundation",
+          "operator:type": "cbo"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8157435202",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8499433,
+          -1.2643631
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8157435202,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "MYSA",
+        "tags": {
+          "amenity": "library",
+          "condition": "good",
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1592721981559.jpg",
+          "name": "MYSA",
+          "operator:description": "Mysa Mathare",
+          "operator:funding": "Norway",
+          "operator:type": "ngo"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8184308734",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8590217,
+          -1.2609529
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8184308734,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Slin Muradi",
+        "tags": {
+          "amenity": "library",
+          "building:library": "yes",
+          "condition": "good",
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1592552064416.jpg",
+          "name": "Slin Muradi",
+          "operator:description": "Slin Muradi",
+          "operator:funding": "Tushinde",
+          "operator:type": "cbo"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8196000530",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6264048,
+          -0.0119749
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8196000530,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Read Across Africa Community Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Read Across Africa Community Library",
+          "website": "https://readacrossafrica.org"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9897130023",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0692916,
+          -0.2856993
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9897130023,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10006564993",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5325343,
+          -0.4908388
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10006564993,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kochia Community Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Kochia Community Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10971482085",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8148799,
+          3.7534085
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10971482085,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10976987693",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8141773,
+          3.7391359
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10976987693,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Nuer Community Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Nuer Community Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10978516319",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8096484,
+          3.7401141
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10978516319,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Gatwitch Club",
+        "tags": {
+          "amenity": "library",
+          "name": "Gatwitch Club"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10978585870",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8491768,
+          3.7243084
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10978585870,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kakuma Refugee Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Kakuma Refugee Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10989231931",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.841901,
+          3.7487038
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10989231931,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Paweny Community Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Paweny Community Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11328770369",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4373579,
+          -0.7116133
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11328770369,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Naivasha Community Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Naivasha Community Library",
+          "opening_hours": "Sa 08:30-17:00; Mo-Fr 08:00-18:30"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11513729563",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3380003,
+          -1.5203628
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11513729563,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Beads Museum",
+        "tags": {
+          "addr:city": "Maasai-Mara",
+          "addr:street": "Sekenani Gate",
+          "contact:facebook": "SekenaniArtCenter",
+          "description": "Not for profit women empowerment center. The center works with Maasai women, It has a cafeteria, souvenir shop sparkling clean toilet, accommodation and the famous Beads Museum.",
+          "email": "africa.beats.of.beads@gmail.com",
+          "mobile": "+254759962563",
+          "museum": "art",
+          "name": "Beads Museum",
+          "opening_hours": "Mo-Su 08:00-17:00",
+          "operator": "Beats Of Beads Trust",
+          "operator:type": "trust",
+          "payment:cash": "yes",
+          "payment:mpesa": "yes",
+          "toilets": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11549219734",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7862043,
+          -1.8452566
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11549219734,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "addr:city": "Kajiado",
+          "amenity": "library",
+          "fixme": "Under construction"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11684213470",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.133141,
+          0.78123
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11684213470,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kongoni Community Library",
+        "tags": {
+          "addr:street": "Eldoret-Kitale Road",
+          "amenity": "library",
+          "contact:facebook": "Akhonya-Development-CBO-942050995907078",
+          "name": "Kongoni Community Library",
+          "opening_hours": "Mo-Su 08:00-17:00",
+          "website": "https://www.kongoninetwork.org/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11733775463",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3354493,
+          -1.5177016
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11733775463,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "SekenanEnvirotecCentre",
+        "tags": {
+          "amenity": "library",
+          "ele": "1705.5",
+          "name": "SekenanEnvirotecCentre",
+          "precision": "4.883",
+          "source": "KRCS2023"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12075947816",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.815132,
+          -1.272516
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12075947816,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "stop_id": "0810MSM",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12137767564",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9645876,
+          0.0249697
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12137767564,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "museum": "nature",
+          "museum_type": "regional",
+          "tourism": "museum",
+          "wheelchair": "limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12244072818",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.891899,
+          -1.2489358
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12244072818,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "St. John Library",
+        "tags": {
+          "amenity": "library",
+          "name": "St. John Library",
+          "operational_status": "operational",
+          "operator:type": "religious",
+          "source": "survey",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12311232420",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9612247,
+          -0.3977672
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12311232420,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "check_date": "2024-11-04"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12771580123",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6653855,
+          -1.2613383
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12771580123,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "senior library",
+        "tags": {
+          "amenity": "library",
+          "name": "senior library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13273449467",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6437804,
+          1.1230414
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13273449467,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Lagam",
+        "tags": {
+          "amenity": "library",
+          "name": "Lagam",
+          "operator": "community"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13423360436",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7380976,
+          0.1515053
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13423360436,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Pamoja Community Library",
+        "tags": {
+          "amenity": "library",
+          "check_date": "2026-01-01",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "name": "Pamoja Community Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13514403622",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4061222,
+          -0.7750012
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13514403622,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Crescent Island Museum",
+        "tags": {
+          "fee": "no",
+          "name": "Crescent Island Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13516456501",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.359024,
+          0.6679963
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13516456501,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Kakapel",
+        "tags": {
+          "name": "Kakapel",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13997129715",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7845786,
+          -0.6903362
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13997129715,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "KSU Library",
+        "tags": {
+          "amenity": "library",
+          "name": "KSU Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14010773925",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1241095,
+          1.2276739
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 14010773925,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "kapenguria museum",
+        "tags": {
+          "name": "kapenguria museum",
+          "operator": "National Museums of Kenya",
+          "operator:website": "https://museums.or.ke/",
+          "tourism": "museum",
+          "wikipedia": "en:Kapenguria Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14027236831",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.964577,
+          0.0249373
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 14027236831,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Morani Information Centre",
+        "tags": {
+          "name": "Morani Information Centre",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/78308386",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8259496,
+          -1.2849038
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 78308386,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Kenya National Archives",
+        "tags": {
+          "addr:city": "Nairobi",
+          "addr:street": "Tom Mboya Street",
+          "building": "yes",
+          "building:colour": "#DEC88C",
+          "height": "12",
+          "museum": "history",
+          "name": "Kenya National Archives",
+          "opening_hours": "Mo-Fr 08:00-17:00",
+          "roof:colour": "#4C853D",
+          "tourism": "museum",
+          "wikidata": "Q6392606"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/79418528",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8157947,
+          -1.2801322
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 79418528,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Jomo Kenyatta Memorial Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "building:levels": "5",
+          "building:material": "tiles",
+          "check_date": "2023-05-11",
+          "height": "20",
+          "name": "Jomo Kenyatta Memorial Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/95122002",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8149772,
+          -1.273995
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 95122002,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Nairobi National Museum",
+        "tags": {
+          "addr:city": "Nairobi",
+          "addr:street": "Museum Hill",
+          "building": "yes",
+          "check_date": "2024-09-07",
+          "fee": "yes",
+          "name": "Nairobi National Museum",
+          "name:de": "Nationalmuseum Nairobi",
+          "name:fr": "Musée national de Nairobi",
+          "opening_hours": "Mo-Su 08:00-17:00",
+          "tourism": "museum",
+          "website": "https://www.museums.or.ke/",
+          "wikidata": "Q3330879",
+          "wikipedia": "sw:Nairobi National Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/99904283",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6798017,
+          -4.0628545
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 99904283,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Fort Jesus Museum",
+        "tags": {
+          "building": "yes",
+          "name": "Fort Jesus Museum",
+          "name:pt": "Museu do Forte de São Jesus de Mombaça",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/105267066",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8140545,
+          -1.3096909
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 105267066,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Strathmore University Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Strathmore University Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/123357801",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8210174,
+          -1.2834679
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 123357801,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "McMillan Library",
+        "tags": {
+          "addr:city": "Nairobi",
+          "addr:street": "Banda Street",
+          "amenity": "library",
+          "building": "yes",
+          "name": "McMillan Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/123357803",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8211949,
+          -1.2833854
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 123357803,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "McMillan Library",
+        "tags": {
+          "addr:city": "Nairobi",
+          "addr:street": "Banda Street",
+          "amenity": "library",
+          "building": "yes",
+          "name": "McMillan Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/123357804",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8211539,
+          -1.2835222
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 123357804,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "McMillan Library",
+        "tags": {
+          "addr:city": "Nairobi",
+          "addr:street": "Banda Street",
+          "amenity": "library",
+          "building": "yes",
+          "name": "McMillan Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/129003638",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8339625,
+          -1.2736677
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 129003638,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/180139779",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2972831,
+          0.1853632
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 180139779,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/225787950",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2296462,
+          -0.1119775
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 225787950,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/225907618",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3994974,
+          -0.286519
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 225907618,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Ramogi Achieng Oneko Meseum",
+        "tags": {
+          "name": "Ramogi Achieng Oneko Meseum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/244668769",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8039095,
+          -1.2738379
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 244668769,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Chiromo Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Chiromo Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/295491016",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2838847,
+          -0.4514038
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 295491016,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Kariandusi Museum",
+        "tags": {
+          "building": "yes",
+          "name": "Kariandusi Museum",
+          "operator": "National Museums of Kenya",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/376384898",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.1054642,
+          -0.2796002
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 376384898,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Hyrax Hill Museum",
+        "tags": {
+          "building": "yes",
+          "name": "Hyrax Hill Museum",
+          "tourism": "museum",
+          "wikidata": "Q15036534"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396145365",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9664107,
+          -0.1685382
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 396145365,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Daniel Toroitich Arap Moi Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Daniel Toroitich Arap Moi Library",
+          "opening_hours": "24/7",
+          "operator": "kabarak",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/434721209",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8178958,
+          -1.2867687
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 434721209,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Nairobi Gallery",
+        "tags": {
+          "addr:city": "Nairobi",
+          "addr:street": "Kenyatta Avenue",
+          "building": "yes",
+          "building:levels": "1",
+          "check_date": "2023-05-11",
+          "name": "Nairobi Gallery",
+          "opening_hours": "Mo-Fr 08:30-17:30",
+          "operator": "National Museums of Kenya",
+          "tourism": "museum",
+          "wikidata": "Q109229332",
+          "wikipedia": "en:Nairobi Gallery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/453136121",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.1215876,
+          -3.2159933
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 453136121,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Malindi Museum",
+        "tags": {
+          "building": "yes",
+          "fee": "yes",
+          "museum": "local",
+          "name": "Malindi Museum",
+          "operator": "National Museums of Kenya",
+          "operator:type": "public",
+          "tourism": "museum",
+          "wikidata": "Q15036547",
+          "wikipedia": "en:Malindi Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/453891669",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4458363,
+          -1.9744861
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 453891669,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mutyambua Community Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Mutyambua Community Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/476890348",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.856678,
+          -1.2603405
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 476890348,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kenya Power Library",
+        "tags": {
+          "addr:city": "Nairobi",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Kenya Power Library",
+          "source:geometry": "bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/509224486",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7125131,
+          -1.3519707
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 509224486,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Karen Blixen Museum",
+        "tags": {
+          "addr:housenumber": "Karen Rd, Nairobi",
+          "addr:street": "Karen Road",
+          "building": "yes",
+          "fee": "yes",
+          "name": "Karen Blixen Museum",
+          "tourism": "museum",
+          "wikidata": "Q367631"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/554111073",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0752341,
+          0.0078312
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 554111073,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Nanyuki Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Nanyuki Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/628149408",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0858007,
+          -1.0462363
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 628149408,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/650907886",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8657281,
+          -1.250925
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 650907886,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "addr:city": "Nairobi",
+          "addr:street": "Mathare North Road",
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/705215479",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8504794,
+          3.721152
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 705215479,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Ethiopian Community Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "contact:phone": "+254706521941",
+          "name": "Ethiopian Community Library",
+          "operator:type": "community",
+          "roof:material": "metal_sheet"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/781830807",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6492725,
+          0.0492422
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 781830807,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/991475260",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8225011,
+          -1.2936209
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 991475260,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Nairobi Railway Museum",
+        "tags": {
+          "addr:city": "Nairobi",
+          "addr:street": "Uhuru Highway",
+          "name": "Nairobi Railway Museum",
+          "tourism": "museum",
+          "wikidata": "Q611606",
+          "wikipedia": "en:Nairobi Railway Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1105120586",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9640498,
+          -0.4400491
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1105120586,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Nyeri Museum",
+        "tags": {
+          "addr:suburb": "Ruring'u Ward",
+          "building": "yes",
+          "museum": "history",
+          "name": "Nyeri Museum",
+          "operator": "National Museums of Kenya",
+          "operator:type": "public",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1117639302",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7643853,
+          0.2888767
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1117639302,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "MMUST Library",
+        "tags": {
+          "amenity": "library",
+          "building": "library",
+          "name": "MMUST Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1121668245",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8574093,
+          0.3643624
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1121668245,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "KWS gallery",
+        "tags": {
+          "building": "yes",
+          "name": "KWS gallery",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1160864415",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9845184,
+          2.3217768
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1160864415,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Marsabit Cultural Museum",
+        "tags": {
+          "building": "yes",
+          "name": "Marsabit Cultural Museum",
+          "operator": "Kenya Wildlife Service",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1162961036",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6667412,
+          -1.2619046
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1162961036,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Grieve library",
+        "tags": {
+          "alt_name": "junior library",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Grieve library",
+          "source": "microsoft/BuildingFootprints"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1169399841",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9638139,
+          -0.4405746
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1169399841,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kenya National Archives Nyeri Branch",
+        "tags": {
+          "addr:city": "Nyeri",
+          "addr:suburb": "Ruring'u Ward",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Kenya National Archives Nyeri Branch",
+          "operator": "Nation",
+          "operator:type": "public/government"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1171998014",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.14345,
+          -0.3928819
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1171998014,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "new library",
+        "tags": {
+          "addr:city": "karatina",
+          "addr:housenumber": "karatina",
+          "addr:postcode": "101100",
+          "addr:street": "kagochi",
+          "amenity": "library",
+          "building": "yes",
+          "building:levels": "7",
+          "ele": "6",
+          "name": "new library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1231555998",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.0260981,
+          0.1315256
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1231555998,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Teresa Oyiolo Library Budalangi",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Teresa Oyiolo Library Budalangi",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1267217231",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.1294998,
+          -1.0146776
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1267217231,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Dorcas Oyugi Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Dorcas Oyugi Library",
+          "operator": "WISER Girls Secondary School"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1376045772",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1629678,
+          0.4044753
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1376045772,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Dol Dol Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Dol Dol Library",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1383314221",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8198962,
+          -1.7776302
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1383314221,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Umma Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Umma Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1390038513",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.1158691,
+          2.2073544
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1390038513,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Tarbaj Community Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Tarbaj Community Library",
+          "opening_hours": "Mo-Fr 09:00-17:00",
+          "operator": "Government",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1447533617",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8198907,
+          -1.7776199
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1447533617,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "layer": "1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1509508492",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0059793,
+          1.0122915
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1509508492,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1556854660",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8117116,
+          -1.2946147
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1556854660,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kenya National Library Services Headquaters",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "building:levels": "5",
+          "name": "Kenya National Library Services Headquaters",
+          "website": "https://www.knls.ac.ke"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/5821039",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7629271,
+          -0.1011751
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 5821039,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kenya national library service",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "internet_access": "yes",
+          "name": "Kenya national library service",
+          "type": "multipolygon",
+          "website": "https://www.knls.ac.ke/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/13995869",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7575174,
+          -1.3501674
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 13995869,
+        "country": "Kenya",
+        "alpha_2": "KE",
+        "countries": [
+          "KE"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "CUEA Bishop McCauley Library",
+        "tags": {
+          "amenity": "library",
+          "building": "college",
+          "name": "CUEA Bishop McCauley Library",
+          "type": "multipolygon"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,777 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/4427804789",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.9530484,
+          18.1071802
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4427804789,
+        "country": "Mauritania",
+        "alpha_2": "MR",
+        "countries": [
+          "MR"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "name:fr": "dar ehel kerim"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4974212743",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.6575044,
+          16.9216865
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4974212743,
+        "country": "Mauritania",
+        "alpha_2": "MR",
+        "countries": [
+          "MR"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Complexe culturel Cheikh Sayed Ahmed bin Asma El-Dimani المجمع الثقافي للشيخ سيد احمد بن اسمه الديماني",
+        "tags": {
+          "addr:city": "Mederdra المذرذرة",
+          "amenity": "library",
+          "name": "Complexe culturel Cheikh Sayed Ahmed bin Asma El-Dimani المجمع الثقافي للشيخ سيد احمد بن اسمه الديماني",
+          "name:ar": "المجمع الثقافي للشيخ سيد احمد بن اسمه الديماني",
+          "name:fr": "Complexe culturel Cheikh Sayed Ahmed bin Asma El-Dimani"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5497551121",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.2155362,
+          20.2592055
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5497551121,
+        "country": "Mauritania",
+        "alpha_2": "MR",
+        "countries": [
+          "MR"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "name:en": "Musée d'amatil Pour la résistance contre la coloniale",
+          "name:fr": "Musée d'amatil Pour la résistance contre la coloniale",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5604143523",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.9918647,
+          18.1197531
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5604143523,
+        "country": "Mauritania",
+        "alpha_2": "MR",
+        "countries": [
+          "MR"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "addr:housenumber": "0572",
+          "amenity": "library",
+          "internet_access": "wlan",
+          "name:en": "مقر مجلس اللسان العربي",
+          "phone": "45291686",
+          "website": "http://www.allissan.org"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5910443844",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.0530035,
+          20.5172076
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5910443844,
+        "country": "Mauritania",
+        "alpha_2": "MR",
+        "countries": [
+          "MR"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Universitaire",
+        "tags": {
+          "addr:city": "Atar أطار",
+          "addr:city:fr": "Atar",
+          "name": "Musée Universitaire",
+          "operator": "Centre Universitaire des études sahariennes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6172807986",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.0453041,
+          17.5671207
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6172807986,
+        "country": "Mauritania",
+        "alpha_2": "MR",
+        "countries": [
+          "MR"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6344940085",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.9725714,
+          18.1010555
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6344940085,
+        "country": "Mauritania",
+        "alpha_2": "MR",
+        "countries": [
+          "MR"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Zein art galerie",
+        "tags": {
+          "fee": "no",
+          "name": "Zein art galerie",
+          "name:en": "Galerie Zeinart",
+          "opening_hours": "Tu-Sa 10:00-13:00, 15:00-19:00",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7235773686",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.9835545,
+          18.0931297
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7235773686,
+        "country": "Mauritania",
+        "alpha_2": "MR",
+        "countries": [
+          "MR"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Institut Français de Mauritanie المعهد الفرنسي لموريتانيا",
+        "tags": {
+          "addr:city": "Nouakchott",
+          "amenity": "library",
+          "name": "Institut Français de Mauritanie المعهد الفرنسي لموريتانيا",
+          "name:ar": "المعهد الفرنسي لموريتانيا",
+          "name:es": "Instituto Francés de Mauritania",
+          "name:fr": "Institut Français de Mauritanie"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9329314517",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.0717999,
+          17.3935914
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9329314517,
+        "country": "Mauritania",
+        "alpha_2": "MR",
+        "countries": [
+          "MR"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "name:ar": "التحف",
+          "name:en": "ethfe",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11291325370",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.3639581,
+          20.4540192
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11291325370,
+        "country": "Mauritania",
+        "alpha_2": "MR",
+        "countries": [
+          "MR"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliotheque Al Ahmed Mahmoud",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliotheque Al Ahmed Mahmoud"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11369676526",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.3635708,
+          20.4551848
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11369676526,
+        "country": "Mauritania",
+        "alpha_2": "MR",
+        "countries": [
+          "MR"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Ahel Ebbe (El Manar)",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Ahel Ebbe (El Manar)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13072385472",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.0233587,
+          17.1937502
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13072385472,
+        "country": "Mauritania",
+        "alpha_2": "MR",
+        "countries": [
+          "MR"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة ليردي",
+        "tags": {
+          "amenity": "library",
+          "internet_access": "no",
+          "name": "مكتبة ليردي",
+          "opening_hours": "Mo-Fr 09:00-17:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14173767101",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.3315081,
+          21.4936675
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 14173767101,
+        "country": "Mauritania",
+        "alpha_2": "MR",
+        "countries": [
+          "MR"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museo YSLIM",
+        "tags": {
+          "name": "Museo YSLIM",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/94938531",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.9747976,
+          18.0855226
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 94938531,
+        "country": "Mauritania",
+        "alpha_2": "MR",
+        "countries": [
+          "MR"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée National de la Mauritanie المتحف الوطني الموريتاني",
+        "tags": {
+          "addr:city": "نواكشوط",
+          "building": "yes",
+          "name": "Musée National de la Mauritanie المتحف الوطني الموريتاني",
+          "name:ar": "المتحف الوطني الموريتاني",
+          "name:fr": "Musée National de la Mauritanie",
+          "tourism": "museum",
+          "wikidata": "Q2370438"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/228766956",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.973014,
+          18.0899644
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 228766956,
+        "country": "Mauritania",
+        "alpha_2": "MR",
+        "countries": [
+          "MR"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre Mauritanien d'Information pour le Développement Economique et Technique مركز المعلومات الموريتاني للتنمية الاقتصادية والتقنية",
+        "tags": {
+          "addr:city": "Nouakchott نواكشوط",
+          "addr:city:ar": "نواكشوط",
+          "addr:city:fr": "Nouakchott",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Centre Mauritanien d'Information pour le Développement Economique et Technique مركز المعلومات الموريتاني للتنمية الاقتصادية والتقنية",
+          "name:ar": "مركز المعلومات الموريتاني للتنمية الاقتصادية والتقنية",
+          "name:fr": "Centre Mauritanien d'Information pour le Développement Economique et Technique",
+          "short_name": "CIMDET"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/228968010",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.9749896,
+          18.0855656
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 228968010,
+        "country": "Mauritania",
+        "alpha_2": "MR",
+        "countries": [
+          "MR"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Nationale de Mauritanie المكتبة الوطنية الموريتانية",
+        "tags": {
+          "addr:city": "نواكشوط",
+          "amenity": "library",
+          "name": "Bibliothèque Nationale de Mauritanie المكتبة الوطنية الموريتانية",
+          "name:ar": "المكتبة الوطنية الموريتانية",
+          "name:fr": "Bibliothèque Nationale de Mauritanie",
+          "wikidata": "Q15116328"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/243898275",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.9774491,
+          18.0948304
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 243898275,
+        "country": "Mauritania",
+        "alpha_2": "MR",
+        "countries": [
+          "MR"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée urbain Turkya Daddah متحف الحضرية تركيا داداه",
+        "tags": {
+          "addr:city": "نواكشوط Nouakchott",
+          "addr:city:ar": "نواكشوط",
+          "addr:city:fr": "Nouakchott",
+          "building:levels": "2",
+          "name": "Musée urbain Turkya Daddah متحف الحضرية تركيا داداه",
+          "name:ar": "متحف الحضرية تركيا داداه",
+          "name:etymology": "تركيا داداه",
+          "name:fr": "Musée urbain Turkya Daddah",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312614274",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.3616167,
+          20.4550015
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 312614274,
+        "country": "Mauritania",
+        "alpha_2": "MR",
+        "countries": [
+          "MR"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Maison du Livre دار الكتاب",
+        "tags": {
+          "addr:city": "Chinguetti شنقيط",
+          "addr:city:fr": "Chinguetti",
+          "building": "yes",
+          "name": "Maison du Livre دار الكتاب",
+          "name:ar": "دار الكتاب",
+          "name:fr": "Maison du Livre",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/427316359",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.0520738,
+          20.5172889
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 427316359,
+        "country": "Mauritania",
+        "alpha_2": "MR",
+        "countries": [
+          "MR"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Alliance تحالف",
+        "tags": {
+          "addr:city": "Atar أطار",
+          "addr:city:fr": "Atar",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Alliance تحالف",
+          "name:ar": "تحالف",
+          "name:fr": "Alliance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/427745814",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.0559641,
+          20.5101121
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 427745814,
+        "country": "Mauritania",
+        "alpha_2": "MR",
+        "countries": [
+          "MR"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de Touezek t متحف تيوزكيت",
+        "tags": {
+          "addr:city": "Atar أطار",
+          "addr:city:fr": "Atar",
+          "building": "yes",
+          "name": "Musée de Touezek t متحف تيوزكيت",
+          "name:ar": "متحف تيوزكيت",
+          "name:fr": "Musée de Touezekt",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/673240822",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7934969,
+          15.8370905
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 673240822,
+        "country": "Mauritania",
+        "alpha_2": "MR",
+        "countries": [
+          "MR"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothéque",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothéque",
+          "operator": "ESD - UNICEF"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/697979526",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.9684166,
+          18.088977
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 697979526,
+        "country": "Mauritania",
+        "alpha_2": "MR",
+        "countries": [
+          "MR"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque centrale de l'Université de Nouakchott المكتبة المركزية لجامعة نواكشوط",
+        "tags": {
+          "addr:city": "Nouakchott نواكشوط",
+          "addr:place": "Bibliothèque Centrale de l'Université de Nouakchott",
+          "amenity": "library",
+          "name": "Bibliothèque centrale de l'Université de Nouakchott المكتبة المركزية لجامعة نواكشوط",
+          "name:ar": "المكتبة المركزية لجامعة نواكشوط",
+          "name:en": "Central Library of Nouakchott University",
+          "name:fr": "Bibliothèque centrale de l'Université de Nouakchott"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/965870920",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.4771039,
+          22.7358956
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 965870920,
+        "country": "Mauritania",
+        "alpha_2": "MR",
+        "countries": [
+          "MR"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de Zouérat متحف الزويرات",
+        "tags": {
+          "addr:city": "Zouérate الزويرات",
+          "name": "Musée de Zouérat متحف الزويرات",
+          "name:ar": "متحف الزويرات",
+          "name:es": "Museo de Zuérate",
+          "name:fr": "Musée de Zouérat",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1153575078",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1507024,
+          18.3607848
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1153575078,
+        "country": "Mauritania",
+        "alpha_2": "MR",
+        "countries": [
+          "MR"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Akreijit",
+        "tags": {
+          "name": "Akreijit",
+          "operator": "Ministère de la Culture et de l'Artisanat",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1524225316",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.3588839,
+          20.4557795
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1524225316,
+        "country": "Mauritania",
+        "alpha_2": "MR",
+        "countries": [
+          "MR"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة أهل عبد الحميد",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "مكتبة أهل عبد الحميد",
+          "name:en": "Ahl Abd al-Hamid library",
+          "name:fr": "Bibliothèque Ahl Abd al-Hamid"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,3014 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/387772024",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5316327,
+          -22.6779557
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 387772024,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Otavi Bahnhof",
+        "tags": {
+          "historic": "building",
+          "name": "Otavi Bahnhof",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/973690079",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5262186,
+          -22.6747595
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 973690079,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Kristall Galerie",
+        "tags": {
+          "email": "gems@kristallgalerie.com",
+          "fee": "yes",
+          "name": "Kristall Galerie",
+          "opening_hours": "Mo-Sa 09:00-17:00",
+          "phone": "+ 264 64 406080",
+          "tourism": "museum",
+          "website": "https://www.kristallgalerie.com/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/973763231",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.531908,
+          -22.6779412
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 973763231,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Sam-Cohen-Bibliothek",
+        "tags": {
+          "amenity": "library",
+          "name": "Sam-Cohen-Bibliothek",
+          "wikidata": "Q1381766"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/973766541",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5233772,
+          -22.6757941
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 973766541,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museum Swakopmund",
+        "tags": {
+          "contact:email": "museums@iway.na",
+          "contact:fax": "+264 61 302236",
+          "contact:phone": "+264 61 302230",
+          "contact:website": "https://www.museums.com.na/museums/coast/swakopmund-museum",
+          "fee": "yes",
+          "name": "Museum Swakopmund",
+          "opening_hours": "10:00-17:00",
+          "tourism": "museum",
+          "wheelchair": "yes",
+          "wikidata": "Q1515960",
+          "wikipedia": "de:Swakopmund Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1018429768",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0833836,
+          -22.60087
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1018429768,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "National Earth Science Museum",
+        "tags": {
+          "addr:city": "Windhoek",
+          "addr:housenumber": "6",
+          "addr:street": "Aviation Road",
+          "check_date": "2023-09-12",
+          "email": "museum@mme.gov.na",
+          "fee": "no",
+          "museum": "geology",
+          "name": "National Earth Science Museum",
+          "opening_hours": "Mo-Fr 8:00-13:00, 14:00-17:00",
+          "operator": "Ministry of Mines and Energy (MME)",
+          "operator:type": "government",
+          "phone": "+264 61 284 8111",
+          "tourism": "museum",
+          "website": "https://www.mme.gov.na/gsn/museum/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1020287144",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0639564,
+          -22.5809874
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1020287144,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Old Location",
+        "tags": {
+          "name": "Old Location",
+          "tourism": "museum",
+          "wikipedia": "en:Old Location"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1036479706",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7181019,
+          -19.2451236
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1036479706,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Tsumeb Museum",
+        "tags": {
+          "fee": "yes",
+          "name": "Tsumeb Museum",
+          "opening_hours": "Mo-Fr 10:00-12:00,14:00-17:00; Sa 10:00-12:00",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1371851877",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9520021,
+          -21.4210673
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1371851877,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Omaruru Public Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Omaruru Public Library",
+          "wikidata": "Q68652104"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1371900077",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1082802,
+          -19.5585975
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1371900077,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Altes Fort Museum",
+        "tags": {
+          "addr:city": "Grootfontein",
+          "addr:street": "Dr. Nickey Iyambo St",
+          "alt_name": "Old Fort Museum",
+          "name": "Altes Fort Museum",
+          "opening_hours": "Mo-Fr 08:30-12:30, Mo-Fr 14:00-16:30",
+          "tourism": "museum",
+          "website": "http://www.altefortmuseum.de/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1371996298",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1057628,
+          -19.562778
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1371996298,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Grootfontein Public Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Grootfontein Public Library",
+          "wikidata": "Q68652666"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1376524087",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9752412,
+          -22.4627959
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1376524087,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Gobabis Museum",
+        "tags": {
+          "name": "Gobabis Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1484956812",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4354756,
+          -17.677677
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1484956812,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Mafwe Living Museum",
+        "tags": {
+          "name": "Mafwe Living Museum",
+          "tourism": "museum",
+          "website": "https://www.lcfn.info/mafwe"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1508943048",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2430711,
+          -19.2387891
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1508943048,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Living Museum of the Ju/'Hoansi-San",
+        "tags": {
+          "addr:city": "Grashoek",
+          "name": "Living Museum of the Ju/'Hoansi-San",
+          "tourism": "museum",
+          "website": "https://www.lcfn.info/juhoansi/home"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1739114826",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0887847,
+          -22.5720811
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1739114826,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Windhoek City Museum",
+        "tags": {
+          "check_date": "2024-04-22",
+          "email": "aaron.nambadi@windhoekcc.org.na",
+          "fee": "yes",
+          "internet_access": "no",
+          "name": "Windhoek City Museum",
+          "opening_hours": "Mo-Fr 07:30-16:30; Sa 08:00-13:00; Su,PH off",
+          "phone": "+2642902502",
+          "tourism": "museum",
+          "website": "https://www.museums.com.na/museums/windhoek/windhoek-city-museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2281998615",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.822406,
+          -25.890382
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2281998615,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Helmeringhausen Farming Museum",
+        "tags": {
+          "name": "Helmeringhausen Farming Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2333144635",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3662279,
+          -22.049602
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2333144635,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Auto Museum",
+        "tags": {
+          "fee": "no",
+          "name": "Auto Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2489152314",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3699204,
+          -21.0723279
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2489152314,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2613105812",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0941133,
+          -22.5703952
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2613105812,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "National Botanical Research Institute (NBRI)",
+        "tags": {
+          "check_date": "2026-03-13",
+          "check_date:opening_hours": "2026-03-13",
+          "email": "Esmeralda.Strauss@meft.gov.na",
+          "fee": "no",
+          "internet_access": "no",
+          "name": "National Botanical Research Institute (NBRI)",
+          "opening_hours": "Mo-Fr 08:00-17:00; Sa-Su off",
+          "phone": "+264 61 202 2017",
+          "tourism": "museum",
+          "website": "https://www.nbri.org.na",
+          "wheelchair": "limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3199700662",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5064025,
+          -22.954734
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3199700662,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Moth Center",
+        "tags": {
+          "name": "Moth Center",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3297612510",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9528273,
+          -21.4212839
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3297612510,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Omaruru Museum",
+        "tags": {
+          "name": "Omaruru Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3488746968",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3977992,
+          -20.5293606
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3488746968,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Damara Living Museum",
+        "tags": {
+          "contact:website": "http://www.lcfn.info/damara/home",
+          "name": "Damara Living Museum",
+          "opening_hours": "sunrise-sunset",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3652989111",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9652324,
+          -24.6263845
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3652989111,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Public Library",
+        "tags": {
+          "addr:city": "Mariental",
+          "addr:housenumber": "887",
+          "addr:street": "Wolfsgaardt Road",
+          "amenity": "library",
+          "name": "Public Library",
+          "opening_hours": "08:00 - 13:00; 14:00 - 17:00",
+          "operator": "Ministry of Basic Education, Arts and Culture",
+          "phone": "+264 63 240694",
+          "source": "Mariental Municipality",
+          "wheelchair": "yes",
+          "wikidata": "Q68652015"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3949397507",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6693738,
+          -17.8546162
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3949397507,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Mbunza Living Museum",
+        "tags": {
+          "name": "Mbunza Living Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4202460995",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0719734,
+          -23.3240912
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4202460995,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Rehoboth Museum",
+        "tags": {
+          "addr:street": "D1210",
+          "name": "Rehoboth Museum",
+          "opening_hours": "Mo-Fr 08:00-17:00",
+          "tourism": "museum",
+          "wikidata": "Q2139008"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4404066590",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7762937,
+          -17.9101587
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4404066590,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Rundu Public Library",
+        "tags": {
+          "addr:postcode": "+264",
+          "amenity": "library",
+          "internet_access": "wlan",
+          "name": "Rundu Public Library",
+          "name:en": "Rundu Public Library",
+          "opening_hours": "Mo-Su 09:00-17:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4483446793",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5070303,
+          -22.9577798
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4483446793,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Walvis Bay Museum",
+        "tags": {
+          "addr:city": "Walvis Bay",
+          "addr:postcode": "13013",
+          "addr:street": "Nangolo Mbumba Drive",
+          "fee": "no",
+          "name": "Walvis Bay Museum",
+          "opening_hours": "Mo-Th 09:00-17:00; Fr 09:00-16:30",
+          "tourism": "museum",
+          "website": "https://www.museums.com.na/museums/coast/walvis-bay-museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4697946051",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0813084,
+          -22.5593477
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4697946051,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "TransNamib Railway Museum",
+        "tags": {
+          "check_date": "2023-06-17",
+          "fee": "no",
+          "name": "TransNamib Railway Museum",
+          "name:de": "TransNamib Eisenbahnmuseum",
+          "name:en": "TransNamib Railway Museum",
+          "tourism": "museum",
+          "wikidata": "Q1498662"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4746347223",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0744424,
+          -23.32312
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4746347223,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kaptein Cornelius van Wyk Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Kaptein Cornelius van Wyk Library",
+          "name:en": "Kaptein Cornelius van Wyk Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4993478754",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5071526,
+          -22.9579354
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4993478754,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Public Library",
+        "tags": {
+          "addr:city": "Walvis Bay",
+          "amenity": "library",
+          "level": "-1",
+          "name": "Public Library",
+          "opening_hours": "Mo-Th 09:00-13:00,14:00-17:00; Fr 09:00-13:00,14:00-16:30; Sa 10:00-12:00",
+          "wikidata": "Q68653281"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5026807823",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8533887,
+          -18.068437
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5026807823,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Opuwo Cultural Centre",
+        "tags": {
+          "name": "Opuwo Cultural Centre",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5039021524",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0228967,
+          -17.9840728
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5039021524,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Nakambale Museum",
+        "tags": {
+          "email": "olukondamuseum@kway.na",
+          "name": "Nakambale Museum",
+          "opening_hours": "Mo-Fr 08:00-17:00; Sa 08:00-13:00; Su 12:00-17:00",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5044668243",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9408064,
+          -18.8091787
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5044668243,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5758827539",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0316333,
+          -20.4841622
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5758827539,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5773321153",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3763098,
+          -20.4276466
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5773321153,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Damara",
+        "tags": {
+          "name": "Damara",
+          "name:en": "Damara Culture Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5919143001",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7089327,
+          -17.7880393
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5919143001,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Oshana Regional Library",
+        "tags": {
+          "amenity": "library",
+          "internet_access": "yes",
+          "internet_access:fee": "no",
+          "name": "Oshana Regional Library",
+          "opening_hours": "Mo-Sa 09:00-17:00; Su off",
+          "website": "https://oshanarsrc.weebly.com/",
+          "wikidata": "Q68652032"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6347370602",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4277539,
+          -28.5527835
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6347370602,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "The Jasper House Museum",
+        "tags": {
+          "name": "The Jasper House Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6362416043",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9146454,
+          -21.9834654
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6362416043,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Okahandja Public Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Okahandja Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6535487769",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9709319,
+          -21.7558431
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6535487769,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum",
+          "website": "https://www.capecross.org/Museum.htm"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6643581601",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0226688,
+          -22.5187259
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6643581601,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Greenwell Matongo Community Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Greenwell Matongo Community Library",
+          "website": "https://sites.google.com/site/greenwellmatongo/home",
+          "wikidata": "Q68653012"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7996800686",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5840011,
+          -21.516539
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7996800686,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "San Living Museum",
+        "tags": {
+          "fee": "yes",
+          "name": "San Living Museum",
+          "tourism": "museum",
+          "website": "https://www.omandumba.de/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8721777617",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2918968,
+          -19.7735276
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8721777617,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Ancient Damari Museum",
+        "tags": {
+          "name": "Ancient Damari Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8847744617",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6423917,
+          -18.2860846
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8847744617,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "David Livingstone Museum",
+        "tags": {
+          "name": "David Livingstone Museum",
+          "note": "https://conservationtourism.com.na/where-to-go/north-east/david-livingstone-museum\n\nhttps://www.namibiana.de/namibia-information/pressemeldungen/artikel/david-livingstone-museum-sangwali-in-namibia-offiziell-anerkannt.html",
+          "operator": "Linus Mukwata",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9850232021",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5242273,
+          -22.6792473
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9850232021,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Swakopmund Community Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Swakopmund Community Library",
+          "opening_hours": "Mo-Fr 09:00-24:00,13:00-17:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10208618982",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5634775,
+          -22.6375693
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10208618982,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Swakopmund Genocide Museum",
+        "tags": {
+          "addr:city": "Swakopmund",
+          "addr:housenumber": "2409",
+          "addr:street": "Deuteronomy Street",
+          "facebook": "https://www.facebook.com/swakopmund.genocidemuseum",
+          "museum": "history",
+          "name": "Swakopmund Genocide Museum",
+          "operator": "Laidlaw Peringanda",
+          "operator:type": "private",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10873997541",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6572865,
+          -19.3996819
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10873997541,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Omapaha Himba Village",
+        "tags": {
+          "name": "Omapaha Himba Village",
+          "tourism": "museum",
+          "website": "https://omapaha.com"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11361640485",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6567554,
+          -19.3987357
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11361640485,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Omapaha Himba Village",
+        "tags": {
+          "name": "Omapaha Himba Village",
+          "tourism": "museum",
+          "website": "https://omapaha.com"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12093491518",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4242426,
+          -25.382172
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12093491518,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12246134056",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9162665,
+          -21.9808133
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12246134056,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Military Museum",
+        "tags": {
+          "name": "Military Museum",
+          "tourism": "museum",
+          "wikidata": "Q105817012",
+          "wikipedia": "en:Okahandja Military Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12397945965",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4811822,
+          -23.7993711
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12397945965,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Chief Hosea Kutako Museum and Shrine",
+        "tags": {
+          "addr:city": "Aminuis",
+          "addr:place": "Toasis",
+          "name": "Chief Hosea Kutako Museum and Shrine",
+          "note": "https://nbcnews.na/node/108174",
+          "operator": "National Heritage",
+          "operator:type": "government",
+          "tourism": "museum",
+          "website": "https://nhc-nam.org",
+          "wikidata": "Q734424",
+          "wikipedia": "en:Hosea Kutako"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12422160581",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5800995,
+          -18.3634053
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12422160581,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museum of Namibian Music",
+        "tags": {
+          "contact:instagram": "https://www.instagram.com/museumofnamibianmusic/",
+          "name": "Museum of Namibian Music",
+          "opening_hours": "Mo-Fr 10:00-18:00",
+          "short_name": "MUNAMU",
+          "tourism": "museum",
+          "website": "https://www.museums.com.na/museums/north/museum-of-namibian-music"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12422225055",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1519347,
+          -26.6474771
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12422225055,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Namibia Maritime Museum",
+        "tags": {
+          "addr:city": "Lüderitz",
+          "addr:street": "Diaz Street",
+          "name": "Namibia Maritime Museum",
+          "opening_hours": "Mo-Fr 09:30-18:30; Sa 09:30-13:30; Su off",
+          "tourism": "museum",
+          "wikidata": "Q130357060",
+          "wikipedia": "de:Namibia Maritime Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12574497060",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5805031,
+          -18.3633895
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12574497060,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Omuthiya Community Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Omuthiya Community Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12669787286",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3052777,
+          -17.9833704
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12669787286,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Heritage Village",
+        "tags": {
+          "museum": "history;ceramics;children;art;music;nature;technology",
+          "museum_type": "municipal",
+          "name": "Heritage Village",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12898264758",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5394323,
+          -22.6577824
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12898264758,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "addr:city": "Swakopmund",
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14190883402",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2812754,
+          -17.5006815
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 14190883402,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museum",
+        "tags": {
+          "name": "Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32955293",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.354565,
+          -18.0659003
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 32955293,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Lizauli Historical Village",
+        "tags": {
+          "name": "Lizauli Historical Village",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/102781559",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0753056,
+          -22.5643853
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 102781559,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "college",
+          "check_date": "2024-12-14"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/121547674",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0871392,
+          -22.5692119
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 121547674,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "National Museum of Namibia (Services)",
+        "tags": {
+          "addr:city": "Windhoek",
+          "addr:street": "Robert Mugabe Avenue",
+          "building": "public",
+          "check_date": "2026-02-12",
+          "fee": "no",
+          "historic": "yes",
+          "name": "National Museum of Namibia (Services)",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/122250917",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0862282,
+          -22.5638113
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 122250917,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Owela Museum",
+        "tags": {
+          "building": "yes",
+          "check_date": "2024-04-10",
+          "fee": "no",
+          "name": "Owela Museum",
+          "operator": "National Museum of Namibia",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/136115231",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1322506,
+          -26.5797108
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 136115231,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Keetmanshoop Municipal Museum",
+        "tags": {
+          "addr:city": "Keetmanshoop",
+          "addr:street": "Sam Nujoma Drive",
+          "building": "yes",
+          "name": "Keetmanshoop Municipal Museum",
+          "old_name": "Kirche der Rheinischen Mission",
+          "tourism": "museum",
+          "website": "https://www.museums.com.na/museums/south/keetmanshoop-museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/244026491",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2814688,
+          -17.5007183
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 244026491,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Public Library",
+        "tags": {
+          "access": "yes",
+          "addr:city": "Katima Mulilo",
+          "addr:country": "NA",
+          "amenity": "library",
+          "name": "Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/275632889",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3559181,
+          -26.1834985
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 275632889,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Tiras Exhibition + Information",
+        "tags": {
+          "addr:city": "Gundsbewys",
+          "building": "yes",
+          "museum_type": "private",
+          "name": "Tiras Exhibition + Information",
+          "operator": "G. Gräbner",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/280282801",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1593743,
+          -26.5013636
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 280282801,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Schmelen House",
+        "tags": {
+          "building": "yes",
+          "name": "Schmelen House",
+          "note": "The Reverend Schmelen's House. Built in 1814",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311181729",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0879914,
+          -22.568721
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 311181729,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Independence Memorial Museum",
+        "tags": {
+          "addr:city": "Windhoek",
+          "addr:street": "Robert Mugabe Avenue",
+          "alt_name:de": "Unabhängigkeitsmuseum",
+          "building": "commercial",
+          "check_date": "2026-02-12",
+          "fee": "no",
+          "museum": "history",
+          "museum_type": "national",
+          "name": "Independence Memorial Museum",
+          "name:de": "Unabhängigkeits-Gedenkmuseum",
+          "name:en": "Independence Memorial Museum",
+          "opening_hours": "Mo, Tu, Th, Fr 08:00-17:00; We 09:00-13:00",
+          "tourism": "museum",
+          "wikidata": "Q28196088"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/359243456",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0589151,
+          -22.6110171
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 359243456,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Information & Learning Resource Centre (UNAM Library)",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "building:levels": "3",
+          "name": "Information & Learning Resource Centre (UNAM Library)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/359591103",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0570364,
+          -22.610254
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 359591103,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "UNAM Old Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "UNAM Old Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/413920638",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.850753,
+          -21.9383179
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 413920638,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Karibib Public Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Karibib Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/421376783",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5528455,
+          -22.6719198
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 421376783,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Martin Luther Steam Engine",
+        "tags": {
+          "building": "yes",
+          "fee": "no",
+          "name": "Martin Luther Steam Engine",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/428855239",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1562623,
+          -26.6466428
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 428855239,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Lüderitz Public Library",
+        "tags": {
+          "addr:city": "Lüderitz",
+          "addr:street": "Ring Street",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Lüderitz Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/467812353",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8611852,
+          -18.9714123
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 467812353,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Olifantsrus site museum",
+        "tags": {
+          "building": "yes",
+          "museum": "nature",
+          "name": "Olifantsrus site museum",
+          "opening_hours": "24/7",
+          "tourism": "museum",
+          "wheelchair": "limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/473387616",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6455825,
+          -20.4672727
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 473387616,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museum of Namibian Fashion",
+        "tags": {
+          "addr:city": "Otjiwarongo",
+          "addr:housenumber": "Erf 235",
+          "addr:postcode": "12001",
+          "addr:street": "Park Street",
+          "building": "yes",
+          "name": "Museum of Namibian Fashion",
+          "note": "since 2022",
+          "tourism": "museum",
+          "website": "https://www.namibianfashion.com/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/558564775",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6910567,
+          -17.8016835
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 558564775,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Ovahimba Living Museum",
+        "tags": {
+          "addr:city": "Omungunda",
+          "name": "Ovahimba Living Museum",
+          "tourism": "museum",
+          "website": "https://www.lcfn.info/ovahimba"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/569439036",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9619587,
+          -22.4509566
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 569439036,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Gobabis Public Library",
+        "tags": {
+          "amenity": "library",
+          "building": "public",
+          "name": "Gobabis Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/679456033",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9146242,
+          -21.983474
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 679456033,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Okahandja Public Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Okahandja Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/701749943",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0855197,
+          -22.5639209
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 701749943,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Windhoek Public Library",
+        "tags": {
+          "addr:city": "Windhoek",
+          "addr:housenumber": "4",
+          "addr:street": "Fonnie Karuaihe Street",
+          "amenity": "library",
+          "building": "yes",
+          "check_date": "2024-04-10",
+          "name": "Windhoek Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/706132456",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4909642,
+          -22.4233517
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 706132456,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/711876416",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6477329,
+          -20.463043
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 711876416,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Otjiwarongo Community Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Otjiwarongo Community Library",
+          "wikidata": "Q68652764"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/770623476",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6492676,
+          -20.4689008
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 770623476,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Otjozondjupa Library Services",
+        "tags": {
+          "addr:city": "Otjiwarongo",
+          "addr:street": "Son Road",
+          "amenity": "library",
+          "building": "yes",
+          "facebook": "https://www.facebook.com/otjiwarongolibraryservices/",
+          "name": "Otjozondjupa Library Services"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/797515641",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0554096,
+          -22.492074
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 797515641,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Maxuilili Community Library",
+        "tags": {
+          "addr:city": "Windhoek",
+          "addr:street": "Tauno Hatuiikulipi Street",
+          "amenity": "library",
+          "building": "yes",
+          "check_date": "2024-04-25",
+          "name": "Maxuilili Community Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/805380638",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8944742,
+          -17.4696956
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 805380638,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Ohangwena Region Library",
+        "tags": {
+          "addr:city": "Ohangwena",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Ohangwena Region Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/816550313",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1532094,
+          -20.1037948
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 816550313,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Franke-Haus-Museum",
+        "tags": {
+          "alt_name": "Outjo Museum",
+          "building": "yes",
+          "name": "Franke-Haus-Museum",
+          "tourism": "museum",
+          "wikipedia": "de:Franke-Haus-Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/837762750",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1524105,
+          -26.6467499
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 837762750,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Lüderitz Museum",
+        "tags": {
+          "building": "yes",
+          "name": "Lüderitz Museum",
+          "opening_hours": "Mo-Fr 15:30-17:00",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/839211997",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1528516,
+          -26.6503619
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 839211997,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Haus Goerke",
+        "tags": {
+          "building": "yes",
+          "name": "Haus Goerke",
+          "opening_hours": "Mo-Fr14:00-16:00; Sa,Su,PH 16:00-17:00",
+          "tourism": "museum",
+          "website": "http://kolmanskuppe.com/goerke-haus",
+          "wikidata": "Q1534074",
+          "wikipedia": "de:Goerke-Haus"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/887863830",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2804675,
+          -22.1141778
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 887863830,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Henties Bay Library",
+        "tags": {
+          "addr:city": "Henties Bay",
+          "addr:street": "Jakkalsputz Road",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Henties Bay Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/946010985",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9876312,
+          -22.4417489
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 946010985,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Omaheke Regional Study and Resource Center (RSRC)",
+        "tags": {
+          "amenity": "library",
+          "name": "Omaheke Regional Study and Resource Center (RSRC)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/965060088",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7101828,
+          -20.7899546
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 965060088,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Ombu Museum",
+        "tags": {
+          "building": "yes",
+          "name": "Ombu Museum",
+          "tourism": "museum",
+          "website": "https://www.ombu.co.na/museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/968520215",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0520785,
+          -23.9246037
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 968520215,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Hoachanas Community Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Hoachanas Community Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/972960564",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4276994,
+          -28.5527523
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 972960564,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/972960899",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4261429,
+          -28.5511458
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 972960899,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "addr:city": "Oranjemund",
+          "amenity": "library",
+          "building": "yes",
+          "note": "Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/978683997",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9792859,
+          -17.5042065
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 978683997,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Outapi War Museum",
+        "tags": {
+          "addr:city": "Outapi",
+          "museum": "history",
+          "name": "Outapi War Museum",
+          "tourism": "museum",
+          "website": "https://www.museums.com.na/museums/north/outapi-war-museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1050738634",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8637664,
+          -17.4793581
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1050738634,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "King Mandume Museum",
+        "tags": {
+          "addr:city": "Omhedi",
+          "building": "yes",
+          "name": "King Mandume Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1083978131",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7389216,
+          -28.4474307
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1083978131,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Warmbad Museum",
+        "tags": {
+          "building": "yes",
+          "museum": "history",
+          "name": "Warmbad Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1241189262",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6570768,
+          -26.7978449
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1241189262,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Aroab Public Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Aroab Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1247590631",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.153075,
+          -20.1094425
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1247590631,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Community Library",
+        "tags": {
+          "addr:city": "Outjo",
+          "addr:postcode": "21005",
+          "addr:street": "Station Road",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Community Library",
+          "source": "microsoft/BuildingFootprints"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1497303942",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4809111,
+          -23.799559
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1497303942,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "museum": "history",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/6132181",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0862521,
+          -22.5571785
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 6132181,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "National Library of Namibia",
+        "tags": {
+          "addr:city": "Windhoek",
+          "addr:housenumber": "1-7",
+          "addr:street": "Eugene Marais Street",
+          "amenity": "library",
+          "building": "yes",
+          "internet_access": "yes",
+          "internet_access:fee": "no",
+          "internet_access:ssid": "NLAS_GUESTS",
+          "name": "National Library of Namibia",
+          "opening_hours": "Mo-Su 09:00-17:00",
+          "operator": "Ministry of Education, Arts & Culture",
+          "operator:type": "government",
+          "type": "multipolygon",
+          "website": "http://www.nln.gov.na:8081/client/natlib1/?dt=list",
+          "wikidata": "Q605007"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/12304576",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0883184,
+          -22.5693441
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 12304576,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Alte Feste Display Centre",
+        "tags": {
+          "building": "yes",
+          "building:levels": "2",
+          "building:material": "limestone",
+          "building:use": "cultural",
+          "check_date": "2026-02-12",
+          "name": "Alte Feste Display Centre",
+          "opening_hours": "closed",
+          "tourism": "museum",
+          "type": "multipolygon",
+          "wikidata": "Q325241",
+          "wikipedia": "en:Alte Feste"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/13223758",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3309461,
+          -17.4914464
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 13223758,
+        "country": "Namibia",
+        "alpha_2": "NA",
+        "countries": [
+          "NA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "type": "multipolygon"
+        }
+      }
+    }
+  ]
+}

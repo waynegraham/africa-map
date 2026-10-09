@@ -1,0 +1,804 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/369007773",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3575855,
+          -8.8213071
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 369007773,
+        "country": "Zambia",
+        "alpha_2": "ZM",
+        "countries": [
+          "ZM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Moto Moto Museum",
+        "tags": {
+          "name": "Moto Moto Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/461811874",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.865654,
+          -17.9258686
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 461811874,
+        "country": "Zambia",
+        "alpha_2": "ZM",
+        "countries": [
+          "ZM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Field Museum",
+        "tags": {
+          "name": "Field Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2309460461",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3143766,
+          -15.4307913
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2309460461,
+        "country": "Zambia",
+        "alpha_2": "ZM",
+        "countries": [
+          "ZM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "check_date": "2023-05-17",
+          "internet_access": "no",
+          "operator:type": "public",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2620361806",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8479808,
+          -17.862817
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2620361806,
+        "country": "Zambia",
+        "alpha_2": "ZM",
+        "countries": [
+          "ZM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Livingstone Railway Museum",
+        "tags": {
+          "addr:city": "Livingstone",
+          "name": "Livingstone Railway Museum",
+          "opening_hours": "08:30-16:30",
+          "tourism": "museum",
+          "wikipedia": "en:Railway Museum (Livingstone, Zambia"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2728644888",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6225159,
+          -12.9437711
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2728644888,
+        "country": "Zambia",
+        "alpha_2": "ZM",
+        "countries": [
+          "ZM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Twikatane Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Twikatane Library",
+          "operator": "Twikatane"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4347546922",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3217755,
+          -15.4286805
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4347546922,
+        "country": "Zambia",
+        "alpha_2": "ZM",
+        "countries": [
+          "ZM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4474999791",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8552014,
+          -17.8481485
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4474999791,
+        "country": "Zambia",
+        "alpha_2": "ZM",
+        "countries": [
+          "ZM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Livingstone Museum",
+        "tags": {
+          "addr:city": "Livingstone",
+          "addr:plot": "567",
+          "addr:street": "Mosi-Oa-Tunya Road",
+          "charge": "5.00 ZMW @ age < 18;10.00 ZMW @ age > 18",
+          "fee": "yes",
+          "fee:description": "Non-resident fees are 5USD for adults and 3USD for children.",
+          "name": "Livingstone Museum",
+          "opening_hours": "Mo-Su 09:00-16:30; Dec 25 off; Jan 01 off",
+          "tourism": "museum",
+          "website": "https://livingstonemuseum.org/",
+          "wikidata": "Q2943618",
+          "wikipedia": "en:Livingstone Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4475040091",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8576796,
+          -17.929589
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4475040091,
+        "country": "Zambia",
+        "alpha_2": "ZM",
+        "countries": [
+          "ZM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Victoria Falls Bridge Visitor Centre",
+        "tags": {
+          "name": "Victoria Falls Bridge Visitor Centre",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4999905026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8583846,
+          -17.8477781
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4999905026,
+        "country": "Zambia",
+        "alpha_2": "ZM",
+        "countries": [
+          "ZM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5202887329",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6472733,
+          -12.9704013
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5202887329,
+        "country": "Zambia",
+        "alpha_2": "ZM",
+        "countries": [
+          "ZM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Ndola Public Library Building",
+        "tags": {
+          "amenity": "library",
+          "name": "Ndola Public Library Building"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5235836830",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0190108,
+          -15.223305
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5235836830,
+        "country": "Zambia",
+        "alpha_2": "ZM",
+        "countries": [
+          "ZM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5514205271",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1337459,
+          -15.2633772
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5514205271,
+        "country": "Zambia",
+        "alpha_2": "ZM",
+        "countries": [
+          "ZM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5774975962",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3372419,
+          -15.4538841
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5774975962,
+        "country": "Zambia",
+        "alpha_2": "ZM",
+        "countries": [
+          "ZM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Chilenje Library",
+        "tags": {
+          "addr:street": "Pemba Road",
+          "amenity": "library",
+          "name": "Chilenje Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6804918887",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0860674,
+          -12.8467917
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6804918887,
+        "country": "Zambia",
+        "alpha_2": "ZM",
+        "countries": [
+          "ZM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Kalalushi Coreshed",
+        "tags": {
+          "name": "Kalalushi Coreshed",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6893226886",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1329154,
+          -16.225287
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6893226886,
+        "country": "Zambia",
+        "alpha_2": "ZM",
+        "countries": [
+          "ZM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "School Library",
+        "tags": {
+          "amenity": "library",
+          "name": "School Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10173714829",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1752501,
+          -10.2059062
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10173714829,
+        "country": "Zambia",
+        "alpha_2": "ZM",
+        "countries": [
+          "ZM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kasama boys",
+        "tags": {
+          "amenity": "library",
+          "internet_access": "no",
+          "name": "Kasama boys",
+          "opening_hours": "Mo-Su 08:00-18:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12874106842",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1521264,
+          -12.7233953
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12874106842,
+        "country": "Zambia",
+        "alpha_2": "ZM",
+        "countries": [
+          "ZM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "mukuba library",
+        "tags": {
+          "amenity": "library",
+          "name": "mukuba library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13110672201",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6507118,
+          -12.9701768
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13110672201,
+        "country": "Zambia",
+        "alpha_2": "ZM",
+        "countries": [
+          "ZM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "name:en": "Copperbelt museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/288801150",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2913345,
+          -15.4218903
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 288801150,
+        "country": "Zambia",
+        "alpha_2": "ZM",
+        "countries": [
+          "ZM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Lusaka National Museum",
+        "tags": {
+          "addr:city": "Lusaka",
+          "addr:street": "Nasser Road",
+          "building": "yes",
+          "check_date": "2023-06-06",
+          "museum": "art",
+          "name": "Lusaka National Museum",
+          "opening_hours": "Mo-Su 09:00-16:30",
+          "operator:type": "public",
+          "tourism": "museum",
+          "wheelchair": "no",
+          "wikidata": "Q3267774",
+          "wikipedia": "en:Lusaka National Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/335237587",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9884581,
+          -16.8077298
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 335237587,
+        "country": "Zambia",
+        "alpha_2": "ZM",
+        "countries": [
+          "ZM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Choma Museum",
+        "tags": {
+          "addr:city": "Choma",
+          "building": "yes",
+          "fee": "yes",
+          "name": "Choma Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398151740",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8645868,
+          -17.9266946
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 398151740,
+        "country": "Zambia",
+        "alpha_2": "ZM",
+        "countries": [
+          "ZM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Excavation Museum",
+        "tags": {
+          "addr:city": "Livingstone",
+          "addr:street": "Access Road to Victoria Falls Park",
+          "building": "yes",
+          "name": "Excavation Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/475942676",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1464055,
+          -16.2273616
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 475942676,
+        "country": "Zambia",
+        "alpha_2": "ZM",
+        "countries": [
+          "ZM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "School library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "School library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/570537056",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5712344,
+          -10.1252227
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 570537056,
+        "country": "Zambia",
+        "alpha_2": "ZM",
+        "countries": [
+          "ZM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "St Francis Secondary School Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "St Francis Secondary School Library",
+          "school": "secondary"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/988816242",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4657402,
+          -14.4437004
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 988816242,
+        "country": "Zambia",
+        "alpha_2": "ZM",
+        "countries": [
+          "ZM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "main library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "internet_access": "yes",
+          "internet_access:fee": "no",
+          "name": "main library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1214465823",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.522332,
+          -12.9746015
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1214465823,
+        "country": "Zambia",
+        "alpha_2": "ZM",
+        "countries": [
+          "ZM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1395302603",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4697989,
+          -15.3558492
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1395302603,
+        "country": "Zambia",
+        "alpha_2": "ZM",
+        "countries": [
+          "ZM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Unilus Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "internet_access": "yes",
+          "name": "Unilus Library",
+          "opening_hours": "Mon - Friday: 08:00 - 22:00  Sat: 09:00 - 22:00  Sun & Public Holidays: Closed"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1484216646",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2934235,
+          -15.3872512
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1484216646,
+        "country": "Zambia",
+        "alpha_2": "ZM",
+        "countries": [
+          "ZM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Lubuto Library",
+        "tags": {
+          "addr:city": "Lusaka",
+          "amenity": "library",
+          "name": "Lubuto Library"
+        }
+      }
+    }
+  ]
+}

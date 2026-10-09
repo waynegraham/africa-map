@@ -1,0 +1,8200 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/543335632",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.258259,
+          31.4055484
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 543335632,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museum of Fossils and Minerals",
+        "tags": {
+          "name": "Museum of Fossils and Minerals",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/621322550",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8994339,
+          30.9201242
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 621322550,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Taourirt Kasbah",
+        "tags": {
+          "name": "Taourirt Kasbah",
+          "name:zh": "陶瑞特城堡",
+          "tourism": "museum",
+          "wikidata": "Q16593169",
+          "wikimedia_commons": "Category:Kasbah Taourirt",
+          "wikipedia": "en:Kasbah Taourirt"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/622166220",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0853508,
+          31.4940787
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 622166220,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musee Des Oasis متحف الواحات",
+        "tags": {
+          "fax": "00212 35 88 03 57",
+          "name": "Musee Des Oasis متحف الواحات",
+          "name:ar": "متحف الواحات",
+          "name:fr": "Musee Des Oasis",
+          "phone": "00212 35 88 03 55",
+          "source": "survey",
+          "tourism": "museum",
+          "website": "https://www.elkhorbat.com/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/622292186",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5627076,
+          33.8910585
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 622292186,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Mausolée de Moulay Ismaïl ضريح مولاي إسماعيل",
+        "tags": {
+          "name": "Mausolée de Moulay Ismaïl ضريح مولاي إسماعيل",
+          "name:ar": "ضريح مولاي إسماعيل",
+          "name:en": "Mausoleum of Moulay Ismail",
+          "name:fr": "Mausolée de Moulay Ismaïl",
+          "name:zh": "穆莱.伊斯梅尔墓",
+          "tourism": "museum",
+          "wikidata": "Q276938",
+          "wikipedia": "ar:إسماعيل بن الشريف"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/622292198",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5665757,
+          33.8936583
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 622292198,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Dar Jamaï",
+        "tags": {
+          "name": "Musée Dar Jamaï",
+          "name:en": "Dar Jamai Museum",
+          "name:fr": "Musée Dar Jamaï",
+          "name:zh": "亚马伊博物馆",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/622292210",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5652704,
+          33.8951536
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 622292210,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Medrasa Bou Inania",
+        "tags": {
+          "name": "Medrasa Bou Inania",
+          "name:zh": "布伊纳尼亚神学院",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/660578117",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.984071,
+          31.6222731
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 660578117,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Tiskiwin",
+        "tags": {
+          "addr:city": "Marrakech",
+          "addr:housenumber": "8",
+          "addr:street": "Derb El Bahia",
+          "fee": "yes",
+          "name": "Musée Tiskiwin",
+          "name:en": "Tiskiwin Museum",
+          "name:fr": "Musée Tiskiwin",
+          "opening_hours": "09:00-12:30; 14:30-18:00",
+          "tourism": "museum",
+          "website": "https://tiskiwin.wdro.net/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1161748255",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9201601,
+          30.929908
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1161748255,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Le Musée Régional de la Résistance et de l'Armée de Liberation",
+        "tags": {
+          "name": "Le Musée Régional de la Résistance et de l'Armée de Liberation",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1182655887",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.7543419,
+          31.5022124
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1182655887,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "erranduak",
+        "tags": {
+          "amenity": "library",
+          "name": "erranduak"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1195228792",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.7640057,
+          31.5119563
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1195228792,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Municipale",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Municipale"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1201438593",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.7628512,
+          31.5135032
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1201438593,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "كاراج",
+        "tags": {
+          "name": "كاراج",
+          "name:ar": "كاراج",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1268256968",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.2562034,
+          27.5276211
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1268256968,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Zaouïa Sidi Ahmed Reguibi",
+        "tags": {
+          "amenity": "library",
+          "name": "Zaouïa Sidi Ahmed Reguibi"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1424089144",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2423963,
+          32.2990033
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1424089144,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1540572914",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6539843,
+          33.5425173
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1540572914,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1654421913",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.2228815,
+          33.4347639
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1654421913,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Régional Berbère",
+        "tags": {
+          "name": "Musée Régional Berbère",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1710033615",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.1290545,
+          31.4909099
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1710033615,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée des sources de Lalla Minouna",
+        "tags": {
+          "contact:phone": "+ 212 357 86 798",
+          "name": "Musée des sources de Lalla Minouna",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1721711295",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.9827382,
+          34.0604457
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1721711295,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Batha",
+        "tags": {
+          "addr:city": "Fès",
+          "name": "Musée Batha",
+          "name:en": "Batha Museum",
+          "name:zh": "巴斯艺术博物馆",
+          "opening_hours": "Mo, We-Su 10:00-18:00",
+          "tourism": "museum",
+          "website": "http://www.fnm.ma/musee-al-batha-de-fes/",
+          "wikimedia_commons": "Category:Dar Batha",
+          "wikipedia": "ar:متحف البطحاء"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1749842345",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.988278,
+          31.6346156
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1749842345,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée du Parfum",
+        "tags": {
+          "name": "Musée du Parfum",
+          "name:en": "Museum of Perfume",
+          "name:fr": "Musée du Parfum",
+          "tourism": "museum",
+          "website": "https://www.benchaabane.com/lemuseeduparfum/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1899855658",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.930492,
+          23.6995353
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1899855658,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "addr:city": "Dajla",
+          "addr:city:ar": "الداخلة",
+          "addr:city:es": "Dajla",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1899928215",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.9480575,
+          23.6852882
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1899928215,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "addr:city": "Dajla",
+          "addr:city:ar": "الداخلة",
+          "addr:city:es": "Dajla",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1899928228",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.9266228,
+          23.7062515
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1899928228,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "fixme": "name",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2197266955",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3735477,
+          35.5702125
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2197266955,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2197267043",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.370667,
+          35.5706357
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2197267043,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Archéologique",
+        "tags": {
+          "name": "Musée Archéologique",
+          "name:zh": "考古博物馆",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2328215993",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8108843,
+          35.7838627
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2328215993,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Tangier American Legation Institute",
+        "tags": {
+          "addr:city": "Tanger ⵜⵉⵏ ⵉⴳⴳⵉ طنجة",
+          "addr:housenumber": "8",
+          "addr:street": "Rue Amerique",
+          "building": "public",
+          "building:architecture": "moorish_architecture",
+          "fee": "yes",
+          "heritage": "2",
+          "heritage:operator": "nrhp",
+          "heritage:ref": "81000703",
+          "heritage:website": "https://npgallery.nps.gov/AssetDetail/NRIS/81000703",
+          "historic": "heritage",
+          "museum": "history",
+          "name": "Tangier American Legation Institute",
+          "name:zh": "美国使节博物馆",
+          "nrhp:criteria": "A;C",
+          "nrhp:inscription_date": "1981-1-8",
+          "nrhp:nhl": "yes",
+          "opening_hours": "Mo-Fr 10:00-17:00, Sa-Su 10:00-15:00",
+          "phone": "+212 539 93 53 17",
+          "protection_title": "National Historic Landmark",
+          "ref:nrhp": "81000703",
+          "start_date": "1821",
+          "tourism": "museum",
+          "website": "https://www.legation.org/",
+          "wikidata": "Q468574",
+          "wikimedia_commons": "File:Museo del Antiguo Legado Estadounidense, Tánger, Marruecos, 2015-12-11, DD 44-46 HDR.JPG",
+          "wikipedia": "en:American Legation, Tangier"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2328215996",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8116995,
+          35.7844741
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2328215996,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de La Fondation Lorin",
+        "tags": {
+          "addr:city": "Tanger",
+          "addr:housenumber": "44",
+          "addr:postcode": "90000",
+          "addr:street": "Rue Touahine Ben Hachemi",
+          "fee": "no",
+          "museum": "local",
+          "name": "Musée de La Fondation Lorin",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2390589203",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2223912,
+          30.3876027
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2390589203,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2508041486",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6574909,
+          33.5769165
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2508041486,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Saint-Dominique, CIL",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Saint-Dominique, CIL"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2550854393",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8131988,
+          34.062347
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2550854393,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Kasbat Genaoua",
+        "tags": {
+          "name": "Kasbat Genaoua",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2849419573",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8138223,
+          35.7828164
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2849419573,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Tangier English Book Club",
+        "tags": {
+          "addr:housename": "Second Floor First Door On Right",
+          "amenity": "library",
+          "name": "Tangier English Book Club"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2937556901",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9234927,
+          34.677105
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2937556901,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Annexe Institut Français d'Oujda",
+        "tags": {
+          "addr:city": "Oujda",
+          "addr:housenumber": "16",
+          "addr:street": "Rue Imam Chafi",
+          "amenity": "library",
+          "name": "Annexe Institut Français d'Oujda"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2949607932",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9122609,
+          34.6782021
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2949607932,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Galerie D'Art Maghreb Al Arabi",
+        "tags": {
+          "name": "Galerie D'Art Maghreb Al Arabi",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2951721307",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9076078,
+          34.6738044
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2951721307,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Ethnographique Lalla Aicha",
+        "tags": {
+          "name": "Musée Ethnographique Lalla Aicha",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2962042654",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8928594,
+          35.7356409
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2962042654,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque FSTT",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque FSTT"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3105587843",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.2669273,
+          35.1680489
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3105587843,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Manahil Al Irfan",
+        "tags": {
+          "amenity": "library",
+          "name": "Manahil Al Irfan"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3125647650",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5638185,
+          33.8932371
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3125647650,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Meknes Museum",
+        "tags": {
+          "addr:city": "Meknès ⴰⵎⴽⵏⴰⵙ مكناس",
+          "name": "Meknes Museum",
+          "name:ar": "متحف مكناس",
+          "name:en": "Meknes Museum",
+          "name:fr": "Musée de Meknès",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3202510603",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8351781,
+          34.0194224
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3202510603,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Le Musée de la Monnaie de Bank Al-Maghrib",
+        "tags": {
+          "addr:street": "Avenue Allal Ben Abdellah",
+          "fee": "yes",
+          "name": "Le Musée de la Monnaie de Bank Al-Maghrib",
+          "name:en": "The Currency Museum of the Bank Al-Maghrib",
+          "name:fr": "Le Musée de la Monnaie de Bank Al-Maghrib",
+          "name:ko": "알 마그리브 은행 화폐 박물관",
+          "phone": "+212 5 37 70 26 26",
+          "tourism": "museum",
+          "website": "https://www.bkam.ma/musee/A-propos/Horaires-et-tarifs"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3214364733",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6315165,
+          33.6050799
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3214364733,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "la mediatheque",
+        "tags": {
+          "amenity": "library",
+          "name": "la mediatheque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3268834681",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7456214,
+          34.0002346
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3268834681,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Hajji",
+        "tags": {
+          "amenity": "library",
+          "name": "Hajji"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3370580659",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9963651,
+          31.6230021
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3370580659,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3409254126",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8319933,
+          34.0167046
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3409254126,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Horizons",
+        "tags": {
+          "amenity": "library",
+          "name": "Horizons"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3536041871",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8589076,
+          30.396455
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3536041871,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée des arts et traditions de la vallée du Drâa",
+        "tags": {
+          "name": "Musée des arts et traditions de la vallée du Drâa",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3720140308",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9062037,
+          34.6671283
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3720140308,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Oujda American Corner",
+        "tags": {
+          "addr:city": "Oujda",
+          "addr:housenumber": "45",
+          "addr:street": "Boulevard Mohammed VI",
+          "amenity": "library",
+          "name": "Oujda American Corner",
+          "phone": "+212 536503594",
+          "website": "https://www.facebook.com/OujdaAmericanCorner"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3741529152",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.24973,
+          32.2554013
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3741529152,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3810172263",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.2644964,
+          35.1750115
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3810172263,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Ecomusée du parc national Talassemtane",
+        "tags": {
+          "name": "Ecomusée du parc national Talassemtane",
+          "name:fr": "Ecomusée du parc national Talassemtane",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3814410791",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.847928,
+          33.9949455
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3814410791,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "The Book Centre",
+        "tags": {
+          "addr:city": "Rabat",
+          "addr:housenumber": "37",
+          "addr:postcode": "10080",
+          "addr:street": "Rue Jabal El Ayachi",
+          "amenity": "library",
+          "name": "The Book Centre",
+          "opening_hours": "08:30 - 16:30",
+          "operator": "The Book Centre, SARL",
+          "phone": "+212 537 672 127"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3861737095",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5967946,
+          30.4250569
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3861737095,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliotheque municipale",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliotheque municipale"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3861737096",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5817339,
+          30.42854
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3861737096,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3861737097",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5685375,
+          30.4230933
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3861737097,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3861737098",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5686072,
+          30.4126477
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3861737098,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3861737099",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5511096,
+          30.4070009
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3861737099,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Complexe culturel Mohamed Jamal Addorra",
+        "tags": {
+          "amenity": "library",
+          "name": "Complexe culturel Mohamed Jamal Addorra"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3945689601",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8210962,
+          34.0156407
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3945689601,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Institut italien المعهد الإيطالي",
+        "tags": {
+          "addr:city": "الرباط",
+          "addr:city:ar": "الرباط",
+          "amenity": "library",
+          "name": "Institut italien المعهد الإيطالي",
+          "name:ar": "المعهد الإيطالي",
+          "name:fr": "Institut italien"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4004738763",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5346713,
+          30.3531509
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4004738763,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4005981742",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8236546,
+          34.0346892
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4005981742,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Sbihi",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Sbihi"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4026742697",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3638334,
+          35.570332
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4026742697,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée d’Art Marocain",
+        "tags": {
+          "name": "Musée d’Art Marocain",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4193622609",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6741016,
+          33.5735723
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4193622609,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "bibliothèque hay hassani",
+        "tags": {
+          "addr:street": "Rue sidi-lkhadir",
+          "amenity": "library",
+          "name": "bibliothèque hay hassani",
+          "opening_hours": "Mo-Sa 09:00-19:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4232655000",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5651991,
+          31.9643312
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4232655000,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "addr:city": "azilal",
+          "addr:street": "avenue hassan II",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4337469280",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5961391,
+          33.8893583
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4337469280,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Médiathèque de Toulal",
+        "tags": {
+          "addr:city": "Meknès مكناس",
+          "addr:street": "Quartier administratif Toulal",
+          "amenity": "library",
+          "name": "Médiathèque de Toulal"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4376163229",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9101205,
+          34.6830581
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4376163229,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Dar Ibn Al Farid مكتبة دار ابن الفارض",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Dar Ibn Al Farid مكتبة دار ابن الفارض",
+          "name:ar": "مكتبة دار ابن الفارض",
+          "name:fr": "Bibliothèque Dar Ibn Al Farid"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4419354394",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2310496,
+          32.1143354
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4419354394,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "addr:city": "Figuig ⵉⴼⵉⵢⵢⵉⵢ فكيك",
+          "addr:city:ar": "فكيك",
+          "addr:city:es": "Figuig",
+          "addr:street": "شارع الحسن الثاني",
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4508843426",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2284951,
+          32.1146034
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4508843426,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Dar Al Ouaada دار الواعدة",
+        "tags": {
+          "amenity": "library",
+          "name": "Dar Al Ouaada دار الواعدة",
+          "name:ar": "دار الواعدة",
+          "name:fr": "Dar Al Ouaada"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4553052133",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7251636,
+          34.1394503
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4553052133,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Dar Belghazi",
+        "tags": {
+          "name": "Musée Dar Belghazi",
+          "phone": "+212 612 801948",
+          "tourism": "museum",
+          "wikidata": "Q3330559",
+          "wikimedia_commons": "Category:Dar Belghazi Museum",
+          "wikipedia": "ar:متحف دار بلغازي"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4595267208",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9865567,
+          31.6321829
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4595267208,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Dar Bellarj دار بلارج",
+        "tags": {
+          "addr:postcode": "40030",
+          "addr:street": "Derb Zaouia Lahdar",
+          "check_date": "2026-06-11",
+          "fee": "no",
+          "level": "0",
+          "name": "Dar Bellarj دار بلارج",
+          "name:ar": "دار بلارج",
+          "opening_hours": "Mo-Sa 09:00-17:30",
+          "toilets:wheelchair": "yes",
+          "tourism": "museum",
+          "website": "https://www.darbellarj-fondation.com/",
+          "wheelchair": "limited",
+          "wikidata": "Q123262808"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4595271890",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9887794,
+          31.6293595
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4595271890,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de la Musique",
+        "tags": {
+          "addr:city": "Marrakech ⵎⵕⵕⴰⴽⵯⵛ مراكش",
+          "addr:housenumber": "5",
+          "addr:postcode": "40000",
+          "addr:street": "Derb Hammam",
+          "alt_name:en": "Mouassine Museum",
+          "alt_name:fr": "Musée de Mouassine",
+          "contact:instagram": "museedelamusique_marrakech",
+          "email": "museedelamusique@gmail.com",
+          "fee": "yes",
+          "internet_access": "wlan",
+          "museum": "music",
+          "name": "Musée de la Musique",
+          "name:ar": "متحف المواسين",
+          "name:en": "Museum of Music",
+          "opening_hours": "Mo-Su 10:00-19:00",
+          "phone": "+212 7 77 76 77 46",
+          "tourism": "museum",
+          "website": "https://museedelamusique.ma/",
+          "wikidata": "Q96394004",
+          "wikipedia": "en:Mouassine Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4607803147",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.572454,
+          30.3784915
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4607803147,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "La Médina d'Agadir",
+        "tags": {
+          "name": "La Médina d'Agadir",
+          "phone": "+212 6 66 33 88 59",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4664200994",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8052131,
+          35.7770661
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4664200994,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "معرض الكتاب",
+        "tags": {
+          "amenity": "library",
+          "name": "معرض الكتاب",
+          "name:ar": "معرض الكتاب",
+          "name:en": "Book store"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4711874392",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.9969059,
+          34.0454475
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4711874392,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque darbahit مكتبة دار الباحث",
+        "tags": {
+          "addr:city": "Fès",
+          "addr:city:ar": "فاس",
+          "addr:city:es": "Fez",
+          "addr:city:fr": "Fès",
+          "addr:district": "Fès",
+          "addr:district:ar": "فاس",
+          "addr:district:es": "Fez",
+          "addr:district:fr": "Fès",
+          "addr:street": "Avenue Moulay Youssef",
+          "amenity": "library",
+          "name": "Bibliothèque darbahit مكتبة دار الباحث",
+          "name:ar": "مكتبة دار الباحث",
+          "name:fr": "Bibliothèque darbahit"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4737899923",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.9967875,
+          34.0411404
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4737899923,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Printpo",
+        "tags": {
+          "addr:street": "Rue Med Daoudi",
+          "amenity": "library",
+          "name": "Printpo",
+          "phone": "+212 5 35 62 54 59"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4748616325",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.9997943,
+          34.0387634
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4748616325,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Imprimerie karaouyine",
+        "tags": {
+          "amenity": "library",
+          "name": "Imprimerie karaouyine"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4755616121",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8148827,
+          35.7886253
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4755616121,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "name:en": "Bab Kasbah",
+          "name:zh": "摩洛哥艺术博物馆",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4764665447",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5534244,
+          34.0714408
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4764665447,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée",
+        "tags": {
+          "name": "Musée",
+          "name:en": "Volubilis Museum",
+          "name:fr": "Musée",
+          "name:zh": "瓦鲁比利斯遗址",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4776692621",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0098041,
+          34.0386772
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4776692621,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Meryem",
+        "tags": {
+          "addr:city": "Fès",
+          "addr:city:ar": "فاس",
+          "addr:city:es": "Fez",
+          "addr:city:fr": "Fès",
+          "addr:district": "Fès",
+          "addr:district:ar": "فاس",
+          "addr:district:es": "Fez",
+          "addr:district:fr": "Fès",
+          "name": "Musée Meryem",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4778457505",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7787547,
+          31.3578068
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4778457505,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Ecomuseé Berbere",
+        "tags": {
+          "addr:city": "Tafza",
+          "name": "Ecomuseé Berbere",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4820543922",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.9985216,
+          34.0447879
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4820543922,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Institut français",
+        "tags": {
+          "amenity": "library",
+          "name": "Institut français",
+          "name:fr": "Institut français",
+          "phone": "+212 5 35 62 41 49"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4832628621",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.9993764,
+          34.0368381
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4832628621,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Imprimerie bouzoubaa",
+        "tags": {
+          "amenity": "library",
+          "name": "Imprimerie bouzoubaa"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4869437238",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5495697,
+          33.893689
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4869437238,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "bibliothèque Med Manouni",
+        "tags": {
+          "amenity": "library",
+          "name": "bibliothèque Med Manouni"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4923011521",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5072963,
+          33.5286456
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4923011521,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mosquée Alansar Alhraouoyninr nouvelle 180617",
+        "tags": {
+          "amenity": "library",
+          "name": "Mosquée Alansar Alhraouoyninr nouvelle 180617",
+          "name:fr": "Mosquée Alansar Alhraouoyninr nouvelle 180617"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4925278169",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.9763836,
+          34.0638892
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4925278169,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Dar Belghazi",
+        "tags": {
+          "addr:city": "Fez",
+          "name": "Musée Dar Belghazi",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4942300537",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.942976,
+          29.7647696
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4942300537,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Maison Traditionnelle",
+        "tags": {
+          "addr:city": "Oumnenat",
+          "name": "Maison Traditionnelle",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4942972241",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9869033,
+          29.70982
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4942972241,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Maison Traditionelle",
+        "tags": {
+          "name": "Maison Traditionelle",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4942972274",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9788947,
+          29.7172763
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4942972274,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museum of Resistance",
+        "tags": {
+          "name": "Museum of Resistance",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4975972954",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8946829,
+          33.9553595
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4975972954,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5003555839",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0165426,
+          34.2086789
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5003555839,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Espace Educatif Culturel Et Museal De La Resistance Et De L'Armée De Liberation De Taza",
+        "tags": {
+          "name": "Espace Educatif Culturel Et Museal De La Resistance Et De L'Armée De Liberation De Taza",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5045437321",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0185802,
+          34.0191424
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5045437321,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "addr:city": "Fés",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5177903822",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3491124,
+          34.9169723
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5177903822,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5199923721",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.9728804,
+          34.0147218
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5199923721,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque rebai",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque rebai"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5210546025",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7960168,
+          34.0759137
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5210546025,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "دار نادية سلا",
+        "tags": {
+          "name": "دار نادية سلا",
+          "name:ar": "دار نادية سلا",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5210546026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3487925,
+          34.9145619
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5210546026,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "D1",
+        "tags": {
+          "name": "D1",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5215988724",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.981518,
+          34.0166809
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5215988724,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque +tabac",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque +tabac"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5243475422",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.9642217,
+          28.9464836
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5243475422,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musee mémoire des nomades",
+        "tags": {
+          "addr:postcode": "81000",
+          "email": "jamilabdou@live.fr",
+          "name": "Musee mémoire des nomades",
+          "phone": "+212 6 62 19 37 73",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5252038338",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.9704031,
+          34.0140103
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5252038338,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Nakhil",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Nakhil"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5292072075",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.9248294,
+          27.9438836
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5292072075,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Antoine de Saint Exupéry متحف أنطوان دو سانت إكزوبيري",
+        "tags": {
+          "name": "Musée Antoine de Saint Exupéry متحف أنطوان دو سانت إكزوبيري",
+          "name:ar": "متحف أنطوان دو سانت إكزوبيري",
+          "name:en": "Antoine de Saint-Exupéry Museum",
+          "name:fr": "Musée Antoine de Saint Exupéry",
+          "tourism": "museum",
+          "wikidata": "Q20971131",
+          "wikimedia_commons": "Category:Antoine de Saint-Exupéry Museum",
+          "wikipedia": "ar:متحف أنطوان دو سانت إكزوبيري"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5315114327",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.942177,
+          23.6890768
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5315114327,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "El Massira",
+        "tags": {
+          "amenity": "library",
+          "name": "El Massira"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5320722221",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6543493,
+          29.8305349
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5320722221,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musee Maison Traditionel متحف البيت التقليدي",
+        "tags": {
+          "name": "Musee Maison Traditionel متحف البيت التقليدي",
+          "name:ar": "متحف البيت التقليدي",
+          "name:fr": "Musee Maison Traditionel",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5361829024",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9141962,
+          30.9212871
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5361829024,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Médiathèque Ouarzazate",
+        "tags": {
+          "amenity": "library",
+          "name": "Médiathèque Ouarzazate"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5361829027",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5810826,
+          31.0338072
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5361829027,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Kasbah Museum",
+        "tags": {
+          "name": "Kasbah Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5365982121",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9823034,
+          31.6200729
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5365982121,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Synagogue Laazama",
+        "tags": {
+          "alt_name": "Synagogue Laazama",
+          "amenity": "place_of_worship",
+          "fee": "yes",
+          "name": "Synagogue Laazama",
+          "name:en": "Synagogue Salat Al-Azama",
+          "religion": "jewish",
+          "tourism": "museum",
+          "wikidata": "Q3508008"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5392827321",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0504855,
+          34.0164983
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5392827321,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5422227023",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0551568,
+          34.016679
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5422227023,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "addr:city": "Fès",
+          "addr:city:ar": "فاس",
+          "addr:city:es": "Fez",
+          "addr:city:fr": "Fès",
+          "addr:district": "Fès",
+          "addr:district:ar": "فاس",
+          "addr:district:es": "Fez",
+          "addr:district:fr": "Fès",
+          "amenity": "library",
+          "name": "Bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5422318021",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0538928,
+          34.0168954
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5422318021,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5426504321",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0520331,
+          34.0153553
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5426504321,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque chaymae",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque chaymae"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5467860621",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.1676252,
+          31.1157196
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5467860621,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "check_date": "2026-05-15",
+          "contact:facebook": "people/Ihmadi-Trilobites-Center/100054494829373",
+          "contact:instagram": "ihmadi_trilobites_center",
+          "email": "alnifearth@gmail.com",
+          "name:en": "Ihmadi Trilobites Center",
+          "operator": "Mohand Ihmadi",
+          "tourism": "museum",
+          "website": "https://ihmadi.com"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5476241921",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6304794,
+          33.6055002
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5476241921,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "air_conditioning": "yes",
+          "fee": "yes",
+          "name:de": "Hassan II Moschee Museum",
+          "name:en": "Hassan II Mosque Museum",
+          "name:fr": "museum & Billet",
+          "name:ru": "Музей мечети Хасана II",
+          "operator": "Fondation Hassan II",
+          "toilets": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5480252121",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.057947,
+          33.996671
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5480252121,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5515551037",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.9913328,
+          34.0525111
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5515551037,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "addr:city": "92 BAB JIAF FES JDID",
+          "checked": "w2g",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5646591481",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5677796,
+          32.859417
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5646591481,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5720177815",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0007264,
+          34.0379144
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5720177815,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "L'institut espagnol",
+        "tags": {
+          "addr:city": "5 rue douiat résidence walili",
+          "amenity": "library",
+          "name": "L'institut espagnol",
+          "phone": "+212 5 35 73 20 04"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5744334021",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9923528,
+          31.6313866
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5744334021,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Dar El Bacha\n دار الباشا",
+        "tags": {
+          "fee": "yes",
+          "name": "Musée Dar El Bacha\n دار الباشا",
+          "name:ar": "دار الباشا",
+          "name:en": "Dar El Bacha Museum",
+          "name:fr": "Musée Dar El Bacha",
+          "opening_hours": "Tu-Su 10:00-18:00",
+          "tourism": "museum",
+          "website": "https://darbacha.com/",
+          "wikidata": "Q59956159",
+          "wikimedia_commons": "Category:Dar el Bacha",
+          "wikipedia": "ar:دار الباشا"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5750227635",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0300995,
+          34.040026
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5750227635,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque al ichraq",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque al ichraq"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5773951529",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7832717,
+          34.0624702
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5773951529,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothéque Al Madina",
+        "tags": {
+          "addr:street": "Avenue D",
+          "amenity": "library",
+          "name": "Bibliothéque Al Madina",
+          "source": "Kaart Ground Survey 2018"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5782839881",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.85017,
+          34.0021966
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5782839881,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Librairie Internationale",
+        "tags": {
+          "addr:street": "Rue Melouya",
+          "amenity": "library",
+          "name": "Librairie Internationale",
+          "source": "Kaart Ground Survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5784934197",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8482209,
+          33.9974547
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5784934197,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Librairie Papeterie De l'agdal",
+        "tags": {
+          "addr:street": "Avenue de France",
+          "amenity": "library",
+          "name": "Librairie Papeterie De l'agdal",
+          "source": "Kaart Ground Survey 2018"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5881415915",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5644245,
+          33.8938005
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5881415915,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "maktabat alsalam aljadida مكتبة السلام الجديدة",
+        "tags": {
+          "amenity": "library",
+          "name": "maktabat alsalam aljadida مكتبة السلام الجديدة",
+          "name:ar": "مكتبة السلام الجديدة",
+          "name:fr": "maktabat alsalam aljadida"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5885873690",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0432007,
+          34.0288322
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5885873690,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "ttttt",
+        "tags": {
+          "amenity": "library",
+          "name": "ttttt"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5926848085",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9324576,
+          30.5347556
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5926848085,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة محند ابراهيم",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة محند ابراهيم",
+          "name:ar": "مكتبة محند ابراهيم"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6103837616",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8769641,
+          30.5499289
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6103837616,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Claudio Bravo",
+        "tags": {
+          "name": "Musée Claudio Bravo",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6248011574",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5838197,
+          34.2440876
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6248011574,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliotheque Universitaire",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliotheque Universitaire"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6330307085",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.681862,
+          30.2609875
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6330307085,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Naciria",
+        "tags": {
+          "addr:postcode": "45600",
+          "addr:street": "laagba",
+          "amenity": "library",
+          "name": "Naciria",
+          "name:fr": "Arab"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6385781490",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8830807,
+          30.4731535
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6385781490,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة عمومية",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة عمومية",
+          "name:ar": "مكتبة عمومية",
+          "name:en": "Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6389240197",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0141442,
+          31.6347084
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6389240197,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "MACMA - Musée de l'art et la culture de Marrakech",
+        "tags": {
+          "addr:housenumber": "61",
+          "addr:street": "Rue Yougoslavie",
+          "name": "MACMA - Musée de l'art et la culture de Marrakech",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6392031085",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3587541,
+          35.5794557
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6392031085,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "وفاء اسم على مسمى",
+        "tags": {
+          "name": "وفاء اسم على مسمى",
+          "name:ar": "وفاء اسم على مسمى",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6437103285",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9499136,
+          31.6000669
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6437103285,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "addr:postcode": "40000",
+          "addr:street": "Al Maaden, Sidi Youssef Ben Ali",
+          "email": "info@macaal.org",
+          "name:en": "Museum of African Contemporary Art Al Maaden (MACAAL)",
+          "name:fr": "Musée d’Art Contemporain Africain Al Maaden (MACAAL)",
+          "opening_hours": "Tu-Su 10:00-18:00",
+          "phone": "+212 6 76 92 44 92",
+          "tourism": "museum",
+          "website": "https://macaal.org/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6533994152",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5653514,
+          33.8948654
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6533994152,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6551586986",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.7714132,
+          31.5139044
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6551586986,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "name:en": "Sidi Mohamed ben Abdellah",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6559823190",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8206224,
+          35.7801653
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6559823190,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Instituto Cervantes / Biblioteca Juan Goytisolo",
+        "tags": {
+          "access": "yes",
+          "addr:city": "Tanger طنجة",
+          "addr:housenumber": "99",
+          "addr:postcode": "90000",
+          "addr:street": "Avenue Sidi Mohamed Ben Abdellah",
+          "amenity": "library",
+          "description": "Centro Cultural Español. Gobierno de España",
+          "email": "centan@cervantes.es",
+          "fax": "+212 539 94 76 30",
+          "internet_access": "wlan",
+          "name": "Instituto Cervantes / Biblioteca Juan Goytisolo",
+          "opening_hours": "Mo-Su 08:00-21:00",
+          "payment:cash": "yes",
+          "payment:contactless": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "payment:visa_electron": "yes",
+          "phone": "+212 539 93 20 01",
+          "start_date": "1991-04-21",
+          "website": "https://tanger.cervantes.es/es/default.shtm",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6657904367",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8123164,
+          35.788483
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6657904367,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Espace d’art contemporain",
+        "tags": {
+          "air_conditioning": "yes",
+          "charge": "30 MAD",
+          "fee": "yes",
+          "museum": "art",
+          "name": "Espace d’art contemporain",
+          "name:es": "Espacio de Arte Contemporario",
+          "name:fr": "Espace d’art contemporain",
+          "operator": "Fondation Nationale des Musées",
+          "toilets": "yes",
+          "tourism": "museum",
+          "wheelchair": "limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6913357586",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0137539,
+          31.6341474
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6913357586,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "name:en": "CM Art Gallery",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6958773386",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9047427,
+          31.6478339
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6958773386,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "name:en": "Foundation Montresso - Jardim Rouge",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6980909285",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9842542,
+          31.6215749
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6980909285,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Dar Zniber",
+        "tags": {
+          "addr:city": "Marrakech",
+          "addr:housename": "Palais Dar Zniber",
+          "addr:postcode": "40040",
+          "addr:street": "Rue Riad Zitoun El Jedid",
+          "museum": "history",
+          "name": "Dar Zniber",
+          "name:ar": "دار زنيبر",
+          "name:ary": "رياض دار زنيبر",
+          "name:fr": "Palais Dar Zniber",
+          "operator": "État marocain",
+          "operator:type": "government",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7090641785",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8979563,
+          30.9194524
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7090641785,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "contact:facebook": "https://www.facebook.com/theoldsynagogue/",
+          "fixme": "Please check position (does not match with the one given by operator)",
+          "image": "File:SynagogueOuarzazate1.jpg",
+          "name:en": "The old Synagogue",
+          "name:he": "בית כנסת",
+          "tourism": "museum",
+          "website": "https://the-old-synagogue.business.site",
+          "wikidata": "Q103826502",
+          "wikimedia_commons": "Category:Bet Knesset Synagogue"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7223529988",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7983135,
+          31.371332
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7223529988,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Woven History Museum",
+        "tags": {
+          "name": "Woven History Museum",
+          "name:fr": "Musée de l'histoire tissée",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7263713587",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3678857,
+          35.5715688
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7263713587,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "name:en": "Museum of Religious Heritage",
+          "opening_hours": "Mo-Su 09:00-18:00 off renovation",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7264390385",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.2617255,
+          35.1688394
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7264390385,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "name:en": "Ethnographic Museum of Chefchaouen",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7272121086",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8126395,
+          35.7826245
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7272121086,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Centre Culturel Ibn Khaldoune",
+        "tags": {
+          "name": "Centre Culturel Ibn Khaldoune",
+          "name:en": "Ibn Khaldoun Cultural Centre",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7275590090",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8126923,
+          35.7815566
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7275590090,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "addr:housenumber": "86",
+          "addr:postcode": "90000",
+          "addr:street": "Rue de la Liberté شارع الحرية",
+          "check_date": "2026-05-07",
+          "check_date:opening_hours": "2026-05-07",
+          "name:en": "Gallérie Delacroix",
+          "opening_hours": "Tu-Su 10:00-13:00, 14:30-19:00",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7282188285",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6226155,
+          33.5924023
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7282188285,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de la Fondation Abderrahman slaoui",
+        "tags": {
+          "name": "Musée de la Fondation Abderrahman slaoui",
+          "name:fr": "Musée de la Fondation Abderrahman Slaoui",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7282566792",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.030191,
+          35.4652062
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7282566792,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "name:en": "Musée d’Asilah (en construction)",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7294853190",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3628782,
+          35.5704481
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7294853190,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7847594585",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5856968,
+          32.861706
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7847594585,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "مسجد الرحمه",
+        "tags": {
+          "name": "مسجد الرحمه",
+          "name:ar": "مسجد الرحمه",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8044157661",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8430436,
+          34.0204669
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8044157661,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Librairie Dakhair Al Maghreb",
+        "tags": {
+          "amenity": "library",
+          "name": "Librairie Dakhair Al Maghreb",
+          "name:ar": "مكتبة دخائر المغرب"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8213844927",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.1068752,
+          28.4386767
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8213844927,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "الخزانة الوسائطية طانطان",
+        "tags": {
+          "amenity": "library",
+          "internet_access": "wlan",
+          "name": "الخزانة الوسائطية طانطان",
+          "name:fr": "Centre Bibliothèque Tantan",
+          "opening_hours": "Mo-Fr 08:30-16:30"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8851322561",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8125405,
+          35.788326
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8851322561,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée des cultures méditerranéennes",
+        "tags": {
+          "air_conditioning": "yes",
+          "alt_name": "Kasbah Museum",
+          "check_date": "2026-05-07",
+          "fee": "yes",
+          "museum": "history",
+          "name": "Musée des cultures méditerranéennes",
+          "name:de": "Museum der Mediterranen Kulturen",
+          "name:es": "Museo de las culturas mediterraneas",
+          "name:fr": "Musée des cultures méditerranéennes",
+          "opening_hours": "We-Su 10:00-18:00; Mo 10:00-18:00",
+          "operator": "Fondation Nationale des Musées",
+          "phone": "+212 539 334481",
+          "tourism": "museum",
+          "wheelchair": "limited",
+          "wikidata": "Q3330628"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9329475118",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0121163,
+          31.0720154
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9329475118,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف السيارات العتيقة مرزوكة",
+        "tags": {
+          "name": "متحف السيارات العتيقة مرزوكة",
+          "name:en": "Morocco National 4x4 Auto Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9453238715",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9440649,
+          34.5777496
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9453238715,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque de Rehali",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque de Rehali",
+          "name:ar": "مكتبة الرحالي",
+          "name:ary": "مكتبة الرحالي",
+          "name:fr": "Bibliothèque de Rehali"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9762159832",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8932779,
+          35.7345172
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9762159832,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Allo maktaba",
+        "tags": {
+          "addr:city": "Tanger",
+          "addr:postcode": "90000",
+          "addr:street": "Boukhalef",
+          "amenity": "library",
+          "name": "Allo maktaba",
+          "name:ar": "مكتبة ألو"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10090635574",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8322073,
+          34.0426731
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10090635574,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museum of Ceramics",
+        "tags": {
+          "fee": "yes",
+          "name": "Museum of Ceramics",
+          "name:fr": "Musée de la céramique",
+          "start_date": "1994",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10290615909",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8354982,
+          34.0265096
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10290615909,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Poupées du Monde",
+        "tags": {
+          "addr:city": "Rabat",
+          "addr:city:ar": "الرباط",
+          "addr:city:fr": "Rabat",
+          "addr:street": "Rue Boukroune زنقة بوقرون",
+          "name": "Poupées du Monde",
+          "name:fr": "Poupées du Monde",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10574576041",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8754439,
+          35.7398232
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10574576041,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة اقرأ",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة اقرأ"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10574982841",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8510319,
+          34.0249417
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10574982841,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée national de la photographie",
+        "tags": {
+          "fee": "yes",
+          "name": "Musée national de la photographie",
+          "name:es": "Museo Nacional de Fotografía",
+          "name:fr": "Musée national de la photographie",
+          "tourism": "museum",
+          "wikipedia": "en:National Photography Museum (Morocco)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10753744016",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.717459,
+          32.435607
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10753744016,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "La Bibliothèque Al Ayachia",
+        "tags": {
+          "amenity": "library",
+          "name": "La Bibliothèque Al Ayachia",
+          "name:ar": "الخزانة العياشية",
+          "tourism": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11055502940",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8387658,
+          34.0062816
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11055502940,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Muséum National d'Histoire Naturelle - Institut Scientifique",
+        "tags": {
+          "addr:city": "Rabat ⵔⴱⴰⵟ الرباط",
+          "addr:street": "Avenue Ibn Batouta شارع ابن بطوطة",
+          "museum": "history",
+          "name": "Muséum National d'Histoire Naturelle - Institut Scientifique",
+          "name:fr": "Muséum National d'Histoire Naturelle - Institut Scientifique",
+          "opening_hours": "Mo-Fr 09:00-15:45",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11055502941",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8388251,
+          34.0061164
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11055502941,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée des Instruments de Géophysique et de Météorologie du Maroc",
+        "tags": {
+          "addr:city": "Rabat ⵔⴱⴰⵟ الرباط",
+          "addr:street": "Avenue Ibn Batouta شارع ابن بطوطة",
+          "museum": "history",
+          "name": "Musée des Instruments de Géophysique et de Météorologie du Maroc",
+          "name:fr": "Musée des Instruments de Géophysique et de Météorologie du Maroc",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11126527605",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6888171,
+          33.5672535
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11126527605,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11176287490",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3661488,
+          32.5445552
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11176287490,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Nour Library ⵜⴰⵙⴷⴷⵍⵉⵙⵜ ⵏ ⵏⵓⵕ ورقية نور",
+        "tags": {
+          "amenity": "library",
+          "name": "Nour Library ⵜⴰⵙⴷⴷⵍⵉⵙⵜ ⵏ ⵏⵓⵕ ورقية نور"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11176319460",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3650766,
+          32.5426545
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11176319460,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Library ⵜⴰⵙⴷⵍⵉⵙⵜ ورقية",
+        "tags": {
+          "amenity": "library",
+          "name": "Library ⵜⴰⵙⴷⵍⵉⵙⵜ ورقية"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11187377086",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3439058,
+          32.3484093
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11187377086,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11216925204",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6658249,
+          33.5606308
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11216925204,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف الطيران",
+        "tags": {
+          "name": "متحف الطيران",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11367381054",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.299354,
+          33.4692501
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11367381054,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Municipal library - المكتبة البلدية",
+        "tags": {
+          "access": "yes",
+          "addr:city": "Imouzzer Marmoucha إموزار مرموشة",
+          "addr:postcode": "33152",
+          "addr:street": "Imouzzer Marmoucha city",
+          "amenity": "library",
+          "internet_access": "no",
+          "name": "Municipal library - المكتبة البلدية",
+          "opening_hours": "Mo-Fr 09:00-17:00",
+          "operator": "Imouzzer Marmoucha Municipality",
+          "operator:type": "public"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11390095361",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5595711,
+          34.2536618
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11390095361,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "الخزانة الوسائطية علال الفاسي",
+        "tags": {
+          "addr:city": "Kénitra",
+          "addr:housenumber": "الخزانة الوسائطية علال الفاسي",
+          "addr:postcode": "14000",
+          "addr:street": "Avenue Al Massira",
+          "amenity": "library",
+          "name": "الخزانة الوسائطية علال الفاسي",
+          "opening_hours": "Mo-Fr 09:00-17:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11404290267",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5869626,
+          34.2463739
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11404290267,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliotheque Universitaire",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliotheque Universitaire"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11449375969",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9879731,
+          31.6186692
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11449375969,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Monde des Arts de la Parure (MAP)",
+        "tags": {
+          "addr:housenumber": "39-40",
+          "addr:postcode": "40040",
+          "addr:street": "Rue Touareg Ksibat Nhas",
+          "contact:instagram": "lemapmarrakech",
+          "internet_access": "wlan",
+          "name": "Monde des Arts de la Parure (MAP)",
+          "opening_hours": "Tu-Su 10:00-17:30",
+          "phone": "+212 8 08 65 85 61",
+          "toilets:wheelchair": "yes",
+          "tourism": "museum",
+          "website": "https://www.lemapmarrakech.com/",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11525018649",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2928792,
+          33.4727064
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11525018649,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museum - فضاء الذاكرة التاريخية إيموزار مرموشة",
+        "tags": {
+          "addr:city": "Imouzzer Marmoucha ⵉⵎⵓⵣⵣⴰⵔ ⵎⵕⵎⵓⵛⴰ إموزار مرموشة",
+          "museum": "history",
+          "name": "Museum - فضاء الذاكرة التاريخية إيموزار مرموشة",
+          "opening_hours": "Mo-Fr 09:00-17:00",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11891557531",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6197781,
+          33.6064993
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11891557531,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Attarik Foundation",
+        "tags": {
+          "name": "Attarik Foundation",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11940269969",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0117245,
+          31.6361667
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11940269969,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Galerie Sinya 28",
+        "tags": {
+          "name": "Galerie Sinya 28",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12170367601",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8245664,
+          34.0379142
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12170367601,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "name:fr": "Musée Belghazi des instruments de musique à Dar El Qadi",
+          "outdoor_seating": "no",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12184723205",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7639325,
+          35.7827429
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12184723205,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Villa Harris Museum",
+        "tags": {
+          "museum": "art",
+          "name": "Villa Harris Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12184816838",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.809278,
+          35.7871133
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12184816838,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "museum": "history",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12511002107",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.9316977,
+          27.9339803
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12511002107,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12571349606",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5854521,
+          33.2827976
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12571349606,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12915342601",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6646588,
+          33.5964674
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12915342601,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Fondation du Roi Abdul-Aziz Al Saoud pour les Études Islamiques et les Sciences Humaines مؤسسة الملك عبد العزيز آل سعود للدراسات الإسلامية والعلوم الإنسانية",
+        "tags": {
+          "addr:street": "Rue le Corail",
+          "amenity": "library",
+          "check_date": "2026-04-10",
+          "email": "secretariat@fondation.org.ma",
+          "name": "Fondation du Roi Abdul-Aziz Al Saoud pour les Études Islamiques et les Sciences Humaines مؤسسة الملك عبد العزيز آل سعود للدراسات الإسلامية والعلوم الإنسانية",
+          "name:ar": "مؤسسة الملك عبد العزيز آل سعود للدراسات الإسلامية والعلوم الإنسانية",
+          "name:en": "King Abdul-Aziz Al Saoud Foundation for Islamic Studies and Human Sciences",
+          "name:fr": "Fondation du Roi Abdul-Aziz Al Saoud pour les Études Islamiques et les Sciences Humaines",
+          "phone": "+212 5 22 39 10 27",
+          "website": "http://www.fondation.org.ma/",
+          "wikidata": "Q42342908",
+          "wikipedia": "ar:مؤسسة الملك عبد العزيز آل سعود (الدار البيضاء)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12927918805",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6389843,
+          33.5522554
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12927918805,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée du Judaïsme marocain متحف التراث اليهودي المغربي",
+        "tags": {
+          "addr:housenumber": "81",
+          "addr:street": "Rue du Chasseur Jules Gros",
+          "check_date": "2025-06-20",
+          "fax": "+212 5 22 99 49 41",
+          "name": "Musée du Judaïsme marocain متحف التراث اليهودي المغربي",
+          "name:ar": "متحف التراث اليهودي المغربي",
+          "name:en": "Moroccan Jewish Museum",
+          "name:fr": "Musée du Judaïsme marocain",
+          "name:he": "מוזיאון יהדות מרוקו",
+          "opening_hours": "Mo-Th 10:00-17:00; Fr 10:00-15:00; Su 11:00-16:00",
+          "operator": "Fondation du Patrimoine Culturel Judéo-Marocain",
+          "phone": "+212 5 22 99 49 40",
+          "start_date": "1997",
+          "tourism": "museum",
+          "website": "https://www.jewishmuseumcasa.com/",
+          "wikidata": "Q593909",
+          "wikimedia_commons": "Category:Moroccan Jewish Museum",
+          "wikipedia": "en:Moroccan Jewish Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12943493609",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3788617,
+          35.5707
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12943493609,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13175216201",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8111539,
+          35.7852836
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13175216201,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée des artistes voyageurs",
+        "tags": {
+          "addr:housenumber": "41",
+          "addr:postcode": "90000",
+          "addr:street": "Rue Siaghine",
+          "alt_name": "Musée Dar Niaba",
+          "check_date": "2026-05-07",
+          "check_date:opening_hours": "2026-05-07",
+          "name": "Musée des artistes voyageurs",
+          "opening_hours": "Tu-Su 10:00-18:00",
+          "phone": "+212 530 676081",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13190098601",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3660941,
+          35.5706879
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13190098601,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Dar El Oddi",
+        "tags": {
+          "name": "Dar El Oddi",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13327106801",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.215782,
+          29.1161295
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13327106801,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Ait Illoul, Zerzm Museum für Fossilien",
+        "tags": {
+          "name": "Ait Illoul, Zerzm Museum für Fossilien",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13374374557",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.821335,
+          34.0225258
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13374374557,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Mausolée Mohammed V ضريح محمد الخامس",
+        "tags": {
+          "check_date": "2026-08-03",
+          "check_date:opening_hours": "2026-08-03",
+          "name": "Mausolée Mohammed V ضريح محمد الخامس",
+          "name:ar": "ضريح محمد الخامس",
+          "name:en": "Mausoleum of Mohammed V",
+          "name:fr": "Mausolée Mohammed V",
+          "name:zh": "穆罕默德五世陵墓",
+          "opening_hours": "Mo-Th 08:00-18:00; Fr 08:00-13:20, 14:25-18:00; Sa-Su 08:15-17:45",
+          "tourism": "museum",
+          "wikidata": "Q193874",
+          "wikipedia": "ar:محمد الخامس بن يوسف"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13382976780",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6001044,
+          33.2674446
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13382976780,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة أمنية",
+        "tags": {
+          "amenity": "library",
+          "contact:phone": "+212 6 90 14 04 40",
+          "name": "مكتبة أمنية"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13438129060",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.6551752,
+          30.4443476
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13438129060,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de Géologie",
+        "tags": {
+          "addr:city": "Agadir ⴰⴳⴰⴷⵉⵔ أكادير",
+          "addr:street": "Anza",
+          "historic": "yes",
+          "museum": "archaeological",
+          "name": "Musée de Géologie",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13442430801",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.6550609,
+          30.0575212
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13442430801,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "L‘Eco Musee Souss-Massa National Park",
+        "tags": {
+          "name": "L‘Eco Musee Souss-Massa National Park",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13542841524",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1441103,
+          31.2870455
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13542841524,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13630526273",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8328811,
+          34.0152309
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13630526273,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "متحف محمد السادس للفن الحديث والمعاصر",
+        "tags": {
+          "addr:city": "Rabat ⵕⵕⴱⴰⵟ الرباط",
+          "addr:housenumber": "2",
+          "addr:street": "Avenue Moulay Al Hassan شارع مولاي الحسن",
+          "museum": "art",
+          "name": "متحف محمد السادس للفن الحديث والمعاصر",
+          "name:ar": "متحف محمد السادس للفن الحديث والمعاصر",
+          "name:de": "Museum Mohamed VI. für Moderne und Zeitgenössische Kunst",
+          "name:en": "Mohammed VI Museum of Modern and Contemporary Art",
+          "name:fr": "Musée Mohammed VI d'art moderne et contemporain",
+          "opening_hours": "We-Mo 10:00-18:00",
+          "tourism": "museum",
+          "website": "https://fnm.ma/musees-ouverts/musee-mohammed-vi-dart-moderne-et-contemporain/",
+          "wikidata": "Q20726223",
+          "wikimedia_commons": "Category:Mohammed VI Museum of Modern and Contemporary Art",
+          "wikipedia": "ar:متحف محمد السادس للفن الحديث والمعاصر (الرباط)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14174114702",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6149208,
+          34.2688311
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 14174114702,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة الفتح الحوزية",
+        "tags": {
+          "amenity": "library",
+          "name": "مكتبة الفتح الحوزية"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14182624688",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8248088,
+          34.0346768
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 14182624688,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "name:fr": "Bibliothèque Abderrahman Hajji"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14265336730",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8817546,
+          33.9802526
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 14265336730,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42354863",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8315885,
+          34.0137649
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 42354863,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée d'Histoire et des Civilisations متحف التاريخ و الحضارات",
+        "tags": {
+          "addr:street": "Rue Moulay Abdalaziz زنقة مولاي عبد العزيز",
+          "building": "yes",
+          "charge": "20 MAD",
+          "check_date": "2026-06-07",
+          "check_date:opening_hours": "2026-06-07",
+          "fee": "yes",
+          "museum": "archaeological",
+          "name": "Musée d'Histoire et des Civilisations متحف التاريخ و الحضارات",
+          "name:en": "Rabat Archaeological Museum",
+          "name:fr": "Musée d'Histoire et des Civilisations",
+          "name:ko": "라바트 고고학 박물관",
+          "opening_hours": "We-Mo 10:00-18:00",
+          "operator:type": "public",
+          "payment:cash": "yes",
+          "phone": "+212 5 37 70 19 19",
+          "toilets": "yes",
+          "toilets:handwashing": "yes",
+          "toilets:wheelchair": "yes",
+          "tourism": "museum",
+          "wheelchair": "yes",
+          "wikidata": "Q12238602",
+          "wikimedia_commons": "Category:Archaeological Museum of Rabat",
+          "wikipedia": "en:Rabat Archaeological Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42839736",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9838608,
+          31.6233845
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 42839736,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Dar Si Saïd متحف دار السي سعيد",
+        "tags": {
+          "building": "yes",
+          "description:en": "Closed for renovation after earthquake",
+          "name": "Musée Dar Si Saïd متحف دار السي سعيد",
+          "name:ar": "متحف دار السي سعيد",
+          "name:de": "Museum Dar Si Said",
+          "name:es": "Museo Dar Si Said",
+          "name:fr": "Musée Dar Si Saïd",
+          "opening_hours": "24/7 closed",
+          "tourism": "museum",
+          "website": "https://fnm.ma/musees-ouverts/musee-dar-si-said-de-marrakech/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/118114392",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.8549776,
+          28.4724293
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 118114392,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Ancienne Station de Recherches Présahariennes",
+        "tags": {
+          "barrier": "wall",
+          "name": "Ancienne Station de Recherches Présahariennes",
+          "source": "GPS + survey",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/120439671",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2308443,
+          32.3100806
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 120439671,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "الخزانة",
+        "tags": {
+          "amenity": "library",
+          "name": "الخزانة",
+          "name:ar": "الخزانة"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/120947806",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.238338,
+          32.2969716
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 120947806,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "library regionale",
+        "tags": {
+          "addr:city": "آسفي",
+          "addr:city:ar": "آسفي",
+          "addr:city:es": "Safí",
+          "amenity": "library",
+          "name": "library regionale",
+          "name:ar": "المكتبة الإقليمية",
+          "name:es": "Biblioteca Regional"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125240999",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0149383,
+          31.0968031
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 125240999,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "source": "Bing",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/131716196",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0028817,
+          31.6419019
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 131716196,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Berbère",
+        "tags": {
+          "addr:street": "Rue Yves Saint Laurent",
+          "building": "yes",
+          "name": "Musée Berbère",
+          "name:en": "Berber Museum",
+          "opening_hours": "10:00-18:00. Fermé le mercredi",
+          "operator": "Jardin Majorelle",
+          "tourism": "museum",
+          "website": "https://www.jardinmajorelle.com/",
+          "wheelchair": "limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/150999532",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3669618,
+          35.5664416
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 150999532,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "air_conditioning": "yes",
+          "building": "yes",
+          "image": "https://www.diariocalledeagua.com/sites/default/files/media/articulos/1533222728/museo-de-arte-moderno.jpg",
+          "museum": "art",
+          "opening_hours": "Tu-Su 09:30-17:00",
+          "phone": "+212 6 66 16 17 17",
+          "tourism": "museum",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/178691677",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2508952,
+          31.308191
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 178691677,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Ksar Al Fida",
+        "tags": {
+          "building": "yes",
+          "name": "Ksar Al Fida",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/216374232",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2907899,
+          31.3498842
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 216374232,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Tahiri Museum Fossils & Minerals",
+        "tags": {
+          "building": "yes",
+          "fee": "yes",
+          "name": "Tahiri Museum Fossils & Minerals",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/220799255",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0491986,
+          31.5953791
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 220799255,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/250932623",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.923664,
+          35.7909952
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 250932623,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/250947485",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0018729,
+          32.5106184
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 250947485,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Maison de Patrimoine Ich",
+        "tags": {
+          "addr:housename": "Village Ich",
+          "building": "yes",
+          "name": "Maison de Patrimoine Ich",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256581798",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2620671,
+          32.5957875
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 256581798,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "addr:city": "kasba tadla",
+          "addr:postcode": "23350",
+          "addr:street": "T. ibn Ziad ز. طارق بن زياد",
+          "amenity": "library",
+          "building": "office",
+          "building:colour": "#DA9D8B",
+          "building:levels": "1",
+          "opening_hours": "Mo-Sa 09:00-18:00",
+          "roof:colour": "white"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256808888",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2716524,
+          32.6005232
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 256808888,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة البلدية",
+        "tags": {
+          "addr:city": "kasba tadla",
+          "addr:postcode": "23351",
+          "addr:street": "شارع 20 غشت",
+          "amenity": "library",
+          "building": "yes",
+          "building:colour": "#DA9D8B",
+          "building:levels": "1",
+          "name": "مكتبة البلدية",
+          "name:ar": "مكتبة البلدية",
+          "name:en": "Municipal library",
+          "name:fr": "Bibliothèque Municipale",
+          "roof:colour": "green",
+          "source": "Abderrahman DINAR"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/258407773",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8958977,
+          34.411595
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 258407773,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/283167034",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8356986,
+          34.0304902
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 283167034,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée des Oudayas متحف الأوداية",
+        "tags": {
+          "building": "yes",
+          "name": "Musée des Oudayas متحف الأوداية",
+          "name:ar": "متحف الأوداية",
+          "name:fr": "Musée des Oudayas",
+          "tourism": "museum",
+          "wikidata": "Q3330137",
+          "wikimedia_commons": "Category:Oudaya Museum",
+          "wikipedia": "fr:Musée des Oudayas"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/284022562",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1290962,
+          31.04665
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 284022562,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Kasbah Aït Ougram",
+        "tags": {
+          "building": "yes",
+          "building:material": "rammed earth",
+          "name": "Kasbah Aït Ougram",
+          "tourism": "museum",
+          "wikidata": "Q124454126"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/292259296",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5531438,
+          33.9065728
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 292259296,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Ministère des Affaires Islamiques (Habous) - médiathèque",
+        "tags": {
+          "addr:city": "Meknès",
+          "addr:postcode": "50000",
+          "amenity": "library",
+          "building": "yes",
+          "internet_access": "yes",
+          "name": "Ministère des Affaires Islamiques (Habous) - médiathèque",
+          "operator": "Ministère des Affaires Islamiques (Habous)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/305583434",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.2669092,
+          35.1679435
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 305583434,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "bibliothèque municipale Manahil Al Irfane",
+        "tags": {
+          "amenity": "library",
+          "building": "civic",
+          "name": "bibliothèque municipale Manahil Al Irfane",
+          "name:es": "Agency municipais del desarrollo economico",
+          "source": "Origine Commune de Chefchaouen Septembre 2014"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/307485232",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3740999,
+          33.683782
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 307485232,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Maison de culture دار الثقافة",
+        "tags": {
+          "amenity": "library",
+          "name": "Maison de culture دار الثقافة",
+          "name:ar": "دار الثقافة",
+          "name:fr": "Maison de culture"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/310246685",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6943333,
+          32.5033034
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 310246685,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311634040",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.1771923,
+          33.4201069
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 311634040,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Maison de la cédraie (Site Moudmame)",
+        "tags": {
+          "museum": "écomusée",
+          "name": "Maison de la cédraie (Site Moudmame)",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315627077",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.9759612,
+          34.0648007
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 315627077,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Fondouk el-Nejjarine فندق النجارين",
+        "tags": {
+          "building": "yes",
+          "craft": "yes",
+          "fee": "yes",
+          "name": "Fondouk el-Nejjarine فندق النجارين",
+          "name:ar": "فندق النجارين",
+          "name:en": "Funduq al-Najjarin",
+          "name:zh": "大染坊",
+          "opening_hours": "Mo-Su 10:00-17:00",
+          "tourism": "museum",
+          "wikidata": "Q609167",
+          "wikipedia": "ar:فندق النجارين"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/320759300",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9183887,
+          34.6914915
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 320759300,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Galerie d'Art",
+        "tags": {
+          "name": "Galerie d'Art",
+          "name:es": "Galería de Arte",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/326451555",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9086151,
+          34.651244
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 326451555,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Universitaire",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque Universitaire"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/374953092",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8275879,
+          34.020877
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 374953092,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée des PTT",
+        "tags": {
+          "addr:city": "RABAT",
+          "addr:postcode": "10042",
+          "building": "yes",
+          "building:levels": "5",
+          "name": "Musée des PTT",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/378059727",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5268394,
+          31.5326571
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 378059727,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/378082498",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5794647,
+          30.4067602
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 378082498,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/379559177",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.26177,
+          35.1686246
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 379559177,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Kasbah",
+        "tags": {
+          "castle_type": "fortress",
+          "fee": "10 MAD (Adulte) / 3 MAD (enfants -12ans)",
+          "historic": "castle",
+          "name": "Kasbah",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/381712908",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9488874,
+          31.6575029
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 381712908,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Farid Belkahia",
+        "tags": {
+          "building": "yes",
+          "name": "Musée Farid Belkahia",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/383046157",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9702825,
+          31.218953
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 383046157,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Ecomusée du Parc national de Toubkal",
+        "tags": {
+          "building": "yes",
+          "name": "Ecomusée du Parc national de Toubkal",
+          "source": "Parc national de Toubkal",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/395876333",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.958791,
+          28.9412673
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 395876333,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museum Kasbah",
+        "tags": {
+          "building": "yes",
+          "name": "Museum Kasbah",
+          "note": "25DH/Person",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/399065494",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9000156,
+          30.9215784
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 399065494,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de Cinéma",
+        "tags": {
+          "addr:city": "Ouarzazate ورزازات",
+          "addr:postcode": "45000",
+          "addr:street": "Avenue Mohamed V",
+          "building": "yes",
+          "name": "Musée de Cinéma",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/399343694",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9201712,
+          30.9298496
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 399343694,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "HCAR",
+        "tags": {
+          "name": "HCAR",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/402341740",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9472929,
+          31.6508833
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 402341740,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de la Palmeraie",
+        "tags": {
+          "addr:city": "Marrakech",
+          "addr:street": "Dar Tounssi, Route de Fès",
+          "description": "contemporary art museum in a building complex of formerly agricultural use, has a small but nice park",
+          "name": "Musée de la Palmeraie",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/432951849",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.768835,
+          34.0963163
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 432951849,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée",
+        "tags": {
+          "building": "yes",
+          "name": "Musée",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/449101526",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6195413,
+          33.0114534
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 449101526,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque municipale",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque municipale"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/468305418",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.9848905,
+          34.0672703
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 468305418,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Borj Nord برج الشمال",
+        "tags": {
+          "addr:city": "Fès",
+          "addr:city:ar": "فاس",
+          "addr:city:es": "Fez",
+          "addr:city:fr": "Fès",
+          "addr:district": "Fès",
+          "addr:district:ar": "فاس",
+          "addr:district:es": "Fez",
+          "addr:district:fr": "Fès",
+          "building": "yes",
+          "historic": "fort",
+          "name": "Borj Nord برج الشمال",
+          "name:ar": "برج الشمال",
+          "name:en": "Borj Nord",
+          "name:fr": "Borj Nord",
+          "tourism": "museum",
+          "wikidata": "Q2911082",
+          "wikipedia": "ar:برج الشمال"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/476368906",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9891877,
+          31.6249995
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 476368906,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Jamaâ el-Fna du patrimoine immatériel",
+        "tags": {
+          "air_conditioning": "yes",
+          "building": "yes",
+          "building:levels": "2",
+          "fee": "yes",
+          "museum": "history",
+          "name": "Musée Jamaâ el-Fna du patrimoine immatériel",
+          "nohousenumber": "yes",
+          "opening_hours": "Mo-Su 09:00-18:00",
+          "operator": "Fondation Nationale des Musées",
+          "operator:type": "public",
+          "roof:levels": "0",
+          "toilets": "no",
+          "tourism": "museum",
+          "website": "https://jemaa-elfnaa.com/fr/musee-du-patrimoine-culturel-immateriel/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/478094921",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0042681,
+          34.0248076
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 478094921,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mediatheque lissane din ibn alkhatib المكتبة البلدية لسان الدين ابن الخطيب",
+        "tags": {
+          "amenity": "library",
+          "name": "Mediatheque lissane din ibn alkhatib المكتبة البلدية لسان الدين ابن الخطيب",
+          "name:ar": "المكتبة البلدية لسان الدين ابن الخطيب",
+          "name:fr": "Mediatheque lissane din ibn alkhatib"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/482727433",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8684181,
+          33.9784315
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 482727433,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "المكتبة الوسائطية بالرباط",
+        "tags": {
+          "addr:city": "الرباط",
+          "amenity": "library",
+          "building": "yes",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "name": "المكتبة الوسائطية بالرباط",
+          "name:ar": "المكتبة الوسائطية بالرباط",
+          "name:fr": "Médiathèque de Rabat",
+          "operator": "مؤسسة محمد السادس للنهوض بالأعمال الاجتماعية للتربية و التكوين",
+          "operator:type": "private_non_profit"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/486051888",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.9730125,
+          34.0643349
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 486051888,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliotheque al-Qaraouiyine مكتبة القرويين",
+        "tags": {
+          "addr:city": "FES medina",
+          "amenity": "library",
+          "building": "university",
+          "name": "Bibliotheque al-Qaraouiyine مكتبة القرويين",
+          "name:ar": "مكتبة القرويين",
+          "name:en": "Al-Qarawiyyin Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/488919693",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8119445,
+          34.0502855
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 488919693,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/583835916",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.1072365,
+          33.5397764
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 583835916,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "15 Al Akhawayn University Mohammed VI Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "15 Al Akhawayn University Mohammed VI Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/611751603",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9153733,
+          34.6780654
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 611751603,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Mueée régional du mouvement national",
+        "tags": {
+          "building": "yes",
+          "name": "Mueée régional du mouvement national",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/611958765",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9144405,
+          34.6774517
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 611958765,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Lalla Meryem",
+        "tags": {
+          "alt_name": "Musée des armes traditionnelles",
+          "name": "Musée Lalla Meryem",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/642021043",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.204097,
+          27.1470568
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 642021043,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/672043449",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0032743,
+          31.6425511
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 672043449,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Yves Saint Laurent",
+        "tags": {
+          "addr:city": "Marrakech",
+          "addr:postcode": "40000",
+          "addr:street": "Rue Yves Saint Laurent",
+          "building": "yes",
+          "email": "info@jardinmajorelle.com",
+          "fee": "yes",
+          "name": "Musée Yves Saint Laurent",
+          "name:ja": "イヴ・サンローラン美術館",
+          "opening_hours": "Th-Tu 10:00-18:00",
+          "operator": "Fondation Jardin Majorelle",
+          "tourism": "museum",
+          "website": "https://www.museeyslmarrakech.com",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/682308918",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9948493,
+          31.6854633
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 682308918,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée De la Civilisation de L'eau",
+        "tags": {
+          "building": "yes",
+          "name": "Musée De la Civilisation de L'eau",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/694973302",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5652891,
+          33.8951832
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 694973302,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "name:fr": "Medrasa Bou Inania",
+          "name:zh": "布伊纳尼亚神学院",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/709500538",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.5971326,
+          30.4160405
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 709500538,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museum of Amazigh Culture",
+        "tags": {
+          "building": "yes",
+          "name": "Museum of Amazigh Culture",
+          "name:en": "Museum of Amazigh Culture",
+          "name:fr": "Musée Municipal Amazigh d'Agadir",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/738692196",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8995723,
+          32.8820054
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 738692196,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/767810404",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5034446,
+          33.6102866
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 767810404,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/808033840",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6514196,
+          33.5485426
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 808033840,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/945426159",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6348981,
+          33.5960378
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 945426159,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre de Documentation et d'Information",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "image": "https://www.lyceelyautey.org/wp-content/gallery/cdi2017/IMG_20160927_163045.jpg",
+          "internet_access": "wired",
+          "internet_access:fee": "customers",
+          "name": "Centre de Documentation et d'Information",
+          "operator": "Lycée Lyautey",
+          "website": "https://3500002a.esidoc.fr/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/956363541",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.814381,
+          35.7891241
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 956363541,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Borj En-Nâam",
+        "tags": {
+          "air_conditioning": "yes",
+          "building": "yes",
+          "building:levels": "2",
+          "fee": "yes",
+          "museum": "history",
+          "name": "Borj En-Nâam",
+          "opening_hours": "Mo-Su 08:00-18:00",
+          "payment:alipay": "yes",
+          "payment:american_express": "yes",
+          "payment:app": "no",
+          "payment:apple_pay": "yes",
+          "payment:cards": "yes",
+          "payment:cash": "yes",
+          "payment:cheque": "no",
+          "payment:coins": "yes",
+          "payment:contactless": "yes",
+          "payment:credit_cards": "yes",
+          "payment:cryptocurrencies": "no",
+          "payment:debit_cards": "yes",
+          "payment:electronic_purses": "no",
+          "payment:google_pay": "yes",
+          "payment:mastercard": "yes",
+          "payment:mastercard_contactless": "yes",
+          "payment:notes": "yes",
+          "payment:prepaid_ticket": "no",
+          "payment:telephone_cards": "no",
+          "payment:visa": "yes",
+          "payment:visa_debit": "yes",
+          "payment:visa_electron": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/975731691",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8743043,
+          33.9702365
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 975731691,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "مكتبة المركز الوطني للبحث العلمي والتقني",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "building:levels": "3",
+          "name": "مكتبة المركز الوطني للبحث العلمي والتقني",
+          "opening_hours": "Mo-Fr 08:30-19:00; Sa 09:00-13:00",
+          "smoking": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1062654406",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8915049,
+          35.7366775
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1062654406,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "salle d'étude",
+        "tags": {
+          "addr:city": "Tanger طنجة",
+          "addr:postcode": "90000",
+          "amenity": "library",
+          "building": "yes",
+          "name": "salle d'étude"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1062654407",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8913239,
+          35.7364228
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1062654407,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "salle d'étude",
+        "tags": {
+          "addr:city": "Tanger طنجة",
+          "addr:postcode": "90000",
+          "amenity": "library",
+          "building": "yes",
+          "name": "salle d'étude"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1062654408",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8912838,
+          35.736609
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1062654408,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "salle d'étude",
+        "tags": {
+          "addr:city": "Tanger طنجة",
+          "addr:postcode": "90000",
+          "amenity": "library",
+          "building": "yes",
+          "name": "salle d'étude"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1163630342",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8612427,
+          33.986875
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1163630342,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque de l'ENA",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque de l'ENA"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1169295049",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3669548,
+          35.5663355
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1169295049,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Centro de Arte Moderno de Tetuan CAMT",
+        "tags": {
+          "addr:city": "Tétouan",
+          "addr:housenumber": "sn",
+          "addr:postcode": "93000",
+          "addr:street": "Avenue Al Massira Al Khadra",
+          "image": "https://www.diariocalledeagua.com/sites/default/files/media/articulos/1533222728/museo-de-arte-moderno.jpg",
+          "museum": "art",
+          "name": "Centro de Arte Moderno de Tetuan CAMT",
+          "name:ar": "مركز تطوان للفن الحديث",
+          "name:en": "Modern Art Center of Tetouan",
+          "name:fr": "Centre d'Art Moderne de Tetouan",
+          "opening_hours": "Tu-Su 09:30-17:00",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1222080815",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8896463,
+          30.9263111
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1222080815,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1228691530",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.030954,
+          35.4670195
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1228691530,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Prince Bandar Bin Sultan",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque Prince Bandar Bin Sultan"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1229707000",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.501024,
+          33.2515834
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1229707000,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de la Résistance",
+        "tags": {
+          "building": "yes",
+          "name": "Musée de la Résistance",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1231747160",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8263646,
+          31.4015264
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1231747160,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Petit Musée",
+        "tags": {
+          "air_conditioning": "yes",
+          "building": "yes",
+          "museum": "art",
+          "name": "Petit Musée",
+          "operator": "Anima Sarl A.U.",
+          "operator:type": "private",
+          "toilets": "no",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1267677361",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5024574,
+          33.2567365
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1267677361,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Galerie Chaïbia Tallal",
+        "tags": {
+          "building": "yes",
+          "name": "Galerie Chaïbia Tallal",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1267677368",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5025633,
+          33.2564244
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1267677368,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Galerie Abdelkebir Khatibi",
+        "tags": {
+          "building": "yes",
+          "name": "Galerie Abdelkebir Khatibi",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1276444903",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5736703,
+          33.2695546
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1276444903,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Hay Hassani مكتبة الحي الحسني",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "building:levels": "3",
+          "height": "10",
+          "name": "Bibliothèque Hay Hassani مكتبة الحي الحسني",
+          "name:ar": "مكتبة الحي الحسني",
+          "name:fr": "Bibliothèque Hay Hassani",
+          "source:height": "shadow"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1320947078",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9866078,
+          31.6317799
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1320947078,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Ben Youssef مكتبة ابن يوسف",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque Ben Youssef مكتبة ابن يوسف",
+          "name:ar": "مكتبة ابن يوسف",
+          "name:en": "Ben Youssef Library",
+          "website": "https://www.medersabenyoussef.ma/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1349365864",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6096984,
+          33.495944
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1349365864,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "B - Bibliothèque",
+        "tags": {
+          "addr:place": "Université Internationale de Casablanca",
+          "amenity": "library",
+          "building": "yes",
+          "building:levels": "3",
+          "check_date": "2025-01-08",
+          "name": "B - Bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1388403773",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6295548,
+          33.586425
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1388403773,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Villa des Arts دار الفنون",
+        "tags": {
+          "alt_name": "Villa Roudani",
+          "architect": "Diego Jimenez",
+          "building": "house",
+          "check_date": "2025-05-21",
+          "commons": "Fichier:Villa des arts Casablanca 02.jpg",
+          "house": "detached",
+          "name": "Villa des Arts دار الفنون",
+          "name:ar": "دار الفنون",
+          "name:fr": "Villa des Arts",
+          "old_name": "Les Jasmines",
+          "owner": "Fondation Al Mada",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1392483740",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8611931,
+          33.9866527
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1392483740,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Médiathèque de l'ENA",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Médiathèque de l'ENA"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1446373306",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.7727322,
+          26.6977365
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1446373306,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Mirane Association - Rock Art Museum",
+        "tags": {
+          "building": "yes",
+          "museum": "history",
+          "name": "Mirane Association - Rock Art Museum",
+          "name:en": "Mirane Association - Rock Art Museum",
+          "name:fr": "Association Mirane - Musée d'Art Rupestre",
+          "name:pt": "Associação Mirane - Museu de Arte Rupestre",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1491842193",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.563776,
+          33.8932506
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1491842193,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Meknes Museum",
+        "tags": {
+          "building": "yes",
+          "name": "Meknes Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1495756364",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5814043,
+          34.2611127
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1495756364,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Régionale De Kénitra",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "building:levels": "1",
+          "height": "4",
+          "name": "Bibliothèque Régionale De Kénitra"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/4627685",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9860673,
+          31.6315496
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 4627685,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de Marrakech متحف مراكش",
+        "tags": {
+          "building": "yes",
+          "fee": "yes",
+          "name": "Musée de Marrakech متحف مراكش",
+          "name:ar": "متحف مراكش",
+          "name:en": "Marrakech Museum",
+          "name:fr": "Musée de Marrakech",
+          "name:ko": "마라케시 박물관",
+          "opening_hours": "09:00-18:30",
+          "phone": "+212 244418",
+          "tourism": "museum",
+          "type": "multipolygon",
+          "website": "https://marrakechmuseum.com",
+          "wikidata": "Q3090631",
+          "wikipedia": "ar:متحف مراكش"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/8021970",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5813364,
+          31.0462802
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 8021970,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Kasbah Amridil",
+        "tags": {
+          "access": "customers",
+          "building": "yes",
+          "castle_type": "fortress",
+          "historic": "castle",
+          "name": "Kasbah Amridil",
+          "reg_name": "Kasbah Amridil",
+          "tourism": "museum",
+          "type": "multipolygon",
+          "wikidata": "Q59955356",
+          "wikipedia": "en:Kasbah Amridil"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/15662474",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9885299,
+          31.6172551
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 15662474,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Tombeaux Saadiens ضريح السعديين",
+        "tags": {
+          "addr:city": "Marrakech",
+          "addr:postcode": "40000",
+          "addr:street": "Rue de la Kasbah",
+          "building": "yes",
+          "fee": "yes",
+          "name": "Tombeaux Saadiens ضريح السعديين",
+          "name:ar": "ضريح السعديين",
+          "name:de": "Saadier Gräber",
+          "name:en": "Saadian Tombs",
+          "name:es": "Tumbas Saadíes",
+          "name:fr": "Tombeaux Saadiens",
+          "name:ko": "사디안의 묘(사디안 왕조 묘지)",
+          "name:zh": "萨第安墓",
+          "opening_hours": "Mo-Su 09:00-17:00",
+          "phone": "+212 5 24 43 34 07",
+          "tourism": "museum",
+          "type": "multipolygon",
+          "wheelchair": "yes",
+          "wikidata": "Q2152745",
+          "wikipedia": "es:Tumbas saadíes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/17544607",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8426766,
+          34.007916
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 17544607,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Nationale du Royaume du Maroc المكتبة الوطنية للمملكة المغربية",
+        "tags": {
+          "amenity": "library",
+          "building": "public",
+          "facebook": "https://www.facebook.com/BnrmBibliothequeNationale",
+          "name": "Bibliothèque Nationale du Royaume du Maroc المكتبة الوطنية للمملكة المغربية",
+          "name:ar": "المكتبة الوطنية للمملكة المغربية",
+          "name:fr": "Bibliothèque Nationale du Royaume du Maroc",
+          "phone": "+212 537 771890",
+          "type": "multipolygon",
+          "website": "https://www.bnrm.ma/",
+          "wikidata": "Q2901478",
+          "wikimedia_commons": "Category:National Library of the Kingdom of Morocco",
+          "wikipedia": "fr:Bibliothèque nationale du Royaume du Maroc"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/21379229",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8272252,
+          34.0398828
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 21379229,
+        "country": "Morocco",
+        "alpha_2": "MA",
+        "countries": [
+          "MA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "fee": "yes",
+          "name:fr": "Medersa des Mérinides",
+          "religion": "muslim",
+          "tourism": "museum",
+          "type": "multipolygon"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1312145608",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4850622,
+          -29.3147022
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1312145608,
+        "country": "Lesotho",
+        "alpha_2": "LS",
+        "countries": [
+          "LS"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Lesotho State Library",
+        "tags": {
+          "access": "yes",
+          "addr:floor": "G,1,2,3",
+          "addr:street": "Kingsway",
+          "amenity": "library",
+          "baby_feeding": "no",
+          "check_date": "2023-04-14",
+          "description": "Library",
+          "internet_access": "no",
+          "name": "Lesotho State Library",
+          "opening_hours": "Mo-Fr 08:00-17:00",
+          "operator": "Lesotho Government",
+          "operator:type": "government",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "phone": "+266 2231 4563",
+          "source:name": "Mapillary",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1723827161",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5088475,
+          -29.6263121
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1723827161,
+        "country": "Lesotho",
+        "alpha_2": "LS",
+        "countries": [
+          "LS"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Morija Museum & Archives",
+        "tags": {
+          "name": "Morija Museum & Archives",
+          "tourism": "museum",
+          "website": "http://www.morija.co.ls/museum/",
+          "wikidata": "Q2498194",
+          "wikipedia": "en:Morija Museum & Archives"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3656906384",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6007107,
+          -29.8237654
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3656906384,
+        "country": "Lesotho",
+        "alpha_2": "LS",
+        "countries": [
+          "LS"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4357094892",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4837356,
+          -29.3138794
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4357094892,
+        "country": "Lesotho",
+        "alpha_2": "LS",
+        "countries": [
+          "LS"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "UNESCO Library",
+        "tags": {
+          "addr:street": "Kingsway",
+          "amenity": "library",
+          "check_date": "2023-03-18",
+          "description": "Corporate office",
+          "email": "lesupilintle@gmail.com",
+          "name": "UNESCO Library",
+          "phone": "+266 2232 3339; +266 2231 5932",
+          "website": "https://unesco.org.ls"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/273261432",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6836559,
+          -30.1173533
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 273261432,
+        "country": "Lesotho",
+        "alpha_2": "LS",
+        "countries": [
+          "LS"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "building:levels": "1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/295014541",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.505952,
+          -29.623047
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 295014541,
+        "country": "Lesotho",
+        "alpha_2": "LS",
+        "countries": [
+          "LS"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/362746538",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.521904,
+          -29.3712609
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 362746538,
+        "country": "Lesotho",
+        "alpha_2": "LS",
+        "countries": [
+          "LS"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Liraoheleng LECSA Library",
+        "tags": {
+          "amenity": "library",
+          "building": "library",
+          "denomination": "evangelical",
+          "evangelical": "Lesotho Evangelical Church in Southern Africa",
+          "name": "Liraoheleng LECSA Library",
+          "operator": "Lesotho Evangelical Church in Southern Africa",
+          "operator:short": "LECSA",
+          "operator:type": "religious",
+          "religion": "christian",
+          "wikipedia": "en:Lesotho Evangelical Church in Southern Africa"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/366764057",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5065109,
+          -29.3440398
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 366764057,
+        "country": "Lesotho",
+        "alpha_2": "LS",
+        "countries": [
+          "LS"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "LHDA Information Center",
+        "tags": {
+          "alt_name": "Katse Dam Information Centre",
+          "building": "yes",
+          "building:levels": "2",
+          "name": "LHDA Information Center",
+          "operator": "Lesotho Highlands Development Authority",
+          "operator:short": "LHDA",
+          "operator:type": "government",
+          "operator:website": "https://www.lhda.org.ls/",
+          "operator:wikidata": "Q56293403",
+          "operator:wikipedia": "en:Lesotho Highlands Water Project",
+          "tourism": "museum",
+          "wikidata": "Q1433794",
+          "wikimedia_commons": "Category:Katse Dam",
+          "wikipedia": "en:Katse Dam"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/399052273",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7067217,
+          -30.4077191
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 399052273,
+        "country": "Lesotho",
+        "alpha_2": "LS",
+        "countries": [
+          "LS"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442576404",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5041799,
+          -29.3242368
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 442576404,
+        "country": "Lesotho",
+        "alpha_2": "LS",
+        "countries": [
+          "LS"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mangoaela Library",
+        "tags": {
+          "addr:city": "Maseru",
+          "addr:floor": "G, 1, 2",
+          "addr:housename": "Lesotho College of Education",
+          "addr:street": "Main South 1",
+          "amenity": "library",
+          "building": "library",
+          "building:levels": "3",
+          "check_date": "2023-04-19",
+          "description": "Library",
+          "name": "Mangoaela Library",
+          "operator": "Lesotho College of Education",
+          "operator:type": "government",
+          "website": "https://lce.ac.ls/library/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/489791755",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7211802,
+          -29.4502569
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 489791755,
+        "country": "Lesotho",
+        "alpha_2": "LS",
+        "countries": [
+          "LS"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Thomas Mofolo Library",
+        "tags": {
+          "amenity": "library",
+          "building": "university",
+          "building:levels": "4",
+          "name": "Thomas Mofolo Library",
+          "operator": "National University of Lesotho"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,2880 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1067306278",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5258699,
+          9.3809837
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1067306278,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Biblottheque de Pitoa",
+        "tags": {
+          "amenity": "library",
+          "name": "Biblottheque de Pitoa"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1987823101",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5159121,
+          3.8532412
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1987823101,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2033625328",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5035563,
+          3.8694585
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2033625328,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "bibliotheque de ville sud",
+        "tags": {
+          "amenity": "library",
+          "name": "bibliotheque de ville sud"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2046453873",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4994484,
+          3.8408459
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2046453873,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3140739567",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4096939,
+          5.3492285
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3140739567,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de Bandjoun",
+        "tags": {
+          "name": "Musée de Bandjoun",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3765195079",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0711982,
+          5.4393554
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3765195079,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Principale",
+        "tags": {
+          "addr:city": "Dschang",
+          "amenity": "library",
+          "level": "0",
+          "name": "Bibliothèque Principale",
+          "name:en": "Main Library",
+          "opening_hours": "Mo-Sa 8:00-16:00",
+          "operator": "Université de Dschang"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4043824357",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1046988,
+          6.0031518
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4043824357,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museum",
+        "tags": {
+          "name": "Museum",
+          "name:es": "Museo del Palacio de Mankon",
+          "name:fr": "Musée",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4204481689",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5236132,
+          3.8712749
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4204481689,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Ethnographique et d'Histoire des Peuples de la Forêt d'Afrique Centrale",
+        "tags": {
+          "check_date": "2023-12-08",
+          "contact:phone": "+237 6 99 59 17 57",
+          "fee": "yes",
+          "museum": "ethnography",
+          "name": "Musée Ethnographique et d'Histoire des Peuples de la Forêt d'Afrique Centrale",
+          "opening_hours": "Tu-Sa 10:30-17:30",
+          "operator:type": "private",
+          "short_name": "Musée des Peuples de la Forêt",
+          "tourism": "museum",
+          "wikidata": "Q108912406"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4254982289",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3147005,
+          10.5926128
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4254982289,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Djabbama",
+        "tags": {
+          "addr:street": "Avion me laisse",
+          "amenity": "library",
+          "name": "Djabbama"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4293293718",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9130238,
+          3.9716209
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4293293718,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Angosso (Anciens B.C)",
+        "tags": {
+          "amenity": "library",
+          "name": "Angosso (Anciens B.C)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4756335529",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5047559,
+          3.865785
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4756335529,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4782507504",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1133864,
+          5.4743956
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4782507504,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée du Groupement Bafou",
+        "tags": {
+          "name": "Musée du Groupement Bafou",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4988940722",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5192385,
+          5.1435369
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4988940722,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bilingual Bookshop",
+        "tags": {
+          "amenity": "library",
+          "name": "Bilingual Bookshop",
+          "name:en": "Bilingual Bookshop",
+          "phone": "677771545"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5377984271",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5980844,
+          7.3119469
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5377984271,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "DNS",
+        "tags": {
+          "amenity": "library",
+          "name": "DNS"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5777138600",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4958405,
+          3.870593
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5777138600,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Grande Bibliothèque",
+        "tags": {
+          "access": "designated",
+          "amenity": "library",
+          "building:levels": "3",
+          "name": "Grande Bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5916074510",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5756556,
+          7.3234472
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5916074510,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre biblique BEREENS",
+        "tags": {
+          "addr:postcode": "BP:30 NGAOUNDÉRÉ",
+          "amenity": "library",
+          "contact:phone": "680373743",
+          "fixme": "Baladji 1",
+          "name": "Centre biblique BEREENS",
+          "source": "ACAGER - OSM_Cameroon"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5916074511",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5739159,
+          7.3170007
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5916074511,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "CAPF",
+        "tags": {
+          "addr:postcode": "BP 654 NGAOUNDÉRÉ",
+          "amenity": "library",
+          "contact:phone": "699519680",
+          "name": "CAPF",
+          "source": "ACAGER - OSM_Cameroon"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6310400747",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5184328,
+          3.8643269
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6310400747,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Blackitude Museum",
+        "tags": {
+          "name": "Blackitude Museum",
+          "tourism": "museum",
+          "wikidata": "Q15961646",
+          "wikipedia": "en:Blackitude Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6320650418",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1507235,
+          5.5585122
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6320650418,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothéques de Bangang",
+        "tags": {
+          "amenity": "library",
+          "description": "publique, fonctionnelle",
+          "name": "Bibliothéques de Bangang"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6670014782",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3489519,
+          9.3065976
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6670014782,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Librairie Papeterie Familiale",
+        "tags": {
+          "amenity": "library",
+          "contact:phone": "(+237) 6",
+          "name": "Librairie Papeterie Familiale"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6670014783",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3836865,
+          9.2961422
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6670014783,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Librairie Chretienne",
+        "tags": {
+          "amenity": "library",
+          "name": "Librairie Chretienne"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6670014784",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.397269,
+          9.3066526
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6670014784,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Librairie Papeterie Lipamave Sarl",
+        "tags": {
+          "amenity": "library",
+          "contact:phone": "656364373",
+          "name": "Librairie Papeterie Lipamave Sarl"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6670040285",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3975368,
+          9.3040307
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6670040285,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Librairie Papeterie Arabe",
+        "tags": {
+          "amenity": "library",
+          "name": "Librairie Papeterie Arabe"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6670040286",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3960329,
+          9.3054686
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6670040286,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Librairie",
+        "tags": {
+          "amenity": "library",
+          "name": "Librairie"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6670040287",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3976629,
+          9.306435
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6670040287,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Monde Des Infos",
+        "tags": {
+          "amenity": "library",
+          "name": "Monde Des Infos"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6670040288",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3968054,
+          9.3069319
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6670040288,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Librairie Papeterie Universelle",
+        "tags": {
+          "amenity": "library",
+          "name": "Librairie Papeterie Universelle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6670040289",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3952502,
+          9.3060001
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6670040289,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Vente Des Livres Et Autre Services",
+        "tags": {
+          "amenity": "library",
+          "name": "Vente Des Livres Et Autre Services"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6670040290",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3954512,
+          9.3053179
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6670040290,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Librairie",
+        "tags": {
+          "amenity": "library",
+          "name": "Librairie"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6670040291",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3959895,
+          9.3054031
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6670040291,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Librairie Papeterie Oudamzary",
+        "tags": {
+          "amenity": "library",
+          "name": "Librairie Papeterie Oudamzary"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6670040292",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3960036,
+          9.3054202
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6670040292,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Librairie",
+        "tags": {
+          "amenity": "library",
+          "name": "Librairie"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6670040293",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.395555,
+          9.3050094
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6670040293,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mini Librairie Publique",
+        "tags": {
+          "amenity": "library",
+          "name": "Mini Librairie Publique"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6670040294",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3955402,
+          9.3049988
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6670040294,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mini Librairie Publique",
+        "tags": {
+          "amenity": "library",
+          "name": "Mini Librairie Publique"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6670040295",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.395555,
+          9.3051705
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6670040295,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Librairie",
+        "tags": {
+          "amenity": "library",
+          "name": "Librairie"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6670040296",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3955826,
+          9.305032
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6670040296,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mini Librairie Publique",
+        "tags": {
+          "amenity": "library",
+          "name": "Mini Librairie Publique"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6670040297",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3957744,
+          9.305108
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6670040297,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Librairie Papeterie La Référence",
+        "tags": {
+          "amenity": "library",
+          "name": "Librairie Papeterie La Référence"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6673594223",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3922602,
+          9.3070138
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6673594223,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliotheque Municipale",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliotheque Municipale"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6673594224",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3725356,
+          9.3126203
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6673594224,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre Biblique De Garoua",
+        "tags": {
+          "amenity": "library",
+          "name": "Centre Biblique De Garoua"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6771633836",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4934789,
+          3.8519417
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6771633836,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "ets atemec",
+        "tags": {
+          "amenity": "library",
+          "name": "ets atemec"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6771647226",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4889352,
+          3.8535648
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6771647226,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Holyland Boooks & Stationery",
+        "tags": {
+          "amenity": "library",
+          "name": "Holyland Boooks & Stationery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6771649721",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4950439,
+          3.8638539
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6771649721,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Tarl computerTard group",
+        "tags": {
+          "amenity": "library",
+          "name": "Tarl computerTard group"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6771665004",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4932133,
+          3.8523606
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6771665004,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Jay bilingual bookshop",
+        "tags": {
+          "amenity": "library",
+          "name": "Jay bilingual bookshop"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6771670687",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4934856,
+          3.8514078
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6771670687,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "peace of for sacramental bookshop",
+        "tags": {
+          "amenity": "library",
+          "name": "peace of for sacramental bookshop"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7066142046",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2339109,
+          4.1546835
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7066142046,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7153193974",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5329587,
+          3.876255
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7153193974,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "NOM": "Médiathèque Brustros",
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7163437886",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4701804,
+          3.8722988
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7163437886,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7163440131",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4830667,
+          3.8783899
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7163440131,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Rustick-home Musée Tmc",
+        "tags": {
+          "contact:phone": "(+237) 675924304 / 2229144",
+          "name": "Rustick-home Musée Tmc",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7544978688",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5016703,
+          3.8571749
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7544978688,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Centrale",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Centrale",
+          "source": "sobzeros"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9967797318",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8038694,
+          3.9816456
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9967797318,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Ecole publique de Yassa",
+        "tags": {
+          "amenity": "library",
+          "name": "Ecole publique de Yassa"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11125687805",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4621023,
+          3.8476372
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11125687805,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11472701448",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1500793,
+          2.9058259
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11472701448,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "centre biblique",
+        "tags": {
+          "amenity": "library",
+          "name": "centre biblique",
+          "survey:date": "2023-12-31"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11475896189",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1656481,
+          2.9177733
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11475896189,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "check_date": "2024-01-01",
+          "name": "Bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11744790376",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5059449,
+          3.8610958
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11744790376,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "check_date": "2024-03-19",
+          "name": "Bibliothèque",
+          "name:en": "Library",
+          "name:fr": "Bibliothèque",
+          "operator:type": "government"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11752542330",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5016383,
+          3.8606723
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11752542330,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Ministère de la recherche scientifique",
+        "tags": {
+          "amenity": "library",
+          "description": "#sgrad",
+          "name": "Ministère de la recherche scientifique"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12246188463",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5215119,
+          3.801617
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12246188463,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "addr:floor": "2",
+          "amenity": "library",
+          "check_date": "2024-10-12",
+          "name": "Bibliothèque",
+          "name:en": "Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12610422610",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5327672,
+          5.0837374
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12610422610,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Jean Felicien Gacha Foundation Museum",
+        "tags": {
+          "name": "Jean Felicien Gacha Foundation Museum",
+          "tourism": "museum",
+          "wikidata": "Q131904676"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13759579500",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2585693,
+          6.0110106
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13759579500,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "School's Library",
+        "tags": {
+          "amenity": "library",
+          "name": "School's Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188279621",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5155616,
+          3.8604695
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 188279621,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée National",
+        "tags": {
+          "building": "public",
+          "fee": "yes",
+          "name": "Musée National",
+          "tourism": "museum",
+          "website": "http://www.nationalmuseum.cm/",
+          "wikidata": "Q16335742",
+          "wikipedia": "fr:Musée national du Cameroun"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/192821227",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5115752,
+          3.8677903
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 192821227,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Médiathèque de l’Institut français du Cameroun",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "email": "prosper.yop@ifcameroun.com",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "name": "Médiathèque de l’Institut français du Cameroun",
+          "opening_hours": "Tu-We 09:30-17:00; Th 13:00-17:00; Fr-Sa 09:30-17:00",
+          "operator": "IFC",
+          "operator:type": "private",
+          "phone": "+237 698 78 38 08",
+          "source": "GeoCameroun",
+          "website": "https://www.ifcameroun.com/mediatheque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/192825155",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4950228,
+          3.8699439
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 192825155,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "building": "school",
+          "building:levels": "1",
+          "name": "Bibliothèque",
+          "source": "sobzeros"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/192842105",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4878007,
+          3.8648282
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 192842105,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Animaux empaillés",
+        "tags": {
+          "building": "yes",
+          "name": "Animaux empaillés",
+          "name:en": "Stuffed Animals",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/193965513",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5238549,
+          3.8898475
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 193965513,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée",
+        "tags": {
+          "building": "public",
+          "name": "Musée",
+          "source": "GeoCameroun",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/225556456",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0654164,
+          5.4501124
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 225556456,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée des Civilisations",
+        "tags": {
+          "building": "yes",
+          "name": "Musée des Civilisations",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/231108267",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2969231,
+          5.6122005
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 231108267,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/244978916",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2575346,
+          4.6123707
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 244978916,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Municipale",
+        "tags": {
+          "amenity": "library",
+          "building": "public",
+          "name": "Bibliothèque Municipale"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/257156587",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3314634,
+          3.5024918
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 257156587,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Télécentre",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Télécentre"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/292318627",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5932175,
+          3.9733646
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 292318627,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "copy": "yes",
+          "opening_hours": "Mo-Sa 08:00-20:00; Th 10:00-20:00",
+          "shop": "internet",
+          "source": "Survey TSF Cameroun 2014"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/292841450",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5877843,
+          3.9662379
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 292841450,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "capacity": "1000",
+          "name": "Bibliothèque",
+          "note": "Université Yaoundé 2 Soa",
+          "source": "Survey TSF Cameroun 2014"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/294261723",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6871222,
+          4.0435749
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 294261723,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Doual'Art",
+        "tags": {
+          "addr:city": "Douala",
+          "building": "yes",
+          "name": "Doual'Art",
+          "tourism": "museum",
+          "website": "http://www.doualart.org",
+          "wikidata": "Q1051789",
+          "wikipedia": "en:Doual'art"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312630252",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9011939,
+          5.7330272
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 312630252,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Palais des Sultans Bamouns",
+        "tags": {
+          "building": "yes",
+          "castle_type": "palace",
+          "historic": "castle",
+          "name": "Palais des Sultans Bamouns",
+          "tourism": "museum",
+          "wikidata": "Q16510034",
+          "wikipedia": "fr:Palais des sultans Bamouns"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312630300",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.903027,
+          5.7320923
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 312630300,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Grand Tambour",
+        "tags": {
+          "building": "yes",
+          "name": "Grand Tambour",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/321128928",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4474301,
+          10.1147148
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 321128928,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de Kaélé",
+        "tags": {
+          "name": "Musée de Kaélé",
+          "name:fr": "Musée de Kaélé",
+          "name:mua": "Yaŋ Goŋ Kaelle",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/322262590",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6844456,
+          4.0386218
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 322262590,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Maritime",
+        "tags": {
+          "building": "yes",
+          "contact:fax": "+237 2 33 43 70 17",
+          "contact:phone": "33422165/77529186/74903309",
+          "contact:website": "http://museemaritime.cm",
+          "name": "Musée Maritime",
+          "name:en": "Maritime Museum",
+          "tourism": "museum",
+          "wikidata": "Q16335662",
+          "wikipedia": "fr:Musée maritime de Bonanjo"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/326537775",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2305346,
+          4.7607152
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 326537775,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Municipale",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque Municipale"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/337193531",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0118407,
+          6.0071975
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 337193531,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Public library",
+        "tags": {
+          "amenity": "library",
+          "building": "public",
+          "name": "Public library",
+          "name:fr": "Bibliothèque municipale"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/355690652",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.439337,
+          4.3627701
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 355690652,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Foyer Municipal de SA'A",
+        "tags": {
+          "amenity": "library",
+          "name": "Foyer Municipal de SA'A"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/358603095",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9007552,
+          5.7234043
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 358603095,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de Arts et Traditions Bamoun",
+        "tags": {
+          "building": "yes",
+          "name": "Musée de Arts et Traditions Bamoun",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/392724985",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5427635,
+          5.140987
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 392724985,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/393672987",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6613019,
+          5.0967525
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 393672987,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "yes",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/394094878",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4792262,
+          5.207144
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 394094878,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de la Chefferie Bangoua",
+        "tags": {
+          "building": "yes",
+          "name": "Musée de la Chefferie Bangoua",
+          "name:en": "Museum of Bangoua Chieftaincy",
+          "name:fr": "Case patrimoniale de Bamesso",
+          "tourism": "museum",
+          "wikidata": "Q108912445"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/394112604",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5222826,
+          3.8572543
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 394112604,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "centre national de documentation et d'information sur l'environnement cameroun",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "centre national de documentation et d'information sur l'environnement cameroun"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/395604947",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4269011,
+          5.4228517
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 395604947,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Bandjoun Station",
+        "tags": {
+          "building": "yes",
+          "name": "Bandjoun Station",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/400237970",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3429975,
+          10.6050315
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 400237970,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "building": "mosque",
+          "source": "Plan polyvalent Maroua",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/415269575",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.033168,
+          12.0802569
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 415269575,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Muse Sultanat",
+        "tags": {
+          "name": "Muse Sultanat",
+          "name:ar": "متحف السلطنة",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/417886170",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3172817,
+          10.5940565
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 417886170,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Alliance Biblique du Cameroun",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Alliance Biblique du Cameroun"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/424738529",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4194369,
+          5.4703556
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 424738529,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliotheque Pilote Municipale",
+        "tags": {
+          "amenity": "library",
+          "building": "public",
+          "name": "Bibliotheque Pilote Municipale"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/424738535",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4182966,
+          5.4729622
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 424738535,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre Linguistique Régional",
+        "tags": {
+          "amenity": "library",
+          "building": "public",
+          "name": "Centre Linguistique Régional"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/426132181",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4466548,
+          10.107062
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 426132181,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/436686993",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5292162,
+          5.0781803
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 436686993,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/449526053",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3454307,
+          6.1860231
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 449526053,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/568314476",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7320289,
+          3.3746259
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 568314476,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque, CBI, CA, CP offices",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque, CBI, CA, CP offices"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/791485151",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7327487,
+          3.3751204
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 791485151,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée des beaux arts",
+        "tags": {
+          "building": "yes",
+          "name": "Musée des beaux arts",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/835453293",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.65113,
+          3.9403642
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 835453293,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Ecologique du Millénaire",
+        "tags": {
+          "alt_name:en": "Millenium Ecological Museum",
+          "building": "yes",
+          "museum": "natural history",
+          "name": "Musée Ecologique du Millénaire",
+          "phone": "+237 675 36 53 51",
+          "tourism": "museum",
+          "url": "http://www.ecologicalmuseum.org/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1068814307",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1672813,
+          2.8125365
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1068814307,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée des arts nègres",
+        "tags": {
+          "building": "yes",
+          "name": "Musée des arts nègres",
+          "operator": "MINAC et CTN",
+          "operator:type": "private",
+          "tourism": "museum",
+          "wikidata": "Q108912409"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1068814308",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1670474,
+          2.812696
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1068814308,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée des arts nègres",
+        "tags": {
+          "building": "yes",
+          "museum": "art",
+          "name": "Musée des arts nègres",
+          "operator": "MINAC et CTN",
+          "operator:type": "private",
+          "tourism": "museum",
+          "wikidata": "Q108912409"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1075141389",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8247459,
+          2.569456
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1075141389,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Maison de Ndiva",
+        "tags": {
+          "building": "yes",
+          "name": "Maison de Ndiva",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1159441449",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7357129,
+          3.3864492
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1159441449,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque municipale",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque municipale"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1290844390",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1447141,
+          2.9173687
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1290844390,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Alliance Biblique Du Cameroun",
+        "tags": {
+          "addr:city": "Ebolowa",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Alliance Biblique Du Cameroun",
+          "source": "microsoft/BuildingFootprints"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/9747636",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9013552,
+          5.7324768
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 9747636,
+        "country": "Cameroon",
+        "alpha_2": "CM",
+        "countries": [
+          "CM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée des Rois Bamoun",
+        "tags": {
+          "building": "yes",
+          "name": "Musée des Rois Bamoun",
+          "start_date": "2024-04-13",
+          "tourism": "museum",
+          "type": "multipolygon"
+        }
+      }
+    }
+  ]
+}

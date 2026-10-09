@@ -1,0 +1,4888 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/615341411",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5825786,
+          0.3358574
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 615341411,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Uganda Museum",
+        "tags": {
+          "alt_name": "Uganda National Museum",
+          "fee": "yes",
+          "name": "Uganda Museum",
+          "opening_hours": "PH,Mo-Su 08:00-10:00",
+          "phone": "+256 414 267538",
+          "tourism": "museum",
+          "website": "http://www.ugandamuseums.ug/",
+          "wikidata": "Q7877613",
+          "wikipedia": "en:Uganda Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1701050477",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9386932,
+          -1.3010157
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1701050477,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1701129554",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9852022,
+          -1.250885
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1701129554,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2354898208",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.627365,
+          0.2654616
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2354898208,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Banakalori Brothers Community",
+        "tags": {
+          "amenity": "library",
+          "name": "Banakalori Brothers Community"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2360236630",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.1834637,
+          1.0713131
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2360236630,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mbale Public Libraray",
+        "tags": {
+          "addr:district": "Mbale",
+          "addr:village": "Republic street",
+          "amenity": "library",
+          "floors": "1",
+          "internet_access": "yes",
+          "language:en": "yes",
+          "language:lg": "yes",
+          "language:sw": "yes",
+          "materials": "Books,Journals/Magazines,Newspapers,Multimedia(Photographs/Artefacts),eBooks",
+          "name": "Mbale Public Libraray",
+          "operator:type": "Public Library",
+          "resources": "5,001+",
+          "sections": "Children Section ICT Section Study Rooms Adult Section",
+          "services": "Borrowing Reference ICT services Reading Space",
+          "start_date": "1953"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2365496273",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.1232923,
+          0.9424774
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2365496273,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kamuli Library and UDS Internet Cafe",
+        "tags": {
+          "amenity": "library",
+          "name": "Kamuli Library and UDS Internet Cafe"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2614059491",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.584189,
+          0.3038688
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2614059491,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "addr:housename": "Nsambya Sharing Youth Center",
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2690922476",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4864434,
+          0.2574344
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2690922476,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "School Library",
+        "tags": {
+          "amenity": "library",
+          "name": "School Library",
+          "wikidata": "Q22981111"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3006796891",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.2335622,
+          0.4743005
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3006796891,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Alice Mulokyi, Busoga library",
+        "tags": {
+          "amenity": "library",
+          "name": "Alice Mulokyi, Busoga library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3070046788",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.1802073,
+          1.0846755
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3070046788,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3070046789",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.1800606,
+          1.0847902
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3070046789,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "MTI Library",
+        "tags": {
+          "amenity": "library",
+          "name": "MTI Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153310170",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6164668,
+          0.3274762
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3153310170,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Digital Library MUBS",
+        "tags": {
+          "amenity": "library",
+          "name": "Digital Library MUBS",
+          "opening_hours": "24/7",
+          "operator": "MUBS"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3334349749",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3482324,
+          1.4345429
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3334349749,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Hoima Public Library",
+        "tags": {
+          "addr:city": "Kiganda II",
+          "addr:county": "Hoima Municipality",
+          "addr:district": "Hoima",
+          "addr:parish": "Western Ward",
+          "addr:subcounty": "Kahoora Division",
+          "addr:village": "Kiganda",
+          "amenity": "library",
+          "check_date": "2023-03-22",
+          "floors": "1",
+          "internet_access": "yes",
+          "language:en": "yes",
+          "materials": "Books,eBooks",
+          "name": "Hoima Public Library",
+          "operator:type": "Public Library",
+          "resources": "Less than 1,000",
+          "sections": "Children Section Adult Section",
+          "services": "Reading Space ICT services",
+          "source": "www.ubos.org",
+          "source:date": "2010..2014",
+          "start_date": "1964",
+          "wikidata": "Q68653046"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3461592170",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4865857,
+          0.8466503
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3461592170,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3466159849",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.473056,
+          0.0599933
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3466159849,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Entebbe Public Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Entebbe Public Library",
+          "opening_hours": "Mo-Fr 08:30-20:00; Sa,Su 08:00-15:00; PH off",
+          "operator": "government"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3766230238",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5747352,
+          0.3227131
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3766230238,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "National Library of Uganda",
+        "tags": {
+          "addr:city": "Kampala",
+          "addr:country": "UG",
+          "addr:housenumber": "50",
+          "addr:street": "Buganda Road",
+          "amenity": "library",
+          "name": "National Library of Uganda",
+          "phone": "+256 414 254661",
+          "short_name": "NLU",
+          "website": "https://www.nlu.go.ug/",
+          "wikidata": "Q618252"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3783574671",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5825916,
+          0.3361115
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3783574671,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Uganda Society Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Uganda Society Library",
+          "operator": "Uganda Society",
+          "website": "http://www.africa.upenn.edu/Org_Institutes/ugsocdoc.html#Heading4"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3792281443",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7566762,
+          0.3597762
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3792281443,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "MHS LIBRARY",
+        "tags": {
+          "addr:city": "Mukono",
+          "amenity": "library",
+          "name": "MHS LIBRARY",
+          "opening_hours": "day time",
+          "operator": "MHS"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3844042840",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6175908,
+          0.3199079
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3844042840,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Africell Bugolobi Store",
+        "tags": {
+          "addr:city": "Kampala",
+          "addr:postcode": "24144",
+          "amenity": "library",
+          "name": "Africell Bugolobi Store"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4013871299",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.025304,
+          0.3083161
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4013871299,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Caezaria Public Library",
+        "tags": {
+          "addr:city": "Malongwe-Ajiija",
+          "addr:county": "Buikwe",
+          "addr:district": "Buikwe",
+          "addr:parish": "Malongwe",
+          "addr:subcounty": "Buikwe",
+          "addr:village": "Ajjija Malongwe",
+          "amenity": "library",
+          "fee": "Students Primary - 5000, Secondary School -10000, University -15000, Institutions - 50000 per year",
+          "floors": "1",
+          "internet_access": "no",
+          "language:de": "yes",
+          "language:en": "yes",
+          "language:lg": "yes",
+          "language:sw": "yes",
+          "materials": "Books,Journals/Magazines,Multimedia(Photographs/Artefacts)",
+          "name": "Caezaria Public Library",
+          "operator:type": "Community Library",
+          "resources": "5,001+",
+          "sections": "Children Section Adult Section ICT Section Study Rooms",
+          "services": "Borrowing Reference ICT services Reading Space",
+          "source": "www.ubos.org",
+          "source:date": "2010..2014",
+          "start_date": "2000",
+          "wikidata": "Q22815700"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4021862515",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5452687,
+          1.7220863
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4021862515,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Resource Centre",
+        "tags": {
+          "addr:city": "Nyakafunjo",
+          "addr:county": "Bujenje",
+          "addr:district": "Masindi",
+          "addr:parish": "Nyabyeya",
+          "addr:subcounty": "Budongo",
+          "amenity": "library",
+          "name": "Resource Centre",
+          "source": "www.ubos.org",
+          "source:date": "2010..2014"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4030848266",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3107498,
+          0.5884637
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4030848266,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Community Library",
+        "tags": {
+          "addr:city": "Kigarama",
+          "addr:county": "Burahya",
+          "addr:district": "Kabarole",
+          "addr:parish": "Kiko",
+          "addr:subcounty": "Ruteete",
+          "amenity": "library",
+          "name": "Community Library",
+          "source": "www.ubos.org",
+          "source:date": "2010..2014"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4030848267",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3033651,
+          0.6136944
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4030848267,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Community Library",
+        "tags": {
+          "addr:city": "Kanyambeho A",
+          "addr:county": "Burahya",
+          "addr:district": "Kabarole",
+          "addr:parish": "Kiko",
+          "addr:subcounty": "Ruteete",
+          "amenity": "library",
+          "name": "Community Library",
+          "source": "www.ubos.org",
+          "source:date": "2010..2014"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4032460401",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3416644,
+          0.5708253
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4032460401,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kanyawara Community Library",
+        "tags": {
+          "addr:city": "Makobyo",
+          "addr:county": "Burahya",
+          "addr:district": "Kabarole",
+          "addr:parish": "Kiko",
+          "addr:subcounty": "Ruteete",
+          "amenity": "library",
+          "name": "Kanyawara Community Library",
+          "source": "www.ubos.org",
+          "source:date": "2010..2014"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4077911965",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6285575,
+          0.2588088
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4077911965,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "School Library",
+        "tags": {
+          "amenity": "library",
+          "name": "School Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4080675255",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.1841194,
+          0.6918025
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4080675255,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "addr:city": "Central",
+          "addr:county": "Tororo Municipality",
+          "addr:district": "Tororo",
+          "addr:parish": "Central Ward",
+          "addr:subcounty": "Western Division",
+          "amenity": "library",
+          "source": "www.ubos.org",
+          "source:date": "2010..2014"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4129814922",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7406948,
+          -0.5213425
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4129814922,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Eriijukiro Museum of Southwestern Uganda",
+        "tags": {
+          "name": "Eriijukiro Museum of Southwestern Uganda",
+          "phone": "+256 392 722828",
+          "tourism": "museum",
+          "website": "https://www.igongo.co.ug/",
+          "wikidata": "Q136004862",
+          "wikipedia": "en:Igongo Cultural Centre and Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4187081997",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.2960056,
+          2.7769147
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4187081997,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4425325689",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.9075978,
+          2.22765
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4425325689,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Armgod Black's Parlour",
+        "tags": {
+          "email": "dr.okello@gmail.com",
+          "internet_access": "wlan",
+          "name": "Armgod Black's Parlour",
+          "name:en": "Armgod Black's Parlour",
+          "opening_hours": "Sa-Su",
+          "phone": "+256773281481",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4510100684",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6163091,
+          1.7166363
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4510100684,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Teso public libaray",
+        "tags": {
+          "amenity": "library",
+          "name": "Teso public libaray"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4770748548",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5760118,
+          0.318792
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4770748548,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5116990713",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1282586,
+          -1.1531851
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5116990713,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Great Lakes Museum",
+        "tags": {
+          "addr:city": "Rwahi",
+          "addr:street": "Kabale - Mbarara Road",
+          "name": "Great Lakes Museum",
+          "opening_hours": "24/7",
+          "operator": "Satellite Holiday Resort",
+          "phone": "+256 772 448961",
+          "tourism": "museum",
+          "website": "www.greatlakesmuseum.co.ug"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5304761981",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7015164,
+          -1.2785739
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5304761981,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kisoro Community Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Kisoro Community Library",
+          "short_name": "KCL"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5444395246",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.53301,
+          0.1621782
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5444395246,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "operator": "St Louis Pre-School"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6565874988",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7481144,
+          -1.2762652
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6565874988,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Kigezi Home of Culture",
+        "tags": {
+          "name": "Kigezi Home of Culture",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6634975385",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9486843,
+          -0.7819558
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6634975385,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Nakivale Community Library Network",
+        "tags": {
+          "addr:district": "Isingiro",
+          "addr:village": "Nakivale",
+          "amenity": "library",
+          "floors": "1",
+          "name": "Nakivale Community Library Network",
+          "operator:type": "Community Library",
+          "wikidata": "Q131360357"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8192111377",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5065614,
+          0.0963489
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8192111377,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mpnaga Library",
+        "tags": {
+          "amenity": "library",
+          "email": "florassebba@gmail.com",
+          "name": "Mpnaga Library",
+          "operator": "Nkumba University - Florence Lubega Ssebbale",
+          "phone": "0772192448; 0704218229",
+          "website": "https://web.facebook.com/NULIB/?_rdc=1&_rdr"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8280951417",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.2894968,
+          -0.3237416
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8280951417,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Ssese Museum",
+        "tags": {
+          "name": "Ssese Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8806276717",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1409082,
+          -0.5409702
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8806276717,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kiu western campus library",
+        "tags": {
+          "amenity": "library",
+          "name": "Kiu western campus library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8989287317",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1442751,
+          -0.5380113
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8989287317,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Block",
+        "tags": {
+          "amenity": "library",
+          "name": "Block"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9147491894",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7619776,
+          2.4474472
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9147491894,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Lendu chiefdom",
+        "tags": {
+          "addr:district": "Zombo",
+          "addr:parish": "Jupamatho",
+          "addr:street": "landmark",
+          "addr:subcounty": "Akaa",
+          "comment": "Its where the chief of lendu tribe lives.",
+          "gps": "2.4474472 30.7619776 1645.7381407398573 4.666",
+          "name": "Lendu chiefdom",
+          "source": "HOT_Uganda",
+          "tourism": "museum",
+          "village": "Golaju"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9147491935",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.82214,
+          2.533035
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9147491935,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Rwoth Upanu tomb",
+        "tags": {
+          "addr:district": "Zombo",
+          "addr:parish": "Omoyo",
+          "addr:street": "landmark",
+          "addr:subcounty": "Zeu",
+          "comment": "Only",
+          "gps": "2.533035 30.82214 1570.082247851254 2.183",
+          "name": "Rwoth Upanu tomb",
+          "source": "HOT_Uganda",
+          "tourism": "museum",
+          "village": "Menze"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9689119017",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.145725,
+          -0.5393371
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9689119017,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kiu new library",
+        "tags": {
+          "amenity": "library",
+          "name": "Kiu new library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9822270057",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9851637,
+          -1.2728649
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9822270057,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kabale University Main Library",
+        "tags": {
+          "amenity": "library",
+          "description": "This is the main Library of Kabale University",
+          "name": "Kabale University Main Library",
+          "opening_hours": "Mo-Fr 09:00-22:00; Sa, Su 09:00-16:00",
+          "phone": "+256 783837071",
+          "website": "https://opac.library.kab.ac.ug/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9822274681",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9850328,
+          -1.2726145
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9822274681,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "University Librarian Office",
+        "tags": {
+          "amenity": "library",
+          "description": "this is the office of the Kabale University Librarian",
+          "name": "University Librarian Office",
+          "opening_hours": "Mo-Fr 08:00-22:00",
+          "phone": "+256 773041242"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9853606118",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5767587,
+          0.2287121
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9853606118,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Public Library",
+        "tags": {
+          "addr:street": "Ndejje Road",
+          "amenity": "library",
+          "name": "Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11266831951",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7604273,
+          0.3923673
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11266831951,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "NHSVS Library",
+        "tags": {
+          "access": "permissive",
+          "amenity": "library",
+          "name": "NHSVS Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11659417472",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6653203,
+          0.3983159
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11659417472,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "BRIMS Heritage Resource Center",
+        "tags": {
+          "contact:phone": "+256772446323",
+          "name": "BRIMS Heritage Resource Center",
+          "owner": "Mr. Ssemwanga Emmaanuel",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741716368",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0619346,
+          0.7071142
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741716368,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bundibugyo Community Library",
+        "tags": {
+          "addr:district": "Bundibugyo",
+          "addr:village": "Bundibugyo Central",
+          "amenity": "library",
+          "fee": "Readers are not charged for reading within the library space. However, borrowing of resources is 30,000/= per year.",
+          "floors": "1",
+          "internet_access": "no",
+          "language:en": "yes",
+          "materials": "Books,Journals/Magazines",
+          "name": "Bundibugyo Community Library",
+          "operator:type": "Community Library",
+          "resources": "1,000-2,000",
+          "sections": "Children Section Adult Section ICT Section Study Rooms",
+          "services": "Borrowing Reference ICT services Reading Space",
+          "start_date": "2015",
+          "vision": "\"To be a unifying structure for collective and individual empowerment that supports all members of the community within Bundibugyo and the surrounding areas.\"",
+          "wikidata": "Q67783109"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741716370",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8170757,
+          0.2732895
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741716370,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Access Knowledge Africa Community Library",
+        "tags": {
+          "addr:district": "Mukono",
+          "addr:village": "Banda kyandaaza",
+          "amenity": "library",
+          "floors": "1",
+          "internet_access": "yes",
+          "language:en": "yes",
+          "language:lg": "yes",
+          "materials": "Books,Journals/Magazines,eBooks",
+          "name": "Access Knowledge Africa Community Library",
+          "operator:type": "Community Library",
+          "resources": "2,001-5,000",
+          "sections": "Children Section Adult Section ICT Section Study Rooms",
+          "services": "Borrowing Reference ICT services Reading Space",
+          "start_date": "2009",
+          "wikidata": "Q131360134"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741716371",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8590981,
+          0.191255
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741716371,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bunankanda Micro library",
+        "tags": {
+          "addr:district": "Mukono",
+          "addr:village": "Bunankanda",
+          "amenity": "library",
+          "floors": "1",
+          "internet_access": "no",
+          "language:en": "yes",
+          "materials": "Books",
+          "name": "Bunankanda Micro library",
+          "operator:type": "Community Library",
+          "resources": "Less than 1,000",
+          "sections": "Study Rooms",
+          "services": "Borrowing Reference Reading Space",
+          "start_date": "2024"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741716374",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4359256,
+          0.6713421
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741716374,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bonna Baana Association Community Library",
+        "tags": {
+          "addr:district": "Nakaseke",
+          "addr:village": "Bukalabi",
+          "amenity": "library",
+          "floors": "1",
+          "internet_access": "no",
+          "language:en": "yes",
+          "language:lg": "yes",
+          "language:sw": "yes",
+          "materials": "Books,Journals/Magazines",
+          "name": "Bonna Baana Association Community Library",
+          "operator:type": "Community Library",
+          "resources": "5,001+",
+          "sections": "Children Section ICT Section",
+          "services": "Borrowing ICT services Reading Space",
+          "wikidata": "Q131359945"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741716378",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.1108416,
+          0.6333574
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741716378,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kikandwa Environmental Association",
+        "tags": {
+          "addr:district": "Mityana",
+          "addr:village": "Kikandwa",
+          "amenity": "library",
+          "fee": "no",
+          "floors": "1",
+          "internet_access": "no",
+          "language:en": "yes",
+          "materials": "Books,Journals/Magazines",
+          "name": "Kikandwa Environmental Association",
+          "resources": "Less than 1,000",
+          "sections": "Adult Section",
+          "services": "Borrowing Reference",
+          "start_date": "1999 for the organization and 2012 for the library.",
+          "wikidata": "Q131360281"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741716382",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6563619,
+          0.497559
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741716382,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kabubbu Community Library",
+        "tags": {
+          "addr:country": "UG",
+          "addr:district": "Wakiso",
+          "addr:village": "Kabbubu",
+          "amenity": "library",
+          "fee": "no",
+          "floors": "1",
+          "internet_access": "yes",
+          "language:en": "yes",
+          "language:es": "yes",
+          "language:lg": "yes",
+          "language:sw": "yes",
+          "materials": "Books,Newspapers,Journals/Magazines,eBooks,Multimedia(Photographs/Artefacts)",
+          "name": "Kabubbu Community Library",
+          "resources": "2,001-5,000",
+          "sections": "Children Section Adult Section",
+          "services": "Borrowing ICT services Reading Space",
+          "start_date": "2004",
+          "wikidata": "Q131360335"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741716386",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2746083,
+          0.6550125
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741716386,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Fort Portal Public Library",
+        "tags": {
+          "addr:district": "Fort Portal",
+          "addr:village": "Fort Portal City",
+          "amenity": "library",
+          "fee": "no",
+          "floors": "1",
+          "internet_access": "yes",
+          "language:en": "yes",
+          "language:fr": "yes",
+          "materials": "Newspapers,Books,Journals/Magazines",
+          "name": "Fort Portal Public Library",
+          "operator:type": "Public Library",
+          "resources": "1,000-2,000",
+          "sections": "Children Section Adult Section ICT Section Study Rooms",
+          "services": "Reading Space ICT services Reference Borrowing",
+          "start_date": "1963",
+          "wikidata": "Q131360379"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741716387",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5210991,
+          -0.4778371
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741716387,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kiwangala Community Library",
+        "tags": {
+          "addr:district": "Lwengo",
+          "addr:village": "Kiwangala",
+          "amenity": "library",
+          "fee": "no",
+          "floors": "1",
+          "internet_access": "yes",
+          "language:en": "yes",
+          "language:lg": "yes",
+          "materials": "Books,Journals/Magazines,Multimedia(Photographs/Artefacts),Newspapers,eBooks,Indoor,games,,financial & literacy materials.",
+          "name": "Kiwangala Community Library",
+          "resources": "1,000-2,000",
+          "sections": "Children Section Adult Section ICT Section Study Rooms",
+          "services": "Borrowing Reference ICT services Reading Space",
+          "start_date": "2003",
+          "wikidata": "Q131360376"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741716390",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.0150278,
+          0.3693798
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741716390,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "PEFO Community Library",
+        "tags": {
+          "addr:district": "Busia",
+          "addr:village": "Munongo",
+          "amenity": "library",
+          "floors": "2",
+          "internet_access": "yes",
+          "language:en": "yes",
+          "language:sw": "yes",
+          "materials": "Books,Newspapers,Multimedia(Photographs/Artefacts),Journals/Magazines,Curriculum books",
+          "name": "PEFO Community Library",
+          "operator:type": "Community Library",
+          "resources": "1,000-2,000",
+          "sections": "Children Section ICT Section Adult Section",
+          "services": "Borrowing ICT services Reading Space Reference",
+          "start_date": "2017",
+          "wikidata": "Q68653137"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741716393",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7186931,
+          1.6845292
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741716393,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Masindi Public Library",
+        "tags": {
+          "addr:district": "Masindi",
+          "addr:village": "Masindi town",
+          "amenity": "library",
+          "floors": "1",
+          "internet_access": "yes",
+          "language:en": "yes",
+          "materials": "Books,Journals/Magazines,Newspapers,eBooks",
+          "name": "Masindi Public Library",
+          "operator:type": "Public Library",
+          "resources": "Less than 1,000",
+          "sections": "Children Section Adult Section ICT Section",
+          "services": "Reading Space",
+          "start_date": "1980"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741716394",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7483197,
+          -0.3997123
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741716394,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kitengesa Community Library",
+        "tags": {
+          "addr:district": "Masaka",
+          "addr:village": "Lwannunda",
+          "amenity": "library",
+          "fee": "membership fee",
+          "floors": "1",
+          "internet_access": "yes",
+          "language:en": "yes",
+          "language:sw": "yes",
+          "materials": "Books,eBooks,Journals/Magazines,Multimedia(Photographs/Artefacts)",
+          "name": "Kitengesa Community Library",
+          "operator:type": "Community Library",
+          "resources": "5,001+",
+          "sections": "ICT Section Study Rooms Adult Section Children Section",
+          "services": "Borrowing Reference ICT services Reading Space",
+          "start_date": "1999",
+          "wikidata": "Q618525",
+          "wikipedia": "en:Kitengesa Community Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741716395",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5312236,
+          0.3792225
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741716395,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Namanya Memorial Community Library",
+        "tags": {
+          "addr:district": "Wakiso",
+          "addr:village": "Nansana, Katooke A",
+          "amenity": "library",
+          "fee": "Free of charge at the moment. There's a plan to monetize services in future.",
+          "floors": "3",
+          "internet_access": "yes",
+          "language:en": "yes",
+          "language:lg": "yes",
+          "materials": "Books,eBooks",
+          "name": "Namanya Memorial Community Library",
+          "resources": "5,001+",
+          "sections": "Children Section Adult Section ICT Section Study Rooms",
+          "services": "Borrowing Reference ICT services Reading Space",
+          "start_date": "2022",
+          "wikidata": "Q131359781"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741716397",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5347339,
+          1.9819661
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741716397,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Florence Nightingale Community Library",
+        "tags": {
+          "addr:district": "Apac",
+          "addr:village": "Te Duka",
+          "amenity": "library",
+          "name": "Florence Nightingale Community Library",
+          "operator:type": "Community Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741721502",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7443424,
+          0.5731595
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741721502,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bugiri Public Library",
+        "tags": {
+          "addr:district": "Bugiri",
+          "addr:village": "Bugiri",
+          "amenity": "library",
+          "fee": "Reading services are free. But ICT Trainings are charged. The costs are 20,000/= per package.",
+          "floors": "1",
+          "internet_access": "yes",
+          "language:en": "yes",
+          "materials": "Books,Newspapers",
+          "name": "Bugiri Public Library",
+          "operator:type": "Public Library",
+          "resources": "2,001-5,000",
+          "sections": "Adult Section ICT Section Study Rooms",
+          "services": "Borrowing Reference, ICT services, Reading Space, Children's services, trainings and outreach services, among s.",
+          "start_date": "2015",
+          "wikidata": "Q131360578"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741721503",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6017821,
+          0.4186562
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741721503,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Tusome Childrens Resource Centre",
+        "tags": {
+          "addr:district": "Wakiso",
+          "addr:village": "Magere, Kito",
+          "amenity": "library",
+          "fee": "Yes and No. Membership for a year is Shs. 50,000. However, only a quarter of the children are able to pay.",
+          "floors": "1",
+          "internet_access": "no",
+          "language:en": "yes",
+          "language:lg": "yes",
+          "materials": "Books,eBooks,Children's,educational,videos",
+          "name": "Tusome Childrens Resource Centre",
+          "resources": "1,000-2,000",
+          "sections": "Children Section",
+          "services": "Reading Space Borrowing",
+          "start_date": "2023"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741721507",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.206604,
+          0.4262782
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741721507,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Jinja Public Library",
+        "tags": {
+          "addr:district": "Jinja",
+          "addr:village": "Jinja City",
+          "amenity": "library",
+          "fee": "Computer users are charged 2,000/= per day, 20,000/= per month, and 120,000/= per year to help with electricity bills. But readers are not charged.",
+          "floors": "1",
+          "internet_access": "yes",
+          "language:en": "yes",
+          "language:lg": "yes",
+          "language:xog": "yes",
+          "materials": "Books,Journals/Magazines,Newspapers,eBooks",
+          "name": "Jinja Public Library",
+          "operator:type": "Public Library",
+          "resources": "1,000-2,000",
+          "sections": "Children Section ICT Section Study Rooms Adult Section",
+          "services": "Reading Space ICT services Reference Borrowing",
+          "start_date": "1963",
+          "wikidata": "Q131361180"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741721514",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.1689688,
+          0.3789656
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741721514,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Zigoti Community Library",
+        "tags": {
+          "addr:district": "Mityana",
+          "addr:village": "Zigoti",
+          "amenity": "library",
+          "fee": "no",
+          "floors": "1",
+          "internet_access": "no",
+          "language:en": "yes",
+          "language:lg": "yes",
+          "language:sw": "yes",
+          "materials": "Books,Journals/Magazines,Multimedia(Photographs/Artefacts),Newspapers,eBooks,Other",
+          "name": "Zigoti Community Library",
+          "resources": "1,000-2,000",
+          "sections": "Children Section Adult Section Study Rooms",
+          "services": "Reading Space Borrowing",
+          "start_date": "1998",
+          "wikidata": "Q68653298"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741721516",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5607714,
+          0.3797001
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741721516,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kawempe Youth Centre",
+        "tags": {
+          "addr:district": "Kampala",
+          "addr:village": "Kizza",
+          "amenity": "library",
+          "fee": "1000 ugx",
+          "floors": "1",
+          "internet_access": "yes",
+          "language:en": "yes",
+          "language:lg": "yes",
+          "language:sw": "yes",
+          "materials": "Books,Journals/Magazines,eBooks",
+          "name": "Kawempe Youth Centre",
+          "operator:type": "Community Library",
+          "resources": "1,000-2,000",
+          "sections": "Children Section Adult Section ICT Section",
+          "services": "Borrowing Reference ICT services Reading Space",
+          "start_date": "2005",
+          "wikidata": "Q68652862"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741721517",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8970905,
+          2.2567225
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741721517,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Lira Public Library",
+        "tags": {
+          "addr:district": "Lira",
+          "addr:village": "Junior Quarters A",
+          "amenity": "library",
+          "internet_access": "yes",
+          "name": "Lira Public Library",
+          "operator:type": "Public Library",
+          "services": "ICT services Borrowing Reference Reading Space",
+          "wikidata": "Q68653086"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741721518",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4448936,
+          0.5138533
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741721518,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Art of A child Uganda",
+        "tags": {
+          "addr:district": "Wakiso",
+          "addr:village": "Lulagala, along Semuto Road (after Kavule)",
+          "amenity": "library",
+          "fee": "Free of charge",
+          "floors": "1",
+          "internet_access": "no",
+          "language:en": "yes",
+          "language:lg": "yes",
+          "language:sw": "yes",
+          "materials": "Books,Journals/Magazines",
+          "name": "Art of A child Uganda",
+          "resources": "2,001-5,000",
+          "sections": "Children Section",
+          "services": "Borrowing Reference Reading Space",
+          "start_date": "2014",
+          "wikidata": "Q131360241"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741721521",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.0547094,
+          0.731135
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741721521,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mansueto Library",
+        "tags": {
+          "addr:district": "Kiboga",
+          "addr:village": "Kalokola",
+          "amenity": "library",
+          "floors": "1",
+          "internet_access": "no",
+          "language:en": "yes",
+          "language:lg": "yes",
+          "materials": "Books,Newspapers",
+          "name": "Mansueto Library",
+          "operator:type": "Community Library",
+          "resources": "1,000-2,000",
+          "sections": "Children Section Adult Section",
+          "services": "Reference Reading Space Borrowing",
+          "start_date": "2022",
+          "wikidata": "Q131360371"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741721523",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.1230001,
+          0.9421034
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741721523,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Uganda Development Services Community Library",
+        "tags": {
+          "addr:district": "Kamuli",
+          "addr:village": "Kamuli town before the round about.",
+          "amenity": "library",
+          "fee": "Users pay 5,000/= every month. Computer fees are charged according to the package one's studying. The cheapest package is 20,000/=.",
+          "floors": "1",
+          "internet_access": "yes",
+          "language:en": "yes",
+          "materials": "Books,Newspapers",
+          "mission": "\"To equip rural and other vulnerable communities with relevant information, knowledge, and skills for sustained improvement of lives.\"",
+          "name": "Uganda Development Services Community Library",
+          "operator:type": "Community Library",
+          "resources": "Less than 1,000",
+          "sections": "Children Section Adult Section ICT Section Study Rooms",
+          "services": "Borrowing Reference ICT services Reading Space",
+          "start_date": "2001",
+          "vision": "\"Communities well informed,knowledgeable and skilled.\"",
+          "wikidata": "Q131360477"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741721525",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8319138,
+          0.2602015
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741721525,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Marko Lukooya Memorial Community Library",
+        "tags": {
+          "addr:district": "Mukono",
+          "addr:village": "Banda Bugenderadala",
+          "amenity": "library",
+          "fee": "ICT",
+          "floors": "1",
+          "internet_access": "yes",
+          "language:en": "yes",
+          "materials": "Books,Journals/Magazines,Newspapers,eBooks",
+          "name": "Marko Lukooya Memorial Community Library",
+          "operator:type": "Community Library",
+          "resources": "1,000-2,000",
+          "sections": "Study Rooms ICT Section",
+          "services": "Borrowing Reference ICT services Reading Space",
+          "start_date": "2014",
+          "wikidata": "Q131361137"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741721533",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.752313,
+          0.359571
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741721533,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Lutex Community Library",
+        "tags": {
+          "addr:district": "Mukono",
+          "addr:village": "Mukono central division",
+          "amenity": "library",
+          "floors": "1",
+          "internet_access": "no",
+          "language:en": "yes",
+          "materials": "Books,Journals/Magazines",
+          "name": "Lutex Community Library",
+          "operator:type": "Community Library",
+          "resources": "1,000-2,000",
+          "sections": "Children Section",
+          "services": "Borrowing Reference Reading Space",
+          "start_date": "2022",
+          "wikidata": "Q131360177"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741721535",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9874351,
+          -1.2521122
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741721535,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Sepi Mukombe Mpambara Public Library",
+        "tags": {
+          "addr:district": "Kabale",
+          "addr:village": "Kabale",
+          "amenity": "library",
+          "floors": "1",
+          "internet_access": "no",
+          "language:cgg": "yes",
+          "language:en": "yes",
+          "language:lg": "yes",
+          "language:nyn": "yes",
+          "materials": "Books,Journals/Magazines,Newspapers",
+          "name": "Sepi Mukombe Mpambara Public Library",
+          "operator:type": "Community Library",
+          "resources": "2,001-5,000",
+          "sections": "Adult Section ICT Section",
+          "services": "Borrowing ICT services Reading Space",
+          "wikidata": "Q131361005"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741721538",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.827141,
+          0.229494
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741721538,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Youth Rising International",
+        "tags": {
+          "addr:district": "Mukono",
+          "addr:village": "Salaama",
+          "amenity": "library",
+          "floors": "1",
+          "internet_access": "yes",
+          "language:en": "yes",
+          "language:sw": "yes",
+          "language:zh": "yes",
+          "materials": "Books,Journals/Magazines,eBooks",
+          "name": "Youth Rising International",
+          "operator:type": "Community Library",
+          "resources": "1,000-2,000",
+          "sections": "Children Section Study Rooms ICT Section",
+          "services": "Borrowing Reference Reading Space ICT services",
+          "start_date": "2013",
+          "wikidata": "Q68653128"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741721542",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2099064,
+          -0.9178166
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741721542,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Nyungu Streams Community Resource Centre",
+        "tags": {
+          "addr:district": "Sheema",
+          "addr:village": "Nyakaraire",
+          "amenity": "library",
+          "fee": "Membership",
+          "floors": "1",
+          "internet_access": "yes",
+          "language:en": "yes",
+          "materials": "Books,Journals/Magazines,Newspapers,eBooks,Multimedia(Photographs/Artefacts)",
+          "name": "Nyungu Streams Community Resource Centre",
+          "operator:type": "Community Library",
+          "resources": "1,000-2,000",
+          "sections": "Adult Section ICT Section Study Rooms",
+          "services": "Reading Space Borrowing ICT services",
+          "start_date": "2021",
+          "wikidata": "Q131360481"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741721544",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.2943228,
+          2.7739032
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741721544,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Gulu Public Library",
+        "tags": {
+          "addr:district": "Gulu",
+          "addr:village": "Bar Dege",
+          "amenity": "library",
+          "name": "Gulu Public Library",
+          "operator:type": "Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741721546",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2634365,
+          0.6522333
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741721546,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Rwenzori Information Centre's Network",
+        "tags": {
+          "addr:district": "Kabarole",
+          "addr:village": "Butango",
+          "amenity": "library",
+          "floors": "1",
+          "internet_access": "yes",
+          "language:en": "yes",
+          "language:sw": "yes",
+          "language:ttj": "yes",
+          "materials": "Books,Journals/Magazines,Multimedia(Photographs/Artefacts),Newspapers",
+          "mission": "\"To establish and support community information centers that enhance timely information/knowledge sharing that is vital to the development of grassroot communities.\"",
+          "name": "Rwenzori Information Centre's Network",
+          "operator:type": "Community Library",
+          "resources": "1,000-2,000",
+          "sections": "ICT Section Adult Section",
+          "services": "ICT services Borrowing Reading Space",
+          "start_date": "2006",
+          "vision": "\"A Community equitable served with information through the use of oICT for sustainable rural development.\"",
+          "wikidata": "Q131360572"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741721553",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.5998345,
+          0.6254721
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741721553,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Busesa Community Library",
+        "tags": {
+          "addr:district": "Bugweri",
+          "addr:village": "Busesa",
+          "amenity": "library",
+          "floors": "2",
+          "internet_access": "yes",
+          "language:en": "yes",
+          "language:lg": "yes",
+          "language:xog": "yes",
+          "materials": "Books,Journals/Magazines,Newspapers",
+          "mission": "\"A library to help children in Uganda rural community, access much needed reading resources.\"",
+          "name": "Busesa Community Library",
+          "operator:type": "Community Library",
+          "resources": "5,001+",
+          "sections": "Children Section Adult Section ICT Section Study Rooms",
+          "services": "Borrowing Reference ICT services Reading Space",
+          "start_date": "2015",
+          "vision": "\"To promote education in rural and disadvantaged communities.\"",
+          "wikidata": "Q131360233"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741721556",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7115024,
+          1.1674946
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741721556,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Pallisa Public Library",
+        "tags": {
+          "addr:district": "Pallisa",
+          "addr:village": "Pallisa Town Council",
+          "amenity": "library",
+          "floors": "1",
+          "internet_access": "yes",
+          "language:en": "yes",
+          "language:gwr": "yes",
+          "language:sw": "yes",
+          "language:teo": "yes",
+          "materials": "Books,Journals/Magazines,Newspapers,eBooks",
+          "name": "Pallisa Public Library",
+          "operator:type": "Public Library",
+          "resources": "5,001+",
+          "sections": "Children Section Adult Section ICT Section Study Rooms",
+          "services": "Borrowing Reference ICT services Reading Space",
+          "start_date": "2006",
+          "wikidata": "Q131360294"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741721563",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.1849443,
+          0.629301
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741721563,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Nambi Ssepuya Community Resource center",
+        "tags": {
+          "addr:district": "Jinja",
+          "addr:village": "Igombe, Bulagala",
+          "amenity": "library",
+          "fee": "From 2007 - 2017, no fees were paid. Later on, fees were introduced, but the users didn't buy the idea. This caused the library to lose a number of clients.",
+          "floors": "1",
+          "internet_access": "no",
+          "language:en": "yes",
+          "language:lg": "yes",
+          "language:xog": "yes",
+          "materials": "Books,Newspapers,eBooks",
+          "name": "Nambi Ssepuya Community Resource center",
+          "operator:type": "Community Library",
+          "resources": "5,001+",
+          "sections": "Children Section Adult Section ICT Section Study Rooms",
+          "services": "Borrowing Reference ICT services Reading Space",
+          "start_date": "2007"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741721565",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.223888,
+          -1.2346592
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741721565,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Canon Esau Public Library",
+        "tags": {
+          "addr:district": "Rukiga",
+          "addr:village": "Kamwizi",
+          "amenity": "library",
+          "floors": "1",
+          "internet_access": "yes",
+          "language:en": "yes",
+          "language:sw": "yes",
+          "materials": "Journals/Magazines,Books",
+          "name": "Canon Esau Public Library",
+          "operator:type": "Community Library",
+          "resources": "Less than 1,000",
+          "sections": "ICT Section Study Rooms",
+          "services": "Borrowing ICT services Reading Space",
+          "start_date": "2023",
+          "wikidata": "Q131360339"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741721568",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.714252,
+          1.1736363
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741721568,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "St. Jude's Information and Media Centre",
+        "tags": {
+          "addr:district": "Pallisa",
+          "addr:village": "Kisenyi",
+          "amenity": "library",
+          "internet_access": "no",
+          "language:en": "yes",
+          "materials": "Books,Newspapers",
+          "name": "St. Jude's Information and Media Centre",
+          "operator:type": "Community Library",
+          "resources": "1,000-2,000",
+          "services": "Borrowing Reading Space Reference",
+          "wikidata": "Q131360412"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741721572",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2000824,
+          1.1051446
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741721572,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Sarah Horowitz memorial library",
+        "tags": {
+          "addr:district": "Mbale",
+          "addr:village": "Buddi A",
+          "amenity": "library",
+          "floors": "1",
+          "internet_access": "yes",
+          "language:en": "yes",
+          "language:he": "yes",
+          "language:myx": "yes",
+          "materials": "Newspapers,Books",
+          "mission": "To produce children with basic educational training to prepare them to meet challenges like providing an all round education in and out of classroom environment at an affordable cost that is within the means of every parent in Uganda .",
+          "name": "Sarah Horowitz memorial library",
+          "operator:type": "Community Library",
+          "resources": "5,001+",
+          "sections": "Study Rooms",
+          "services": "Borrowing Reading Space ICT services",
+          "start_date": "2011",
+          "vision": "To become a leading provider of quality ,affordable and complete education to children in Uganda",
+          "wikidata": "Q131360377"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741721573",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6198668,
+          0.4696712
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741721573,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bereans community Library",
+        "tags": {
+          "addr:district": "Wakiso",
+          "addr:village": "Cannan Estate Manyangwa",
+          "amenity": "library",
+          "fee": "no",
+          "floors": "1",
+          "internet_access": "no",
+          "language:en": "yes",
+          "materials": "Books,Newspapers,Journals/Magazines",
+          "name": "Bereans community Library",
+          "resources": "2,001-5,000",
+          "sections": "Children Section Adult Section Study Rooms",
+          "services": "Borrowing Reference Reading Space",
+          "start_date": "2023",
+          "wikidata": "Q131360209"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741721576",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3978421,
+          0.7186424
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741721576,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Nakaseke Community Library",
+        "tags": {
+          "addr:district": "Nakaseke",
+          "addr:village": "Nakaseke Central",
+          "amenity": "library",
+          "fee": "20000 per year. But for reading is free",
+          "floors": "1",
+          "internet_access": "yes",
+          "language:en": "yes",
+          "language:lg": "yes",
+          "language:sw": "yes",
+          "materials": "Books,Journals/Magazines,eBooks,Newspapers,Multimedia(Photographs/Artefacts), Reference Materials",
+          "name": "Nakaseke Community Library",
+          "operator:type": "Community Library",
+          "resources": "5,001+",
+          "sections": "Children Section Adult Section ICT Section",
+          "services": "Borrowing Reference ICT services Reading Space",
+          "start_date": "2002",
+          "wikidata": "Q68653037"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741721578",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8089817,
+          -0.8098126
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741721578,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Nyaka Blue Lupin Community Library",
+        "tags": {
+          "addr:district": "Kanungu",
+          "addr:village": "Kambuga",
+          "amenity": "library",
+          "fee": "Computer Usage, Computer Training, Internet Usage, Coffee Shop, Subscription",
+          "floors": "1",
+          "internet_access": "yes",
+          "language:en": "yes",
+          "language:sw": "yes",
+          "materials": "Books,Journals/Magazines,Multimedia(Photographs/Artefacts),Newspapers,eBooks",
+          "name": "Nyaka Blue Lupin Community Library",
+          "operator:type": "Community Library",
+          "resources": "5,001+",
+          "sections": "Children Section Adult Section ICT Section Study Rooms",
+          "services": "Borrowing Reference ICT services Reading Space",
+          "start_date": "2010"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741721582",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5977451,
+          0.2979066
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741721582,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Book drive Read to Learn foundation",
+        "tags": {
+          "addr:district": "Kampala",
+          "addr:village": "Kabalaga",
+          "amenity": "library",
+          "floors": "1",
+          "internet_access": "yes",
+          "language:en": "yes",
+          "language:fr": "yes",
+          "language:lg": "yes",
+          "language:sw": "yes",
+          "materials": "Books,Newspapers,eBooks,Academic Games ablnd Toys",
+          "name": "Book drive Read to Learn foundation",
+          "operator:type": "Community Library",
+          "resources": "5,001+",
+          "sections": "ICT Section Children Section Adult Section Study Rooms",
+          "services": "Borrowing ICT services Reading Space",
+          "start_date": "2020",
+          "wikidata": "Q131360561"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741721585",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5791477,
+          0.2988711
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741721585,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mummy Foundation Community Library",
+        "tags": {
+          "addr:district": "Kampala",
+          "addr:village": "Katwe, Kiganda",
+          "amenity": "library",
+          "floors": "1",
+          "internet_access": "yes",
+          "language:en": "yes",
+          "language:lg": "yes",
+          "materials": "Books",
+          "name": "Mummy Foundation Community Library",
+          "operator:type": "Community Library",
+          "resources": "2,001-5,000",
+          "sections": "Study Rooms ICT Section",
+          "services": "Borrowing Reference ICT services Reading Space",
+          "start_date": "2014",
+          "wikidata": "Q68653113"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741721590",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5859851,
+          0.2958815
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741721590,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "M-LISADA Community Library",
+        "tags": {
+          "addr:district": "Kampala",
+          "addr:village": "Buyindo Village",
+          "amenity": "library",
+          "floors": "1",
+          "internet_access": "no",
+          "language:en": "yes",
+          "language:lg": "yes",
+          "materials": "Books,Multimedia(Photographs/Artefacts)",
+          "name": "M-LISADA Community Library",
+          "operator:type": "Community Library",
+          "resources": "2,001-5,000",
+          "sections": "Children Section Adult Section",
+          "services": "Borrowing Reading Space",
+          "start_date": "1996",
+          "wikidata": "Q131360211"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741721592",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.604173,
+          0.3502667
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741721592,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Uganda Community Culture Centre (Speaker's Forum)",
+        "tags": {
+          "addr:district": "Kampala",
+          "addr:village": "Bukoto, Masalini Zone",
+          "amenity": "library",
+          "floors": "1",
+          "internet_access": "no",
+          "language:en": "yes",
+          "language:lg": "yes",
+          "materials": "Books,Journals/Magazines",
+          "name": "Uganda Community Culture Centre (Speaker's Forum)",
+          "operator:type": "Community Library",
+          "resources": "2,001-5,000",
+          "sections": "Children Section Adult Section",
+          "services": "Reading Space Borrowing",
+          "start_date": "2012"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741721594",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4543901,
+          0.1861227
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741721594,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kamwenge Community Information Centers Network",
+        "tags": {
+          "addr:district": "Kamwenge",
+          "addr:village": "Kamwenge near Post Bank.",
+          "amenity": "library",
+          "floors": "1",
+          "internet_access": "yes",
+          "language:en": "yes",
+          "materials": "Books,Newspapers",
+          "name": "Kamwenge Community Information Centers Network",
+          "operator:type": "Community Library",
+          "resources": "Less than 1,000",
+          "sections": "ICT Section Adult Section Children Section Study Rooms",
+          "services": "Borrowing Reference ICT services Reading Space",
+          "start_date": "2010"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741721598",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5756914,
+          -0.416173
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741721598,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Suubi Community Library",
+        "tags": {
+          "addr:district": "Masaka",
+          "addr:village": "Kinoni",
+          "amenity": "library",
+          "floors": "1",
+          "internet_access": "yes",
+          "language:en": "yes",
+          "language:lg": "yes",
+          "language:sw": "yes",
+          "materials": "Books,Journals/Magazines,Newspapers",
+          "name": "Suubi Community Library",
+          "resources": "Less than 1,000",
+          "sections": "Children Section Adult Section ICT Section Study Rooms",
+          "services": "Borrowing ICT services Reading Space",
+          "start_date": "2008",
+          "wikidata": "Q131359961"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741721600",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.1756764,
+          0.4418199
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741721600,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Adult Education Center Community Library under EDI, Uganda.",
+        "tags": {
+          "addr:district": "Buikwe",
+          "addr:village": "Triangle, Nile, Njeru",
+          "amenity": "library",
+          "fee": "Yes, library users are charged 5,000/= as the membership fees. And 10,000/= as a monthly payment.",
+          "floors": "1",
+          "internet_access": "yes",
+          "language:de": "yes",
+          "language:en": "yes",
+          "language:lg": "yes",
+          "materials": "Books,Newspapers,Journals/Magazines",
+          "name": "Adult Education Center Community Library under EDI, Uganda.",
+          "operator:type": "Community Library",
+          "resources": "1,000-2,000",
+          "sections": "Adult Section ICT Section Study Rooms Children Section",
+          "services": "Reading Space Borrowing Reference ICT services"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741721601",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5459206,
+          -0.9223926
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741721601,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mbarara Public Library",
+        "tags": {
+          "addr:country": "UG",
+          "addr:district": "Mbarara",
+          "addr:village": "Kamukuzi, Stanley Road",
+          "amenity": "library",
+          "floors": "1",
+          "internet_access": "yes",
+          "language:en": "yes",
+          "language:es": "yes",
+          "language:fr": "yes",
+          "language:lg": "yes",
+          "language:nyn": "yes",
+          "materials": "Journals/Magazines,Books,Multimedia(Photographs/Artefacts),Newspapers,eBooks",
+          "name": "Mbarara Public Library",
+          "operator:type": "Public Library",
+          "resources": "5,001+",
+          "sections": "Children Section Adult Section ICT Section",
+          "services": "Borrowing Reference ICT services Reading Space",
+          "wikidata": "Q67783632"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741721603",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7781935,
+          0.5082462
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12741721603,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Mukono Multipurpose Youth Organisation",
+        "tags": {
+          "addr:district": "Mukono",
+          "addr:village": "wabikokoma",
+          "amenity": "library",
+          "name": "Mukono Multipurpose Youth Organisation",
+          "operator:type": "Community Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12875548601",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9131489,
+          3.0176778
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12875548601,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Arua Public Library",
+        "tags": {
+          "addr:housenumber": "72",
+          "addr:street": "Avenue Road",
+          "amenity": "library",
+          "name": "Arua Public Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13009305074",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4152287,
+          2.1198517
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13009305074,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "BUGUNGU HERITAGE AND INFORMATION CENTRE MUSEUM",
+        "tags": {
+          "museum": "local",
+          "name": "BUGUNGU HERITAGE AND INFORMATION CENTRE MUSEUM",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13009305075",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.655269,
+          2.5418253
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13009305075,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "ATEKER CULTURAL CENTRE MUSEUM",
+        "tags": {
+          "museum": "history",
+          "name": "ATEKER CULTURAL CENTRE MUSEUM",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13009309654",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9659303,
+          1.5299612
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13009309654,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "BUNYORO COMMUNITY HISTORICAL MUSEUM ASSOCIATIONS FOR PEACE",
+        "tags": {
+          "museum": "history",
+          "name": "BUNYORO COMMUNITY HISTORICAL MUSEUM ASSOCIATIONS FOR PEACE",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13009340086",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.2184677,
+          0.4453515
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13009340086,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "RAILWAY MUSEUM",
+        "tags": {
+          "museum": "railway",
+          "name": "RAILWAY MUSEUM",
+          "tourism": "museum",
+          "wikidata": "Q111924939",
+          "wikipedia": "en:Uganda Railway Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13009341485",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6317216,
+          -0.6124161
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13009341485,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "EAST AFRICAN REVIVAL MUSEUM",
+        "tags": {
+          "addr:city": "Mbarara , Ruharo",
+          "addr:street": "Church Road",
+          "museum": "living_history",
+          "name": "EAST AFRICAN REVIVAL MUSEUM",
+          "operator": "Church of Uganda",
+          "operator:type": "religious",
+          "tourism": "museum",
+          "wikidata": "Q134307866",
+          "wikipedia": "en:East African Revival Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13009349201",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.297102,
+          0.6518201
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13009349201,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "KOOGERE COMMUNITY MUSEUM",
+        "tags": {
+          "museum": "history",
+          "name": "KOOGERE COMMUNITY MUSEUM",
+          "operator": "KOOGERE FOUNDATION",
+          "operator:type": "community",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13009350448",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.4862655,
+          0.6023468
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13009350448,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "KIGULU CULTURAL MUSEUM",
+        "tags": {
+          "museum": "history",
+          "name": "KIGULU CULTURAL MUSEUM",
+          "tourism": "museum",
+          "wikidata": "Q106937496",
+          "wikipedia": "en:Kigulu Cultural Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13009350852",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8164758,
+          0.9433144
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13009350852,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "UGANDA RURAL DEVELOPMENT AND TRAINING PROGRAM- CULTURAL ASSETS CENTRE",
+        "tags": {
+          "museum": "history",
+          "name": "UGANDA RURAL DEVELOPMENT AND TRAINING PROGRAM- CULTURAL ASSETS CENTRE",
+          "operator": "UGANDA RURAL DEVELOPMENT AND TRAINING CENTRE",
+          "operator:type": "university",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13009351539",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.2070622,
+          0.4338772
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13009351539,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "CULTURAL REASEARCH CENTRE MUSEUM",
+        "tags": {
+          "museum": "history",
+          "name": "CULTURAL REASEARCH CENTRE MUSEUM",
+          "operator": "CULTURAL REASEARCH CENTRE",
+          "operator:type": "community",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13009499736",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.194878,
+          1.0970525
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13009499736,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "KAKUNGULU MUSEUM",
+        "tags": {
+          "museum": "history",
+          "name": "KAKUNGULU MUSEUM",
+          "tourism": "museum",
+          "wikidata": "Q134308011",
+          "wikipedia": "en:Semei Kakungulu Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13009500733",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5637837,
+          -0.6173057
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13009500733,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "ST. LUKE COMMUNITY MUSEUM",
+        "tags": {
+          "addr:city": "Kiteredde",
+          "addr:street": "Masaka-Kakuto Road",
+          "museum": "local",
+          "name": "ST. LUKE COMMUNITY MUSEUM",
+          "operator": "Community",
+          "operator:type": "religious",
+          "tourism": "museum",
+          "wikidata": "Q106936881",
+          "wikipedia": "en:St. Luke Community Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13009504386",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8960461,
+          2.245247
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13009504386,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "LANGO HERITAGE CENTRE MUSEUM",
+        "tags": {
+          "addr:city": "Lira City",
+          "addr:street": "Olwol Road",
+          "name": "LANGO HERITAGE CENTRE MUSEUM",
+          "operator": "community",
+          "operator:type": "community",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13009523365",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9108215,
+          3.0176121
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13009523365,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "MADI LUGBARA MUSUEM",
+        "tags": {
+          "addr:city": "Arua",
+          "addr:street": "Ediofe Road",
+          "museum": "history",
+          "name": "MADI LUGBARA MUSUEM",
+          "operator": "MADI LUGBARA COMMUNITY",
+          "operator:type": "community",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13009524863",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7880499,
+          3.6672145
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13009524863,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "MADI COMMUNITY MUSEUM",
+        "tags": {
+          "museum": "history",
+          "name": "MADI COMMUNITY MUSEUM",
+          "operator": "community",
+          "operator:type": "community",
+          "tourism": "museum",
+          "wikidata": "Q111904516",
+          "wikipedia": "en:Madi Community Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13009526324",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.608438,
+          1.7194658
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13009526324,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "ATEKER MUSUEM",
+        "tags": {
+          "addr:city": "Soroti",
+          "museum": "history",
+          "name": "ATEKER MUSUEM",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13009528184",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5805999,
+          0.3143923
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13009528184,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "C.N KIKONYOGO MONEY MUSEUM",
+        "tags": {
+          "addr:city": "Kampala",
+          "addr:street": "Nile Avenue / Shimoni Road",
+          "museum": "history",
+          "name": "C.N KIKONYOGO MONEY MUSEUM",
+          "operator": "Bank of Uganda",
+          "operator:type": "government",
+          "tourism": "museum",
+          "wikidata": "Q97452923",
+          "wikipedia": "en:C.N. Kikonyogo Money Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13009544966",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5914114,
+          0.3093973
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13009544966,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "UGANDA POLICE MUSEUM",
+        "tags": {
+          "addr:city": "Kampala",
+          "addr:street": "Kibuli Road",
+          "museum": "history",
+          "name": "UGANDA POLICE MUSEUM",
+          "operator": "Uganda Police",
+          "operator:type": "government",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13009550069",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.740796,
+          -0.3191325
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13009550069,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "BUDDU COMMUNITY MUSEUM",
+        "tags": {
+          "addr:city": "Ssaza Central",
+          "addr:street": "Masaka Bypass",
+          "museum": "history",
+          "name": "BUDDU COMMUNITY MUSEUM",
+          "operator": "Buganda Kingdom",
+          "operator:type": "local_authority",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13009554088",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7563225,
+          0.3667289
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13009554088,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "HAM MUKASA MUSEUM",
+        "tags": {
+          "addr:city": "Mukono",
+          "addr:street": "Kayunga - Bugerere Road",
+          "museum": "history",
+          "name": "HAM MUKASA MUSEUM",
+          "operator": "individual",
+          "operator:type": "private",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13009554641",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6187588,
+          0.3298613
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13009554641,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "URA MUSEUM",
+        "tags": {
+          "addr:city": "Kampala",
+          "addr:street": "URA Nakawa Road",
+          "museum": "local",
+          "name": "URA MUSEUM",
+          "operator": "Uganda Revenue Authority",
+          "operator:type": "government",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13731917013",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6844243,
+          2.5211236
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 13731917013,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Karamoja Cultural Museum",
+        "tags": {
+          "museum": "local",
+          "name": "Karamoja Cultural Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/129865311",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7407199,
+          0.3551407
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 129865311,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Ham Mukasa Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Ham Mukasa Library",
+          "source": "lib"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/129873967",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7424491,
+          0.3567451
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 129873967,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "BISHOP TUCKER Library",
+        "tags": {
+          "amenity": "library",
+          "name": "BISHOP TUCKER Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/149416644",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7409283,
+          0.3572535
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 149416644,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "law lib",
+        "tags": {
+          "name": "law lib",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/149851239",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7409746,
+          0.3569625
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 149851239,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "children library",
+        "tags": {
+          "amenity": "library",
+          "name": "children library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/152792759",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6164981,
+          1.716552
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 152792759,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/161412045",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6163608,
+          0.3530252
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 161412045,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "School for the Deaf Library",
+        "tags": {
+          "amenity": "library",
+          "building": "school",
+          "name": "School for the Deaf Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/169069193",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5550877,
+          0.3282645
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 169069193,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Kasubi Royal Tombs",
+        "tags": {
+          "heritage": "1",
+          "heritage:operator": "whc",
+          "name": "Kasubi Royal Tombs",
+          "name:de": "Königliche Gräber der Buganda zu Kasubi",
+          "name:en": "Kasubi Royal Tombs",
+          "name:es": "Tumbas de los reyes de Buganda en Kasubi",
+          "name:fr": "Tombes des rois du Buganda à Kasubi",
+          "ref:whc": "1022",
+          "tourism": "museum",
+          "whc:criteria": "(i)(iii)(iv)(vi)",
+          "whc:inscription_date": "2001"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177113179",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5608029,
+          0.3796307
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 177113179,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kawempe Youth Centre",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Kawempe Youth Centre",
+          "wikidata": "Q68652862"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/181581827",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6561605,
+          -0.6172373
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 181581827,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "University Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "University Library",
+          "wikidata": "Q23090491"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/220687331",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5670291,
+          0.3348757
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 220687331,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "School of Library and Information Sciences",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "building:condition": "good",
+          "building:levels": "2",
+          "building:material": "concrete",
+          "name": "School of Library and Information Sciences"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/220687332",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5672692,
+          0.3346279
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 220687332,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "East African School of Library and Fomration Science",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "building:condition": "good",
+          "building:levels": "4",
+          "building:material": "concrete",
+          "name": "East African School of Library and Fomration Science"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/220687335",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5677389,
+          0.3352478
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 220687335,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Library Extension",
+        "tags": {
+          "amenity": "library",
+          "building": "university",
+          "name": "Library Extension"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/220690279",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5638433,
+          0.3363192
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 220690279,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "lecture hall and offices",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "building:condition": "average",
+          "building:levels": "1",
+          "building:material": "brick",
+          "name": "lecture hall and offices"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/228343052",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0197792,
+          -1.3218607
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 228343052,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/243766498",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.1783804,
+          1.0783866
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 243766498,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263780775",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5655171,
+          0.3023403
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 263780775,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Buganda Kingdom museum",
+        "tags": {
+          "building": "yes",
+          "name": "Buganda Kingdom museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/303524468",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.8631788,
+          1.4731464
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 303524468,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "KUMI University Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "KUMI University Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/323454835",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.1242711,
+          0.9463059
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 323454835,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Kamuli Town Council Public Library",
+        "tags": {
+          "addr:city": "Lufulandizi",
+          "addr:county": "Bugabula",
+          "addr:district": "Kamuli",
+          "addr:parish": "Muwebwa",
+          "addr:subcounty": "Kamuli Town Council",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Kamuli Town Council Public Library",
+          "source": "www.ubos.org",
+          "source:date": "2010..2014"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/381163849",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6315172,
+          0.3744628
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 381163849,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "kiwatule rec park history museum",
+        "tags": {
+          "building": "yes",
+          "name": "kiwatule rec park history museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/426740144",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5288421,
+          0.3646299
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 426740144,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/445140505",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.2066772,
+          0.4263648
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 445140505,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Public Libary Jinja",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Public Libary Jinja"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/570476006",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6375776,
+          0.4757056
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 570476006,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/612249589",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6306377,
+          0.3492429
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 612249589,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Central Teaching Facility",
+        "tags": {
+          "amenity": "library",
+          "name": "Central Teaching Facility"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/650704169",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6063594,
+          0.2835551
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 650704169,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "IUEA_Library",
+        "tags": {
+          "amenity": "library",
+          "name": "IUEA_Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/852138992",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6665,
+          0.3956927
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 852138992,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Namugongo Matyr's Museum",
+        "tags": {
+          "building": "yes",
+          "name": "Namugongo Matyr's Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/5125888",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5673331,
+          0.3348098
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 5125888,
+        "country": "Uganda",
+        "alpha_2": "UG",
+        "countries": [
+          "UG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Main Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Main Library",
+          "type": "multipolygon"
+        }
+      }
+    }
+  ]
+}

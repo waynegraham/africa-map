@@ -1,0 +1,280 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/4943030712",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7836633,
+          -0.7317585
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4943030712,
+        "country": "Gabon",
+        "alpha_2": "GA",
+        "countries": [
+          "GA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Dom Bosco",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Dom Bosco"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4977599680",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4649978,
+          -1.1342737
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4977599680,
+        "country": "Gabon",
+        "alpha_2": "GA",
+        "countries": [
+          "GA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre de Documentation et d'Information",
+        "tags": {
+          "alt_name": "CDI Paul Kouya",
+          "amenity": "library",
+          "name": "Centre de Documentation et d'Information"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10736335381",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6008651,
+          -0.1130859
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10736335381,
+        "country": "Gabon",
+        "alpha_2": "GA",
+        "countries": [
+          "GA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Ecomusée de la Lopé",
+        "tags": {
+          "addr:city": "Lopé",
+          "addr:hamlet": "Parc National de la Lopé",
+          "addr:province": "OGOOUE IVINDO",
+          "charge": "5 000 FCFA",
+          "description": "Musée qui retrace l'histoire et la culture des peuples okandais",
+          "fee": "yes",
+          "inscription": "la première et l’unique du genre au Gabon",
+          "museum": "history",
+          "name": "Ecomusée de la Lopé",
+          "opening_hours": "Mo-Su 09:00-17:00",
+          "operational_status": "open",
+          "operator": "Agence Nationale des Parcs Nationaux",
+          "operator:type": "public",
+          "short_name": "ANPN",
+          "stars": "3",
+          "start_date": "2006 de la volonté de la WCS de sensibiliser les touristes à la culture et à la nature de la région.",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/455714475",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4457435,
+          0.391055
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 455714475,
+        "country": "Gabon",
+        "alpha_2": "GA",
+        "countries": [
+          "GA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Mémorial du Président Léon Mba",
+        "tags": {
+          "addr:city": "Libreville",
+          "addr:housenumber": "151",
+          "addr:street": "Avenue Félix Eboué",
+          "air_conditioning": "yes",
+          "building": "yes",
+          "museum": "person",
+          "name": "Mémorial du Président Léon Mba",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/456350870",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4464867,
+          0.3838679
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 456350870,
+        "country": "Gabon",
+        "alpha_2": "GA",
+        "countries": [
+          "GA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée National des Arts et Traditions du Gabon",
+        "tags": {
+          "building": "yes",
+          "building:levels": "2",
+          "internet_access": "wlan",
+          "museum": "art",
+          "name": "Musée National des Arts et Traditions du Gabon",
+          "tourism": "museum",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/457191759",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4444941,
+          0.3858668
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 457191759,
+        "country": "Gabon",
+        "alpha_2": "GA",
+        "countries": [
+          "GA"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée National des Arts et Traditions du Gabon",
+        "tags": {
+          "name": "Musée National des Arts et Traditions du Gabon",
+          "opening_hours": "Tu-Sa 10:00-17:30",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/531996409",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4272843,
+          0.4142272
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 531996409,
+        "country": "Gabon",
+        "alpha_2": "GA",
+        "countries": [
+          "GA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Nationale",
+        "tags": {
+          "amenity": "library",
+          "building": "public",
+          "contact:city": "Libreville",
+          "contact:facebook": "DGABD GABON",
+          "contact:housenumber": "4378",
+          "contact:street": "Boulevard de la Nation",
+          "contact:suburb": "Batterie 4",
+          "heritage": "yes",
+          "historic": "building",
+          "image": "https://www.gabonreview.com/wp-content/uploads/2025/06/ArchiveNationale-Gabon.jpg",
+          "name": "Bibliothèque Nationale",
+          "note": "La bibliothèque nationale a délocalisée ces services en attendant l’érection d’un nouveau siège.",
+          "official_name": "Direction Générale des Archives Nationales, de la Bibliothèque Nationale et de la Documentation Gabonaise",
+          "opening_hours": "Tu-Fr 08:30-17:45; Sa 08:45-12:45",
+          "short_name": "DGABD",
+          "source": "survey",
+          "start_date": "11 novembre 1969",
+          "wheelchair": "no",
+          "wikidata": "Q54530575",
+          "wikipedia": "fr:Bibliothèque nationale du Gabon"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/7411947",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4433176,
+          0.4214155
+        ]
+      },
+      "properties": {
+        "osm_type": "relation",
+        "osm_id": 7411947,
+        "country": "Gabon",
+        "alpha_2": "GA",
+        "countries": [
+          "GA"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Universitaire",
+        "tags": {
+          "addr:city": "Libreville",
+          "addr:street": "Avenue Paul-Marie Yembi",
+          "amenity": "library",
+          "building": "detached",
+          "building:levels": "1",
+          "name": "Bibliothèque Universitaire",
+          "type": "multipolygon"
+        }
+      }
+    }
+  ]
+}

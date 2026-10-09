@@ -1,0 +1,359 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/4109090605",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.3498873,
+          -11.8525774
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4109090605,
+        "country": "Comoros",
+        "alpha_2": "KM",
+        "countries": [
+          "KM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "bibliothèque",
+        "tags": {
+          "addr:city": "dzahadjou Hambou",
+          "amenity": "library",
+          "name": "bibliothèque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4195378698",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2556284,
+          -11.703178
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4195378698,
+        "country": "Comoros",
+        "alpha_2": "KM",
+        "countries": [
+          "KM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée des Comores متحف جزر القمر",
+        "tags": {
+          "name": "Musée des Comores متحف جزر القمر",
+          "name:ar": "متحف جزر القمر",
+          "name:fr": "Musée des Comores",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4961324254",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.3991811,
+          -11.5037111
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4961324254,
+        "country": "Comoros",
+        "alpha_2": "KM",
+        "countries": [
+          "KM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Bangwe Kuyu",
+        "tags": {
+          "name": "Bangwe Kuyu",
+          "operator": "Assemblement",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5425112025",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.265372,
+          -11.7367299
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5425112025,
+        "country": "Comoros",
+        "alpha_2": "KM",
+        "countries": [
+          "KM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre culturel UDSCEM",
+        "tags": {
+          "addr:street": "Mraboini",
+          "amenity": "library",
+          "name": "Centre culturel UDSCEM"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8901101117",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2414854,
+          -11.7412868
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8901101117,
+        "country": "Comoros",
+        "alpha_2": "KM",
+        "countries": [
+          "KM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre culturel Toimaya Ya Maoudou",
+        "tags": {
+          "amenity": "library",
+          "name": "Centre culturel Toimaya Ya Maoudou"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11018660005",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.3756931,
+          -11.8597863
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11018660005,
+        "country": "Comoros",
+        "alpha_2": "KM",
+        "countries": [
+          "KM"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "name:en": "Coalecanthe fish museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/405654731",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.3872376,
+          -11.5865121
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 405654731,
+        "country": "Comoros",
+        "alpha_2": "KM",
+        "countries": [
+          "KM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "description": "dure",
+          "source": "#opendri-comoros",
+          "source:geometry": "Bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/406568642",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2711892,
+          -11.5653731
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 406568642,
+        "country": "Comoros",
+        "alpha_2": "KM",
+        "countries": [
+          "KM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Foyer Fahar",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Foyer Fahar",
+          "opening_hours": "24/7"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/435673001",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2710505,
+          -11.8110513
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 435673001,
+        "country": "Comoros",
+        "alpha_2": "KM",
+        "countries": [
+          "KM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliotheque",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "building:condition": "poor",
+          "building:levels": "1",
+          "building:material": "brick",
+          "comoros-dgsc:code": "salimani_C5_01",
+          "name": "Bibliotheque",
+          "roof:material": "metal",
+          "source": "#opendri-comoros;survey",
+          "source:geometry": "Bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442617426",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2932315,
+          -11.825288
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 442617426,
+        "country": "Comoros",
+        "alpha_2": "KM",
+        "countries": [
+          "KM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "source": "#osm4km"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/625861586",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2773164,
+          -11.7331712
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 625861586,
+        "country": "Comoros",
+        "alpha_2": "KM",
+        "countries": [
+          "KM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1430508391",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2881959,
+          -11.5835853
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1430508391,
+        "country": "Comoros",
+        "alpha_2": "KM",
+        "countries": [
+          "KM"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    }
+  ]
+}

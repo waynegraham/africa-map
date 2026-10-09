@@ -1,0 +1,2727 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/582793968",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5621848,
+          -18.7604541
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 582793968,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Rova d'Ambohimanga",
+        "tags": {
+          "fee": "yes",
+          "name": "Rova d'Ambohimanga",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/620901002",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5243069,
+          -18.9038684
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 620901002,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Société Tsara Anjara",
+        "tags": {
+          "name": "Société Tsara Anjara",
+          "shop": "general",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/667237648",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5264133,
+          -18.9096985
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 667237648,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque municipal Analakely",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque municipal Analakely"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/672951393",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.3106065,
+          -15.723504
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 672951393,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Municipale",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Municipale"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/722722393",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5467595,
+          -18.8995967
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 722722393,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée National Géographique",
+        "tags": {
+          "name": "Musée National Géographique",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/727298885",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2251968,
+          -20.5451632
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 727298885,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Rova",
+        "tags": {
+          "name": "Rova",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1298774595",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0833518,
+          -21.4557368
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1298774595,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Municipale",
+        "tags": {
+          "addr:housenumber": "Boulevard philbert Tsiranana",
+          "amenity": "library",
+          "name": "Bibliothèque Municipale"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1298774618",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0815558,
+          -21.4553308
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1298774618,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Fivarotam-boky Kristianina",
+        "tags": {
+          "addr:city": "Fianarantsoa",
+          "addr:street": "Làlana Pasitera Ramasitera",
+          "amenity": "library",
+          "internet_access": "no",
+          "name": "Fivarotam-boky Kristianina"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1302314154",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0762321,
+          -21.4583739
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1302314154,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Diocèse Fianarantsoa",
+        "tags": {
+          "name": "Musée Diocèse Fianarantsoa",
+          "operator": "EKAR",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1491898984",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.4311416,
+          -17.8262369
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1491898984,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Médiathèque Paul Chassain",
+        "tags": {
+          "amenity": "library",
+          "name": "Médiathèque Paul Chassain"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1636652388",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.2242573,
+          -18.9504338
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1636652388,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Gendarmerie Museum",
+        "tags": {
+          "name": "Gendarmerie Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2022554081",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0431453,
+          -19.8728204
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2022554081,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée de la propriété intellectuelle",
+        "tags": {
+          "name": "Musée de la propriété intellectuelle",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2052086065",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.2911037,
+          -13.4069942
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2052086065,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée océanographique",
+        "tags": {
+          "name": "Musée océanographique",
+          "name:it": "Oceanografico",
+          "name:nl": "oceanografisch museum",
+          "tourism": "museum",
+          "website": "http://cnro.recherches.gov.mg/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2528940655",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0344738,
+          -19.8708911
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2528940655,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre Culturel St-Paul",
+        "tags": {
+          "amenity": "library",
+          "name": "Centre Culturel St-Paul"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2852782432",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2926223,
+          -12.2717597
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2852782432,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque de l'Alliance",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque de l'Alliance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4331975191",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.8413231,
+          -22.3570206
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4331975191,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Vatomasy Malaza",
+        "tags": {
+          "addr:postcode": "317",
+          "addr:street": "kasanga",
+          "name": "Vatomasy Malaza",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5166709921",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.3245355,
+          -18.7925046
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5166709921,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "name:en": "Bookfeeding Library Ambohitrakely"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5208158703",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0862262,
+          -21.4569018
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5208158703,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5232853455",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5209358,
+          -18.9118817
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5232853455,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée d'art et d'archéologie",
+        "tags": {
+          "name": "Musée d'art et d'archéologie",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5293076446",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7379655,
+          -19.1705498
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5293076446,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre Local d'Echanges Francophones",
+        "tags": {
+          "amenity": "library",
+          "name": "Centre Local d'Echanges Francophones",
+          "ref": "CLEF"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5539532321",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5338292,
+          -18.9176654
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5539532321,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "fee": "yes",
+          "name:en": "Photography Museum Madagascar",
+          "opening_hours": "Tu-Su 00:00-24:00",
+          "tourism": "museum",
+          "website": "https://www.photo-madagascar.com/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5704626389",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5185008,
+          -18.9070552
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5704626389,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée des Pirates Antananarivo",
+        "tags": {
+          "addr:city": "Antananarivo",
+          "addr:country": "MG",
+          "addr:housenumber": "103",
+          "addr:postcode": "101",
+          "addr:street": "Làlana Liège",
+          "level": "4",
+          "museum": "history",
+          "name": "Musée des Pirates Antananarivo",
+          "name:de": "Piratenmuseum Antananarivo",
+          "name:en": "Pirates Museum Antananarivo",
+          "name:fr": "Musée des Pirates Antananarivo",
+          "opening_hours": "09:00-17:00",
+          "operator": "PRIORI, 103 rue de Liège, Tsaralalana, Antananarivo",
+          "operator:type": "private",
+          "source": "www.piratenmuseum.ch",
+          "tourism": "museum",
+          "website": "https://piratenmuseum.ch/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6422629856",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5521671,
+          -18.912902
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6422629856,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "I-SERAZO",
+        "tags": {
+          "amenity": "library",
+          "description": "Promotion des droit de l'enfant",
+          "name": "I-SERAZO"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6673183334",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.493056,
+          -18.875023
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6673183334,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre Socio Educatif",
+        "tags": {
+          "amenity": "library",
+          "name": "Centre Socio Educatif"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6897775029",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.4397,
+          -18.8186
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6897775029,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliotheque Municipale",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliotheque Municipale"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6978575117",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.518922,
+          -18.9065998
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6978575117,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Archives Nationales Malagasy",
+        "tags": {
+          "addr:street": "Rue liège",
+          "amenity": "library",
+          "description": "Stockage d'ancien manuscrits et centre de documentation",
+          "name": "Archives Nationales Malagasy",
+          "wikidata": "Q6970440",
+          "wikipedia": "en:National Archives of Madagascar"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7037492585",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5059296,
+          -17.6780816
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7037492585,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "name:en": "Manda Fort",
+          "name:fr": "Fort Manda",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7055364705",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.4058631,
+          -19.1992848
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7055364705,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Médiathèque de Miantsoarivo",
+        "tags": {
+          "addr:city": "Miantsoarivo",
+          "amenity": "library",
+          "computer": "printer",
+          "internet_access": "no",
+          "mapillary": "523234812188685",
+          "name": "Médiathèque de Miantsoarivo",
+          "operator": "Association",
+          "operator:type": "community"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7090083257",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.2362007,
+          -13.4829251
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 7090083257,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Centre d'interpretation",
+        "tags": {
+          "fee": "no",
+          "name": "Centre d'interpretation",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8208628460",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.6659349,
+          -23.3577009
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8208628460,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Baleine",
+        "tags": {
+          "name": "Musée Baleine",
+          "opening_hours": "Mo-Fr 08:30-20:00; Sa,Su 08:00-15:00; PH off",
+          "operator": "GIE",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8437443518",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5470708,
+          -18.931953
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8437443518,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "name:fr": "Résidence Me Faly"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8552973117",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5471436,
+          -18.9319725
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8552973117,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "name:en": "Maître Faly"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8638099627",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.4812888,
+          -18.8392256
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 8638099627,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "name:en": "Le Grenier à livres"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9342827346",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.6670373,
+          -23.3577846
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9342827346,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "bibliotheque Alliance francaise",
+        "tags": {
+          "amenity": "library",
+          "name": "bibliotheque Alliance francaise"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9343069438",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.6679493,
+          -23.3555598
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9343069438,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Cedratom",
+        "tags": {
+          "fee": "no",
+          "name": "Musée Cedratom",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9354733352",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.360592,
+          -21.7438958
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9354733352,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque de l'Alliance Française",
+        "tags": {
+          "amenity": "library",
+          "email": "afmorombe@gmail.com",
+          "language:fr": "yes",
+          "name": "Bibliothèque de l'Alliance Française",
+          "opening_hours": "Mo-Fr 07:00-17:00",
+          "operator": "Alliance Française",
+          "phone": "0325386018"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9501024000",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.6986023,
+          -23.3348126
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9501024000,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Tsiebo Calvin",
+        "tags": {
+          "amenity": "library",
+          "name": "Tsiebo Calvin"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9518831441",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.6798674,
+          -23.358249
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9518831441,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque chrétienne",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque chrétienne"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9552299229",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.3029485,
+          -22.1479233
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9552299229,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "ONG Steph Andava",
+        "tags": {
+          "amenity": "library",
+          "name": "ONG Steph Andava"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10315324509",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.3137157,
+          -15.7184798
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10315324509,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque (DRCC Mahajanga)",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque (DRCC Mahajanga)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10773452955",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7464844,
+          -24.694001
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 10773452955,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Royal Maroseragna",
+        "tags": {
+          "addr:city": "Ampanihy",
+          "museum": "history",
+          "name": "Musée Royal Maroseragna",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11014056492",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.109003,
+          -21.464878
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11014056492,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Institut Confucius",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Institut Confucius"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11045856187",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5509982,
+          -21.28987
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11045856187,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliotheque",
+        "tags": {
+          "addr:city": "Kelilalina",
+          "addr:postcode": "312",
+          "amenity": "library",
+          "name": "Bibliotheque"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11048151181",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0866509,
+          -21.4430445
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11048151181,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Cedcom Fivoarana",
+        "tags": {
+          "addr:city": "Fianarantsoa",
+          "addr:postcode": "301",
+          "amenity": "library",
+          "internet_access": "yes",
+          "internet_access:fee": "yes",
+          "name": "Cedcom Fivoarana",
+          "operator": "Association Miara-Mita",
+          "operator:type": "community"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11067265102",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.082289,
+          -21.4549727
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11067265102,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Fikambanan'ny Mpiara-mamaky ny Baiboly eto Madagasikara",
+        "tags": {
+          "addr:city": "Fianarantsoa",
+          "addr:postcode": "301",
+          "amenity": "library",
+          "email": "llb.fianarantsoa@gmail.com",
+          "mobile": "+261 34 01 773 57",
+          "name": "Fikambanan'ny Mpiara-mamaky ny Baiboly eto Madagasikara"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11080439068",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0712734,
+          -20.6904856
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11080439068,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliotheque CJD",
+        "tags": {
+          "addr:city": "Ambohimahazo",
+          "addr:housenumber": "Ambany Avaratra",
+          "addr:postcode": "322",
+          "addr:street": "RIP 601",
+          "amenity": "library",
+          "name": "Bibliotheque CJD",
+          "opening_hours": "Mo-Fr 08:00-17:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11259387715",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.3167036,
+          -18.7512307
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11259387715,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Rovan'i Mananjara",
+        "tags": {
+          "name": "Rovan'i Mananjara",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11417951607",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.3242622,
+          -18.9808593
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11417951607,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque commune Imerintsiatosika",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque commune Imerintsiatosika"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11868977711",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.1296065,
+          -22.4042363
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11868977711,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "CLIC Taratra",
+        "tags": {
+          "amenity": "library",
+          "name": "CLIC Taratra"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11896654069",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.6731379,
+          -23.3681494
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11896654069,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "name:en": "Musée Marine",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11896654070",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.6738352,
+          -23.3673371
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11896654070,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": null,
+        "tags": {
+          "name:en": "Tulé'art Recycling Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11903157672",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.520243,
+          -20.2981873
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11903157672,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "name:fr": "Mosquée Ambodirianivatosoa"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11975036734",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3076304,
+          -12.284478
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 11975036734,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "BU (Bibliothèque Universitaire)",
+        "tags": {
+          "addr:city": "Antsiranana",
+          "addr:postcode": "201",
+          "addr:street": "Route de l'Université",
+          "amenity": "library",
+          "name": "BU (Bibliothèque Universitaire)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12367826814",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5406457,
+          -18.9350422
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12367826814,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Municipale Morarano",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Municipale Morarano",
+          "operator": "Commune Urbaine d'Antananarivo"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12942441301",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.2804653,
+          -13.3736886
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 12942441301,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Le musée royal Sakalava",
+        "tags": {
+          "name": "Le musée royal Sakalava",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/46604806",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5538182,
+          -18.9148957
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 46604806,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Universitaire",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "building:levels": "2",
+          "name": "Bibliothèque Universitaire"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/52638416",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5328793,
+          -18.9208796
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 52638416,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Andafiavaratra",
+        "tags": {
+          "name": "Andafiavaratra",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/53082600",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5170591,
+          -18.9151786
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 53082600,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "name:fr": "Bibliothèque nationale",
+          "name:mg": "Tranom-bokim-pirenena",
+          "wikidata": "Q6974158",
+          "wikipedia": "en:National Library of Madagascar"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/136494592",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.2285588,
+          -18.9465254
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 136494592,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Gasipro",
+        "tags": {
+          "amenity": "library",
+          "name": "Gasipro"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/169282059",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.2305926,
+          -18.9481604
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 169282059,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Mozea Tolom-Panafahana 1947",
+        "tags": {
+          "name": "Mozea Tolom-Panafahana 1947",
+          "name:en": "Museum of 1947",
+          "name:fr": "Musée 1947",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/169529246",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0569732,
+          -15.6736493
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 169529246,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Villageoise",
+        "tags": {
+          "amenity": "library",
+          "name": "Bibliothèque Villageoise"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/185706222",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.410686,
+          -17.3826826
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 185706222,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Régional de l'Analanjirofo",
+        "tags": {
+          "name": "Musée Régional de l'Analanjirofo",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/185712029",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4085704,
+          -17.2871841
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 185712029,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Station ESSA-Forêts de Tampolo",
+        "tags": {
+          "name": "Station ESSA-Forêts de Tampolo",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/208614721",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.6675003,
+          -23.3556213
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 208614721,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Musée Cedratom",
+        "tags": {
+          "building": "yes",
+          "fee": "no",
+          "name": "Musée Cedratom",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/208874590",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.6985737,
+          -23.3348638
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 208874590,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Tsiebo Calvin",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque Tsiebo Calvin"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/359438423",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2477668,
+          -20.5339713
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 359438423,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "access": "private",
+          "addr:city": "Ambositra",
+          "addr:street": "Manolotrony",
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363213941",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1098883,
+          -21.4652215
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 363213941,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "salle de Prof de Faculté des Science",
+        "tags": {
+          "amenity": "library",
+          "building": "university",
+          "name": "salle de Prof de Faculté des Science",
+          "operator": "Université de Fianarantsoa",
+          "operator:type": "public",
+          "source": "MadAtlas"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/365480797",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1083118,
+          -21.464927
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 365480797,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Direction du Système d'Information",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Direction du Système d'Information",
+          "operator": "Université de Fianarantsoa",
+          "operator:type": "public"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/365508842",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0846374,
+          -21.4572487
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 365508842,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre de Documentation et d'Information",
+        "tags": {
+          "addr:city": "Fianarantsoa",
+          "addr:postcode": "301",
+          "addr:street": "Làlana Dandaou",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Centre de Documentation et d'Information",
+          "source": "Bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/368757315",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5281885,
+          -18.9310548
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 368757315,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque CIDST",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque CIDST",
+          "operator": "MESUPRES"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/382349861",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.9312565,
+          -19.4310764
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 382349861,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/383642159",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8858308,
+          -19.4355164
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 383642159,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliotheque Tsarasambo",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliotheque Tsarasambo"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/403597421",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.8446569,
+          -16.3363995
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 403597421,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/408269976",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5236891,
+          -18.8979433
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 408269976,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Librairie Municipale",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Librairie Municipale"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/537355598",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.106191,
+          -21.463952
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 537355598,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque Universitaire de Fianarantsoa",
+        "tags": {
+          "amenity": "library",
+          "building": "university",
+          "name": "Bibliothèque Universitaire de Fianarantsoa",
+          "office": "university",
+          "operator": "Université de Fianarantsoa",
+          "operator:type": "public",
+          "source": "MadAtlas"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/543178240",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3626871,
+          -22.6179352
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 543178240,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Isalo Museum",
+        "tags": {
+          "building": "yes",
+          "name": "Isalo Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/551219565",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2859163,
+          -18.9404232
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 551219565,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Rova d'Antongona",
+        "tags": {
+          "historic": "archaeological_site",
+          "name": "Rova d'Antongona",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/561288860",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.9125208,
+          -19.475739
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 561288860,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/582264075",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.3528474,
+          -15.7021512
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 582264075,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Mozea Akiba",
+        "tags": {
+          "building": "yes",
+          "name": "Mozea Akiba",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/598597733",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5261932,
+          -18.9328573
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 598597733,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothéque PBZT | Division Entomologie",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothéque PBZT | Division Entomologie"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/630433671",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0882974,
+          -21.4515318
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 630433671,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Fania",
+        "tags": {
+          "addr:city": "Fianarantsoa",
+          "addr:postcode": "301",
+          "building": "yes",
+          "museum": "history",
+          "name": "Fania",
+          "operator": "Faculté des Lettre et Sciences Humaine de l'Université de Fianarantsoa",
+          "operator:type": "university",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/634538393",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.7585421,
+          -18.7825091
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 634538393,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "CLEF Ambatomena",
+        "tags": {
+          "amenity": "library",
+          "building": "public",
+          "name": "CLEF Ambatomena"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/684662057",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5358623,
+          -18.9152431
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 684662057,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque RAJAONA Siméon Régis",
+        "tags": {
+          "addr:city": "Antananarivo",
+          "addr:housenumber": "+261 33 24 438 49",
+          "addr:place": "Lot VF 114 ter Antsahabe",
+          "addr:postcode": "101",
+          "addr:street": "Lalana Dok. Rajaona",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque RAJAONA Siméon Régis"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/685468018",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5510045,
+          -21.2898763
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 685468018,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "BIBLIOTHEQUE",
+        "tags": {
+          "addr:city": "Kelilalina",
+          "addr:postcode": "312",
+          "amenity": "library",
+          "building": "yes",
+          "name": "BIBLIOTHEQUE"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/696196814",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.9139521,
+          -20.383237
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 696196814,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/712970033",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1077321,
+          -21.4634881
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 712970033,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Centre d'Appui à l'Employabilité des Étudiants",
+        "tags": {
+          "addr:city": "Fianarantsoa",
+          "addr:postcode": "301",
+          "amenity": "library",
+          "building": "yes",
+          "building:levels": "2",
+          "name": "Centre d'Appui à l'Employabilité des Étudiants",
+          "operator:type": "public",
+          "short_name": "CA2E"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/715063326",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6227709,
+          -22.9070119
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 715063326,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothèque scolaire et villageoise",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothèque scolaire et villageoise",
+          "name:fr": "Bibliothèque scolaire et villageoise",
+          "operator": "Zombitse Ecolodge"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/777705075",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1607794,
+          -20.9907345
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 777705075,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "CLIC",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "CLIC"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1130865532",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5350185,
+          -18.9680206
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1130865532,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1273989738",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2380529,
+          -20.5355827
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1273989738,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Blibliothèque FISABA",
+        "tags": {
+          "addr:city": "VOHIDAHY AMBOSITRA",
+          "addr:postcode": "306",
+          "amenity": "library",
+          "building": "yes",
+          "name": "Blibliothèque FISABA",
+          "operator": "FISABA"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1321575049",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5260796,
+          -18.9327914
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1321575049,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Le Fond Grandidier",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Le Fond Grandidier"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1564017438",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7352576,
+          -19.163472
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1564017438,
+        "country": "Madagascar",
+        "alpha_2": "MG",
+        "countries": [
+          "MG"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Bibliothéque Association OMBONA",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Bibliothéque Association OMBONA",
+          "operator": "Association OMBONA",
+          "operator:type": "charitable"
+        }
+      }
+    }
+  ]
+}

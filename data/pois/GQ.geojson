@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/496317058",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8534849,
+          1.6042552
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 496317058,
+        "country": "Equatorial Guinea",
+        "alpha_2": "GQ",
+        "countries": [
+          "GQ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Biblioteca",
+        "tags": {
+          "addr:city": "Ciudad de la Paz",
+          "addr:city:es": "Ciudad de la Paz",
+          "amenity": "library",
+          "building": "yes",
+          "language:es": "main",
+          "name": "Biblioteca",
+          "name:de": "Bibliothek",
+          "name:es": "Biblioteca",
+          "name:fr": "Bibliothèque",
+          "name:zh": "图书馆"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1376446500",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6621535,
+          3.3612439
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1376446500,
+        "country": "Equatorial Guinea",
+        "alpha_2": "GQ",
+        "countries": [
+          "GQ"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Centro de Vida Salvaje BBPP de Moka",
+        "tags": {
+          "building": "yes",
+          "name": "Centro de Vida Salvaje BBPP de Moka",
+          "name:en": "Wildlife Centre BBPP of Moka",
+          "name:es": "Centro de Vida Salvaje BBPP de Moka",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1482918625",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7649283,
+          1.8630845
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1482918625,
+        "country": "Equatorial Guinea",
+        "alpha_2": "GQ",
+        "countries": [
+          "GQ"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Biblioteca Subterránea",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "layer": "-1",
+          "name": "Biblioteca Subterránea"
+        }
+      }
+    }
+  ]
+}

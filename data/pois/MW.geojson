@@ -1,0 +1,958 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/902463258",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5097785,
+          -14.2806364
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 902463258,
+        "country": "Malawi",
+        "alpha_2": "MW",
+        "countries": [
+          "MW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Mua Mission",
+        "tags": {
+          "name": "Mua Mission",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/902487985",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2723594,
+          -14.4800025
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 902487985,
+        "country": "Malawi",
+        "alpha_2": "MW",
+        "countries": [
+          "MW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Lake Malawi Museum",
+        "tags": {
+          "name": "Lake Malawi Museum",
+          "tourism": "museum",
+          "wpt_description": "Mangochi",
+          "wpt_symbol": "Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/902534150",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0053063,
+          -15.7878679
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 902534150,
+        "country": "Malawi",
+        "alpha_2": "MW",
+        "countries": [
+          "MW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Malawi Stock Exchange",
+        "tags": {
+          "addr:city": "Blantyre",
+          "addr:housenumber": "4-6",
+          "addr:street": "Victoria Avenue",
+          "email": "mse@mse-mw.com",
+          "name": "Malawi Stock Exchange",
+          "phone": "01824233",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1975172107",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7949002,
+          -13.9600257
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 1975172107,
+        "country": "Malawi",
+        "alpha_2": "MW",
+        "countries": [
+          "MW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "National Library Service",
+        "tags": {
+          "amenity": "library",
+          "name": "National Library Service"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2459710669",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.0183493,
+          -11.4620266
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2459710669,
+        "country": "Malawi",
+        "alpha_2": "MW",
+        "countries": [
+          "MW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2501747953",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7847214,
+          -13.946049
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2501747953,
+        "country": "Malawi",
+        "alpha_2": "MW",
+        "countries": [
+          "MW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "War Memorial Tower",
+        "tags": {
+          "name": "War Memorial Tower",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2749404424",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.1130189,
+          -10.6116671
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2749404424,
+        "country": "Malawi",
+        "alpha_2": "MW",
+        "countries": [
+          "MW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Stonehouse Museum",
+        "tags": {
+          "addr:city": "Livingstonia",
+          "name": "Stonehouse Museum",
+          "tourism": "museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2930231511",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3370822,
+          -15.3895833
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 2930231511,
+        "country": "Malawi",
+        "alpha_2": "MW",
+        "countries": [
+          "MW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Chancellor College Library",
+        "tags": {
+          "amenity": "library",
+          "check_date": "2024-10-23",
+          "name": "Chancellor College Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3047298959",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0394839,
+          -15.8040824
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3047298959,
+        "country": "Malawi",
+        "alpha_2": "MW",
+        "countries": [
+          "MW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Museum of Malawi",
+        "tags": {
+          "alt_name": "Chichiri Museum",
+          "building": "museum",
+          "museum": "history",
+          "museum_type": "national",
+          "name": "Museum of Malawi",
+          "operator": "Museums of Malawi",
+          "tourism": "museum",
+          "wikidata": "Q1488889",
+          "wikipedia": "en:Chichiri Museum"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3822405810",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6094669,
+          -11.9567896
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 3822405810,
+        "country": "Malawi",
+        "alpha_2": "MW",
+        "countries": [
+          "MW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Community Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Community Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4377684339",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0115058,
+          -15.7927173
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4377684339,
+        "country": "Malawi",
+        "alpha_2": "MW",
+        "countries": [
+          "MW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Mandala House",
+        "tags": {
+          "addr:city": "Blantyre",
+          "addr:street": "Kaoshiung Road",
+          "description": "Oldest 2-storey building in Malawi",
+          "name": "Mandala House",
+          "tourism": "museum",
+          "wikidata": "Q30592081",
+          "wikipedia": "en:Mandala House"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4774015821",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0080503,
+          -15.784758
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 4774015821,
+        "country": "Malawi",
+        "alpha_2": "MW",
+        "countries": [
+          "MW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "National Library (Blantyre)",
+        "tags": {
+          "amenity": "library",
+          "name": "National Library (Blantyre)",
+          "name:en": "National Library (Blantyre)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5717976821",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5921791,
+          -13.6869643
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 5717976821,
+        "country": "Malawi",
+        "alpha_2": "MW",
+        "countries": [
+          "MW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Lifuwu Community Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Lifuwu Community Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6802281385",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.0181606,
+          -11.4605492
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 6802281385,
+        "country": "Malawi",
+        "alpha_2": "MW",
+        "countries": [
+          "MW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "National Library Service",
+        "tags": {
+          "amenity": "library",
+          "name": "National Library Service"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9357376235",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.8677238,
+          -13.6614825
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 9357376235,
+        "country": "Malawi",
+        "alpha_2": "MW",
+        "countries": [
+          "MW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Library",
+        "tags": {
+          "amenity": "library",
+          "condition": "fair",
+          "isced:level": "4",
+          "name": "Library",
+          "operator": "NGO",
+          "operator:type": "ngo"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14137067901",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7387192,
+          -12.0657206
+        ]
+      },
+      "properties": {
+        "osm_type": "node",
+        "osm_id": 14137067901,
+        "country": "Malawi",
+        "alpha_2": "MW",
+        "countries": [
+          "MW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Library",
+        "tags": {
+          "amenity": "library",
+          "name": "Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/289577049",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3368644,
+          -15.3896169
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 289577049,
+        "country": "Malawi",
+        "alpha_2": "MW",
+        "countries": [
+          "MW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Chancellor College Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "check_date": "2024-10-23",
+          "layer": "-1",
+          "name": "Chancellor College Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/304605580",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.8659,
+          -13.8838859
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 304605580,
+        "country": "Malawi",
+        "alpha_2": "MW",
+        "countries": [
+          "MW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/304784493",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.8239004,
+          -13.8270565
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 304784493,
+        "country": "Malawi",
+        "alpha_2": "MW",
+        "countries": [
+          "MW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/336598724",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3376837,
+          -15.3889006
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 336598724,
+        "country": "Malawi",
+        "alpha_2": "MW",
+        "countries": [
+          "MW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Map Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "check_date": "2024-10-23",
+          "name": "Map Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340427352",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.9225634,
+          -9.9418071
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 340427352,
+        "country": "Malawi",
+        "alpha_2": "MW",
+        "countries": [
+          "MW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Cultural and Museum Centre Karonga",
+        "tags": {
+          "building": "yes",
+          "building:levels": "2",
+          "email": "karongamuseum @gmail.com",
+          "name": "Cultural and Museum Centre Karonga",
+          "opening_hours": "Mo-Sa 09:30-17:00, Su 13:00-17:00; Sa 08:00-12:00",
+          "operator": "Uraha Foundation Malawi;Uraha Foundation Germany",
+          "phone": "+265 88 851 5574",
+          "tourism": "museum",
+          "website": "http://www.warmheartofmalawi.org/",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340427353",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.9222879,
+          -9.9419692
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 340427353,
+        "country": "Malawi",
+        "alpha_2": "MW",
+        "countries": [
+          "MW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Cultural and Museum Centre Karonga",
+        "tags": {
+          "building": "yes",
+          "email": "karongamuseum @gmail.com",
+          "name": "Cultural and Museum Centre Karonga",
+          "opening_hours": "Mo-Sa 09:30-17:00, Su 13:00-17:00; Sa 08:00-12:00",
+          "operator": "Uraha Foundation Malawi;Uraha Foundation Germany",
+          "phone": "+265 88 851 5574",
+          "tourism": "museum",
+          "website": "http://www.warmheartofmalawi.org/",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/455411585",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0266879,
+          -15.7759492
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 455411585,
+        "country": "Malawi",
+        "alpha_2": "MW",
+        "countries": [
+          "MW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Saints Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Saints Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/533807340",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2179317,
+          -15.9019844
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 533807340,
+        "country": "Malawi",
+        "alpha_2": "MW",
+        "countries": [
+          "MW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/823449408",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.1130206,
+          -10.6116295
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 823449408,
+        "country": "Malawi",
+        "alpha_2": "MW",
+        "countries": [
+          "MW"
+        ],
+        "categories": [
+          "museum"
+        ],
+        "name": "Stonehouse Museum",
+        "tags": {
+          "building": "yes",
+          "name": "Stonehouse Museum",
+          "tourism": "museum",
+          "wikidata": "Q98811007"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/882171592",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6201114,
+          -14.8042673
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 882171592,
+        "country": "Malawi",
+        "alpha_2": "MW",
+        "countries": [
+          "MW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/883713497",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.8590344,
+          -13.8235556
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 883713497,
+        "country": "Malawi",
+        "alpha_2": "MW",
+        "countries": [
+          "MW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1055091312",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3300926,
+          -15.4119354
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1055091312,
+        "country": "Malawi",
+        "alpha_2": "MW",
+        "countries": [
+          "MW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Library",
+          "operator": "Milindi Community Secondary School"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1112647133",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.1064634,
+          -14.0480887
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1112647133,
+        "country": "Malawi",
+        "alpha_2": "MW",
+        "countries": [
+          "MW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "My dream community Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "My dream community Library"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1148841672",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1781602,
+          -15.8265994
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1148841672,
+        "country": "Malawi",
+        "alpha_2": "MW",
+        "countries": [
+          "MW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1183705183",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9548053,
+          -14.9900514
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1183705183,
+        "country": "Malawi",
+        "alpha_2": "MW",
+        "countries": [
+          "MW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": "Balaka National Library",
+        "tags": {
+          "amenity": "library",
+          "building": "yes",
+          "name": "Balaka National Library",
+          "opening_hours": "Mo-Fr 08:00-16:00",
+          "operator": "Malawi National library",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1258678605",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9641875,
+          -14.9878759
+        ]
+      },
+      "properties": {
+        "osm_type": "way",
+        "osm_id": 1258678605,
+        "country": "Malawi",
+        "alpha_2": "MW",
+        "countries": [
+          "MW"
+        ],
+        "categories": [
+          "library"
+        ],
+        "name": null,
+        "tags": {
+          "amenity": "library",
+          "building": "yes"
+        }
+      }
+    }
+  ]
+}
