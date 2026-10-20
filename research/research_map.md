@@ -21,7 +21,7 @@ The vendor command retrieves pinned Leaflet 1.9.4 scripts, stylesheet, control i
 - Search by source name, category, OSM ID or a separately qualified proposed identity. Filter libraries, museums or archives; no matching archive records currently exist in this inventory.
 - Click a record or marker to inspect source identity, geometry-quality flags, mapped point overlap and missing evidence. Coordinates remain independently unverified.
 - Use the inspected-site shortcuts for the unnamed library/candidate Amanzimtoti Library and Umkhumbane Museum. Proposals do not overwrite original names.
-- Toggle the municipal boundary, historical floodplain, current OSM outlines for the two reviewed sites, and the two exploratory VV change overlays.
+- Toggle the municipal boundary, historical floodplain, current OSM outlines for the two reviewed sites, and exploratory VV change for the currently selected institution.
 - Open the optical/SAR comparison sheets and SAR experiment figures from inspected-site profiles.
 - Read the Sources & limits view and linked reports, dataset register and map input manifest.
 
@@ -33,8 +33,16 @@ The builder reads the derived institution GeoJSON and registered GIS/CSV/figure 
 
 Generated files live in Git-ignored `outputs/research_map/`. Its `build_manifest.json` retains scientific input and application-code checksums plus display parameters. Scientific profiles retain the source run IDs from their original tables. The map's application files live in `src/heritage_flood/web/`; the builder is `src/heritage_flood/research_map.py`. The map is a local presentation of evidence, not a standalone redistribution package; source licenses and unresolved municipal reuse conditions still apply.
 
+## Expanded inventory imagery
+
+The remaining 26 records now include point-context quality checks, generated optical/SAR comparisons and exploratory SAR changes. Their profiles explicitly distinguish these unreviewed point contexts from the two original outline-based reviews. Select a record, then use its VV-change button or the selected-institution layer checkbox. See [expanded site review](batch_review.md).
+
 ## Verification
 
 The browser review checked initial rendering, 28 records, museum filtering to seven records, empty search results, proposed-name search, both inspected profiles, unknown-coverage language, comparison-image loading, sources/limits, and SAR/building-outline toggles. The final overlay alignment and layer ordering were visually inspected. Desktop Chrome was used; mobile viewport behavior has not been separately browser-tested.
 
 The automated bundle tests cover retaining unknown exposure semantics, keeping untrusted institution text out of executable HTML, absent optional SAR outputs, and refusing output into the published `docs/` directory. Source input hashes, raster overlay bounds/alpha, JavaScript syntax and the existing test suite are checked separately.
+
+## Context controls
+
+The Context tab selects JRC 10/100/500-year static river-depth views, qualified auxiliary flags, CHIRPS event total/anomaly and evidence gaps. Hazard and rainfall are mutually exclusive context rasters; SAR remains separately selectable. Per-profile values are source-grid context, not building measurements. See [methods and unresolved UNOSAT coverage](context_layers.md).

@@ -1,0 +1,52 @@
+{
+  "run_id": "context_layers_20261020T191455720317Z",
+  "institutions": 28,
+  "raster_overlays": 6,
+  "rainfall_summary": {
+    "anomaly_mm": {
+      "area_weighted_mean": 52.26656132119015,
+      "valid_area_m2": 2550882804.8627443
+    },
+    "baseline_mm": {
+      "area_weighted_mean": 5.777856485797525,
+      "valid_area_m2": 2550882804.8627443
+    },
+    "event_mm": {
+      "area_weighted_mean": 58.04441780698766,
+      "valid_area_m2": 2550882804.8627443
+    }
+  },
+  "evidence_summary": {
+    "location": {
+      "not_independently_verified": 28
+    },
+    "footprint": {
+      "current_osm_outline_not_2022_verified": 2,
+      "no_reviewed_outline": 26
+    },
+    "optical_13_apr": {
+      "no_conservative_clear_samples": 26,
+      "partial_clear_candidates_require_review": 2
+    },
+    "independent_event_evidence": {
+      "not_established": 28
+    },
+    "vulnerability": {
+      "not_collected": 28
+    },
+    "preparedness": {
+      "not_collected": 28
+    }
+  },
+  "unosat": {
+    "product_url": "https://unosat.org/products/3283",
+    "imagery_date": "2022-04-14",
+    "publication_date": "2022-04-21",
+    "status": "coverage_unresolved",
+    "source_type": "WorldView-3 satellite interpretation; preliminary, not field-validated",
+    "machine_readable_services_found": 0,
+    "limitations": "Public event folder returned no services. PDF has a cartographic analysis boundary, but no validated vector extent has been obtained for institution joins. No site was assigned a flood/damage label or an inside/outside analysis-coverage status."
+  },
+  "labels_assigned": false,
+  "status": "technical checks; no independent event validation"
+}

@@ -10,7 +10,7 @@
 <aside>
   <header><div class="eyebrow">AFRICAN CULTURAL HERITAGE · RESEARCH PILOT</div><h1>Heritage <span>& Water</span></h1><p>eThekwini, South Africa</p></header>
   <div class="intro">Explore the evidence behind potential flood exposure—and the gaps that further research can resolve.</div>
-  <nav aria-label="Explorer views"><button id="inventory-tab" class="active">Institutions</button><button id="sources-tab">Sources & limits</button></nav>
+  <nav aria-label="Explorer views"><button id="inventory-tab" class="active">Institutions</button><button id="context-tab">Context</button><button id="sources-tab">Sources & limits</button></nav>
   <section id="inventory-view">
     <div class="filters"><label for="search">Find an institution</label><input id="search" type="search" placeholder="Name, category or OSM ID…"><label for="category" class="sr-only">Institution category</label><select id="category"><option value="">All categories</option><option value="library">Libraries</option><option value="museum">Museums</option><option value="archive">Archives</option></select></div>
     <div class="focus-links"><span>Inspected sites</span><button id="inspect-library">Library ↗</button><button id="inspect-museum">Museum ↗</button></div>
@@ -18,21 +18,43 @@
     <div id="institution-list" aria-label="Institution records"></div>
     <section id="profile" hidden aria-label="Selected institution"></section>
   </section>
+  <section id="context-view" hidden>
+    <h2>Context for the evidence</h2>
+    <p class="fine">Explore one context raster at a time. Source grids retain their native detail; these are screening layers, not building risk ratings.</p>
+    <article class="context-card"><h3>Modeled river flooding</h3>
+      <label for="hazard-period">Return period</label><select id="hazard-period"><option value="10">10-year (~10% annual probability)</option><option value="100" selected>100-year (~1% annual probability)</option><option value="500">500-year (~0.2% annual probability)</option></select>
+      <button id="show-hazard" class="image-button">Show modeled river depth</button>
+      <p class="fine">JRC v2.1 · approximately 90 m. Permanent-water and suspected-artifact samples are excluded from depth colors. Blank is unknown, not safe. This static model is neither observed 2022 flooding nor a climate projection.</p>
+    </article>
+    <article class="context-card"><h3>The rainfall episode</h3>
+      <label for="rain-metric">Rainfall view</label><select id="rain-metric"><option value="rain_event">11–13 April 2022 total</option><option value="rain_anomaly">Difference from 1991–2020 same-date mean</option></select>
+      <button id="show-rain" class="image-button">Show regional rainfall</button>
+      <p id="rain-summary" class="fine"></p><div id="rain-chart" aria-label="CHIRPS municipal daily rainfall timeline"></div>
+      <p class="fine">Daily municipal estimates, 25 March–30 April. Amber bars mark 11–13 April. Hover a bar for date/value. CHIRPS v2 final, approximately 5.6 km. Local extremes may be missed; these are not gauge observations or climate attribution.</p>
+    </article>
+    <article class="context-card"><h3>Evidence gaps</h3>
+      <label for="evidence-dimension">Show institutions with…</label><select id="evidence-dimension"><option value="footprint">No reviewed building outline</option><option value="optical_13_apr">No conservative clear samples on 13 April</option><option value="location">Unverified coordinates</option><option value="independent_event_evidence">No established independent event evidence</option></select>
+      <button id="show-evidence" class="image-button">Show evidence gaps</button><p id="evidence-summary" class="fine"></p>
+      <p class="fine">Purple rings describe the selected evidence gap. They do not indicate flood hazard or heritage value. Indicators remain separate; no combined score.</p>
+    </article>
+    <article class="context-card"><h3>UNOSAT event reference</h3><p class="fine">A public map interprets flooding/landslides from 14 April 2022 WorldView-3 imagery. It is preliminary and not field-validated. Exact institution coverage remains unresolved: no usable vector analysis extent has been obtained.</p><a href="https://unosat.org/products/3283" target="_blank" rel="noopener">Inspect the UNOSAT source ↗</a></article>
+    <div class="report-links"><a href="../../research/context_layers.md" target="_blank" rel="noopener">Context methods and limitations ↗</a></div>
+  </section>
   <section id="sources-view" hidden>
     <h2>Evidence, with boundaries</h2>
     <article><h3>Historical municipal floodplain</h3><p>Source capture fields span 1985–2012. Coverage completeness, model assumptions and currentness are undocumented. Overlap is provisional screening; nonintersection does not mean low hazard.</p></article>
-    <article><h3>Satellite observations</h3><p>Optical observations on 13, 18 and 23 April have no conservatively clear samples in the two inspected contexts. The SAR comparison uses 12/24 March and 5 April against 17 April 2022.</p><p>The tested SAR decrease method has not established a distinctive flood signal. Later observations cannot rule out transient flooding during the earlier peak.</p></article>
-    <article><h3>Institution locations</h3><p>OSM coverage is incomplete. Coordinates remain independently unverified. Some points are building bounding-box centers; nearby records may represent duplicates or co-location.</p></article>
+    <article><h3>Satellite observations</h3><p>Optical observations on 13, 18 and 23 April have no conservatively clear samples in the two inspected contexts. The SAR comparison uses 12/24 March and 5 April against 17 April 2022.</p><p>The original two-site SAR experiment has not established a distinctive flood signal. The remaining 26 point contexts have generated comparisons and per-site quality checks; individual interpretations are pending. Some early optical contexts retain partial clear samples. Later observations cannot rule out transient flooding during the earlier peak.</p></article>
+    <article><h3>Regional context</h3><p>JRC river depth is static modeled hazard at approximately 90 m. CHIRPS rainfall is a regional estimate at approximately 5.6 km. Missing or flagged model samples do not establish safety. The Context view keeps these sources separate from satellite changes.</p></article><article><h3>Institution locations</h3><p>OSM coverage is incomplete. Coordinates remain independently unverified. Some points are building bounding-box centers; nearby records may represent duplicates or co-location.</p></article>
     <article><h3>What further research can resolve</h3><p>Verified institution and collection locations; independent dated flood observations; building vulnerability and preparedness; better-observed events for method evaluation.</p><p>Future climate projections and investment rankings are not included in this pilot.</p></article>
-    <div class="report-links"><a href="../../research/floodplain_screening.md" target="_blank" rel="noopener">Floodplain methods ↗</a><a href="../../research/sar_change.md" target="_blank" rel="noopener">SAR experiment ↗</a><a href="../../metadata/datasets.csv">Dataset register ↓</a><a href="build_manifest.json" target="_blank" rel="noopener">Map input provenance ↗</a></div>
+    <div class="report-links"><a href="../../research/floodplain_screening.md" target="_blank" rel="noopener">Floodplain methods ↗</a><a href="../../research/batch_review.md" target="_blank" rel="noopener">Expanded site review ↗</a><a href="../../research/sar_change.md" target="_blank" rel="noopener">SAR experiment ↗</a><a href="../../metadata/datasets.csv">Dataset register ↓</a><a href="build_manifest.json" target="_blank" rel="noopener">Map input provenance ↗</a></div>
     <p class="fine">Sentinel imagery: EU/ESA/Copernicus via Earth Engine. Institution geometry: © OpenStreetMap contributors, ODbL. Floodplain: eThekwini municipal GIS. Local research preview; no publication.</p>
   </section>
 </aside>
 <main>
-  <div class="map-header"><div><strong>Evidence explorer</strong><span>Historical mapping + April 2022 case study</span></div><span class="preview-label">LOCAL RESEARCH PREVIEW</span></div>
+  <div class="map-header"><div><strong>Evidence explorer</strong><span>Modeled hazard · rainfall · April 2022 imagery</span></div><span class="preview-label">LOCAL RESEARCH PREVIEW</span></div>
   <div id="map" aria-label="Interactive institution and flood evidence map"></div>
   <div class="evidence-note"><strong>Screening, not a risk rating.</strong> No confirmed flood or damage labels. Absence of mapped overlap is not evidence of safety.</div>
-  <div id="map-legend"><span><i class="dot library"></i>Library</span><span><i class="dot museum"></i>Museum</span><span><i class="outline"></i>Mapped point overlap</span><div>Historical floodplain <i class="flood-swatch"></i></div><div class="sar-key">SAR VV change: <span class="gradient"></span> −6 to +6 dB<br><small>Red = decrease · Blue = increase · Not flood classes</small></div></div>
+  <div id="map-legend"><span><i class="dot library"></i>Library</span><span><i class="dot museum"></i>Museum</span><span><i class="outline"></i>Mapped point overlap</span><div>Historical floodplain <i class="flood-swatch"></i></div><div id="context-map-legend" hidden></div><div class="sar-key" id="sar-legend" hidden>SAR VV change: <span class="gradient"></span> −6 to +6 dB<br><small>Red = decrease · Blue = increase · Not flood classes</small></div></div>
 </main>
 <dialog id="image-dialog"><button id="close-image" aria-label="Close comparison image">Close ×</button><h2 id="image-title"></h2><img id="comparison-image" alt=""><p>Fixed-display research comparison; no flood or building-damage classification.</p></dialog>
 <div id="load-error" role="alert" hidden></div>

@@ -29,6 +29,16 @@ class ResearchMapTests(unittest.TestCase):
             vendor.mkdir(parents=True)
             for name in ["leaflet.js", "leaflet.css", "LICENSE"]:
                 (vendor / name).write_text("test fixture")
+            image = root / "outputs/figures/batch_visual_review_node_1.png"
+            image.parent.mkdir(parents=True)
+            image.write_bytes(b"fixture image")
+            (data / "batch_review_profiles.json").write_text(json.dumps({"osm:node/1": {
+                "context_geometry_basis": "source_point_buffer_not_building_footprint",
+                "quality": [{"sensor": "S2", "date": "2022-04-13", "conservative_clear_fraction": 0}],
+                "images": [{"title": "Point-context comparison", "source_path": str(image.relative_to(root))}],
+                "visual_review_status": "generated_not_individually_interpreted"}}))
+            (data / "context_layers.json").write_text(json.dumps({"rasters": [{"id": "rain_event", "path": str(image.relative_to(root)), "bounds": [[-31,30],[-29,32]]}], "rainfall": {"daily": []}}))
+            (data / "context_profiles.json").write_text(json.dumps({"osm:node/1": {"hazard": [{"return_period_years":100,"depth_m":None,"status":"no_depth_observation"}], "evidence": {"location":"not_independently_verified"}}}))
             destination = root / "outputs/research_map"
             research_map.build_research_map(root, destination)
             payload = json.loads((destination / "data.json").read_text())
@@ -39,7 +49,14 @@ class ResearchMapTests(unittest.TestCase):
             html = (destination / "index.html").read_text()
             self.assertNotIn("onerror=alert", html)
             self.assertEqual(payload["sar_overlays"], [])
+            detail = payload["profiles"]["osm:node/1"]
+            self.assertEqual(detail["context_geometry_basis"], "source_point_buffer_not_building_footprint")
+            self.assertEqual(detail["quality"][0]["conservative_clear_fraction"], 0)
+            self.assertTrue((destination / detail["images"][0]["path"]).exists())
             self.assertTrue((destination / "map.js").exists())
+            self.assertIsNone(detail["context"]["hazard"][0]["depth_m"])
+            self.assertEqual(detail["context"]["evidence"]["location"], "not_independently_verified")
+            self.assertTrue((destination / payload["context"]["rasters"][0]["path"]).exists())
 
     def test_refuses_output_in_published_docs(self):
         self.assertTrue(hasattr(research_map, "build_research_map"), "Research map builder missing")

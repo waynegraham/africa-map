@@ -20,6 +20,10 @@ On a fresh checkout, first run `python3 scripts/fetch_map_vendor.py` and obtain
 the earlier research notebooks' inputs/outputs. See [map instructions and
 limitations](research/research_map.md). The published Africa map is unchanged.
 
+The imagery workflow now extends to all 28 pilot records: the original two reviewed sites plus 26 point-centered contexts. See [expanded review results](research/batch_review.md) and `notebooks/07_expanded_site_review.ipynb`. Individual interpretations of the new comparisons remain pending.
+
+The **Context** tab adds JRC modeled river depths, CHIRPS rainfall total/anomaly and separate evidence-gap indicators. See [context layers and limitations](research/context_layers.md) and `notebooks/08_context_layers.ipynb`. UNOSAT exact institution coverage remains unresolved.
+
 ## Flood-exposure research setup
 
 The exploratory research scaffold focuses on eThekwini, South Africa, using

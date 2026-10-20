@@ -72,9 +72,27 @@ def build_research_map(root, destination=None):
                 inputs.append(path)
                 images.append({"title": title, "path": "assets/" + path.name})
         profiles.setdefault(props["institution_id"], {})["images"] = images
+    overlay_sources = [{"site": site, "source_path": str((data / f"sar_change_{site}.tif").relative_to(root)),
+                        "institution_id": f"osm:way/{site}", "label": label}
+                       for site, label in [("368501740", "Library context"), ("1199992499", "Museum context")]]
+    batch_path = data / "batch_review_profiles.json"
+    if batch_path.exists():
+        inputs.append(batch_path)
+        for identifier, detail in json.loads(batch_path.read_text()).items():
+            converted = {k: v for k, v in detail.items() if k not in ("images", "sar_overlay")}
+            converted["images"] = []
+            for item in detail.get("images", []):
+                path = root / item["source_path"]
+                shutil.copyfile(path, assets / path.name)
+                inputs.append(path)
+                converted["images"].append({"title": item["title"], "path": "assets/" + path.name})
+            profiles[identifier] = {**profiles.get(identifier, {}), **converted}
+            if detail.get("sar_overlay"):
+                overlay_sources.append(detail["sar_overlay"])
     overlays = []
-    for site in ["368501740", "1199992499"]:
-        path = data / f"sar_change_{site}.tif"
+    for source_spec in overlay_sources:
+        site = source_spec["site"]
+        path = root / source_spec["source_path"]
         if not path.exists():
             continue
         inputs.append(path)
@@ -93,11 +111,26 @@ def build_research_map(root, destination=None):
             Image.fromarray(colors).save(assets / filename)
             west, south, east, north = transform_bounds("EPSG:3857", "EPSG:4326",
                 affine.c, affine.f + height * affine.e, affine.c + width * affine.a, affine.f)
-            overlays.append({"site": site, "path": "assets/" + filename,
+            overlays.append({"site": site, "institution_id": source_spec["institution_id"], "label": source_spec["label"], "path": "assets/" + filename,
                              "bounds": [[south, west], [north, east]]})
+    context = {}
+    context_path = data / "context_layers.json"
+    if context_path.exists():
+        inputs.append(context_path)
+        context = json.loads(context_path.read_text())
+        for spec in context.get("rasters", []):
+            path = root / spec["path"]
+            shutil.copyfile(path, assets / path.name)
+            inputs.append(path)
+            spec["path"] = "assets/" + path.name
+    context_profiles = data / "context_profiles.json"
+    if context_profiles.exists():
+        inputs.append(context_profiles)
+        for identifier, detail in json.loads(context_profiles.read_text()).items():
+            profiles.setdefault(identifier, {})["context"] = detail
     payload = {"institutions": institutions, "boundary": json.loads(boundary.to_json()),
                "floodplain": json.loads(flood[fields].to_crs(4326).to_json()),
-               "profiles": profiles, "reviewed_outlines": outlines, "sar_overlays": overlays,
+               "profiles": profiles, "reviewed_outlines": outlines, "sar_overlays": overlays, "context": context,
                "built_at_utc": datetime.now(timezone.utc).isoformat()}
     (destination / "data.json").write_text(json.dumps(payload, ensure_ascii=False, allow_nan=False))
     manifest = {"purpose": "Local research presentation; no publication or new hazard analysis",

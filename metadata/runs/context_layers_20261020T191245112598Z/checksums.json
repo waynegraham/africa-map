@@ -1,0 +1,15 @@
+{
+  "data/processed/ethekwini/context_assets/jrc_rp10.png": "9f4dc326563e297dc23bd52c92dfc077e3d2b8ac56099f38eba6010cc0182a0e",
+  "data/processed/ethekwini/context_assets/jrc_rp100.png": "e72db332709109ccc5ac15ef4227a9bf145a2c53aca997552687609d19646a8f",
+  "data/processed/ethekwini/context_assets/jrc_rp500.png": "9ba8d3f0e02a97a8a095ebcd4ceb09b1ed70db5f85b41c522796424c4278a96b",
+  "data/processed/ethekwini/context_assets/jrc_auxiliary_flags.png": "fd8cae8c26fc8d5b91e7b7d11766f80306e98d1511ad13552d548e425de281e3",
+  "data/processed/ethekwini/context_assets/rain_event.png": "f2fcfeb1c66d22f5683f46eea33409c8476f8cc9b1edb0627ca2023f71a09b4b",
+  "data/processed/ethekwini/context_assets/rain_anomaly.png": "cc48e995c03990a51583d155e53fcfefc641ca0099bebc89a5821f3cee15a6e0",
+  "data/processed/ethekwini/context_profiles.json": "15f5835c57322ba8bad5343f3ac2acc6e3417fce71c910e456d7f6910919fc73",
+  "data/processed/ethekwini/jrc_point_context.csv": "6aac3643b4b904d78027b281cbc84319d37b202c8c983c49911b0809f4d5eb32",
+  "data/processed/ethekwini/evidence_indicators.csv": "66bc0817eb10f2180fb37e48f4d80e613ebb00cd8b683188625745878499c1b3",
+  "data/processed/ethekwini/context_layers.json": "37bdfb2543c4e797d589876874d435e446075a1fe56034199ca6486df920175c",
+  "outputs/figures/rainfall_context.png": "245f9d59e804c3ece55bc0c3cec2f1f21c6a605f0410c9bbd027a9feb1c6132a",
+  "data/processed/ethekwini/jrc_hazard_context.tif": "ee7cd5b967eafb66f517eb9cbf5c991948c3589b6e8fd14203ae07983ef0eb01",
+  "data/processed/ethekwini/chirps_event_context.tif": "5e19d34d63cd0a208f135e40fc9f6308b0d18e8989faf5b90483fe81debf76da"
+}

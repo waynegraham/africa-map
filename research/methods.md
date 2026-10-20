@@ -16,6 +16,8 @@ now compares three pre-event dates with 17 April, using power-domain processing,
 March-only reference selection and a withheld pre-event check. No event water
 mask or building damage label has been produced.
 
+The [expanded site review](batch_review.md) applies local quality checks and exploratory changes to the remaining 26 records using 100 m projected source-point contexts, not building outlines. All intersecting optical tiles are evaluated per date; the selected asset maximizes local clear fraction and then coverage. No generated comparison is automatically recorded as an individual visual interpretation.
+
 ## Inventory
 
 Retain OSM identifiers and source geometry metadata. Record name and coordinate checks separately. Resolve duplicates through review. Use a verified municipal boundary for inclusion; record the spatial predicate and treatment of boundary cases.
@@ -35,3 +37,7 @@ Record independent reference sources, observation dates, spatial coverage, and u
 ## Reproducibility
 
 Assign each run a unique ID. Retain input dataset IDs, selected scene IDs, code commit, configuration snapshot, environment information, output locations, checksums, and verification notes in the processing register. Describe departures from these methods here before reporting results.
+
+## Regional context layers
+
+[Context methods](context_layers.md) document the static JRC river model, auxiliary qualifications and missing-depth semantics; CHIRPS same-calendar three-day rainfall anomaly; separate evidence dimensions; and unresolved UNOSAT coverage. Source angular grids and complete temporal support are retained. Neither blank depth cells nor missing event evidence becomes a safety/dry label.

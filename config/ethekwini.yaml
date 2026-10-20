@@ -116,5 +116,48 @@
       3.0,
       4.5
     ]
+  },
+  "batch_review": {
+    "source_directory": "data/raw/earth_engine_batch_review_20261020",
+    "dataset_id": "earth_engine_batch_review_20261020",
+    "excluded_institution_ids": [
+      "osm:way/368501740",
+      "osm:way/1199992499"
+    ],
+    "quality_buffer_m": 100,
+    "optical_chip_buffer_m": 500,
+    "sar_chip_buffer_m": 1000,
+    "optical_quality_dates": [
+      "2022-03-29",
+      "2022-04-13",
+      "2022-04-18",
+      "2022-04-23",
+      "2022-04-28"
+    ],
+    "optical_display_dates": [
+      "2022-03-29",
+      "2022-04-13",
+      "2022-04-28"
+    ]
+  },
+  "context_layers": {
+    "source_directory": "data/raw/context_layers_20261020",
+    "hazard_dataset_id": "jrc_hazard_context_20261020",
+    "rain_dataset_id": "chirps_context_20261020",
+    "hazard_collection": "JRC/CEMS_GLOFAS/FloodHazard/v2_1",
+    "return_periods_years": [
+      10,
+      100,
+      500
+    ],
+    "rain_collection": "UCSB-CHG/CHIRPS/DAILY",
+    "rain_event_start": "2022-04-11",
+    "rain_event_end_exclusive": "2022-04-14",
+    "rain_baseline_start_year": 1991,
+    "rain_baseline_end_year": 2020,
+    "rain_timeline_start": "2022-03-25",
+    "rain_timeline_end_exclusive": "2022-05-01",
+    "unosat_product_url": "https://unosat.org/products/3283",
+    "unosat_services_url": "https://unosatgis.cern.ch/rapidmapping/rest/services/FL20220418ZAF?f=pjson"
   }
 }

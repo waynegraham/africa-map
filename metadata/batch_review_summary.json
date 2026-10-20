@@ -1,0 +1,146 @@
+{
+  "run_id": "batch_review_20261020T183908308388Z",
+  "dataset_id": "earth_engine_batch_review_20261020",
+  "new_sites": 26,
+  "previously_reviewed_sites": 2,
+  "selected_quality_checks": 234,
+  "candidate_checks": 624,
+  "chip_count": 182,
+  "chip_bytes": 45186139,
+  "sites": [
+    {
+      "institution_id": "osm:node/210124433",
+      "sar_status": "computed_not_validated_as_flood",
+      "image_count": 2
+    },
+    {
+      "institution_id": "osm:node/270858088",
+      "sar_status": "computed_not_validated_as_flood",
+      "image_count": 2
+    },
+    {
+      "institution_id": "osm:node/842019797",
+      "sar_status": "computed_not_validated_as_flood",
+      "image_count": 2
+    },
+    {
+      "institution_id": "osm:node/1829754122",
+      "sar_status": "computed_not_validated_as_flood",
+      "image_count": 2
+    },
+    {
+      "institution_id": "osm:node/1924955012",
+      "sar_status": "computed_not_validated_as_flood",
+      "image_count": 2
+    },
+    {
+      "institution_id": "osm:node/1932194073",
+      "sar_status": "computed_not_validated_as_flood",
+      "image_count": 2
+    },
+    {
+      "institution_id": "osm:node/1932209539",
+      "sar_status": "computed_not_validated_as_flood",
+      "image_count": 2
+    },
+    {
+      "institution_id": "osm:node/3737267434",
+      "sar_status": "computed_not_validated_as_flood",
+      "image_count": 2
+    },
+    {
+      "institution_id": "osm:node/5191130930",
+      "sar_status": "computed_not_validated_as_flood",
+      "image_count": 2
+    },
+    {
+      "institution_id": "osm:node/5265347411",
+      "sar_status": "computed_not_validated_as_flood",
+      "image_count": 2
+    },
+    {
+      "institution_id": "osm:node/5265654401",
+      "sar_status": "computed_not_validated_as_flood",
+      "image_count": 2
+    },
+    {
+      "institution_id": "osm:node/6408442709",
+      "sar_status": "computed_not_validated_as_flood",
+      "image_count": 2
+    },
+    {
+      "institution_id": "osm:node/10814206135",
+      "sar_status": "computed_not_validated_as_flood",
+      "image_count": 2
+    },
+    {
+      "institution_id": "osm:node/10814490760",
+      "sar_status": "computed_not_validated_as_flood",
+      "image_count": 2
+    },
+    {
+      "institution_id": "osm:node/14214145301",
+      "sar_status": "computed_not_validated_as_flood",
+      "image_count": 2
+    },
+    {
+      "institution_id": "osm:way/351103593",
+      "sar_status": "computed_not_validated_as_flood",
+      "image_count": 2
+    },
+    {
+      "institution_id": "osm:way/565476466",
+      "sar_status": "computed_not_validated_as_flood",
+      "image_count": 2
+    },
+    {
+      "institution_id": "osm:way/625072620",
+      "sar_status": "computed_not_validated_as_flood",
+      "image_count": 2
+    },
+    {
+      "institution_id": "osm:way/662959341",
+      "sar_status": "computed_not_validated_as_flood",
+      "image_count": 2
+    },
+    {
+      "institution_id": "osm:way/682125271",
+      "sar_status": "computed_not_validated_as_flood",
+      "image_count": 2
+    },
+    {
+      "institution_id": "osm:way/855651308",
+      "sar_status": "computed_not_validated_as_flood",
+      "image_count": 2
+    },
+    {
+      "institution_id": "osm:way/1104102922",
+      "sar_status": "computed_not_validated_as_flood",
+      "image_count": 2
+    },
+    {
+      "institution_id": "osm:way/1167800816",
+      "sar_status": "computed_not_validated_as_flood",
+      "image_count": 2
+    },
+    {
+      "institution_id": "osm:way/1350742793",
+      "sar_status": "computed_not_validated_as_flood",
+      "image_count": 2
+    },
+    {
+      "institution_id": "osm:way/1413783918",
+      "sar_status": "computed_not_validated_as_flood",
+      "image_count": 2
+    },
+    {
+      "institution_id": "osm:way/1485611015",
+      "sar_status": "computed_not_validated_as_flood",
+      "image_count": 2
+    }
+  ],
+  "geometry_basis": "100 m projected source-point buffers; not reviewed building footprints",
+  "visual_review_status": "Figures generated; individual site interpretations pending",
+  "flood_labels_assigned": false,
+  "limitations": "Fixed dates and one SAR track; late event observations; unverified points; no independent event evidence, terrain/urban-artifact masks or climate projections."
+}

@@ -185,3 +185,17 @@ sar_change_raster,reference_pair_spread_db,number,dB,true,Maximum absolute March
 sar_change_raster,corridor_250m,number,indicator,false,Historical municipal polygon plus 250 m membership; no hazard absence inferred from zero,0;1
 sar_change_raster,reference_selected,number,indicator,false,March-stable geographic reference candidate membership; not verified unaffected controls,0;1
 sar_change_raster,joint_valid,number,indicator,false,Both channels and all required dates have full 3x3 finite support; inspect before interpretation,0;1
+batch_site_quality,candidate_count,integer,,false,Number of dated asset candidates evaluated locally; selection does not mosaic candidates,
+batch_site_quality,asset_id,string,,true,Actual selected Earth Engine asset ID; missing means no matching asset,
+batch_site_quality,context_geometry_basis,string,,false,Point-centered sampling context; never a building footprint,source_point_buffer_not_building_footprint
+batch_site_quality,conservative_clear_fraction,float,fraction,true,"Weighted SCL 4/5/6 and spectral-valid sampling fraction; missing is unknown; zero is no retained samples, not dry",0..1
+batch_sar_sensitivity,joint_decrease_fraction,float,fraction,true,Joint VV/VH decrease sample fraction at stated threshold and comparison; no flood classification; null if no support,0..1
+batch_review_profiles,visual_review_status,string,,false,Whether generated sheets have individually documented interpretation,generated_not_individually_interpreted
+jrc_point_context,depth_m,float,m,true,"Qualified modeled depth at source grid cell; null for missing, permanent water or suspected artifact; not building depth",
+jrc_point_context,source_depth_m,float,m,true,Retained numerical source depth before qualification; null if no valid source depth,
+jrc_point_context,status,string,,false,"Distinguishes positive modeled depth, absent observation, source zero and auxiliary qualifications",modeled_positive_depth;no_depth_observation;zero_in_source_not_safety;permanent_water_reference;suspected_model_artifact
+evidence_indicators,optical_13_apr,string,,false,"Retained conservative-clear check on 13 April, not the 11–12 April peak; context geometry varies by original/batch method",no_retained_quality_check;no_conservative_clear_samples;partial_clear_candidates_require_review;clear_candidates_require_review
+evidence_indicators,footprint,string,,false,Current reviewed OSM outline availability; never independently verified 2022 geometry,no_reviewed_outline;current_osm_outline_not_2022_verified
+evidence_indicators,independent_event_evidence,string,,false,Institution-specific independent event evidence status in retained register; unknown is not no flooding,not_established
+context_profiles,rainfall,object,mm,true,"Event same-date three-day cell total, 1991–2020 baseline and anomaly; approximately 5.6 km regional cell, not building rainfall",
+context_profiles,unosat_coverage,string,,false,No verified machine-readable analysis extent obtained; no institution-level inside/outside coverage assigned,not_verified_from_machine_readable_analysis_extent

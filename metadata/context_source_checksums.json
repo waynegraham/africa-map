@@ -1,0 +1,12 @@
+{
+  "data/raw/context_layers_20261020/definition.json": "ecf4f5181400e328cc4d66142604ae4b7dd8b870d803926eb8119727270a387f",
+  "data/raw/context_layers_20261020/hazard_assets.json": "ca1e70bd71c0d809004323c5b994db4634343642beb141a8fc4e748506ebbfb2",
+  "data/raw/context_layers_20261020/jrc_hazard.tif": "6ca4f068ffe464f460b644b83941a3f43a7bb9122939b89bc5c5fc25fc1f0588",
+  "data/raw/context_layers_20261020/jrc_hazard.json": "7e9089e4cac63a0c4d485cef6c3859611bbfe65119c8975bde8fa0019e9c17f4",
+  "data/raw/context_layers_20261020/chirps_event.tif": "07ddf55b6b5b3e99a2a6a42a85793b81759a466544b844ef686c24d7d3bc1ef7",
+  "data/raw/context_layers_20261020/chirps_event.json": "152a96d3c8936f523a43074da131ea0ebbd5e84969ff4b27370bd60606e2d92f",
+  "data/raw/context_layers_20261020/rainfall_statistics.json": "641fa4de342262e8f6cbfb39c851c79a114b26b7eb044d59d399b45a4199ce9e",
+  "data/raw/context_layers_20261020/unosat_map.pdf": "53a45dc383afb8985d454cee3ddbdf110e972363591b5ac1a5368ef065cc1529",
+  "data/raw/context_layers_20261020/unosat_services.json": "4f453a5d70bace15df923ca73737494335ab149f2b0ac53023de383217c88e5b",
+  "data/raw/context_layers_20261020/unosat_product.html": "caddb6624ddc304d1af7eab4595a55d2ff609b74425043c6d6c6767957a5a034"
+}
