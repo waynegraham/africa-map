@@ -45,6 +45,9 @@ see [pixel-quality results](research/earth_engine_pixel_quality.md).
 Earth Engine access to `digitization-calculator` has been verified. No flood
 classification or event reconstruction has been performed. Cached mask results
 can be reviewed without authentication; new queries require your authorized session.
+Notebook 05 now renders small fixed-display optical/SAR comparisons; see
+[visual-review findings](research/visual_review.md). These previews support
+exploratory analysis, without assigning flood or damage labels.
 Reusable inventory logic lives in `src/heritage_flood/inventory.py`.
 Research dependencies are an initial, unpinned specification; the environment
 must be installed and validated before recording tested versions for a release.

@@ -1,0 +1,26 @@
+{
+  "run_id": "visual_review_20261020T154017672577Z",
+  "chip_count": 10,
+  "total_chip_bytes": 690413,
+  "context_buffer_m": 500,
+  "optical_display_scale_m": 20,
+  "sar_display_scale_m": 10,
+  "display": {
+    "source_directory": "data/raw/earth_engine_visual_review",
+    "context_buffer_m": 500,
+    "sar_scale_m": 10,
+    "optical_scale_m": 20,
+    "rgb_sr_min": 0,
+    "rgb_sr_max": 0.3,
+    "rgb_gamma": 1.2,
+    "vv_display_min_db": -25,
+    "vv_display_max_db": 0,
+    "vh_display_min_db": -30,
+    "vh_display_max_db": -5
+  },
+  "visual_review_status": "Reviewed rendered comparisons for both sites; see research/visual_review.md for evidence-qualified observations",
+  "building_flood_labels_assigned": false,
+  "flood_detection_performed": false,
+  "recommendation": "An exploratory SAR change comparison is technically possible, but no building flood labels are justified. Use wider spatial context and independent dated evidence; peak inundation remains unobserved.",
+  "limitations": "Unfiltered SAR texture and urban scattering; very few building samples; current OSM outlines; historical floodplain; optical post-event date is late. Visual absence is not a negative flood label."
+}

@@ -1,0 +1,97 @@
+{
+  "project_id": "ethekwini-flood-exposure-poc",
+  "country_code": "ZA",
+  "institution_source": "data/pois/ZA.geojson",
+  "boundary_path": "data/raw/ethekwini_boundary/boundary_wgs84.geojson",
+  "analysis_crs": "EPSG:32736",
+  "event": {
+    "name": "April 2022 candidate case study",
+    "search_start": "2022-04-01",
+    "search_end_exclusive": "2022-05-01"
+  },
+  "baseline_window": null,
+  "buffer_distances_m": [
+    25,
+    50,
+    100
+  ],
+  "output_directory": "data/processed/ethekwini",
+  "institution_dataset_id": "osm_za_pois_snapshot_20261020",
+  "boundary_dataset_id": "ethekwini_boundary_arcgis_2022_snapshot_20261020",
+  "inventory_audit": {
+    "proximity_distance_m": 30,
+    "same_name_distance_m": 250
+  },
+  "floodplain_dataset_id": "ethekwini_100yr_floodplain_snapshot_20261020",
+  "floodplain_source_directory": "data/raw/ethekwini_floodplain",
+  "availability": {
+    "source_directory": "data/raw/sentinel_availability",
+    "search_start": "2022-03-01T00:00:00Z",
+    "search_end_exclusive": "2022-05-01T00:00:00Z",
+    "reference_peak_start": "2022-04-11T00:00:00Z",
+    "reference_peak_end_exclusive": "2022-04-13T00:00:00Z",
+    "reference_source": "https://www.gov.za/news/national-state-disaster-numbers-%E2%80%93-18-april-2022-18-apr-2022",
+    "earth_engine_project": "digitization-calculator"
+  },
+  "site_review": {
+    "source_directory": "data/raw/site_review",
+    "way_ids": [
+      368501740,
+      1199992499
+    ]
+  },
+  "pixel_quality": {
+    "source_directory": "data/raw/earth_engine_quality",
+    "context_buffer_m": 100,
+    "sar_scale_m": 10,
+    "optical_scale_m": 20,
+    "optical_clear_scl_classes": [
+      4,
+      5,
+      6
+    ],
+    "requests": [
+      [
+        "S1",
+        "2022-04-05"
+      ],
+      [
+        "S1",
+        "2022-04-17"
+      ],
+      [
+        "S2",
+        "2022-03-29"
+      ],
+      [
+        "S2",
+        "2022-04-13"
+      ],
+      [
+        "S2",
+        "2022-04-18"
+      ],
+      [
+        "S2",
+        "2022-04-23"
+      ],
+      [
+        "S2",
+        "2022-04-28"
+      ]
+    ]
+  },
+  "visual_review": {
+    "source_directory": "data/raw/earth_engine_visual_review",
+    "context_buffer_m": 500,
+    "sar_scale_m": 10,
+    "optical_scale_m": 20,
+    "rgb_sr_min": 0,
+    "rgb_sr_max": 0.3,
+    "rgb_gamma": 1.2,
+    "vv_display_min_db": -25,
+    "vv_display_max_db": 0,
+    "vh_display_min_db": -30,
+    "vh_display_max_db": -5
+  }
+}

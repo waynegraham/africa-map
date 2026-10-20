@@ -80,5 +80,18 @@
         "2022-04-28"
       ]
     ]
+  },
+  "visual_review": {
+    "source_directory": "data/raw/earth_engine_visual_review",
+    "context_buffer_m": 500,
+    "sar_scale_m": 10,
+    "optical_scale_m": 20,
+    "rgb_sr_min": 0,
+    "rgb_sr_max": 0.3,
+    "rgb_gamma": 1.2,
+    "vv_display_min_db": -25,
+    "vv_display_max_db": 0,
+    "vh_display_min_db": -30,
+    "vh_display_max_db": -5
   }
 }
