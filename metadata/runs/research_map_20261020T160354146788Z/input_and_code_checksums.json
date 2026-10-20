@@ -1,0 +1,32 @@
+{
+  "purpose": "Local research presentation; no publication or new hazard analysis",
+  "inputs_sha256": {
+    "data/processed/ethekwini/floodplain_screening.geojson": "7833916143864eac09a8fcc1f8ff8558c02a2364053880254eb29035c8f443c0",
+    "data/processed/ethekwini/floodplain_screening.gpkg": "ddf5cad432f6fbc8466a6ac17e2a76e1912dda3dba330bdb733bfc9fddf735dc",
+    "data/processed/ethekwini/municipal_boundary.gpkg": "361ebdbe8d64006a5ff2f0984943773dfa7d7124a999e1e007400a405cbb9516",
+    "metadata/site_review_decisions.csv": "88e778c9cdad7cb53003cefeb9197af1a59081bae69f1265b1986fbfc0ae9dd5",
+    "data/processed/ethekwini/flagged_site_review.gpkg": "9bf3b1a75b8bebef8959063374331d74beba4969d5361d037f6650bb853f46f9",
+    "data/processed/ethekwini/earth_engine_site_quality.csv": "d9143cf60e40fbb94d5593289b86559fd3ed9d19d804cba7352a416416332e9e",
+    "data/processed/ethekwini/flagged_site_geometry_review.csv": "0f4e9276cfba936ae1e5bc36941fe1cfc733b6e9c8de98e92ad0d56c8eebace5",
+    "outputs/figures/visual_review_368501740.png": "d1c1c7245e1a2e9a351ee9fa265a15b32186a3790b5ce64ac52111a8aff97cb3",
+    "outputs/figures/sar_change_368501740.png": "6b657f6aeee0a5ace8c996c1ccedc7cce32c37c9abe99cf7eff27826b8bcfa76",
+    "outputs/figures/visual_review_1199992499.png": "6a9c311921af8359fc9dda8eae56d0a8fa807044a77579ecb5e54f92fba71969",
+    "outputs/figures/sar_change_1199992499.png": "3d672001747301aa9b32420be3526ccd856c250701a58c0f6dd109370f3cb1b1",
+    "data/processed/ethekwini/sar_change_368501740.tif": "8e46a20f0588fb8c58fefd4e0663698d9c231c06448297c34d1111541f2fb39e",
+    "data/processed/ethekwini/sar_change_1199992499.tif": "986a5c1ae71b778ba8e50e6735f551044c39a63b57514603e4ceb5378502a6ec"
+  },
+  "code_sha256": {
+    "research_map.py": "55c08d61b4b31cb150d093f428b5217d5b1b293fcbd3e6cd5d03440a34ca8b54",
+    "index.html": "bee6b94cc7124ffd287290ffeee1fec3c1e74b5a1e404cfa7f717581dc7b06b3",
+    "map.css": "c8bc9ff8a24e278f0637e80b6442a8d480dd9e2276bcb1b8cb2923748f657d15",
+    "map.js": "13308e5020e906fb682473e8a6b6f4e977769e80c6c39ce5b2572d0afdbd185d"
+  },
+  "display": {
+    "floodplain_simplification_m": 2,
+    "sar_vv_range_db": [
+      -6,
+      6
+    ],
+    "sar_resampling": "nearest; warped to Web Mercator for Leaflet image alignment"
+  }
+}

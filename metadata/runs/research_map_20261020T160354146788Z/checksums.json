@@ -1,0 +1,18 @@
+{
+  "outputs/research_map/map.css": "c8bc9ff8a24e278f0637e80b6442a8d480dd9e2276bcb1b8cb2923748f657d15",
+  "outputs/research_map/index.html": "bee6b94cc7124ffd287290ffeee1fec3c1e74b5a1e404cfa7f717581dc7b06b3",
+  "outputs/research_map/build_manifest.json": "5fbe41c12d8dca2281c829bc12aa046d781acbbf7d16c3ffffbe691845f23d41",
+  "outputs/research_map/data.json": "2371411eafed4bd8912dc96533ef6331e2ba006769efe83006979d7ce548afc6",
+  "outputs/research_map/map.js": "13308e5020e906fb682473e8a6b6f4e977769e80c6c39ce5b2572d0afdbd185d",
+  "outputs/research_map/assets/sar_vv_change_368501740.png": "7831fbdd513bcb25d8205f999e5d8165dd4df24b30bde138988123f308da8a5e",
+  "outputs/research_map/assets/sar_change_1199992499.png": "3d672001747301aa9b32420be3526ccd856c250701a58c0f6dd109370f3cb1b1",
+  "outputs/research_map/assets/sar_vv_change_1199992499.png": "7e67216eabbd2c80569007f7ee29e970c820d608038ccc203b08c491856aa344",
+  "outputs/research_map/assets/sar_change_368501740.png": "6b657f6aeee0a5ace8c996c1ccedc7cce32c37c9abe99cf7eff27826b8bcfa76",
+  "outputs/research_map/assets/visual_review_1199992499.png": "6a9c311921af8359fc9dda8eae56d0a8fa807044a77579ecb5e54f92fba71969",
+  "outputs/research_map/assets/visual_review_368501740.png": "d1c1c7245e1a2e9a351ee9fa265a15b32186a3790b5ce64ac52111a8aff97cb3",
+  "outputs/research_map/vendor/leaflet.js": "db49d009c841f5ca34a888c96511ae936fd9f5533e90d8b2c4d57596f4e5641a",
+  "outputs/research_map/vendor/LICENSE": "53e8dc25862014e4324741ca18fbe3611e11d42ef69f59f86ea8c5389647d4cb",
+  "outputs/research_map/vendor/leaflet.css": "a7837102824184820dfa198d1ebcd109ff6d0ff9a2672a074b9a1b4d147d04c6",
+  "outputs/research_map/vendor/images/layers.png": "1dbbe9d028e292f36fcba8f8b3a28d5e8932754fc2215b9ac69e4cdecf5107c6",
+  "outputs/research_map/vendor/images/layers-2x.png": "066daca850d8ffbef007af00b06eac0015728dee279c51f3cb6c716df7c42edf"
+}

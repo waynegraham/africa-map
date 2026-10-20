@@ -1,0 +1,36 @@
+[
+  {
+    "institution_id": "osm:way/368501740",
+    "valid_grid_centers": 41820,
+    "reference_grid_centers": 1426,
+    "reference_selection_dates": [
+      "2022-03-12",
+      "2022-03-24"
+    ],
+    "heldout_date": "2022-04-05",
+    "post_date": "2022-04-17",
+    "incidence_angle_medians_deg": [
+      38.68892478942871,
+      38.69088935852051,
+      38.69040298461914,
+      38.69380187988281
+    ]
+  },
+  {
+    "institution_id": "osm:way/1199992499",
+    "valid_grid_centers": 41006,
+    "reference_grid_centers": 1348,
+    "reference_selection_dates": [
+      "2022-03-12",
+      "2022-03-24"
+    ],
+    "heldout_date": "2022-04-05",
+    "post_date": "2022-04-17",
+    "incidence_angle_medians_deg": [
+      39.51114082336426,
+      39.513084411621094,
+      39.51262283325195,
+      39.51598930358887
+    ]
+  }
+]

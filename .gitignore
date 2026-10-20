@@ -25,3 +25,4 @@ outputs/tables/*
 !outputs/tables/.gitkeep
 outputs/gis/*
 !outputs/gis/.gitkeep
+outputs/research_map/

@@ -11,4 +11,6 @@ ipykernel
 nbformat
 PyYAML
 certifi
+numpy
+matplotlib
 # Capture tested versions for a release after validating the environment.

@@ -1,0 +1,10 @@
+{
+  "run_id": "research_map_20261020T160354146788Z",
+  "built_at_utc": "2026-10-20T15:59:08.619065+00:00",
+  "institutions": 28,
+  "floodplain_polygons": 249,
+  "reviewed_outlines": 2,
+  "sar_overlays": 2,
+  "validation": "28 automated tests passed; desktop browser interactions checked; manifest hashes matched; alpha transparency verified; mobile untested",
+  "publication": "Local only; no risk or confirmed flood labels"
+}

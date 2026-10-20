@@ -4,6 +4,22 @@ Explore museums, libraries, and archives from OpenStreetMap across Africa.
 The interactive map includes category toggles, location details, coordinates,
 and links to the original OpenStreetMap entries.
 
+## Open the local research map
+
+The interactive eThekwini evidence explorer is available locally, with
+institution profiles, historical floodplain toggles, comparison images and
+exploratory SAR layers. From this repository root:
+
+```sh
+.venv/bin/python -m heritage_flood.research_map
+python3 -m http.server 8001 --bind 127.0.0.1
+```
+
+Open http://127.0.0.1:8001/outputs/research_map/index.html.
+On a fresh checkout, first run `python3 scripts/fetch_map_vendor.py` and obtain
+the earlier research notebooks' inputs/outputs. See [map instructions and
+limitations](research/research_map.md). The published Africa map is unchanged.
+
 ## Flood-exposure research setup
 
 The exploratory research scaffold focuses on eThekwini, South Africa, using
@@ -48,6 +64,10 @@ can be reviewed without authentication; new queries require your authorized sess
 Notebook 05 now renders small fixed-display optical/SAR comparisons; see
 [visual-review findings](research/visual_review.md). These previews support
 exploratory analysis, without assigning flood or damage labels.
+Notebook 06 adds a matched-track SAR change experiment with a power-domain
+baseline, withheld pre-event check and reference candidates. See
+[SAR findings and limitations](research/sar_change.md); no validated flood
+signal or institution damage has been established.
 Reusable inventory logic lives in `src/heritage_flood/inventory.py`.
 Research dependencies are an initial, unpinned specification; the environment
 must be installed and validated before recording tested versions for a release.

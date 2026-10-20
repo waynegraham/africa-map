@@ -11,8 +11,10 @@ Actual Earth Engine mask checks are now recorded in
 [pixel-quality feasibility](earth_engine_pixel_quality.md). These checks assess
 local data/clear-mask coverage, not floodwater, damage or validated SAR suitability.
 Fixed-display visual comparisons and descriptive local diagnostics are recorded
-in [visual review](visual_review.md). SAR change detection remains an exploratory
-next experiment; no event water mask or building damage label has been produced.
+in [visual review](visual_review.md). An [exploratory SAR experiment](sar_change.md)
+now compares three pre-event dates with 17 April, using power-domain processing,
+March-only reference selection and a withheld pre-event check. No event water
+mask or building damage label has been produced.
 
 ## Inventory
 

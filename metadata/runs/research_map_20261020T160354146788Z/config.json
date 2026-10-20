@@ -1,0 +1,8 @@
+{
+  "floodplain_simplification_m": 2,
+  "sar_vv_range_db": [
+    -6,
+    6
+  ],
+  "sar_resampling": "nearest; warped to Web Mercator for Leaflet image alignment"
+}
