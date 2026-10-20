@@ -1,0 +1,13 @@
+# Optional research environment; existing map dependencies stay separate.
+-r requirements.txt
+earthengine-api
+geemap
+geopandas
+rasterio
+pandas
+pyarrow
+jupyterlab
+ipykernel
+nbformat
+PyYAML
+# Capture tested versions for a release after validating the environment.

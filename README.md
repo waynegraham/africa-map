@@ -4,6 +4,68 @@ Explore museums, libraries, and archives from OpenStreetMap across Africa.
 The interactive map includes category toggles, location details, coordinates,
 and links to the original OpenStreetMap entries.
 
+## Flood-exposure research setup
+
+The exploratory research scaffold focuses on eThekwini, South Africa, using
+public data to guide further heritage research and data collection. It does
+not yet calculate flood exposure or implement satellite analysis.
+
+Read [the project brief](research/project_brief.md), [agent guidance](AGENTS.md),
+[methods](research/methods.md), and [limitations](research/limitations.md).
+Candidate sources are listed in [research/sources.md](research/sources.md).
+
+### Local research environment
+
+Use Python 3.10 or newer. From the repository root:
+
+```sh
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install -r requirements-research.txt
+python -m pip install -e . --no-deps
+python -m ipykernel install --user --name africa-map --display-name "Africa map research"
+python -m jupyterlab
+```
+
+Select the research kernel and begin with
+`notebooks/01_inventory_audit.ipynb`. It performs a preliminary inspection of
+the South African inventory; municipal selection requires a verified boundary.
+The remaining notebooks describe the next stages and contain no analytical
+results. Modules under `src/heritage_flood/` reserve places for reusable logic.
+Research dependencies are an initial, unpinned specification; the environment
+must be installed and validated before recording tested versions for a release.
+
+### Colab and Earth Engine
+
+Clone your repository into the Colab runtime and change into its root. Install
+the same dependency files and editable package using notebook `%pip` commands.
+Use an appropriate authorized Earth Engine Cloud project and interactive
+authentication when remote analysis is implemented. Never save credentials or
+authentication outputs in notebooks. This scaffold makes no Earth Engine calls.
+Colab runtime storage is temporary: copy retained artifacts to persistent
+storage, such as Google Drive, and record their locations and checksums.
+
+### Research organization
+
+- `config/ethekwini.yaml`: candidate dates and paths; boundary, analysis CRS,
+  baseline window, and buffer settings await documented decisions. The file
+  uses JSON syntax, which is also valid YAML.
+- `metadata/`: CSV registers for source snapshots, processing runs, and field
+  definitions; see [register conventions](metadata/README.md).
+- `data/raw/`, `data/interim/`, `data/processed/`: unchanged downloads,
+  temporary processing files, and derived datasets respectively.
+- `outputs/figures/`, `outputs/tables/`, `outputs/gis/`: analytical exports.
+- `research/`: research documentation; `docs/` remains the published website.
+
+Research data and output directories are ignored by default to keep large
+artifacts out of Git. Register persistent artifact locations; review size and
+redistribution terms before intentionally tracking small deliverables.
+Existing `data/pois/` files remain in their original locations.
+
+The first milestone is a boundary/inventory audit, source feasibility review,
+and satellite acquisition manifest. Future scenarios and machine learning
+follow a checked baseline. Do not interpret a missing observation as low risk.
+
 ## Preview locally
 
 From the repository root, run:

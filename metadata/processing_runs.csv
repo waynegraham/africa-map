@@ -1,0 +1,1 @@
+run_id,started_at_utc,input_dataset_ids,scene_manifest_path,code_commit,working_tree_dirty,config_snapshot_path,environment_path,method,output_locations,output_checksums_path,validation_status,notes
