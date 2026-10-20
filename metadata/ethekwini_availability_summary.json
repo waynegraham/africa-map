@@ -1,0 +1,52 @@
+{
+  "run_id": "site_availability_20261020T142620131118Z",
+  "catalogue": "Copernicus Data Space public STAC; Sentinel-1 acquisition keys cross-checked through CDSE OData",
+  "search": {
+    "source_directory": "data/raw/sentinel_availability",
+    "search_start": "2022-03-01T00:00:00Z",
+    "search_end_exclusive": "2022-05-01T00:00:00Z",
+    "reference_peak_start": "2022-04-11T00:00:00Z",
+    "reference_peak_end_exclusive": "2022-04-13T00:00:00Z",
+    "reference_source": "https://www.gov.za/news/national-state-disaster-numbers-%E2%80%93-18-april-2022-18-apr-2022",
+    "earth_engine_project": null
+  },
+  "scene_counts": {
+    "sentinel-1-grd": 14,
+    "sentinel-2-l2a": 48
+  },
+  "sar_odata_acquisition_keys_match": true,
+  "acquisition_dates_by_collection": {
+    "sentinel-1-grd": [
+      "2022-03-12",
+      "2022-03-24",
+      "2022-04-05",
+      "2022-04-17",
+      "2022-04-20",
+      "2022-04-27",
+      "2022-04-29"
+    ],
+    "sentinel-2-l2a": [
+      "2022-03-04",
+      "2022-03-09",
+      "2022-03-14",
+      "2022-03-19",
+      "2022-03-24",
+      "2022-03-29",
+      "2022-04-03",
+      "2022-04-08",
+      "2022-04-13",
+      "2022-04-18",
+      "2022-04-23",
+      "2022-04-28"
+    ]
+  },
+  "candidate_scene_count": 5,
+  "earth_engine_authenticated": null,
+  "earth_engine_authentication_checked_in_notebook": false,
+  "earth_engine_status": "Initial local ee.Initialize check on 2026-10-20 required authorization; this notebook does not recheck authentication or query Earth Engine",
+  "pixel_data_downloaded": false,
+  "pixel_usability": "not_evaluated",
+  "feasibility": "Conditional for residual-water/visible-impact exploration; peak flood extent cannot be reconstructed or validated from these metadata alone",
+  "temporal_limit": "Candidate matched SAR acquisitions 5 and 17 April bracket the reported 11-12 April peak; a dry 17 April observation would not rule out earlier inundation",
+  "cloud_limit": "Sentinel-2 scene-level cloud percentages are not site-level clear-pixel measurements"
+}

@@ -38,7 +38,13 @@ duplicate issues, exports local GIS/CSV files, and records provenance. See
 [inventory findings](research/inventory_audit.md). Notebook 03 now obtains and
 checks the municipal floodplain and produces provisional point screening;
 see [floodplain findings and limitations](research/floodplain_screening.md).
-The satellite notebook remains a starter; no event reconstruction has been performed.
+Notebook 02 now reviews the two flagged OSM outlines and inventories public
+Sentinel catalogue metadata; see [site review and availability](research/site_review_and_availability.md).
+Notebook 04 now checks actual Earth Engine assets and local pixel-quality masks;
+see [pixel-quality results](research/earth_engine_pixel_quality.md).
+Earth Engine access to `digitization-calculator` has been verified. No flood
+classification or event reconstruction has been performed. Cached mask results
+can be reviewed without authentication; new queries require your authorized session.
 Reusable inventory logic lives in `src/heritage_flood/inventory.py`.
 Research dependencies are an initial, unpinned specification; the environment
 must be installed and validated before recording tested versions for a release.

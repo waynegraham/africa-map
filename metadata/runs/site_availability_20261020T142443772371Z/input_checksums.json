@@ -1,0 +1,15 @@
+{
+  "data/raw/site_review/way_368501740_full.json": "a0275e8c0ffe12492b4942f85edbc701f368479c3702559b0b306d6d70185ec8",
+  "data/raw/site_review/way_1199992499_full.json": "e929d9c178c341dc4edf861e2a26a30a99ef3da8e4bdf4b028c87e8cf64a84eb",
+  "data/raw/site_review/library_surroundings.json": "b7344a21908bc345d2a5bef9b606ecc19db0c7346f36ce81fff7a7ec5a436eb0",
+  "data/raw/site_review/liasa_kzn_libraries.pdf": "f1d3dedce4bf422ea65c1fc76255b03bef5f10bc86d2ff3ebcf924243f3ecb01",
+  "data/raw/site_review/municipal_umkhumbane_project.pdf": "2a560064a0040b200da64c257dd32c61eb79ad165c45622dea064f8a7ba66885",
+  "data/raw/sentinel_availability/audit_sentinel-1-grd_page_000.json": "fadb8f739714906330925c7a5ea4cebc99900295a28e54265a84bdc2d7d5b32c",
+  "data/raw/sentinel_availability/audit_sentinel-2-l2a_page_000.json": "1783208ea9c781cec58b0fe6aa5cf5f33600ed6273e617901e176e8b0b822338",
+  "data/raw/sentinel_availability/sentinel-1-odata_page_000.json": "279c665bb269bc2c88303be3b9dd971e3f9c235694aa933ad5b09e3e71897d7b",
+  "data/raw/sentinel_availability/sentinel-1-grd_collection.json": "d0f82ec0a132ebc0c48543f25e1fa0a0de4d6f8c5279936a7907c90160806246",
+  "data/raw/sentinel_availability/sentinel-2-l2a_collection.json": "ed49673e2b8a21e7af93bf8af167e67cce89ec750a299eb85d39fdcbe0c0685a",
+  "data/raw/ethekwini_boundary/boundary_wgs84.geojson": "ac3d78d01b765980c1fb6e5d37d594bb22f4af438e519e7d22780be674071378",
+  "data/processed/ethekwini/institutions.geojson": "50cb143aa856dcdf8a2f879cbbd45a265267e7c59dabcbdb5413ede6527c70ca",
+  "data/processed/ethekwini/floodplain_screening.gpkg": "ddf5cad432f6fbc8466a6ac17e2a76e1912dda3dba330bdb733bfc9fddf735dc"
+}

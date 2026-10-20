@@ -1,0 +1,6 @@
+{
+  "data/raw/earth_engine_quality/asset_manifest.json": "d75477aedb26e688d4a6c0ea47a16f4e18f90281b5377287ffcf004d5eb8e152",
+  "data/raw/earth_engine_quality/site_quality_results.json": "7f6aee9084ba18850537380d6b8c61234e5472f8e30ba4e33732b383d0df8edb",
+  "data/processed/ethekwini/flagged_site_review.gpkg": "9bf3b1a75b8bebef8959063374331d74beba4969d5361d037f6650bb853f46f9",
+  "data/processed/ethekwini/sentinel_scene_manifest.csv": "857f147531e9cb43d0e32211ceb8e6b95eb082078d1a03f1d3ed72bab075b77b"
+}

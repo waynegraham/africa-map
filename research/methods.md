@@ -3,7 +3,13 @@
 Status: institution selection and provisional municipal-floodplain screening
 are implemented. See [inventory findings](inventory_audit.md) and
 [floodplain screening](floodplain_screening.md). Satellite reconstruction and
-future-scenario analysis remain unimplemented.
+future-scenario analysis remain unimplemented. Public catalogue availability
+and flagged-site outline/identity review are now documented in
+[site review and availability](site_review_and_availability.md); footprint
+coverage and scene-level cloud statistics are not pixel-level observations.
+Actual Earth Engine mask checks are now recorded in
+[pixel-quality feasibility](earth_engine_pixel_quality.md). These checks assess
+local data/clear-mask coverage, not floodwater, damage or validated SAR suitability.
 
 ## Inventory
 

@@ -1,0 +1,7 @@
+{
+  "data/raw/sentinel_availability/audit_sentinel-1-grd_page_000.json": "fadb8f739714906330925c7a5ea4cebc99900295a28e54265a84bdc2d7d5b32c",
+  "data/raw/sentinel_availability/audit_sentinel-2-l2a_page_000.json": "1783208ea9c781cec58b0fe6aa5cf5f33600ed6273e617901e176e8b0b822338",
+  "data/raw/sentinel_availability/sentinel-1-odata_page_000.json": "279c665bb269bc2c88303be3b9dd971e3f9c235694aa933ad5b09e3e71897d7b",
+  "data/raw/sentinel_availability/sentinel-1-grd_collection.json": "d0f82ec0a132ebc0c48543f25e1fa0a0de4d6f8c5279936a7907c90160806246",
+  "data/raw/sentinel_availability/sentinel-2-l2a_collection.json": "ed49673e2b8a21e7af93bf8af167e67cce89ec750a299eb85d39fdcbe0c0685a"
+}

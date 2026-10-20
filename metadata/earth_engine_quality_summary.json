@@ -1,0 +1,27 @@
+{
+  "run_id": "pixel_quality_20261020T144345287445Z",
+  "earth_engine_project": "digitization-calculator",
+  "earth_engine_access": "Initialized successfully; remote quality queries completed",
+  "asset_count": 7,
+  "site_scene_checks": 14,
+  "context_definition": "Current OSM building outline buffered by 100 m geodesically in Earth Engine; maxError 1 m",
+  "mask_method": "S1 VV/VH combined mask; S2 B3/B8/B11 combined spectral mask and conservative SCL classes 4/5/6; QA60 not used",
+  "grid_crs": "EPSG:32736",
+  "sar_scale_m": 10,
+  "optical_scale_m": 20,
+  "count_interpretation": "Weighted grid-pixel sums; boundary samples are fractional, not integer independent observations",
+  "optical_fully_excluded_dates": [
+    "2022-04-13",
+    "2022-04-18",
+    "2022-04-23"
+  ],
+  "optical_fully_retained_dates": [
+    "2022-03-29",
+    "2022-04-28"
+  ],
+  "sar_valid_fraction_min": 1.0,
+  "conclusion": "No conservative clear samples for 13/18/23 April in either tested context; 28 April is first retained post-event optical date among tested scenes. SAR mask coverage is complete but flood/terrain/speckle validity unassessed.",
+  "flood_detection_performed": false,
+  "large_exports_launched": false,
+  "limitations": "Local mask screening only; not a flood classification, damage estimate or peak reconstruction. SCL can misclassify; mask validity does not establish SAR suitability. Context summaries are not building-only metrics. Current OSM geometry postdates event for museum. Other optical tiles were not tested."
+}

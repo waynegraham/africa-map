@@ -1,0 +1,7 @@
+{
+  "data/processed/ethekwini/earth_engine_site_quality.csv": "d9143cf60e40fbb94d5593289b86559fd3ed9d19d804cba7352a416416332e9e",
+  "data/processed/ethekwini/earth_engine_asset_matches.csv": "a44b7550f7ea16d438ef0a5bce3d26410b1a8efe3c1d4cb5226f8c9bab315274",
+  "data/processed/ethekwini/earth_engine_quality_contexts.gpkg": "718b43cdefe7d77edc51579d3ece92df8cf55b6c29eca404196d96e8715be4bf",
+  "metadata/earth_engine_quality_summary.json": "2fde4800434d2ac2c0eab7d21ff61678f8228741e1779c68e4b1dda289a66cfd",
+  "metadata/earth_engine_quality_source_checksums.json": "ce4083e073f9e75101fd14bcb57ba07dd76adc7643808bbad44bc5b7031168e0"
+}

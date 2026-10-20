@@ -1,0 +1,12 @@
+{
+  "data/processed/ethekwini/flagged_site_review.gpkg": "ef4f49503e15df4a9f12c59aaca1a083a8a0eb5c7ce873d711e43e24dcfb60af",
+  "data/processed/ethekwini/flagged_site_geometry_review.csv": "0f4e9276cfba936ae1e5bc36941fe1cfc733b6e9c8de98e92ad0d56c8eebace5",
+  "data/processed/ethekwini/sentinel_scene_footprints.gpkg": "3511e565b1bb81f747e8b1fde851905670de97f6adb57d0e8236aaa460e44a8a",
+  "data/processed/ethekwini/sentinel_scene_manifest.csv": "4f05cf7b3da7a99bd4c5bb5c766caedf2a21c7e9c3927afdbb3bdb77d39ecac5",
+  "data/processed/ethekwini/sentinel_candidate_scenes.csv": "471ab01e213a48dfd9f85a71142f9a4bbd9d08c35157d28464f15281eb4585f3",
+  "metadata/site_review_decisions.csv": "4c24ec8e9726726a4abaf8887c7a31a23663f6c4fad0f5adcd35f68fdb31c1d3",
+  "metadata/ethekwini_availability_summary.json": "7491c684cdb6a4d723819bf41ada611f510b9f04ec434da2b5f2cea14e09fd87",
+  "metadata/osm_flagged_sites_snapshot_20261020_checksums.json": "0283d429b4d91ad0cdddda06d0d62c52a276db8755aa1307ae8dd91f80ffe03d",
+  "metadata/site_identity_documents_20261020_checksums.json": "57bc1c251bebacd4b9db8a5946f5c3b5bab6372c5a823bb36434554eae484405",
+  "metadata/cdse_sentinel_catalogue_snapshot_20261020_checksums.json": "aa5b02c53605773e8b42372f0d268b2b252f9c6103bc31c500267661c1710a67"
+}
