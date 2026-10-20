@@ -1,0 +1,29 @@
+{
+  "run_id": "inventory_audit_20261020T135328088778Z",
+  "input_records": 832,
+  "selection_counts": {
+    "outside_boundary": 804,
+    "selected": 28
+  },
+  "selected_records": 28,
+  "category_memberships": {
+    "library": 21,
+    "museum": 7
+  },
+  "missing_names": 12,
+  "identity_issues": 0,
+  "repeated_identity_records": 0,
+  "boundary_edge_records": 0,
+  "location_representation": {
+    "osm_point": 15,
+    "bounding_box_center": 13
+  },
+  "candidate_pairs": 2,
+  "records_in_candidate_pairs": 4,
+  "inclusion_predicate": "boundary.covers(point); include boundary edges, exclude polygon-hole interiors",
+  "review_thresholds_m": {
+    "proximity_distance_m": 30,
+    "same_name_distance_m": 250
+  },
+  "coordinate_review": "All retained points remain not_independently_verified; numeric validity and municipal inclusion are not positional ground truth."
+}

@@ -1,0 +1,15 @@
+{
+  "project_id": "ethekwini-flood-exposure-poc",
+  "country_code": "ZA",
+  "institution_source": "data/pois/ZA.geojson",
+  "boundary_path": "data/raw/ethekwini_boundary/boundary_wgs84.geojson",
+  "analysis_crs": "EPSG:32736",
+  "event": {
+    "name": "April 2022 candidate case study",
+    "search_start": "2022-04-01",
+    "search_end_exclusive": "2022-05-01"
+  },
+  "baseline_window": null,
+  "buffer_distances_m": [],
+  "output_directory": "data/processed/ethekwini"
+}

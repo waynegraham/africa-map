@@ -7,8 +7,9 @@ and links to the original OpenStreetMap entries.
 ## Flood-exposure research setup
 
 The exploratory research scaffold focuses on eThekwini, South Africa, using
-public data to guide further heritage research and data collection. It does
-not yet calculate flood exposure or implement satellite analysis.
+public data to guide further heritage research and data collection. It now
+includes an institution audit and provisional municipal-floodplain screening;
+satellite event reconstruction is not yet implemented.
 
 Read [the project brief](research/project_brief.md), [agent guidance](AGENTS.md),
 [methods](research/methods.md), and [limitations](research/limitations.md).
@@ -27,11 +28,18 @@ python -m ipykernel install --user --name africa-map --display-name "Africa map 
 python -m jupyterlab
 ```
 
-Select the research kernel and begin with
-`notebooks/01_inventory_audit.ipynb`. It performs a preliminary inspection of
-the South African inventory; municipal selection requires a verified boundary.
-The remaining notebooks describe the next stages and contain no analytical
-results. Modules under `src/heritage_flood/` reserve places for reusable logic.
+Select the research kernel. The boundary is now downloaded and technically
+checked; see [boundary verification](research/boundary_verification.md) for
+its date and reuse limitations. Run `notebooks/00_boundary_verification.ipynb`
+to obtain/check the local boundary on a fresh checkout, then continue with
+`notebooks/01_inventory_audit.ipynb`. The inventory notebook now selects
+institutions using the configured polygon, flags data-quality and possible
+duplicate issues, exports local GIS/CSV files, and records provenance. See
+[inventory findings](research/inventory_audit.md). Notebook 03 now obtains and
+checks the municipal floodplain and produces provisional point screening;
+see [floodplain findings and limitations](research/floodplain_screening.md).
+The satellite notebook remains a starter; no event reconstruction has been performed.
+Reusable inventory logic lives in `src/heritage_flood/inventory.py`.
 Research dependencies are an initial, unpinned specification; the environment
 must be installed and validated before recording tested versions for a release.
 
@@ -47,8 +55,9 @@ storage, such as Google Drive, and record their locations and checksums.
 
 ### Research organization
 
-- `config/ethekwini.yaml`: candidate dates and paths; boundary, analysis CRS,
-  baseline window, and buffer settings await documented decisions. The file
+- `config/ethekwini.yaml`: candidate dates and paths; the boundary path and
+  analysis CRS are configured. Baseline window and buffer settings await
+  documented decisions. The file
   uses JSON syntax, which is also valid YAML.
 - `metadata/`: CSV registers for source snapshots, processing runs, and field
   definitions; see [register conventions](metadata/README.md).

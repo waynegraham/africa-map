@@ -1,0 +1,8 @@
+{
+  "data/processed/ethekwini/institutions.geojson": "50cb143aa856dcdf8a2f879cbbd45a265267e7c59dabcbdb5413ede6527c70ca",
+  "data/processed/ethekwini/institutions.gpkg": "bd872b8f6b6bae6c7c782785987fb87b7b24427a96e82fbf0cc5cc3c87b22ead",
+  "data/processed/ethekwini/institutions.csv": "441108e42c4339d3bc6fd9640f0bb84cd43abaa2726ab67db0f6471d2a7d17ba",
+  "data/processed/ethekwini/institution_selection.csv": "a353eba019afc34889c6630be3393b83811d3e31e1ddbc99d12ed4602ada1f12",
+  "data/processed/ethekwini/duplicate_candidates.csv": "edae8e0c5dff320d149f8dc6638405218e9048143e6303622388ffac384ce59e",
+  "metadata/ethekwini_inventory_summary.json": "2f0beae0d6f8516fdf24d13dc0e2f333e26666851f20611bd335d83c2e4a6606"
+}

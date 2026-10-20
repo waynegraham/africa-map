@@ -1,0 +1,49 @@
+{
+  "dataset_id": "ethekwini_boundary_arcgis_2022_snapshot_20261020",
+  "checked_at_utc": "2026-10-20T13:32:19.543439+00:00",
+  "source_layer_url": "https://services3.arcgis.com/HO0zfySJshlD6Twu/arcgis/rest/services/eThekwini_Municipal_Boundary/FeatureServer/0",
+  "source_item_id": "21e2dd4e945840779308aaf1dd9f6ac6",
+  "publisher": "opendata_ethekwini",
+  "source_credit": "Municipal Dermacation Board",
+  "feature_count": 1,
+  "municipality_code": "ETH",
+  "geometry_type": "Polygon",
+  "geometry_valid": true,
+  "bounds_wgs84": [
+    30.5599999432685,
+    -30.2687839410918,
+    31.1861900694859,
+    -29.5011300651576
+  ],
+  "native_crs_wkt": "PROJCRS[\"South Africa wg31\",BASEGEOGCRS[\"WGS 84\",DATUM[\"World Geodetic System 1984\",ELLIPSOID[\"WGS 84\",6378137,298.257223563,LENGTHUNIT[\"metre\",1]],ID[\"EPSG\",6326]],PRIMEM[\"Greenwich\",0,ANGLEUNIT[\"Degree\",0.0174532925199433]]],CONVERSION[\"unnamed\",METHOD[\"Transverse Mercator\",ID[\"EPSG\",9807]],PARAMETER[\"Latitude of natural origin\",0,ANGLEUNIT[\"Degree\",0.0174532925199433],ID[\"EPSG\",8801]],PARAMETER[\"Longitude of natural origin\",31,ANGLEUNIT[\"Degree\",0.0174532925199433],ID[\"EPSG\",8802]],PARAMETER[\"Scale factor at natural origin\",1,SCALEUNIT[\"unity\",1],ID[\"EPSG\",8805]],PARAMETER[\"False easting\",0,LENGTHUNIT[\"metre\",1],ID[\"EPSG\",8806]],PARAMETER[\"False northing\",0,LENGTHUNIT[\"metre\",1],ID[\"EPSG\",8807]]],CS[Cartesian,2],AXIS[\"(E)\",east,ORDER[1],LENGTHUNIT[\"metre\",1,ID[\"EPSG\",9001]]],AXIS[\"(N)\",north,ORDER[2],LENGTHUNIT[\"metre\",1,ID[\"EPSG\",9001]]]]",
+  "download_crs": "EPSG:4326",
+  "analysis_crs": "EPSG:32736",
+  "native_to_server_hausdorff_degrees": 7.685694801574505e-14,
+  "geodesic_area_km2": 2555.91818532583,
+  "utm_area_km2": 2556.641394553989,
+  "location_checks": {
+    "Durban centre inside": true,
+    "Cape Town outside": true,
+    "Pietermaritzburg outside": true
+  },
+  "service_data_last_edit_utc": "2022-02-17T09:52:47.852000+00:00",
+  "item_modified_utc": "2022-02-22T13:42:24+00:00",
+  "effective_boundary_date": null,
+  "metadata_use_limitations": "The accuracy of these data is not guaranteed nor is it implied. The eThekwini Municipality accepts no liability for any claims brought against it or its employees as a result of the use of supplied data",
+  "verification_scope": "Publisher identity, municipality identity, completeness, CRS transformation, geometry, and spatial sanity checks. Legal effective date and currentness remain unverified.",
+  "redistribution_permission": "No explicit open redistribution license identified in inspected metadata; source geometry remains local and untracked.",
+  "checksums_sha256": {
+    "layer.json": "88e7baa1a62af68dae2814288f1764f10e0990c73192659168b6f290d5233df0",
+    "item.json": "fe95fb2a6435e511268ace868a2751ed1e98070df88ae8bf49a9fddbb61cba7b",
+    "metadata.xml": "2245a4d54210b643d9bcbc61fe521189ea21e511862f4f42515eb6996e12ff28",
+    "count.json": "6aea6dfe6561984cdc5c54ead84d47d2cf29e48253ae282aef237404adad4661",
+    "boundary_native.json": "2ea702f255e73b03fd0b90cf497387cbce324d5db05b50014020c57518058ffc",
+    "boundary_wgs84.geojson": "ac3d78d01b765980c1fb6e5d37d594bb22f4af438e519e7d22780be674071378"
+  },
+  "environment": {
+    "python": "3.15.0",
+    "geopandas": "1.2.0",
+    "shapely": "2.2.0",
+    "pyproj": "3.8.0"
+  }
+}

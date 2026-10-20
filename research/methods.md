@@ -1,6 +1,9 @@
 # Methods and analysis decisions
 
-Status: scaffold only. No flood analysis has been performed by this setup.
+Status: institution selection and provisional municipal-floodplain screening
+are implemented. See [inventory findings](inventory_audit.md) and
+[floodplain screening](floodplain_screening.md). Satellite reconstruction and
+future-scenario analysis remain unimplemented.
 
 ## Inventory
 

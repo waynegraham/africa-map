@@ -10,4 +10,5 @@ jupyterlab
 ipykernel
 nbformat
 PyYAML
+certifi
 # Capture tested versions for a release after validating the environment.
