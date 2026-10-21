@@ -32,7 +32,7 @@ export function initNationalContext({data,mapController,shell,onThemeChange}) {
  for(const [key,source] of Object.entries(context.sources || {})){const a=node('a',source.title);a.href=key==='access'?'https://download.geofabrik.de/africa/south-africa.html':`https://developers.google.com/earth-engine/datasets/catalog/${urls[key]}`;a.target='_blank';a.rel='noopener';sources.append(a,node('p',source.limits,'fine'));}container.append(node('h3','Sources and limitations'),sources,node('p','ESA WorldCover Consortium (CC BY 4.0); EC JRC / Google Global Surface Water; EC JRC GHSL; WRI Aqueduct; © OpenStreetMap contributors via Geofabrik (ODbL).','fine'));
  drawScenario();
  return {
-  attachMap(controller){mapController=controller;drawScenario();},setTheme,setScenario,
+  attachMap(controller){mapController=controller;outlines.onchange();drawScenario();},setTheme,setScenario,
   color(f,fallback){if(theme==='hazard')return fallback;if(theme==='evidence')return '#b77921';const value=contextValue(records,recordId(f),theme);return climate.fields[theme]?climate.color(theme,value):palette(value,maxima[theme]);},
   legend(){const fragment=node('div');if(theme!=='hazard'){fragment.append(node('strong',theme==='evidence'?'Coordinates remain unverified':allFields[theme][0]),node('div',theme==='evidence'?'All source locations need independent verification':climate.fields[theme]?climate.legend(theme):`Light → dark: 0 → ${fmt(maxima[theme],1)}${allFields[theme][1]} · logarithmic scale`),node('div','Gray: unavailable; not a risk rating.'));}if(scenarioVisible)fragment.append(node('strong','Provincial scenario area'),node('div','Light → dark: 0 → 5%+ of province · RP100 · ~1 km. Separate from institution indicators.'));return fragment;},
   get theme(){return theme;},
