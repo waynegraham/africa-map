@@ -1,0 +1,13 @@
+{
+  "scope": "Local MapLibre municipal geometry presentation; no scientific recomputation or acquisition",
+  "source": "outputs/research_map/data.json",
+  "destination": "outputs/research_map_maplibre",
+  "counts": {
+    "boundary": 1,
+    "floodplain": 249
+  },
+  "default_visibility": {
+    "boundary": true,
+    "floodplain": true
+  }
+}

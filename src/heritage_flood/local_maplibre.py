@@ -1,4 +1,4 @@
-"""Present retained eThekwini rasters locally; never publish or recompute them."""
+"""Present retained eThekwini context layers locally; never publish or recompute them."""
 from datetime import datetime, timezone
 import hashlib
 import json
@@ -19,10 +19,13 @@ def build(root, destination=None):
         raise ValueError('Do not replace the retained research source bundle')
     source_raw = (source / 'data.json').read_bytes()
     original = json.loads(source_raw)
-    # Reuse the existing limited profiles, then restore only local context rasters.
+    # Reuse limited profiles, then restore the requested local geometry and rasters.
     payload = public_payload(original, 'research_map')
     payload.pop('publication', None)
     payload['presentation_scope'] = 'local_research'
+    for key in ('boundary', 'floodplain'):
+        if key in original:
+            payload[key] = original[key]
     payload['context']['rasters'] = original.get('context', {}).get('rasters', [])
     paths = []
     for spec in payload['context']['rasters']:
@@ -62,7 +65,7 @@ def build(root, destination=None):
     manifest = {'code_commit': git.stdout.strip() if git.returncode == 0 else None,
                 'working_tree_dirty': bool(dirty.stdout.strip()) if dirty.returncode == 0 else None,
                 'validation_status': 'Prepared; browser verification required',
-                'purpose': 'Local MapLibre context-raster presentation; not for public redistribution',
+                'purpose': 'Local MapLibre context-layer presentation; not for public redistribution',
                 'built_at_utc': datetime.now(timezone.utc).isoformat(),
                 'source_payload_sha256': hashlib.sha256(source_raw).hexdigest(),
                 'source_build_manifest': json.loads((source / 'build_manifest.json').read_text()),

@@ -36,15 +36,16 @@ python3 -m http.server 8001 --bind 127.0.0.1
 
 Open http://127.0.0.1:8001/outputs/research_map/index.html.
 
-For the atlas-styled **local MapLibre view**, including the retained CHIRPS
-rainfall total/anomaly and JRC 10/100/500-year river-depth overlays:
+For the atlas-styled **local MapLibre view**, including the retained municipal boundary, historical 100-year floodplain,
+CHIRPS rainfall total/anomaly and JRC 10/100/500-year river-depth overlays:
 
 ```bash
 .venv/bin/python -m heritage_flood.local_maplibre
 ```
 
 Open http://127.0.0.1:8001/outputs/research_map_maplibre/index.html and select
-**Context → Context raster**. Changing the return period or rainfall view
+**Context**. The municipal boundary and historical floodplain are visible by
+default and have separate toggles. Use **Context raster** for rainfall or depth. Changing the return period or rainfall view
 activates that raster; auxiliary model flags are separately selectable.
 The command uses the retained `outputs/research_map` images without downloads or
 scientific recomputation. Build the full local bundle first if absent. This
