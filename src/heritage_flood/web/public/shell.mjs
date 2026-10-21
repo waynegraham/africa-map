@@ -1,4 +1,5 @@
 /** Shared editorial UI; intentionally independent of WebGL and renderer imports. */
+import './local-navigation.mjs';
 import {recordId,label,categories} from './state.mjs';
 export const node=(tag,text,className)=>{const el=document.createElement(tag);if(text!==undefined)el.textContent=String(text);if(className)el.className=className;return el;};
 export const fmt=(value,digits=1)=>typeof value==='number'&&Number.isFinite(value)?value.toLocaleString(undefined,{maximumFractionDigits:digits}):'Unknown';

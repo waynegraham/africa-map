@@ -34,7 +34,10 @@ exploratory SAR layers. From this repository root:
 python3 -m http.server 8001 --bind 127.0.0.1
 ```
 
-Open http://127.0.0.1:8001/outputs/research_map/index.html.
+Open the local MapLibre explorer at
+http://127.0.0.1:8001/outputs/research_map_maplibre/index.html after running the
+build command below. The original full Leaflet research view remains at
+http://127.0.0.1:8001/outputs/research_map/index.html.
 
 For the atlas-styled **local MapLibre view**, including the retained municipal boundary, historical 100-year floodplain,
 CHIRPS rainfall total/anomaly and JRC 10/100/500-year river-depth overlays:
@@ -152,7 +155,14 @@ From the repository root, run:
 python3 -m http.server 8000 --directory docs
 ```
 
-Open http://localhost:8000. Internet access is required for live OpenFreeMap basemap tiles/glyphs and outbound source links. The public renderer, custom style and page fonts are served locally.
+Open http://localhost:8000. This serves the public snapshots. For the local
+research navigation, serve the repository root on port 8001 and open
+http://127.0.0.1:8001/docs/index.html. When the local MapLibre bundle exists,
+landing-page and national-profile eThekwini links open
+`outputs/research_map_maplibre/index.html`. Public hosting and docs-only previews
+retain `research_map/index.html`.
+
+Internet access is required for live OpenFreeMap basemap tiles/glyphs and outbound source links. The public renderer, custom style and page fonts are served locally.
 
 ## Regenerate the public website
 
