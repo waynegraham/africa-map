@@ -1,7 +1,7 @@
 # MapLibre public explorer migration
 
 Date: 2026-10-21
-Status: proposed specification; overall direction approved, written specification awaiting review
+Status: written specification approved by the user on 2026-10-21; implementation planning underway
 
 ## Intended outcome
 

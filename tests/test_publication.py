@@ -52,6 +52,24 @@ class PublicationTests(unittest.TestCase):
         self.assertEqual(result['context']['records']['a']['road_count_500m'], 0)
         self.assertNotIn('access_detail_directory', result['context'])
 
+    def test_africa_preserves_source_identity_categories_and_untrusted_text(self):
+        from heritage_flood import publication
+        self.assertTrue(hasattr(publication, 'africa_payload'), 'Africa publication function missing')
+        source = {'type': 'FeatureCollection', 'features': [
+            {'type': 'Feature', 'id': 'node/1', 'geometry': {'type': 'Point', 'coordinates': [31, -30]},
+             'properties': {'osm_type': 'node', 'osm_id': 1, 'name': '</script><img onerror=alert(1)>',
+                            'country': 'South Africa', 'categories': ['library', 'museum'],
+                            'tags': {'unused': 'do not copy'}}}]}
+        before = copy.deepcopy(source)
+        result = publication.africa_payload(source)
+        f = result['institutions']['features'][0]
+        self.assertEqual(f['id'], 'node/1')
+        self.assertEqual(f['geometry']['coordinates'], [31, -30])
+        self.assertEqual(f['properties']['categories'], ['library', 'museum'])
+        self.assertEqual(f['properties']['name'], '</script><img onerror=alert(1)>')
+        self.assertNotIn('tags', f['properties'])
+        self.assertEqual(source, before)
+
     def test_unknown_bundle_is_rejected(self):
         with self.assertRaises(ValueError):
             public_payload({}, 'unknown')

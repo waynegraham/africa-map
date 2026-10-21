@@ -34,6 +34,20 @@ OMISSIONS = {
 }
 
 
+def africa_payload(collection):
+    """Publish the existing Africa inventory fields, preserving source points."""
+    allowed = {'osm_type', 'osm_id', 'name', 'country', 'alpha_2', 'countries', 'categories'}
+    features = []
+    for original in collection['features']:
+        if (original.get('geometry') or {}).get('type') != 'Point':
+            raise ValueError('Africa publication requires point source records')
+        feature = copy.deepcopy(original)
+        feature['properties'] = {k: v for k, v in feature.get('properties', {}).items() if k in allowed}
+        features.append(feature)
+    return {'institutions': {'type': 'FeatureCollection', 'features': features},
+            'publication': {'snapshot': True, 'omissions': ['Unused source tags omitted; original source records unchanged.']}}
+
+
 def public_payload(source, bundle):
     """Copy and filter a known bundle, preserving null and zero semantics."""
     if bundle not in BUNDLES:
