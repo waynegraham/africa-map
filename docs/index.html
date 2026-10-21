@@ -1,27 +1,65 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Cultural Heritage Maps | Africa, South Africa & eThekwini</title>
-<meta name="description" content="Explore cultural heritage locations across Africa, national screening in South Africa, and the evidence behind an eThekwini flood-exposure case study.">
-<meta property="og:title" content="Cultural Heritage Maps"><meta property="og:description" content="Three scales of exploration. Cultural places, environmental context, and the evidence we still need."><meta property="og:type" content="website">
-<link rel="stylesheet" href="site.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cultural Heritage Maps | An open research atlas</title>
+  <meta name="description" content="An open research atlas of cultural heritage: an Africa-wide inventory, South African environmental screening, and an eThekwini event case study.">
+  <meta property="og:title" content="Cultural Heritage Maps">
+  <meta property="og:description" content="An open research atlas connecting cultural places with environmental evidence—and documenting what remains unknown.">
+  <meta property="og:type" content="website">
+  <link rel="preload" href="assets/fonts/source-serif-4-regular.ttf" as="font" type="font/ttf" crossorigin>
+  <link rel="stylesheet" href="site.css">
 </head>
 <body>
-<a class="skip" href="#maps">Skip to the maps</a>
-<header class="site-header"><a class="brand" href="index.html"><span class="brand-symbol" aria-hidden="true">◈</span> Cultural Heritage Maps</a><nav aria-label="Main navigation"><a href="#maps">Explore the maps</a><a href="sources.html">Sources & limits</a><a href="https://github.com/waynegraham/africa-map">GitHub ↗</a></nav></header>
-<main>
-<section class="hero">
-<div><p class="eyebrow">PLACES · ENVIRONMENT · EVIDENCE</p><h1>Cultural heritage,<br>seen in <em>context.</em></h1><p class="lede">Explore the places that hold cultural memory—and the environmental evidence that can help us ask better questions about their future.</p><p>Three connected maps move from an Africa-wide inventory to South African screening and a detailed eThekwini case study. Built for heritage professionals, researchers and funders planning further investigation.</p><a class="button" href="#maps">Find your starting point <span aria-hidden="true">↓</span></a></div>
-<div class="scale-panel" aria-label="Three scales: Africa, South Africa, eThekwini"><div class="orb orb-one"></div><div class="orb orb-two"></div><div class="orb orb-three"></div><span class="scale-label label-one">01 / AFRICA<br><strong>Locate</strong></span><span class="scale-label label-two">02 / SOUTH AFRICA<br><strong>Explore context</strong></span><span class="scale-label label-three">03 / ETHEKWINI<br><strong>Inspect evidence</strong></span><span class="panel-caption">From a continental view to a local question.</span></div>
-</section>
-<section id="maps" class="maps-section" aria-labelledby="maps-title"><div class="section-heading"><div><p class="eyebrow">THE EXPLORERS</p><h2 id="maps-title">Three maps. Different questions.</h2></div><p>Choose a scale to begin.<br>Each explorer has its own shareable link.</p></div>
-<div class="map-grid">
-<article class="map-card card-africa"><div class="card-top"><span class="number">01</span><span class="tag">CONTINENTAL INVENTORY</span></div><div class="card-metric">4,655 <span>mapped POIs</span></div><h3>Cultural Heritage POIs</h3><p class="place">Across Africa</p><p>Find museums, libraries and archives in an OpenStreetMap snapshot. Browse categories, inspect coordinates and open the original source records.</p><p class="question">Where are cultural places mapped?</p><p class="card-limit">An incomplete source inventory. Some locations represent building bounding-box centers.</p><a class="card-link" href="africa/index.html">Explore Africa <span aria-hidden="true">↗</span></a></article>
-<article class="map-card card-national"><div class="card-top"><span class="number">02</span><span class="tag">NATIONAL SCREENING</span></div><div class="card-metric">832 <span>source records</span></div><h3>South Africa</h3><p class="place">National heritage screening</p><p>Explore modeled river flooding, surrounding land cover, population and climate indicators. Compare separate regional scenarios and inspect evidence gaps.</p><p class="question">What context needs closer investigation?</p><p class="card-limit">831 records screened; one coastal record retained as unscreened. April 2022 observations are not transferred nationally.</p><a class="card-link" href="south_africa_map/index.html">Explore South Africa <span aria-hidden="true">↗</span></a></article>
-<article class="map-card card-pilot"><div class="card-top"><span class="number">03</span><span class="tag">EVENT CASE STUDY</span></div><div class="card-metric">28 <span>pilot records</span></div><h3>eThekwini</h3><p class="place">April 2022 evidence explorer</p><p>Inspect institution profiles, model samples, rainfall estimates and imagery evidence gaps for the detailed local case study.</p><p class="question">What does the available evidence support?</p><p class="card-limit">No confirmed flood or damage labels. Municipal layers and mixed-source imagery figures are withheld pending reuse clarification.</p><a class="card-link" href="research_map/index.html">Explore eThekwini <span aria-hidden="true">↗</span></a></article>
-</div></section>
-<section class="reading-note"><p class="eyebrow">HOW TO READ THESE MAPS</p><div><h2>A starting point for investigation.</h2><p>Point locations and nearby model samples describe screening context. They do not establish building damage, collection value or preparedness. Missing evidence remains unknown. Historical observations, modeled hazard and future scenarios are kept separate.</p><a href="sources.html">Read the sources and publication limits →</a></div></section>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="masthead">
+  <a class="identity" href="index.html"><img class="clir-logo" src="assets/clir-logo.svg" alt="CLIR" width="112" height="58"><span class="identity-copy">Cultural Heritage Maps<span class="identity-subtitle">An open research atlas</span></span></a>
+  <nav aria-label="Main navigation">
+    <a href="#explorers">The maps</a>
+    <a href="sources.html">Sources & methods</a>
+    <a href="https://github.com/waynegraham/africa-map">Research repository</a>
+  </nav>
+</header>
+<main id="main">
+  <section class="opening" aria-labelledby="atlas-title">
+    <div class="opening-text">
+      <p class="publication-status"><span aria-hidden="true"></span> Research in progress</p>
+      <h1 id="atlas-title">Cultural heritage and environmental evidence</h1>
+      <p class="standfirst">Where cultural places are mapped, what their surroundings can tell us, and where the evidence runs out.</p>
+      <p>These public maps connect an Africa-wide institution inventory with environmental screening in South Africa and a detailed eThekwini case study. They support heritage professionals, researchers and funders deciding what to investigate next.</p>
+      <a class="text-link primary-link" href="#explorers">Explore the three maps</a>
+    </div>
+    <figure class="atlas-figure">
+      <div class="plate"><img src="assets/institution-atlas.svg" width="620" height="625" alt="4,655 OpenStreetMap cultural heritage source points across Africa. South Africa records are blue; other records are slate. Point density reflects this incomplete source inventory."></div>
+      <figcaption><span class="caption-title">The source inventory, viewed across Africa.</span> Each dot represents a mapped record, not a verified institution. Uneven coverage reflects the source data; it does not establish the distribution or value of cultural heritage. <a href="sources.html#inventory">Source and coverage</a></figcaption>
+    </figure>
+  </section>
+
+  <section class="explorers" id="explorers" aria-labelledby="explorers-title">
+    <div class="section-introduction"><h2 id="explorers-title">Three scales of inquiry</h2><p>Each map answers a different question. Choose an inventory, a national screening view or a local examination of the available evidence.</p></div>
+    <article class="explorer-entry inventory-entry">
+      <div class="entry-scope"><span>Across Africa</span><p>Institution inventory</p></div>
+      <div class="entry-description"><h3><a href="africa/index.html">Cultural Heritage POIs</a></h3><p>Explore museums, libraries and archives recorded in OpenStreetMap. Browse categories, inspect locations and follow each record back to its source.</p><p class="entry-caveat">An inventory of mapped records, not a census. Some locations are building bounding-box centers.</p></div>
+      <div class="entry-access"><p><strong>4,655</strong> source records</p><a class="text-link" href="africa/index.html">Open the Africa map</a></div>
+    </article>
+    <article class="explorer-entry national-entry">
+      <div class="entry-scope"><span>South Africa</span><p>National screening</p></div>
+      <div class="entry-description"><h3><a href="south_africa_map/index.html">Institutions in environmental context</a></h3><p>Read modeled river-hazard samples alongside land cover, residential population and separate climate indicators. Inspect regional scenarios and gaps that warrant closer investigation.</p><p class="entry-caveat">831 of 832 source records are screened; one coastal record remains unscreened. April 2022 observations are not transferred nationally.</p></div>
+      <div class="entry-access"><p>Static models, historical indicators and future scenarios</p><a class="text-link" href="south_africa_map/index.html">Open the national explorer</a></div>
+    </article>
+    <article class="explorer-entry pilot-entry">
+      <div class="entry-scope"><span>eThekwini</span><p>April 2022 case study</p></div>
+      <div class="entry-description"><h3><a href="research_map/index.html">Examining the event evidence</a></h3><p>Look closely at 28 pilot records, their model and rainfall context, and the limits of available satellite observations. The case study asks what can be established—and what still needs independent evidence.</p><p class="entry-caveat">No confirmed flood or damage labels. Municipal layers and mixed-source imagery figures are withheld pending clarification of reuse terms.</p></div>
+      <div class="entry-access"><p>Detailed local inquiry</p><a class="text-link" href="research_map/index.html">Open the eThekwini explorer</a></div>
+    </article>
+  </section>
+
+  <section class="editorial-note" aria-labelledby="reading-title">
+    <div class="note-heading"><span class="section-label">A note on interpretation</span><h2 id="reading-title">An invitation to investigate, with the limits in view.</h2></div>
+    <div class="note-body"><p>These maps bring together evidence with different purposes, dates and resolutions. A point near a modeled flood cell does not establish building damage. Outdoor climate indicators do not describe collection storage conditions. Missing observations remain unknown.</p><p>The intended outcome is better questions and further data collection: verified institution locations, independent dated flood evidence, and information about buildings, collections and preparedness.</p><a class="text-link" href="sources.html">Read the sources and methods</a></div>
+  </section>
 </main>
-<footer><span>Cultural Heritage Maps · Public research snapshots</span><span>Institution data © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a> · <a href="sources.html">Attribution & reuse</a></span></footer>
-</body></html>
+<footer class="site-footer"><div><a href="index.html">Cultural Heritage Maps</a><p>Public inventories. Separate evidence. Explicit uncertainty.</p></div><div><p>Institution data © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a></p><a href="sources.html#publication">Attribution and publication scope</a></div></footer>
+</body>
+</html>

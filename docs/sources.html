@@ -1,16 +1,97 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Sources & publication limits | Cultural Heritage Maps</title><link rel="stylesheet" href="site.css"></head><body>
-<header class="site-header"><a class="brand" href="index.html">◈ Cultural Heritage Maps</a><nav aria-label="Main navigation"><a href="index.html#maps">All three maps</a><a href="https://github.com/waynegraham/africa-map">GitHub ↗</a></nav></header>
-<main class="prose"><p class="eyebrow">READING THE EVIDENCE</p><h1>Sources & publication limits</h1><p>These public snapshots support exploratory research and further data collection. They are not validated maps of institution damage, safety or investment priority. The national explorer keeps historical observations, static models and future scenarios separate; the eThekwini event case study does not establish conditions elsewhere.</p>
-<h2>Institution records</h2><p>Institution locations and tags are © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>, available under the <a href="https://opendatacommons.org/licenses/odbl/1-0/">Open Database License (ODbL) 1.0</a>. Original OSM IDs and source attributes are retained in the map data. Ways and relations may use bounding-box centers. Names, institutional function and coordinates have not been independently verified; suspected duplicates remain separate records.</p><p>The Africa snapshot contains 4,655 POIs. The national snapshot retains 832 source records, of which 831 were screened against the checked country representation. One coastal record remains excluded and unscreened. The pilot retains 28 selected records. None is a complete institutional census.</p>
-<h2>Models, observations and scenarios</h2><ul>
-<li><a href="https://developers.google.com/earth-engine/datasets/catalog/JRC_CEMS_GLOFAS_FloodHazard_v2_1">European Commission JRC / CEMS GloFAS river flood hazard v2.1</a>: static modeled depths in metres, native 3 arc-seconds (approximately 90 m), displayed for 10-, 100- and 500-year return periods. These are not observed April 2022 water depths. Permanent-water and suspected-artifact flags qualify samples.</li>
-<li><a href="https://developers.google.com/earth-engine/datasets/catalog/UCSB-CHG_CHIRPS_DAILY">CHIRPS v2 final, Climate Hazards Center</a>: public-domain gridded rainfall, approximately 5.6 km. The pilot compares 11–13 April 2022 with the same dates in 1991–2020. Regional estimates can miss local extremes and are not gauge observations.</li>
-<li><a href="https://www.geoboundaries.org/">geoBoundaries / OCHA ROSEA / South African Municipal Demarcation Board</a>: national and provincial 2020 boundary representation, source metadata reports CC BY 3.0 IGO. Display geometry is simplified; mainland representation excludes offshore Prince Edward Islands. Current legal boundaries are unverified.</li>
-<li><a href="https://developers.google.com/earth-engine/datasets/catalog/ESA_WorldCover_v200">ESA WorldCover Consortium 2021 v200</a> (10 m; CC BY 4.0), <a href="https://developers.google.com/earth-engine/datasets/catalog/JRC_GSW1_4_GlobalSurfaceWater">EC JRC / Google Global Surface Water v1.4</a> (30 m; 1984–2021), and <a href="https://developers.google.com/earth-engine/datasets/catalog/JRC_GHSL_P2023A_GHS_POP">EC JRC GHSL P2023A</a> (100 m; residential population 2020) describe surroundings. Population is not visitor count or exposed population. Acknowledgement and provider terms apply.</li>
-<li>Road and bridge summaries use © OpenStreetMap contributors via <a href="https://download.geofabrik.de/africa/south-africa.html">Geofabrik</a>, ODbL 1.0. Mapped ways do not establish routing, closures, emergency access or completeness.</li>
-<li><a href="https://developers.google.com/earth-engine/datasets/catalog/WRI_Aqueduct_Flood_Hazard_Maps_V2">WRI Aqueduct Floods V2</a>: approximately 1 km regional scenario grids, 100-year return period. Provincial summaries use one illustrative river GCM and coastal median sea level without subsidence. They do not describe full model uncertainty or institution exposure.</li>
-<li>Climate histories use <a href="https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_DAILY_AGGR">Copernicus Climate Change Service / ECMWF ERA5-Land</a> (approximately 11 km; processed for this project), CHIRPS, and NASA LP DAAC <a href="https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MCD64A1">MODIS MCD64A1 v6.1</a> burned area (500 m; 2 km context). Outdoor heat and humidity do not establish indoor conditions or collection damage. Neither the European Commission nor ECMWF is responsible for use of Copernicus information in this project.</li>
-<li>Regional future heat comparisons use <a href="https://developers.google.com/earth-engine/datasets/catalog/NASA_GDDP-CMIP6">NASA NEX-GDDP-CMIP6 / Climate Analytics Group</a>, native 0.25° grid, SSP2-4.5 and SSP5-8.5, three illustrative models. Exact model names, years and paired changes appear in the explorer. The model range is not a probability interval or the full ensemble.</li>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sources & methods | Cultural Heritage Maps</title>
+  <meta name="description" content="Sources, coverage, interpretation and publication limits for the Cultural Heritage Maps research atlas.">
+  <link rel="preload" href="assets/fonts/source-serif-4-regular.ttf" as="font" type="font/ttf" crossorigin>
+  <link rel="stylesheet" href="site.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="masthead">
+  <a class="identity" href="index.html"><img class="clir-logo" src="assets/clir-logo.svg" alt="CLIR" width="112" height="58"><span class="identity-copy">Cultural Heritage Maps<span class="identity-subtitle">An open research atlas</span></span></a>
+  <nav aria-label="Main navigation"><a href="index.html#explorers">The maps</a><a href="sources.html" aria-current="page">Sources & methods</a><a href="https://github.com/waynegraham/africa-map">Research repository</a></nav>
+</header>
+<main id="main">
+  <header class="document-heading">
+    <h1>Sources, methods<br>and the limits of inference</h1>
+    <p class="standfirst">A map is an argument about its evidence. These notes make the sources, gaps and boundaries of that argument available for inspection.</p>
+    <p>The atlas supports exploratory research and further data collection. It does not establish institution damage, safety or investment priority. Full technical methods and source registrations accompany the code in the research repository.</p>
+  </header>
+  <div class="document-layout">
+    <aside class="document-index" aria-label="Page contents">
+      <p>In this document</p>
+      <nav aria-label="Sources page sections">
+        <a href="#interpretation">Reading the evidence</a>
+        <a href="#inventory">Institution inventory</a>
+        <a href="#models">Models and surroundings</a>
+        <a href="#observations">Event and climate observations</a>
+        <a href="#scenarios">Future scenarios</a>
+        <a href="#publication">Publication scope</a>
+        <a href="#provenance">Provenance and reuse</a>
+      </nav>
+      <a class="index-home" href="index.html#explorers">Return to the maps</a>
+    </aside>
+    <div class="document-body">
+      <section class="document-section" id="interpretation" aria-labelledby="interpretation-title">
+        <h2 id="interpretation-title">Reading the evidence</h2>
+        <p class="section-deck">The maps keep these forms of evidence separate. They answer different questions and should not be read as interchangeable measures of risk.</p>
+        <dl class="reading-key">
+          <div><dt>Source records</dt><dd>Where an institution is mapped. A source point is not a verified building footprint, and an inventory is not a census.</dd></div>
+          <div><dt>Observations</dt><dd>What a sensor or other record supports at a particular time. Missing observations cannot establish that no flooding occurred.</dd></div>
+          <div><dt>Modeled hazard</dt><dd>What a specified model represents for a return period. A grid sample is not a measured depth at a building.</dd></div>
+          <div><dt>Future scenarios</dt><dd>Conditional regional comparisons within a product and model. These do not establish a forecast or property-level outcome.</dd></div>
+        </dl>
+        <p>No composite risk score, climate-change attribution or investment ranking is provided. Building condition, collection value and preparedness remain unknown unless supported by independent information.</p>
+      </section>
+      <section class="document-section" id="inventory" aria-labelledby="inventory-title">
+        <h2 id="inventory-title">Institution inventory</h2>
+        <p>Institution locations and tags are © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>, available under the <a href="https://opendatacommons.org/licenses/odbl/1-0/">Open Database License (ODbL) 1.0</a>. Original OSM IDs and source attributes are retained in the map data. Ways and relations may use bounding-box centers. Names, institutional function and coordinates have not been independently verified; suspected duplicates remain separate records.</p>
+        <div class="coverage-note"><p>The Africa snapshot contains <strong>4,655 POIs</strong>. The national snapshot retains <strong>832 source records</strong>, of which 831 were screened against the checked country representation. One coastal record remains excluded and unscreened. The eThekwini pilot retains <strong>28 selected records</strong>.</p><p>None is a complete institutional census. Counts describe the retained source records.</p></div>
+        <p>The landing-page plate plots all 4,655 retained Africa source points in the Equal Earth projection (EPSG:8857). Blue distinguishes South Africa by its source-country code; it does not encode exposure. No boundary or flood layer is used in the plate. Its <a href="assets/institution-atlas-provenance.json">source checksum and display parameters</a> are retained.</p>
+      </section>
+      <section class="document-section" id="models" aria-labelledby="models-title">
+        <h2 id="models-title">Models and surroundings</h2>
+        <p class="section-deck">Native resolutions and source dates constrain interpretation. Resampling for display does not add scientific detail.</p>
+        <ul class="source-list"><li><h3>River flood hazard</h3><p><a href="https://developers.google.com/earth-engine/datasets/catalog/JRC_CEMS_GLOFAS_FloodHazard_v2_1">European Commission JRC / CEMS GloFAS river flood hazard v2.1</a>: static modeled depths in metres, native 3 arc-seconds (approximately 90 m), displayed for 10-, 100- and 500-year return periods. These are not observed April 2022 water depths. Permanent-water and suspected-artifact flags qualify samples.</p></li>
+<li><h3>National and provincial boundaries</h3><p><a href="https://www.geoboundaries.org/">geoBoundaries / OCHA ROSEA / South African Municipal Demarcation Board</a>: national and provincial 2020 boundary representation, source metadata reports CC BY 3.0 IGO. Display geometry is simplified; mainland representation excludes offshore Prince Edward Islands. Current legal boundaries are unverified.</p></li>
+<li><h3>Land cover, surface water and residential population</h3><p><a href="https://developers.google.com/earth-engine/datasets/catalog/ESA_WorldCover_v200">ESA WorldCover Consortium 2021 v200</a> (10 m; CC BY 4.0), <a href="https://developers.google.com/earth-engine/datasets/catalog/JRC_GSW1_4_GlobalSurfaceWater">EC JRC / Google Global Surface Water v1.4</a> (30 m; 1984–2021), and <a href="https://developers.google.com/earth-engine/datasets/catalog/JRC_GHSL_P2023A_GHS_POP">EC JRC GHSL P2023A</a> (100 m; residential population 2020) describe surroundings. Population is not visitor count or exposed population. Acknowledgement and provider terms apply.</p></li>
+<li><h3>Roads and bridges</h3><p>Road and bridge summaries use © OpenStreetMap contributors via <a href="https://download.geofabrik.de/africa/south-africa.html">Geofabrik</a>, ODbL 1.0. Mapped ways do not establish routing, closures, emergency access or completeness.</p></li>
 </ul>
-<h2>Material retained locally</h2><p>The municipal boundary and historical floodplain have no established redistribution license. Their geometries, overlap and distance results, mixed-source comparison figures, SAR overlays, municipal-mask rasters and municipal rainfall aggregates are excluded from the public pilot. Identity-document excerpts and proposed identities are also withheld. This does not imply no flooding. Per-institution public-source model and rainfall samples remain separate context indicators.</p><p>NASA static landslide susceptibility is omitted from the national snapshot because the explicit file license has not been independently verified. Road/bridge detail geometry and analytical download files are not included in this presentation package. Full local research bundles remain unchanged.</p><p>Sentinel-derived QA and acquisition identities refer to EU/ESA/Copernicus Sentinel observations accessed through Earth Engine. No imagery figure or SAR overlay is redistributed here. The satellite analysis is exploratory and has not established confirmed flood or building-damage labels. <a href="https://unosat.org/products/3283">UNOSAT product 3283</a> is linked as comparison evidence; its copyrighted imagery is not copied and exact institution coverage remains unresolved. Satellite interpretation is not field ground truth.</p>
-<h2>Provenance and methods</h2><p>Snapshot manifests retain source bundle hashes, input/code provenance, omissions and public file checksums: <a href="research_map/publication_manifest.json">eThekwini manifest</a> · <a href="south_africa_map/publication_manifest.json">South Africa manifest</a>. Snapshot build times are retained rather than represented as new observations.</p><p>Detailed <a href="https://github.com/waynegraham/africa-map/blob/main/metadata/datasets.csv">source registrations</a>, <a href="https://github.com/waynegraham/africa-map/tree/main/research">research methods and limitations</a> and <a href="https://github.com/waynegraham/africa-map">reproducible code</a> are available in the repository. Internal notes and raw data are not bundled into this website. Leaflet is distributed with its <a href="research_map/vendor/LICENSE">license</a>. Internet access is needed for map background tiles and external source links.</p><p>Missing observations remain unknown; a source zero is not a safety rating. Point buffers are screening contexts, not building footprints. No composite risk score, climate attribution or investment ranking is provided.</p><p><a href="index.html#maps">← Choose a map</a></p></main></body></html>
+      </section>
+      <section class="document-section" id="observations" aria-labelledby="observations-title">
+        <h2 id="observations-title">Event and climate observations</h2>
+        <p class="section-deck">The April 2022 event is examined in eThekwini. Those observations are not transferred to the rest of South Africa.</p>
+        <ul class="source-list"><li><h3>Rainfall estimates</h3><p><a href="https://developers.google.com/earth-engine/datasets/catalog/UCSB-CHG_CHIRPS_DAILY">CHIRPS v2 final, Climate Hazards Center</a>: public-domain gridded rainfall, approximately 5.6 km. The pilot compares 11–13 April 2022 with the same dates in 1991–2020. Regional estimates can miss local extremes and are not gauge observations.</p></li>
+<li><h3>Historical climate and nearby burning</h3><p>Climate histories use <a href="https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_DAILY_AGGR">Copernicus Climate Change Service / ECMWF ERA5-Land</a> (approximately 11 km; processed for this project), CHIRPS, and NASA LP DAAC <a href="https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MCD64A1">MODIS MCD64A1 v6.1</a> burned area (500 m; 2 km context). Outdoor heat and humidity do not establish indoor conditions or collection damage. Neither the European Commission nor ECMWF is responsible for use of Copernicus information in this project.</p></li>
+<li><h3>Sentinel observations and comparison evidence</h3><p>Sentinel-derived QA and acquisition identities refer to EU/ESA/Copernicus Sentinel observations accessed through Earth Engine. No imagery figure or SAR overlay is redistributed here. The satellite analysis is exploratory and has not established confirmed flood or building-damage labels.</p><p><a href="https://unosat.org/products/3283">UNOSAT product 3283</a> is linked as comparison evidence; its copyrighted imagery is not copied and exact institution coverage remains unresolved. Satellite interpretation is not field ground truth.</p></li></ul>
+      </section>
+      <section class="document-section" id="scenarios" aria-labelledby="scenarios-title">
+        <h2 id="scenarios-title">Future scenarios</h2>
+        <p class="section-deck">Scenarios remain separate from historical observations and static baseline hazard. Compare within the same model and product.</p>
+        <ul class="source-list"><li><h3>Regional flood scenarios</h3><p><a href="https://developers.google.com/earth-engine/datasets/catalog/WRI_Aqueduct_Flood_Hazard_Maps_V2">WRI Aqueduct Floods V2</a>: approximately 1 km regional scenario grids, 100-year return period. Provincial summaries use one illustrative river GCM and coastal median sea level without subsidence. They do not describe full model uncertainty or institution exposure.</p></li>
+<li><h3>Future regional heat</h3><p>Regional future heat comparisons use <a href="https://developers.google.com/earth-engine/datasets/catalog/NASA_GDDP-CMIP6">NASA NEX-GDDP-CMIP6 / Climate Analytics Group</a>, native 0.25° grid, SSP2-4.5 and SSP5-8.5, three illustrative models. Exact model names, years and paired changes appear in the explorer. The model range is not a probability interval or the full ensemble.</p></li>
+</ul>
+      </section>
+      <section class="document-section" id="publication" aria-labelledby="publication-title">
+        <h2 id="publication-title">What the public site includes</h2>
+        <p>These are filtered presentation snapshots of fuller local research bundles. Public access does not by itself grant redistribution rights. Material with unresolved reuse conditions is withheld rather than presented as cleared for publication.</p>
+        <ul class="source-list">
+          <li><h3>Municipal layers and mixed-source figures</h3><p>The municipal boundary and historical floodplain have no established redistribution license. Their geometries, overlap and distance results, mixed-source comparison figures, SAR overlays, municipal-mask rasters and municipal rainfall aggregates are excluded from the public pilot. Identity-document excerpts and proposed identities are also withheld.</p><p>This does not imply no flooding. Per-institution public-source model and rainfall samples remain separate context indicators.</p></li>
+          <li><h3>Landslide values and detailed local downloads</h3><p>NASA static landslide susceptibility is omitted from the national snapshot because the explicit file license has not been independently verified. Road/bridge detail geometry and analytical download files are not included in this presentation package. Full local research bundles remain unchanged.</p></li>
+        </ul>
+      </section>
+      <section class="document-section" id="provenance" aria-labelledby="provenance-title">
+        <h2 id="provenance-title">Provenance and reuse</h2>
+        <p>Snapshot manifests retain source bundle hashes, input and code provenance, omissions and public file checksums. Snapshot build times are retained rather than represented as new observations.</p>
+        <div class="manifest-links"><a href="research_map/publication_manifest.json">eThekwini manifest</a><a href="south_africa_map/publication_manifest.json">South Africa manifest</a></div>
+        <p>Detailed <a href="https://github.com/waynegraham/africa-map/blob/main/metadata/datasets.csv">source registrations</a>, <a href="https://github.com/waynegraham/africa-map/tree/main/research">research methods and limitations</a> and <a href="https://github.com/waynegraham/africa-map">reproducible code</a> are available in the repository. Internal notes and raw data are not bundled into this website. Internet access is needed for map background tiles and external source links.</p>
+        <p class="font-credits">Leaflet is distributed with its <a href="research_map/vendor/LICENSE">license</a>. This edition uses locally served Source Serif 4 by Adobe and IBM Plex Sans by IBM, both under the SIL Open Font License: <a href="assets/fonts/source-serif-4-LICENSE.txt">Source Serif 4 license</a>; <a href="assets/fonts/ibm-plex-sans-LICENSE.txt">IBM Plex Sans license</a>.</p>
+      </section>
+    </div>
+  </div>
+</main>
+<footer class="site-footer"><div><a href="index.html">Cultural Heritage Maps</a><p>Public inventories. Separate evidence. Explicit uncertainty.</p></div><div><p>Institution data © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a></p><a href="index.html#explorers">Explore the three maps</a></div></footer>
+</body>
+</html>

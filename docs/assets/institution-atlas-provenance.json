@@ -1,0 +1,30 @@
+{
+  "asset": "institution-atlas.svg",
+  "purpose": "Editorial orientation plate, not a hazard map or new analysis",
+  "source_dataset_id": "osm_africa_editorial_source_snapshot_20261021",
+  "input_path": "data/pois/africa_pois.geojson",
+  "input_sha256": "d8c56a431645c5bc62a84236897f1bea0acbc44e94df775a600351f1911feb1c",
+  "input_records": 4655,
+  "display_records": 4655,
+  "source_crs": "EPSG:4326 (GeoJSON longitude/latitude)",
+  "display_projection": "EPSG:8857 (Equal Earth)",
+  "display_transform": {
+    "center_x": 1778631.9233991802,
+    "center_y": 140809.47405165108,
+    "scale": 5.9798566537635204e-05,
+    "svg_center": [
+      310,
+      300
+    ]
+  },
+  "encoding": "South Africa source-country code ZA in blue; other records in slate; no risk/damage encoding",
+  "attribution": "\u00a9 OpenStreetMap contributors, ODbL 1.0",
+  "generator": "scripts/build_atlas_plate.py",
+  "generator_sha256": "01c48876cd900f0b879026c0e17401e728e393857790f4835296b4d4e27fb77c",
+  "code_commit": "5abc950562e24ae42bdaa831bf527686522957a9",
+  "working_tree_dirty": true,
+  "pyproj_version": "3.8.0",
+  "proj_version": "9.8.1",
+  "asset_sha256": "4bc06f441db4f306131fec1ccea5d0993531413811d2244d1319562fcd47cb13",
+  "validation": "Source geometry unchanged; presentation only. Record count and frame placement checked separately."
+}

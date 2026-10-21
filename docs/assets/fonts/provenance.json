@@ -1,0 +1,13 @@
+{
+  "purpose": "Locally served open-source presentation fonts; no third-party font request at page load",
+  "source_css": "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&display=swap",
+  "license": "SIL Open Font License 1.1; license files included",
+  "files_sha256": {
+    "ibm-plex-sans-LICENSE.txt": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da",
+    "ibm-plex-sans-regular.ttf": "6dbe082463cf749cfa057d45c3048c90f4df031496498e5b5bdfd0b6babb9d16",
+    "ibm-plex-sans-semibold.ttf": "5311c66fd6d04ae45671236f7eae667b671c06c1dc7e88d52c206e5fadd0fb21",
+    "source-serif-4-LICENSE.txt": "5f94c3fd3a23131a417ab5a0c8452de57e70c3cfb9f604d88241f7065ebf9fd9",
+    "source-serif-4-regular.ttf": "f01900495012279f1e95d721c59363395eeffb79ef806eaa4dfa8bd923ccec0b"
+  },
+  "recorded_at_utc": "2026-10-21T15:48:53.459232+00:00"
+}
