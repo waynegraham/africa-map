@@ -35,6 +35,22 @@ python3 -m http.server 8001 --bind 127.0.0.1
 ```
 
 Open http://127.0.0.1:8001/outputs/research_map/index.html.
+
+For the atlas-styled **local MapLibre view**, including the retained CHIRPS
+rainfall total/anomaly and JRC 10/100/500-year river-depth overlays:
+
+```bash
+.venv/bin/python -m heritage_flood.local_maplibre
+```
+
+Open http://127.0.0.1:8001/outputs/research_map_maplibre/index.html and select
+**Context → Context raster**. Changing the return period or rainfall view
+activates that raster; auxiliary model flags are separately selectable.
+The command uses the retained `outputs/research_map` images without downloads or
+scientific recomputation. Build the full local bundle first if absent. This
+preview requires the committed atlas assets in `docs/assets/`; its generated
+files remain ignored outside `docs/` and are excluded from GitHub Pages.
+
 On a fresh checkout, first run `python3 scripts/fetch_map_vendor.py` and obtain
 the earlier research notebooks' inputs/outputs. See [map instructions and
 limitations](research/research_map.md). The published Africa map is unchanged.

@@ -46,3 +46,25 @@ The automated bundle tests cover retaining unknown exposure semantics, keeping u
 ## Context controls
 
 The Context tab selects JRC 10/100/500-year static river-depth views, qualified auxiliary flags, CHIRPS event total/anomaly and evidence gaps. Hazard and rainfall are mutually exclusive context rasters; SAR remains separately selectable. Per-profile values are source-grid context, not building measurements. See [methods and unresolved UNOSAT coverage](context_layers.md).
+
+
+## Local MapLibre context preview
+
+`python -m heritage_flood.local_maplibre` packages a separate atlas-styled view in
+`outputs/research_map_maplibre/` from the retained full research bundle. It restores
+the three JRC depth rasters, auxiliary flags and both CHIRPS views using native
+MapLibre image sources. Existing geographic corner bounds are converted to
+clockwise longitude/latitude corners; PNG bytes and missing-pixel alpha remain
+unchanged. Raster display uses nearest-neighbor resampling, with institution
+points, reviewed outlines and evidence rings above it. One depth or rainfall
+raster is shown at a time, with model flags independently selectable. Projection
+changes retain the selected raster, metric, period and flags.
+
+This is a local context preview, not a replacement for the full Leaflet research
+bundle: municipal vectors, SAR figures, identity review and municipal rainfall
+aggregates remain in that original explorer. The local builder reuses limited
+public profiles and adds only the six existing context images. It refuses output
+under `docs/`, escaping raster paths and replacement of its source bundle. Its
+local `build_manifest.json` records the original scientific build manifest,
+source-payload hash, builder hash and packaged file hashes. The public pilot
+still has no municipal-mask raster payload or controls.

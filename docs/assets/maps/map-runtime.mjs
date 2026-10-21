@@ -1,3 +1,4 @@
+import {setImageLayer} from './image-layers.mjs';
 import {recordId,changeProjection,collection} from './state.mjs';
 
 /** Native MapLibre controller. No scientific values are calculated here. */
@@ -39,6 +40,7 @@ export async function createMap({container,styleUrl=new URL('./style.json',impor
   setRecords(data){records=decorate(data);map.getSource('institutions-source').setData(records);map.getSource('selection-source').setData(records);},
   setSelection(id){selectedId=id;map.setFilter('selection',['==',['get','__id'],id || '']);},
   setGeoJSONLayer,
+  setImageLayer(id,spec,options){setImageLayer(map,id,spec,options);},
   setLayerVisibility(id,visible){if(map.getLayer(id))map.setLayoutProperty(id,'visibility',visible?'visible':'none');},
   focusRecord(f){selectedId=recordId(f);this.setSelection(selectedId);move({center:f.geometry.coordinates,zoom:15});},
   resetView(bounds){if(projectionState.projection==='globe')move({center:[(bounds[0][0]+bounds[1][0])/2,(bounds[0][1]+bounds[1][1])/2],zoom:1.8,bearing:0,pitch:0});else map.fitBounds(bounds,{padding:42,maxZoom:11,duration:reducedMotion?0:700});},

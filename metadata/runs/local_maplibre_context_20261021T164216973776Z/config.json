@@ -1,0 +1,7 @@
+{
+  "scope": "Local presentation only; six retained context PNGs; no new source acquisition or analytical processing",
+  "destination": "outputs/research_map_maplibre",
+  "source": "outputs/research_map",
+  "code_commit": "60c1e201ee27a52a11cb2b1cfd2e5cf0c2d0c682",
+  "working_tree_dirty": true
+}
