@@ -1,0 +1,32 @@
+{
+  "purpose": "Filtered public MapLibre presentation; no scientific recomputation",
+  "source_bundle": "data/pois/africa_pois.geojson",
+  "source_payload_sha256": "d8c56a431645c5bc62a84236897f1bea0acbc44e94df775a600351f1911feb1c",
+  "source_built_at_utc": null,
+  "source_build_manifest": {},
+  "packaging_code_commit": "dfd276a58f57ce6afe2bd2302ef2e8fbbd4cebe2",
+  "packaging_code_sha256": "5cd8067eafbe2835c672b2becc1edeb21324e08080c5b679844fdeb8a1bac0ac",
+  "packaging_working_tree_dirty": true,
+  "validation_status": "Prepared; run scripts/check_pages.py before deployment",
+  "omissions": [
+    "Unused source tags omitted; original source records unchanged."
+  ],
+  "files_sha256": {
+    "index.html": "a446fce1d3fa55d96c09d7a342ce2bdc0ae9b720deda8b54e7cdd932436ee116",
+    "data.json": "68c0779cbeed0ab8bcd0538b877634673d8e32d00e29ab770434e11c20ed9931"
+  },
+  "shared_files_sha256": {
+    "assets/maps/africa.mjs": "6c8370305fafda33f2f2dd4550d0fbe12e997298fee487383219d98cc5f93ba4",
+    "assets/maps/atlas-map.css": "3d5425d2480d572da81a193ef9a0c07d5fb5c01cef70ebd8aa71454afede3949",
+    "assets/maps/map-runtime.mjs": "e40992a97a2e84444b71926cb96c566507abc795f6f1ccaac3df19e45df4935e",
+    "assets/maps/shell.mjs": "2431c6c4b72e76d9ba59a5daab0bce48d050d6b258b3d260331ee50d7908de46",
+    "assets/maps/state.mjs": "90d9f06bafa0a71fd639bde5237fb5b46f3443b51ade36281bc459e0cbfe5cf4",
+    "assets/maps/style.json": "4047c0da40bbe15afe3e9dfb8762c517c874667496f4f6314089cdc128ac4173",
+    "assets/maps/vendor/LICENSE.txt": "ee5fc05a0677eaf69601d2c7db0d9ecd6cc27c3abc1d0733bc9ed34707cf8ef2",
+    "assets/maps/vendor/manifest.json": "ee38d2f498a66403e7712dfdd84aca2e1bf6f85ee5e4a6d5d166d31ef9ae4da4",
+    "assets/maps/vendor/maplibre-gl-shared.mjs": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "assets/maps/vendor/maplibre-gl-worker.mjs": "1c69066368331aae63967ed24a9affcf962cf55fcc6d8f532a8b040f736dbcfa",
+    "assets/maps/vendor/maplibre-gl.css": "a90798a1953017790e590f7e1bd35ff103a8a4263972cb47290b78adf86f8c20",
+    "assets/maps/vendor/maplibre-gl.mjs": "41198b23679a7d8892183408bbef2eabdc74745beb90261f6be0f660b7aeb2fd"
+  }
+}
