@@ -28,3 +28,11 @@ test('combined province/category/query/evidence filters leave the source unchang
  assert.deepEqual(filterRecords([a,b],{evidence:'missing_name'},{},100).map(recordId),['b']);
  assert.equal(JSON.stringify([a,b]),before);
 });
+test('pilot gap filters distinguish partial-clear candidates from no clear samples and unknown',async()=>{
+ const {pilotGap}=await import('../../src/heritage_flood/web/public/state.mjs');
+ assert.equal(pilotGap({optical_13_apr:'no_conservative_clear_samples'},'optical_13_apr'),true);
+ assert.equal(pilotGap({optical_13_apr:'partial_clear_candidates_require_review'},'optical_13_apr'),false);
+ assert.equal(pilotGap({},'optical_13_apr'),false);
+ assert.equal(pilotGap({footprint:'current_osm_outline_not_2022_verified'},'footprint'),false);
+ assert.equal(pilotGap({footprint:'no_reviewed_outline'},'footprint'),true);
+});

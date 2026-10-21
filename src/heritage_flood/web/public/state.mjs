@@ -53,3 +53,4 @@ export function boundsOf(features) {
  const points=features.map(f=>f.geometry.coordinates);
  return [[Math.min(...points.map(p=>p[0])),Math.min(...points.map(p=>p[1]))],[Math.max(...points.map(p=>p[0])),Math.max(...points.map(p=>p[1]))]];
 }
+export const pilotGap=(e,dimension)=>e?.[dimension]===({footprint:'no_reviewed_outline',optical_13_apr:'no_conservative_clear_samples',location:'not_independently_verified',independent_event_evidence:'not_established'})[dimension];

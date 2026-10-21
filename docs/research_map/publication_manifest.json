@@ -1,8 +1,8 @@
 {
-  "purpose": "Filtered public presentation; not a new scientific processing run",
+  "purpose": "Filtered public MapLibre presentation; no scientific recomputation",
   "source_bundle": "outputs/research_map",
-  "source_payload_sha256": "8b0a5b344fa3d9e9a637b6d1a8856424f82d00c8b7b403a612d61d589e420e37",
-  "source_built_at_utc": "2026-10-20T19:17:38.322456+00:00",
+  "source_payload_sha256": "8d2172cbaa3057388c1c6e981b9d789a5331e386c6ab246496ef7861f8c30fe3",
+  "source_built_at_utc": "2026-10-21T15:37:34.258027+00:00",
   "source_build_manifest": {
     "purpose": "Local research presentation; no publication or new hazard analysis",
     "inputs_sha256": {
@@ -110,8 +110,8 @@
     "code_sha256": {
       "research_map.py": "2ea7126049eee74301427b5d0f97a40fb3df821db95e592d4a45eefb538d3461",
       "index.html": "455e2e76017d7db6cdbcbd645651d4370329f0c19c0183be9edf6f5f19f0127d",
-      "map.css": "087446bb28f8ce88c0597dbd166c544ba133107bb5a993d5d133dede462f7976",
-      "map.js": "47032b0c53a2781ce3cd8a255cbcc7482f854643d11614a543ecc5cfe65f734b"
+      "map.css": "e0c306856084d453ed5ba67619f4e4433b26ab14dae231bf36863ca00c20f8f1",
+      "map.js": "c87465174031a18f700a622806c6d452719c56acbaec45e5c1676691d6c9d3c0"
     },
     "display": {
       "floodplain_simplification_m": 2,
@@ -122,8 +122,8 @@
       "sar_resampling": "nearest; warped to Web Mercator for Leaflet image alignment"
     }
   },
-  "packaging_code_commit": "e1eb3300df496eac2d80b233e4a8b48be252b020",
-  "packaging_code_sha256": "52fc3e9c4601a4f2eb7fc48bfcfda439c09fbfe533b35f55abee82f5c7a6f2ee",
+  "packaging_code_commit": "4acdefa6b648c86eb195397a5dbe82b7b1394c81",
+  "packaging_code_sha256": "5cd8067eafbe2835c672b2becc1edeb21324e08080c5b679844fdeb8a1bac0ac",
   "packaging_working_tree_dirty": true,
   "validation_status": "Prepared; run scripts/check_pages.py before deployment",
   "omissions": [
@@ -132,14 +132,25 @@
     "Identity-document excerpts and proposed identities: source redistribution terms unresolved."
   ],
   "files_sha256": {
-    "data.json": "4ff550bd0649d91f1fcd78e98a3b80202d825ee069ffdcecd019cd94a011e3bc",
-    "index.html": "aa38d2906567ee7ad5253a7584108c373de49493ae4f063ab9cf19dfc6a86dc8",
-    "map.css": "e0c306856084d453ed5ba67619f4e4433b26ab14dae231bf36863ca00c20f8f1",
-    "map.js": "c87465174031a18f700a622806c6d452719c56acbaec45e5c1676691d6c9d3c0",
-    "vendor/LICENSE": "53e8dc25862014e4324741ca18fbe3611e11d42ef69f59f86ea8c5389647d4cb",
-    "vendor/images/layers-2x.png": "066daca850d8ffbef007af00b06eac0015728dee279c51f3cb6c716df7c42edf",
-    "vendor/images/layers.png": "1dbbe9d028e292f36fcba8f8b3a28d5e8932754fc2215b9ac69e4cdecf5107c6",
-    "vendor/leaflet.css": "a7837102824184820dfa198d1ebcd109ff6d0ff9a2672a074b9a1b4d147d04c6",
-    "vendor/leaflet.js": "db49d009c841f5ca34a888c96511ae936fd9f5533e90d8b2c4d57596f4e5641a"
+    "index.html": "aba77003cada38a8246908dafdeca6938354fe887508c7d396982abdc3ce0ef5",
+    "data.json": "56591d892617d57ed16dd52b979466258d94fe8b890b0698c01e03be875ce2f6"
+  },
+  "shared_files_sha256": {
+    "assets/maps/africa.mjs": "8f4e003701fcefbece6d4ed5bd38740fd4d40eed0c0b1a22fd7763681b7f5be1",
+    "assets/maps/atlas-map.css": "3d5425d2480d572da81a193ef9a0c07d5fb5c01cef70ebd8aa71454afede3949",
+    "assets/maps/climate.mjs": "12614f5e00890791535941fe20ac27bb2d5f07c823123518178c9fac773f6acb",
+    "assets/maps/map-runtime.mjs": "e40992a97a2e84444b71926cb96c566507abc795f6f1ccaac3df19e45df4935e",
+    "assets/maps/national-context.mjs": "c0eaa9629667cecd6e52ec2476713a146c321a24766cf3566c782ca4701107fa",
+    "assets/maps/national.mjs": "ea5e0a12bb2f9bbcd2acebd90c8e5b90063a6a1cd53eb92389ffde76ed29f9e4",
+    "assets/maps/pilot.mjs": "748f477e17318343134f7753b5945499818607bd8e01688385cb9bc654928bca",
+    "assets/maps/shell.mjs": "7fdbf573c51a5bc74ee0121e6b8c4313db9a2bde68ad319754bee122ef3efc6e",
+    "assets/maps/state.mjs": "e978b7650aa6547275c8f4b14e30936ed47bae34d595fec906833668bf10c6d2",
+    "assets/maps/style.json": "4047c0da40bbe15afe3e9dfb8762c517c874667496f4f6314089cdc128ac4173",
+    "assets/maps/vendor/LICENSE.txt": "ee5fc05a0677eaf69601d2c7db0d9ecd6cc27c3abc1d0733bc9ed34707cf8ef2",
+    "assets/maps/vendor/manifest.json": "ee38d2f498a66403e7712dfdd84aca2e1bf6f85ee5e4a6d5d166d31ef9ae4da4",
+    "assets/maps/vendor/maplibre-gl-shared.mjs": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "assets/maps/vendor/maplibre-gl-worker.mjs": "1c69066368331aae63967ed24a9affcf962cf55fcc6d8f532a8b040f736dbcfa",
+    "assets/maps/vendor/maplibre-gl.css": "a90798a1953017790e590f7e1bd35ff103a8a4263972cb47290b78adf86f8c20",
+    "assets/maps/vendor/maplibre-gl.mjs": "41198b23679a7d8892183408bbef2eabdc74745beb90261f6be0f660b7aeb2fd"
   }
 }
