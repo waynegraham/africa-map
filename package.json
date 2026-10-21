@@ -1,0 +1,12 @@
+{
+  "name": "clir-heritage-map-checks",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/web/*.mjs",
+    "check:style": "node scripts/check_map_style.mjs"
+  },
+  "devDependencies": {
+    "@maplibre/maplibre-gl-style-spec": "26.4.4"
+  }
+}

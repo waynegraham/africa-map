@@ -1,0 +1,18 @@
+{
+  "scope": "Native public presentation only; no scientific recomputation",
+  "source_counts": {
+    "africa": 4655,
+    "south_africa_map": 832,
+    "research_map": 28
+  },
+  "code_commit": "e0845a412cf090bfcb6453a233a1f8861ed39838",
+  "working_tree_dirty": true,
+  "renderer_version": "6.15.0",
+  "style_sha256": "4047c0da40bbe15afe3e9dfb8762c517c874667496f4f6314089cdc128ac4173",
+  "source_publications": {
+    "africa": "d8c56a431645c5bc62a84236897f1bea0acbc44e94df775a600351f1911feb1c",
+    "research_map": "8d2172cbaa3057388c1c6e981b9d789a5331e386c6ab246496ef7861f8c30fe3",
+    "south_africa_map": "0f19753df07cabf84bfb12e1c4762ba574b53441785514b170f756ce5e1f15f5"
+  },
+  "scientific_comparison": "All fields equal to baseline 8b4309a after separating built_at_utc; pilot retained source has a newer build timestamp only"
+}

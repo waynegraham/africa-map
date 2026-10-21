@@ -135,24 +135,39 @@ From the repository root, run:
 python3 -m http.server 8000 --directory docs
 ```
 
-Open http://localhost:8000. Internet access is required for map assets and tiles.
+Open http://localhost:8000. Internet access is required for live OpenFreeMap basemap tiles/glyphs and outbound source links. The public renderer, custom style and page fonts are served locally.
 
-## Regenerate the website
+## Regenerate the public website
 
-The website embeds the downloaded data from `data/pois/africa_pois.geojson`.
-After updating that file, regenerate the page from the repository root:
+The three public explorers use native MapLibre GL JS with a shared custom atlas
+style and Map/Globe controls. The original Folium generator remains available
+for notebooks and local analysis; do not use it to overwrite a public route.
+
+Install the local research package as described above. On a fresh checkout,
+fetch the pinned renderer assets (no map tiles or research imagery):
 
 ```sh
-python3 -m venv .venv
-.venv/bin/python -m pip install -r requirements.txt
-.venv/bin/python -c 'from poi_map import create_poi_map; create_poi_map(output_path="docs/africa/index.html")'
+.venv/bin/python scripts/fetch_public_map_vendor.py
 ```
 
-Commit the updated `docs/africa/index.html` along with any data changes.
-Keep the landing page at `docs/index.html`; retain the map’s link back to it. Keep
-`docs/.nojekyll` so GitHub Pages serves the generated files directly.
-The existing notebook and `data/africa_pois_map.html` output remain available
-for local analysis.
+With the full retained local research bundles available, prepare the filtered
+public presentation and validate it:
+
+```sh
+.venv/bin/python -m heritage_flood.publication
+.venv/bin/python scripts/check_pages.py
+npm ci --ignore-scripts --no-audit --no-fund
+npm test
+npm run check:style
+```
+
+The npm dependency is development-only style-validation tooling; the deployed
+site is static and requires no Node server. Scientific layers and metadata are
+not recomputed. Source pages/modules live in `src/heritage_flood/web/public/`;
+shared published resources live in `docs/assets/maps/`. Commit all three route
+manifests and changed public files together. Preserve `docs/.nojekyll`.
+See [publication maintenance](research/publication.md) for source registration
+and snapshot checksums. Full local research explorers retain Leaflet.
 
 ## Publish on GitHub Pages
 
