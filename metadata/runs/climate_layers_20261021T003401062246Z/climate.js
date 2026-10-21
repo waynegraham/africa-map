@@ -1,0 +1,42 @@
+"use strict";
+function initClimateLayers(data){
+ const climate=data.climate,select=document.getElementById("context-theme");
+ if(!climate)return {fields:{},records:{},profile:()=>{},color:()=>"#919b9e",legend:()=>"Climate context unavailable"};
+ const p=climate.parameters,years=p.years[0]+"–"+p.years.at(-1),fmt=(x,d=1)=>x==null?"Unknown":Number(x).toLocaleString(undefined,{maximumFractionDigits:d});
+ const fields={hot_days_mean:[`Mean days/year ≥${p.hot_day_c}°C · ${years}`," days/year",1],
+  warm_min_days_mean:[`Mean days/year with minimum ≥${p.warm_minimum_c}°C · ${years}`," days/year",1],
+  burn_years:[`Years with nearby observed burning · ${years}`," years",0],
+  rain_deficit_years:[`Years with rainfall departure <${p.rain_deficit_percent}% · ${years}`," years",0],
+  warm_humid_hours:[`Outdoor warm/humid hours · ${p.humidity_year}`," hours",0],
+  landslide_class:["Static landslide susceptibility · source category"," (1–5)",0],
+  future_hot_days_change_ssp245:["Projected hot-day change · SSP2-4.5 · three-model median"," days/year",1],
+  future_hot_days_change_ssp585:["Projected hot-day change · SSP5-8.5 · three-model median"," days/year",1]};
+ const historic=node("optgroup");historic.label="Historical climate & static terrain";
+ const future=node("optgroup");future.label="Future regional climate-grid context";
+ for(const [key,[title]] of Object.entries(fields)){const option=node("option",title);option.value=key;(key.startsWith("future_")?future:historic).append(option);}select.append(historic,future);
+ const ranges={};for(const key of Object.keys(fields)){const values=Object.values(climate.records).map(r=>r[key]).filter(v=>v!=null);ranges[key]=[Math.min(0,...values),Math.max(1,...values)];}
+ function color(key,value){if(value==null)return "#919b9e";const [low,high]=ranges[key];const t=Math.min(1,Math.abs(value)/Math.max(Math.abs(low),high));return `hsl(${value<0?210:25} 65% ${90-55*t}%)`;}
+ function legend(key){if(key==="landslide_class")return "Source categories 1–5: lower → higher susceptibility · static, not an event probability";const [low,high]=ranges[key];return `Light → dark: magnitude 0 → ${fmt(Math.max(Math.abs(low),high))}${fields[key][1]} · linear scale`+(low<0?" · blue negative / orange positive":"");}
+ const section=document.getElementById("climate-summary");
+ section.append(node("h3","Climate indicators & research needs"),node("p",`Historical heat, rainfall and burn summaries: ${years}. Warm/humid conditions: ${p.humidity_year}. Heat ≥${p.hot_day_c}°C; warm minimum ≥${p.warm_minimum_c}°C. Outdoor warm/humid screen: temperature ≥${p.warm_humid_c}°C and derived RH ≥${p.warm_humid_rh_percent}%. These are exploratory thresholds, not collection-damage thresholds.`,"fine"));
+ section.append(node("p","Select a climate map theme above, then open an institution for annual values, observation coverage and the research each indicator could inform. Static terrain susceptibility is separate from climate observations.","fine"));
+ const coverageTable=node("table");coverageTable.style.cssText="font-size:11px;width:100%";
+ const coverageLabels={hot_days_mean:"Heat history",burn_years:"Nearby burn history",rain_deficit_years:"Rainfall-deficit history",warm_humid_hours:"Outdoor warm/humid hours",landslide_class:"Static landslide category",future_hot_days_change_ssp245:"Future heat · SSP2-4.5",future_hot_days_change_ssp585:"Future heat · SSP5-8.5"};
+ for(const [key,count] of Object.entries(climate.coverage)){const row=node("tr");row.append(node("td",coverageLabels[key]),node("td",count+" / "+Object.keys(climate.records).length));coverageTable.append(row);}section.append(node("p","Records with qualified values; unavailable observations remain unknown.","fine"),coverageTable);
+
+ section.append(node("h3","Future climate comparison"),node("p",`Native 0.25° grid (~28 km). ${p.model_baseline.join("–")} historical model baseline versus ${p.model_future.join("–")}; SSP2-4.5 and SSP5-8.5. Map values are medians of paired changes for ${p.models.join(", ")}. All three valid model pairs are required. The model range is not a probability interval and does not represent the full ensemble.`,"fine"));
+ const links=node("div",undefined,"report-links");for(const [label,url] of [["Climate methods ↗","../../research/climate_layers.md"],["Institution climate indicators ↓","../../data/processed/climate_layers/institution_climate.csv"],["Annual history ↓","../../data/processed/climate_layers/annual_climate.csv"],["Individual model scenarios ↓","../../data/processed/climate_layers/future_models.csv"],["Climate QGIS layer ↓","../../data/processed/climate_layers/climate_layers.gpkg"]]){const link=node("a",label);link.href=url;links.append(link);}section.append(links);
+ const sourceLinks={heat:"https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_DAILY_AGGR",humidity:"https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_HOURLY",fire:"https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MCD64A1",rain:"https://developers.google.com/earth-engine/datasets/catalog/UCSB-CHG_CHIRPS_DAILY",landslide:p.landslide_url,future:"https://developers.google.com/earth-engine/datasets/catalog/NASA_GDDP-CMIP6"};
+ for(const [key,limit] of Object.entries(climate.limits)){const link=node("a",key+" source ↗");link.href=sourceLinks[key];link.target="_blank";link.rel="noopener";section.append(link,node("p",limit,"fine"));}
+ function table(headers,rows){const t=node("table");t.style.cssText="font-size:10px;width:100%;border-collapse:collapse";const h=node("tr");for(const text of headers)h.append(node("th",text));t.append(h);for(const row of rows){const tr=node("tr");for(const text of row){const td=node("td",String(text));td.style.padding="6px 2px";tr.append(td);}t.append(tr);}return t;}
+ function profile(feature,container){const id=feature.properties.source_record_id,r=climate.records[id];container.append(node("h3","Climate screening context"));if(!r){container.append(node("p","No climate query was assigned to this excluded record.","fine"));return;}
+  const list=node("ul",undefined,"flags");for(const [key,[title,unit,digits]] of Object.entries(fields))list.append(node("li",title+": "+fmt(r[key],digits)+(r[key]==null?"":unit)));
+  list.append(node("li",`Qualified years: heat ${r.heat_valid_years}/${p.years.length}; rainfall ${r.rain_valid_years}/${p.years.length}; burn history ${r.fire_valid_years}/${p.years.length}. Humidity valid hours: ${fmt(r.humidity_valid_hours,0)}.`));container.append(list);
+  container.append(node("p","Fire observations are within 2 km and require quality-filtered annual spatial coverage. They do not establish burning at the building. Rainfall deficits do not establish water-supply failure. Outdoor temperature and humidity do not establish indoor dampness, mould or collection damage. Susceptibility categories are not annual landslide probabilities.","fine"));
+  const history=node("details");history.append(node("summary","Annual observations and coverage"),table(["Year","Hot days","Rain Δ%","Burned %","Fire coverage %"],climate.annual[id].map(row=>[row.year,fmt(row.hot_days,0),fmt(row.rainfall_departure_percent),fmt(row.burned_percent),fmt(row.fire_valid_area_percent)])));container.append(history);
+  const humid=node("details");humid.append(node("summary",p.humidity_year+" outdoor warm/humid hours by month"),table(["Month","Hours","Valid hours"],climate.humidity_monthly[id].map(row=>[row.month,fmt(row.warm_humid_hours,0),fmt(row.valid_hours,0)])));container.append(humid);
+  const models=node("details");models.append(node("summary","Individual future model comparisons"),table(["Model / pathway","Baseline days/y","Future days/y","Change"],climate.future_models[id].map(row=>[row.model+" / "+row.scenario,fmt(row.baseline_hot_days),fmt(row.future_hot_days),fmt(row.change_hot_days)])));container.append(models);
+  container.append(node("p","Research links: nearby burning → review fire preparedness and access; heat/humidity → obtain indoor monitoring and collection information; rainfall deficits → investigate water resilience; terrain susceptibility → seek local geotechnical and dated event evidence. None of these actions is evidence that damage has occurred.","fine"));
+ }
+ return {fields,records:climate.records,profile,color,legend};
+}

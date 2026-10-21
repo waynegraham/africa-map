@@ -3,13 +3,15 @@ function initNationalContext({data,map,provinces,features,refresh,showProfile}) 
  const context=data.context,select=document.getElementById("context-theme"),legend=document.getElementById("context-legend");
  const hazardLegend=document.getElementById("national-legend"),scenarioSelect=document.getElementById("scenario-select");
  if(!context){document.getElementById("context-coverage").textContent="Context has not been acquired. No values are inferred.";select.disabled=true;scenarioSelect.disabled=true;return {color:(_f,fallback)=>fallback,profile:()=>{}};}
- const records=context.records,fmt=(x,d=0)=>x==null?"Unknown":Number(x).toLocaleString(undefined,{maximumFractionDigits:d});
+ const climate=initClimateLayers(data);
+ const records=Object.fromEntries(Object.entries(context.records).map(([id,r])=>[id,{...r,...climate.records[id]}])),fmt=(x,d=0)=>x==null?"Unknown":Number(x).toLocaleString(undefined,{maximumFractionDigits:d});
  const fields={built_percent:["Built-up land, observed area", "%",1],wetland_percent:["Wetland / mangrove land, observed area","%",1],water_occurrence_max_percent:["Highest historical water occurrence in 500 m","%",1],population_1km:["Estimated residential population within 1 km"," people",0],road_count_500m:["Mapped road ways within 500 m"," ways",0],bridge_count_1000m:["Mapped road-bridge ways within 1 km"," ways",0]};
- const maxima={};for(const key of Object.keys(fields))maxima[key]=Math.max(1,...Object.values(records).map(r=>r[key]??0));
+ const themeFields={...fields,...climate.fields};
+ const maxima={};for(const key of Object.keys(themeFields))maxima[key]=Math.max(1,...Object.values(records).map(r=>r[key]??0));
  const value=f=>records[f.properties.source_record_id]?.[select.value];
  const palette=(x,max)=>{if(x==null)return "#919b9e";const t=Math.min(1,Math.max(0,Math.log1p(x)/Math.log1p(max)));return `hsl(${190+65*t} 65% ${85-55*t}%)`;};
- function color(f,fallback){if(select.value==="hazard")return fallback;if(select.value==="evidence")return "#b77921";return palette(value(f),maxima[select.value]);}
- select.onchange=()=>{const hazard=select.value==="hazard";hazardLegend.hidden=!hazard;legend.hidden=hazard;legend.replaceChildren();if(!hazard){legend.append(node("strong",select.value==="evidence"?"Coordinates remain independently unverified":fields[select.value][0]),node("div",select.value==="evidence"?"All source records need coordinate verification":"Light → dark: 0 → "+fmt(maxima[select.value])+fields[select.value][1]+" · logarithmic color scale"),node("div","Gray: unavailable · not a risk rating"));}refresh();};
+ function color(f,fallback){if(select.value==="hazard")return fallback;if(select.value==="evidence")return "#b77921";return climate.fields[select.value]?climate.color(select.value,value(f)):palette(value(f),maxima[select.value]);}
+ select.onchange=()=>{const hazard=select.value==="hazard";hazardLegend.hidden=!hazard;legend.hidden=hazard;legend.replaceChildren();if(!hazard){legend.append(node("strong",select.value==="evidence"?"Coordinates remain independently unverified":themeFields[select.value][0]),node("div",select.value==="evidence"?"All source records need coordinate verification":climate.fields[select.value]?climate.legend(select.value):"Light → dark: 0 → "+fmt(maxima[select.value])+themeFields[select.value][1]+" · logarithmic color scale"),node("div","Gray: unavailable · not a risk rating"));}refresh();};
  const roads=L.geoJSON(null,{style:f=>({color:f.properties.bridge&&!['no','false','0'].includes(f.properties.bridge)?"#b45532":"#6f787e",weight:f.properties.bridge?3:1.5,opacity:.8}),onEachFeature:(f,layer)=>layer.bindTooltip(node("span",(f.properties.name||"Unnamed OSM way")+" · "+(f.properties.highway||"bridge")+" · access / closure unverified"))});
  const bridges=L.geoJSON(null,{filter:f=>f.properties.bridge&&!['no','false','0'].includes(f.properties.bridge),style:{color:"#b45532",weight:4},onEachFeature:(f,l)=>l.bindTooltip(node("span","Mapped bridge way "+f.properties.osm_way_id+"; not a flood-impact finding"))});
  L.control.layers(null,{"Selected record: OSM road/bridge context":roads,"Selected record: mapped road bridges":bridges},{collapsed:true}).addTo(map);
@@ -39,6 +41,7 @@ function initNationalContext({data,map,provinces,features,refresh,showProfile}) 
   const list=node("ul",undefined,"flags");for(const [key,[title,unit,digits]] of Object.entries(fields))list.append(node("li",title+": "+fmt(r[key],digits)+(r[key]==null?"":unit)));
   list.append(node("li","Land-cover valid-area coverage: "+fmt(r.coverage_percent,1)+(r.coverage_percent==null?"":"%")),node("li","Population valid-area coverage: "+fmt(r.population_coverage_percent,1)+(r.population_coverage_percent==null?"":"%")),node("li","Highest water seasonality in 500 m: "+fmt(r.water_seasonality_max_months)+" months"));container.append(list);
   container.append(node("p","Land cover: 2021, 10 m. Water history: 1984–2021, 30 m; maxima can occur in different cells and are not flood frequency. Population: 2020 estimate, 100 m. Overlapping neighborhoods must not be added. OSM ways are not routes; no access disruption or safe evacuation has been established.","fine"));
+  climate.profile(feature,container);
   container.append(node("h3","Research evidence gaps"),node("p","Coordinate verification: unknown. Collection significance: not collected. Building condition: not collected. Preparedness: not collected. Regional climate scenarios are provincial context and are not assigned as property risk.","fine"));
  }
  return {color,profile};

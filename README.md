@@ -166,3 +166,12 @@ map to switch themes and download CSV or QGIS layers. Rebuild from retained inpu
 ```sh
 .venv/bin/python -m heritage_flood.national_context --build
 ```
+
+Additional climate themes cover historical heat, rainfall deficits, nearby burned
+area, outdoor warm/humid conditions, static landslide susceptibility and separate
+regional future heat comparisons. See [climate methods](research/climate_layers.md)
+and [notebook 11](notebooks/11_climate_layers.ipynb). Rebuild from retained inputs:
+
+```sh
+.venv/bin/python -m heritage_flood.climate_layers --build
+```

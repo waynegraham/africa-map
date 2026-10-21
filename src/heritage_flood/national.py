@@ -214,7 +214,12 @@ def build_national_map(root,destination=None):
         point_hash=hashlib.sha256((out/'institutions.geojson').read_bytes()).hexdigest()
         if context.get('institution_source_sha256')!=point_hash:raise ValueError('National context is stale; rebuild context for current institutions first')
         inputs.append(context_path)
-    payload={'context':context,'institutions':features,'profiles':profiles,'country':display('country'),'provinces':display('provinces'),
+    climate_path=root/'data/processed/climate_layers/climate.json'
+    climate=json.loads(climate_path.read_text()) if climate_path.exists() else None
+    if climate is not None:
+        if climate.get('institution_source_sha256')!=hashlib.sha256((out/'institutions.geojson').read_bytes()).hexdigest():raise ValueError('Climate layers are stale; rebuild for current institutions')
+        inputs.append(climate_path)
+    payload={'climate':climate,'context':context,'institutions':features,'profiles':profiles,'country':display('country'),'provinces':display('provinces'),
              'summary':summary,'built_at_utc':datetime.now(timezone.utc).isoformat()}
     destination.mkdir(parents=True,exist_ok=True)
     vendor=root/'data/raw/web_vendor'
@@ -222,10 +227,10 @@ def build_national_map(root,destination=None):
         raise FileNotFoundError('Run scripts/fetch_map_vendor.py to obtain pinned local Leaflet assets')
     shutil.copytree(vendor,destination/'vendor',dirs_exist_ok=True)
     web=Path(__file__).parent/'web'
-    for source,target in [('national.html','index.html'),('national.js','national.js'),('national_context.js','national_context.js'),('map.css','map.css')]:
+    for source,target in [('national.html','index.html'),('national.js','national.js'),('national_context.js','national_context.js'),('climate.js','climate.js'),('map.css','map.css')]:
         shutil.copyfile(web/source,destination/target)
     _save(destination/'data.json',payload)
-    code=[Path(__file__),root/'src/heritage_flood/inventory.py',web/'national.html',web/'national.js',web/'national_context.js',web/'map.css']
+    code=[Path(__file__),root/'src/heritage_flood/inventory.py',web/'national.html',web/'national.js',web/'national_context.js',web/'climate.js',web/'map.css']
     sha=lambda p:hashlib.sha256(p.read_bytes()).hexdigest()
     _save(destination/'build_manifest.json',{'purpose':'Local South Africa source-record/model-context screening; no publication or event labels',
         'input_sha256':{str(p.relative_to(root)):sha(p) for p in inputs},'code_sha256':{str(p.relative_to(root)):sha(p) for p in code},
@@ -315,7 +320,7 @@ def build(root):
     run=root/'metadata/runs'/run_id;run.mkdir(parents=True)
     _save(run/'config.json',cfg);_save(run/'environment.json',{'python':platform.python_version(),'geopandas':gpd.__version__,'pandas':pd.__version__})
     code=[Path(__file__),root/'src/heritage_flood/inventory.py',root/'src/heritage_flood/context_layers.py']
-    code += [Path(__file__).parent/'web'/name for name in ['national.html','national.js','national_context.js','map.css']]
+    code += [Path(__file__).parent/'web'/name for name in ['national.html','national.js','national_context.js','climate.js','map.css']]
     _save(run/'code_checksums.json',{str(p.relative_to(root)):sha(p) for p in code})
     for p in code:shutil.copyfile(p,run/p.name)
     source_files=sorted(p for p in raw.iterdir() if p.is_file() and p.suffix in ('.json','.geojson'))

@@ -115,3 +115,11 @@ Technical checks do not establish ground truth, model accuracy or current legal
 boundary validity. Source dates differ: this is contextual screening rather than
 a synchronized present-day assessment. Local preview only; review source licenses
 and database obligations before external publication.
+
+## Additional climate themes
+
+The national explorer also offers separate historical heat, rainfall-deficit,
+nearby burn history, outdoor warm/humid conditions, static landslide susceptibility
+and regional future heat themes. See [climate methods](climate_layers.md) for
+source periods, native resolutions, thresholds and completeness rules. These do
+not change the existing flood calculations or establish indoor conditions.

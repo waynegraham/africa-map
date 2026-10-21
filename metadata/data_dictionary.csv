@@ -221,3 +221,16 @@ provincial_scenarios,delta_positive_km2,float,km2,true,Same-mechanism/product/RP
 provincial_scenarios,positive_percent_province,float,percent,true,Positive modeled area / province Albers area; separate from institution exposure,0-100
 provincial_scenarios,shared_support_verified,boolean,,false,True only after identical native grids and zero spatial mask-difference area in the province; required for a delta,true;false
 institution_context,access_detail_file,string,,false,SHA256 of source_record_id used as local per-record geometry filename; loaded when selecting a profile,
+climate_indicators,hot_days_mean,float,days/year,true,Mean annual daily maximum air temperature >=35C counts in 2015-2024; all ten complete years required,>=0
+climate_indicators,warm_min_days_mean,float,days/year,true,Mean annual daily minimum air temperature >=20C counts; all ten complete years required,>=0
+climate_indicators,burn_years,integer,years,true,Years with positive MODIS burned fraction in 2km; all ten years >=80% QA-qualified spatial support required; not building burning,0-10
+climate_indicators,rain_deficit_years,integer,years,true,Years with annual CHIRPS departure below -20% from complete 1991-2020 baseline; all ten current years required,0-10
+climate_indicators,warm_humid_hours,integer,hours,true,2024 outdoor paired hourly temperature >=25C and derived RH >=80%; all 8784 hours valid; not a mould diagnosis,0-8784
+climate_indicators,landslide_class,integer,source ordinal category,true,NASA static native-cell susceptibility category; zero and no-data withheld; not event probability,1-5
+climate_indicators,future_hot_days_change_ssp245,float,days/year,true,Median of three within-model 2041-2070 SSP2-4.5 minus 1985-2014 historical annual hot-day means; all pairs valid,
+climate_indicators,future_hot_days_change_ssp585,float,days/year,true,Median of three within-model 2041-2070 SSP5-8.5 minus 1985-2014 historical annual hot-day means; all pairs valid,
+annual_climate,fire_valid_area_percent,float,percent,true,Area with all 12 months QA-qualified MODIS support / approximate 2km circle area; capped 100,0-100
+annual_climate,burned_percent,float,percent,true,Union annual burned pixel area / fully observed pixel area; withheld below80% circle coverage,0-100
+annual_climate,fire_observed_burned_percent,float,percent,true,Observed fraction before 80% coverage qualification; may be partial and is not used for whole-period counts,0-100
+annual_climate,rainfall_departure_percent,float,percent,true,Annual rainfall / complete 30-year mean annual rainfall minus 1 multiplied100; not SPI or SPEI,
+future_models,change_hot_days,float,days/year,true,Same-model future minus historical mean annual hot-day count; 30 complete years and matching native grids required,

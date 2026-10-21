@@ -1,0 +1,47 @@
+{
+  "earth_engine_project": "digitization-calculator",
+  "raw_directory": "data/raw/climate_layers_20261020",
+  "output_directory": "data/processed/climate_layers",
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "rain_baseline_years": [
+    1991,
+    2020
+  ],
+  "hot_day_c": 35,
+  "warm_minimum_c": 20,
+  "rain_deficit_percent": -20,
+  "fire_buffer_m": 2000,
+  "fire_min_coverage_percent": 80,
+  "humidity_year": 2024,
+  "warm_humid_c": 25,
+  "warm_humid_rh_percent": 80,
+  "models": [
+    "ACCESS-CM2",
+    "MIROC6",
+    "MPI-ESM1-2-HR"
+  ],
+  "future_scenarios": [
+    "ssp245",
+    "ssp585"
+  ],
+  "model_baseline": [
+    1985,
+    2014
+  ],
+  "model_future": [
+    2041,
+    2070
+  ],
+  "landslide_url": "https://gpm.nasa.gov/sites/default/files/downloads/global-landslide-susceptibility-map-2-27-23.tif"
+}
