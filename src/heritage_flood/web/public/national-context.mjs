@@ -1,0 +1,41 @@
+import {node,fmt,fieldList,table} from './shell.mjs';
+import {initClimateLayers} from './climate.mjs';
+import {recordId,contextValue,collection} from './state.mjs';
+
+/** Display retained context/scenario values, with no recalculation of exposure. */
+export function initNationalContext({data,mapController,shell,onThemeChange}) {
+ const context=data.context || {},container=document.querySelector('#context-controls');let theme='hazard',scenarioId='',scenarioVisible=false;
+ const label=node('label','Map theme','control-label');label.htmlFor='context-theme';const select=node('select',undefined,'context-control');select.id='context-theme';
+ const fields={built_percent:['Built-up land · 500 m','%',1],wetland_percent:['Wetland / mangrove land · 500 m','%',1],water_occurrence_max_percent:['Highest historical water occurrence · 500 m','%',1],population_1km:['Estimated residents · 1 km',' people',0],road_count_500m:['Mapped road ways · 500 m',' ways',0],bridge_count_1000m:['Mapped road-bridge ways · 1 km',' ways',0]};
+ for(const [key,text] of [['hazard','River-model samples'],...Object.entries(fields).map(([k,v])=>[k,v[0]]),['evidence','Unverified coordinates']]){const option=node('option',text);option.value=key;select.append(option);}
+ container.append(label,select,node('p','Neighborhoods overlap. Population describes residents, not visitors or flood-exposed people. Zero and unavailable values remain distinct.','fine'));
+ const climateNode=node('div');climateNode.id='climate-summary';container.append(climateNode);
+ const climate=initClimateLayers(data),records=Object.fromEntries([...new Set([...Object.keys(context.records || {}),...Object.keys(climate.records)])].map(id=>[id,{...context.records?.[id],...climate.records[id]}]));
+ const allFields={...fields,...climate.fields},maxima={};for(const key of Object.keys(allFields))maxima[key]=Math.max(1,...Object.values(records).map(r=>contextValue({r},'r',key) ?? 0));
+ const palette=(value,max)=>value===null?'#919b9e':`hsl(${190+65*Math.min(1,Math.max(0,Math.log1p(value)/Math.log1p(max)))} 65% ${85-55*Math.min(1,Math.max(0,Math.log1p(value)/Math.log1p(max)))}%)`;
+ const scenarioLabel=node('label','Regional flood scenario','control-label');scenarioLabel.htmlFor='scenario-select';const scenarioSelect=node('select',undefined,'context-control');scenarioSelect.id='scenario-select';
+ const choices=new Map((context.scenarios || []).map(r=>[r.id,r.label]));for(const [id,title] of choices){const option=node('option',title);option.value=id;scenarioSelect.append(option);}scenarioId=scenarioSelect.value;
+ const toggleLabel=node('label',undefined,'context-toggle'),toggle=node('input');toggle.type='checkbox';toggle.id='scenario-overlay';toggleLabel.append(toggle,node('span','Show provincial modeled-area shading'));
+ const scenarioTable=node('div');scenarioTable.id='scenario-table';container.append(node('h3','Regional flood scenarios'),node('p','Aqueduct V2 · approximately 1 km · 100-year return period. One illustrative river GCM (GFDL-ESM2M); coastal median sea level without subsidence. Provincial positive-depth area is not institution exposure or the full model uncertainty.','fine'),scenarioLabel,scenarioSelect,toggleLabel,scenarioTable);
+ function drawScenario(){
+  const rows=(context.scenarios || []).filter(r=>r.id===scenarioId);scenarioTable.replaceChildren();
+  if(!rows.length){scenarioTable.append(node('p','Scenario data unavailable.','fine'));return;}
+  scenarioTable.append(table(['Province','Positive area km²','Change km²'],rows.map(r=>[data.provinces.features.find(f=>f.properties.shapeISO===r.province_code)?.properties.display_name || r.province_code,fmt(r.positive_km2,1),fmt(r.delta_positive_km2,1)])),node('p','Changes require identical native grids and spatial support for a baseline/future pair. Unknown differences remain withheld. Historical epochs differ between river and coastal products.','fine'));
+  const polygons=collection(data.provinces.features.map(f=>{const r=rows.find(r=>r.province_code===f.properties.shapeISO);return {...f,properties:{...f.properties,__color:palette(r?.positive_percent_province ?? null,5)}};}));
+  mapController?.setGeoJSONLayer('scenario-provinces',polygons,{type:'fill',paint:{'fill-color':['get','__color'],'fill-opacity':0.4},visible:scenarioVisible});
+ }
+ function setTheme(field){theme=allFields[field] || ['hazard','evidence'].includes(field)?field:'hazard';select.value=theme;onThemeChange();}
+ function setScenario(id,visible){scenarioId=id;scenarioVisible=visible;scenarioSelect.value=id;toggle.checked=visible;drawScenario();onThemeChange();}
+ select.onchange=()=>setTheme(select.value);scenarioSelect.onchange=()=>setScenario(scenarioSelect.value,toggle.checked);toggle.onchange=()=>setScenario(scenarioSelect.value,toggle.checked);
+ const outlinesLabel=node('label',undefined,'context-toggle'),outlines=node('input');outlines.type='checkbox';outlines.checked=true;outlines.id='national-outlines';outlinesLabel.append(outlines,node('span','Show country and province representation'));outlines.onchange=()=>{mapController?.setLayerVisibility('country-outline',outlines.checked);mapController?.setLayerVisibility('province-outlines',outlines.checked);};container.append(node('h3','Map context'),outlinesLabel,node('p','Boundaries are a checked 2020 representation, not verification of current legal boundaries. Detailed road geometry and local analytical downloads are outside this public package. NASA landslide values remain withheld.','fine'));
+ const sources=node('div',undefined,'report-links');const urls={landcover:'ESA_WorldCover_v200',surface_water:'JRC_GSW1_4_GlobalSurfaceWater',population:'JRC_GHSL_P2023A_GHS_POP',aqueduct:'WRI_Aqueduct_Flood_Hazard_Maps_V2'};
+ for(const [key,source] of Object.entries(context.sources || {})){const a=node('a',source.title);a.href=key==='access'?'https://download.geofabrik.de/africa/south-africa.html':`https://developers.google.com/earth-engine/datasets/catalog/${urls[key]}`;a.target='_blank';a.rel='noopener';sources.append(a,node('p',source.limits,'fine'));}container.append(node('h3','Sources and limitations'),sources,node('p','ESA WorldCover Consortium (CC BY 4.0); EC JRC / Google Global Surface Water; EC JRC GHSL; WRI Aqueduct; © OpenStreetMap contributors via Geofabrik (ODbL).','fine'));
+ drawScenario();
+ return {
+  attachMap(controller){mapController=controller;drawScenario();},setTheme,setScenario,
+  color(f,fallback){if(theme==='hazard')return fallback;if(theme==='evidence')return '#b77921';const value=contextValue(records,recordId(f),theme);return climate.fields[theme]?climate.color(theme,value):palette(value,maxima[theme]);},
+  legend(){const fragment=node('div');if(theme!=='hazard'){fragment.append(node('strong',theme==='evidence'?'Coordinates remain unverified':allFields[theme][0]),node('div',theme==='evidence'?'All source locations need independent verification':climate.fields[theme]?climate.legend(theme):`Light → dark: 0 → ${fmt(maxima[theme],1)}${allFields[theme][1]} · logarithmic scale`),node('div','Gray: unavailable; not a risk rating.'));}if(scenarioVisible)fragment.append(node('strong','Provincial scenario area'),node('div','Light → dark: 0 → 5%+ of province · RP100 · ~1 km. Separate from institution indicators.'));return fragment;},
+  get theme(){return theme;},
+  renderProfile(f,content){const r=records[recordId(f)];content.append(node('h3','Landscape, community and access'));if(!r){content.append(node('p','No context query was assigned to this excluded record.','fine'));return;}content.append(fieldList(Object.entries(fields).map(([key,[title,unit,digits]])=>[title,fmt(r[key],digits)+(r[key]==null?'':unit)])),node('p',`Land-cover valid-area coverage: ${fmt(r.coverage_percent)}%. Population valid-area coverage: ${fmt(r.population_coverage_percent)}%. Water seasonality maximum: ${fmt(r.water_seasonality_max_months)} months. Unknown is not zero.`,'fine'),node('p','WorldCover 2021: 10 m. Water history 1984–2021: 30 m; maxima may be in different cells. Population 2020: 100 m. Overlapping neighborhoods must not be summed. Mapped OSM ways are not routable access or closures. Detailed road geometry is retained locally.','fine'));climate.profile(f,content);}
+ };
+}

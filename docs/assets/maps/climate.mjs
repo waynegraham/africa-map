@@ -1,5 +1,5 @@
-"use strict";
-function initClimateLayers(data){
+import {node} from "./shell.mjs";
+export function initClimateLayers(data){
  const climate=data.climate,select=document.getElementById("context-theme");
  if(!climate)return {fields:{},records:{},profile:()=>{},color:()=>"#919b9e",legend:()=>"Climate context unavailable"};
  const p=climate.parameters,years=p.years[0]+"–"+p.years.at(-1),fmt=(x,d=1)=>x==null?"Unknown":Number(x).toLocaleString(undefined,{maximumFractionDigits:d});
