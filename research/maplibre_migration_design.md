@@ -1,7 +1,7 @@
 # MapLibre public explorer migration
 
 Date: 2026-10-21
-Status: written specification approved by the user on 2026-10-21; implementation planning underway
+Status: written specification approved by the user on 2026-10-21; implemented and locally verified; remote deployment unverified
 
 ## Intended outcome
 

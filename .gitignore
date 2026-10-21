@@ -1,4 +1,4 @@
-.venv/
+.venv
 __pycache__/
 *.py[cod]
 *.egg-info/
@@ -25,5 +25,8 @@ outputs/tables/*
 !outputs/tables/.gitkeep
 outputs/gis/*
 !outputs/gis/.gitkeep
-outputs/research_map/
-outputs/south_africa_map/
+outputs/research_map
+outputs/south_africa_map
+
+# Public map validation tooling
+node_modules/
