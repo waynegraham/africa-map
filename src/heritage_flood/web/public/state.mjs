@@ -28,3 +28,28 @@ export function filterRecords(features,filters={},profiles={},period=100) {
     : !detail.pilot_available));
  });
 }
+export function changeProjection(state,next,currentCamera) {
+ if(!['map','globe'].includes(next))throw new Error('Unknown projection');
+ if(state.projection===next)return {state,camera:null};
+ const flatCamera=next==='globe'?structuredClone(currentCamera):state.flatCamera;
+ return {state:{...state,projection:next,flatCamera},camera:next==='globe'
+  ?{center:[...currentCamera.center],zoom:1.8,bearing:0,pitch:0}
+  :structuredClone(flatCamera || currentCamera)};
+}
+export function geodesicContextRing([lon,lat],metres) {
+ const rad=Math.PI/180,angular=metres/6371008.8,phi=lat*rad,lambda=lon*rad;
+ const coordinates=[];
+ for(let i=0;i<64;i++){
+  const bearing=i*2*Math.PI/64;
+  const p=Math.asin(Math.sin(phi)*Math.cos(angular)+Math.cos(phi)*Math.sin(angular)*Math.cos(bearing));
+  const l=lambda+Math.atan2(Math.sin(bearing)*Math.sin(angular)*Math.cos(phi),Math.cos(angular)-Math.sin(phi)*Math.sin(p));
+  coordinates.push([l/rad,p/rad]);
+ }
+ coordinates.push([...coordinates[0]]);
+ return {type:'Feature',properties:{display_only:true,radius_m:metres},geometry:{type:'Polygon',coordinates:[coordinates]}};
+}
+export const collection=features=>({type:'FeatureCollection',features});
+export function boundsOf(features) {
+ const points=features.map(f=>f.geometry.coordinates);
+ return [[Math.min(...points.map(p=>p[0])),Math.min(...points.map(p=>p[1]))],[Math.max(...points.map(p=>p[0])),Math.max(...points.map(p=>p[1]))]];
+}
