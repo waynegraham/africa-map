@@ -1,0 +1,23 @@
+{
+  "data/processed/south_africa/institutions.csv": "ab354c2525bec62ad47248a5ee634c01763f39e714576991793a3452dfef6bc8",
+  "data/processed/south_africa/summary.json": "abe835937d3fc8558307f010a3e12dc3683e2409d0cbedb95febb40fdaadf2bf",
+  "data/processed/south_africa/inventory_selection.csv": "0c9db099f59703a7c62bc189a58659b49ffce2f3338798e2b992da86aaa3cd94",
+  "data/processed/south_africa/province_summary.csv": "2b1bb360c04b9448499f7d96c477d426c11ec70f2f2549281fd55bf7b693c525",
+  "data/processed/south_africa/profiles.json": "6ec88078f6dc6c7ec8f2eb6d068d0838020d24abaeb3e336bcdc0a3b53bbfc55",
+  "data/processed/south_africa/screening.geojson": "5f4e69300ef5c9c9eb5c96166e5223b9ca5e877a5b9e0614404231196e4ca8eb",
+  "data/processed/south_africa/national_screening.gpkg": "5b3de4278b8cbe0d1b7b26b176356dc9c5960e63a168a6a1bcd28ce9cf5ede4b",
+  "data/processed/south_africa/hazard_context.csv": "0e312c7281ce9a2b853592ef74d180ba42549c1f4e005197f2578382dff23557",
+  "data/processed/south_africa/inventory_summary.json": "1ceaefd23a3cd5c490a42f683986ab66748cd71adf7f8f28d757dd630c8edcfe",
+  "data/processed/south_africa/duplicate_candidates.csv": "c6b31ac0102de8546744f88973888f107afbbf4a4befe7455af78a3df7a01d24",
+  "data/processed/south_africa/institutions.geojson": "d4e5d960d464ef776e2b539ce38be17474404a716e6c917a788755c233d8cd75",
+  "outputs/south_africa_map/map.css": "087446bb28f8ce88c0597dbd166c544ba133107bb5a993d5d133dede462f7976",
+  "outputs/south_africa_map/index.html": "bd69c270be9354332b8c2e69c0b3abd55af096ebedc2a6abc7f95c8c2cdc544f",
+  "outputs/south_africa_map/build_manifest.json": "6648ad0612932397a634f37904f4da495d414c526019c88924b948bbf10f33c1",
+  "outputs/south_africa_map/data.json": "43f5cbb221b426ec4195d327a038b09fb7a0aa2d5f36ad31c2f5087f484db4fc",
+  "outputs/south_africa_map/national.js": "768a988d0815ea635bbe7fae534bc4a748fae5f98fb524295f3c3d5e254ef7b1",
+  "outputs/south_africa_map/vendor/leaflet.js": "db49d009c841f5ca34a888c96511ae936fd9f5533e90d8b2c4d57596f4e5641a",
+  "outputs/south_africa_map/vendor/LICENSE": "53e8dc25862014e4324741ca18fbe3611e11d42ef69f59f86ea8c5389647d4cb",
+  "outputs/south_africa_map/vendor/leaflet.css": "a7837102824184820dfa198d1ebcd109ff6d0ff9a2672a074b9a1b4d147d04c6",
+  "outputs/south_africa_map/vendor/images/layers.png": "1dbbe9d028e292f36fcba8f8b3a28d5e8932754fc2215b9ac69e4cdecf5107c6",
+  "outputs/south_africa_map/vendor/images/layers-2x.png": "066daca850d8ffbef007af00b06eac0015728dee279c51f3cb6c716df7c42edf"
+}

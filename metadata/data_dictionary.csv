@@ -199,3 +199,25 @@ evidence_indicators,footprint,string,,false,Current reviewed OSM outline availab
 evidence_indicators,independent_event_evidence,string,,false,Institution-specific independent event evidence status in retained register; unknown is not no flooding,not_established
 context_profiles,rainfall,object,mm,true,"Event same-date three-day cell total, 1991–2020 baseline and anomaly; approximately 5.6 km regional cell, not building rainfall",
 context_profiles,unosat_coverage,string,,false,No verified machine-readable analysis extent obtained; no institution-level inside/outside coverage assigned,not_verified_from_machine_readable_analysis_extent
+national_institutions,province_assignment,string,,false,Full-source polygon match; border ambiguity retained rather than arbitrarily assigned,assigned;ambiguous_boundary;not_assigned;outside_country_representation
+national_institutions,province_source_name,string,,true,Publisher spelling retained; Northern Cape display correction is separate,
+national_hazard_context,point_candidate_tile_count,integer,,false,Number of native-grid supporting point tiles; sorted asset ID owner independent of depth,
+national_hazard_context,buffer_positive_depth_max_m,float,m,true,Maximum qualified positive native-grid depth in 100m geodesic point context; missing is not safe; not building inundation,
+national_hazard_context,point_asset_id,string,,true,Actual selected JRC asset ID at native grid; metadata/projection retained,
+national_profiles,imagery_status,string,,false,Region-specific imagery review status; pilot availability does not establish flooding,ethekwini_april_2022_context_available;regional_event_not_selected_or_reviewed;not_evaluated
+institution_context,built_percent,float,percent,true,Built-up WorldCover area / observed land-cover area in 500m; 2021; not impervious fraction,0-100
+institution_context,wetland_percent,float,percent,true,WorldCover wetland and mangrove area / observed land-cover area in 500m; 2021,0-100
+institution_context,coverage_percent,float,percent,true,Valid land-cover area / approximate 500m circle area; capped 100,0-100
+institution_context,water_occurrence_max_percent,float,percent,true,Maximum historical water occurrence within 500m; supported JRC cells only; not flood probability,0-100
+institution_context,water_seasonality_max_months,float,months,true,Maximum JRC seasonality within 500m; may differ from occurrence maximum cell,0-12
+institution_context,population_1km,float,people,true,GHSL 2020 estimated residents within geodesic 1km; native weighted sum; not visitors or exposed people,>=0
+institution_context,population_coverage_percent,float,percent,true,Valid population-grid area / approximate 1km circle area; capped 100,0-100
+institution_context,road_count_500m,integer,OSM ways,true,Unique mapped highway way IDs with a segment within 500m; not routes or access assurance,>=0
+institution_context,bridge_count_1000m,integer,OSM ways,true,Unique mapped bridge way IDs with a segment within 1km; not confirmed crossings or flood effects,>=0
+institution_context,nearest_road_m,float,metres,true,Distance to nearest mapped road within 500m in per-site azimuthal equidistant CRS,0-500
+provincial_scenarios,positive_km2,float,km2,true,Area of valid native Aqueduct RP100 cells with positive modeled depth; provincial context only,>=0
+provincial_scenarios,valid_km2,float,km2,true,Aqueduct valid source-grid area in full province geometry; masked cells never zero-filled,>=0
+provincial_scenarios,delta_positive_km2,float,km2,true,Same-mechanism/product/RP future minus historical area; withheld when valid areas differ,
+provincial_scenarios,positive_percent_province,float,percent,true,Positive modeled area / province Albers area; separate from institution exposure,0-100
+provincial_scenarios,shared_support_verified,boolean,,false,True only after identical native grids and zero spatial mask-difference area in the province; required for a delta,true;false
+institution_context,access_detail_file,string,,false,SHA256 of source_record_id used as local per-record geometry filename; loaded when selecting a profile,

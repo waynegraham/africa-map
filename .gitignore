@@ -26,3 +26,4 @@ outputs/tables/*
 outputs/gis/*
 !outputs/gis/.gitkeep
 outputs/research_map/
+outputs/south_africa_map/

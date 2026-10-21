@@ -2,7 +2,7 @@
 
 ## Purpose and scope
 
-Build an exploratory, reproducible public-data assessment of flood exposure for cultural institutions in eThekwini, South Africa. The audience is heritage professionals and potential funders of further research and data collection. Preserve the existing Africa-wide institution map.
+Build an exploratory, reproducible public-data assessment of flood exposure for cultural institutions in eThekwini, South Africa. The audience is heritage professionals and potential funders of further research and data collection. Preserve the existing Africa-wide institution map. Extend the checked baseline to a separate South Africa national screening explorer; retain eThekwini as the detailed event case study. National screening does not transfer April 2022 observations to other regions.
 
 The first milestone is a feasibility audit: verify the municipal boundary and institution inventory, register candidate datasets, inspect April 2022 Sentinel coverage, and identify independent comparison evidence. Do not assume the event has suitable imagery before checking. Future scenarios and machine learning follow a checked baseline.
 
@@ -11,7 +11,7 @@ The first milestone is a feasibility audit: verify the municipal boundary and in
 - `poi_download.py`, `poi_map.py`, `map_pois.ipynb`, and `data/pois/` support the existing map. Avoid unrelated changes to these files.
 - `docs/` is the published GitHub Pages website. Put research notes in `research/`; do not publish internal notes or raw data there.
 - Keep reusable analysis in `src/heritage_flood/`; notebooks explain and orchestrate it.
-- Store study parameters in `config/ethekwini.yaml`. Resolve paths relative to the repository root, never a user's home directory.
+- Store pilot parameters in `config/ethekwini.yaml` and national parameters in `config/south_africa.yaml`. Resolve paths relative to the repository root, never a user's home directory.
 - Keep source downloads unchanged in `data/raw/`, intermediate files in `data/interim/`, and derived datasets in `data/processed/`. Large artifacts are ignored; record persistent storage locations and checksums in metadata.
 - Do not move or delete existing data to fit the new layout.
 

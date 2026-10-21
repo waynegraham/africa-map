@@ -1,0 +1,22 @@
+{
+  "project_id": "south-africa-heritage-screening",
+  "institution_source": "data/pois/ZA.geojson",
+  "institution_dataset_id": "osm_za_pois_snapshot_20261020",
+  "source_directory": "data/raw/south_africa_20261020",
+  "output_directory": "data/processed/south_africa",
+  "map_directory": "outputs/south_africa_map",
+  "boundary_dataset_id": "geoboundaries_zaf_adm0_adm1_20261020",
+  "hazard_dataset_id": "jrc_south_africa_point_context_20261020",
+  "area_crs": "+proj=aea +lat_1=-22 +lat_2=-34 +lat_0=-29 +lon_0=25 +datum=WGS84 +units=m +no_defs",
+  "earth_engine_project": "digitization-calculator",
+  "hazard_collection": "JRC/CEMS_GLOFAS/FloodHazard/v2_1",
+  "return_periods_years": [
+    10,
+    100,
+    500
+  ],
+  "context_buffer_m": 100,
+  "proximity_distance_m": 30,
+  "same_name_distance_m": 250,
+  "display_simplification_m": 100
+}

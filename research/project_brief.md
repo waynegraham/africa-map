@@ -30,3 +30,7 @@ Success means a reviewer can trace a displayed measurement to its inputs and met
 ## Exclusions from the initial milestone
 
 Building-damage estimates, inferred collection values, composite risk scores, investment rankings, climate attribution, automated AI narratives, and continent-wide processing.
+
+## National screening extension
+
+The checked baseline now extends to a separate South Africa mainland screening map. It audits the national source inventory and queries a common static river model without transferring eThekwini event observations to other regions. The detailed eThekwini case study remains intact. See [national scope and limitations](south_africa.md).

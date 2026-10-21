@@ -1,0 +1,54 @@
+{
+  "earth_engine_project": "digitization-calculator",
+  "raw_directory": "data/raw/national_context_v2_20261020",
+  "output_directory": "data/processed/national_context",
+  "landscape_buffer_m": 500,
+  "population_buffer_m": 1000,
+  "batch_size": 50,
+  "access_batch_size": 30,
+  "overpass_url": "https://overpass.kumi.systems/api/interpreter",
+  "scenarios": [
+    {
+      "id": "river_baseline",
+      "mechanism": "riverine",
+      "epoch": "baseline",
+      "label": "Historical WATCH baseline (1980 label)",
+      "asset": "inunriver_historical_000000000WATCH_1980_rp00100"
+    },
+    {
+      "id": "river_45",
+      "mechanism": "riverine",
+      "epoch": "2050",
+      "label": "2050 RCP4.5 \u00b7 GFDL-ESM2M",
+      "asset": "inunriver_rcp4p5_0000GFDL-ESM2M_2050_rp00100"
+    },
+    {
+      "id": "river_85",
+      "mechanism": "riverine",
+      "epoch": "2050",
+      "label": "2050 RCP8.5 \u00b7 GFDL-ESM2M",
+      "asset": "inunriver_rcp8p5_0000GFDL-ESM2M_2050_rp00100"
+    },
+    {
+      "id": "coast_baseline",
+      "mechanism": "coastal",
+      "epoch": "baseline",
+      "label": "Historical coastal baseline \u00b7 no subsidence",
+      "asset": "inuncoast_historical_nosub_hist_rp0100_0"
+    },
+    {
+      "id": "coast_45",
+      "mechanism": "coastal",
+      "epoch": "2050",
+      "label": "2050 RCP4.5 \u00b7 median sea level \u00b7 no subsidence",
+      "asset": "inuncoast_rcp4p5_nosub_2050_rp0100_0_perc_50"
+    },
+    {
+      "id": "coast_85",
+      "mechanism": "coastal",
+      "epoch": "2050",
+      "label": "2050 RCP8.5 \u00b7 median sea level \u00b7 no subsidence",
+      "asset": "inuncoast_rcp8p5_nosub_2050_rp0100_0_perc_50"
+    }
+  ]
+}

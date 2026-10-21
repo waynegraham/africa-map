@@ -71,6 +71,16 @@ class InventoryAuditTests(unittest.TestCase):
         self.assertIn("institution_id", result["institutions"].columns)
         self.assertIn("distance_m", result["duplicate_candidates"].columns)
 
+    def test_geodesic_review_distances_do_not_depend_on_one_national_utm_zone(self):
+        boundary=gpd.GeoDataFrame(geometry=[Polygon([(17,-35),(34,-35),(34,-22),(17,-22)])],crs=4326)
+        result=inventory.audit_inventory({'type':'FeatureCollection','features':[
+            feature(1,[18,-34]),feature(2,[18.0001,-34],'Other')]},boundary,
+            analysis_crs='EPSG:32736',distance_method='geodesic')
+        distance=result['duplicate_candidates'].iloc[0].distance_m
+        self.assertGreater(distance,9.23)
+        self.assertLess(distance,9.25)
+        self.assertEqual(len(result['institutions']),2)
+
 
 if __name__ == "__main__":
     unittest.main()

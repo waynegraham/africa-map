@@ -4,6 +4,10 @@ Explore museums, libraries, and archives from OpenStreetMap across Africa.
 The interactive map includes category toggles, location details, coordinates,
 and links to the original OpenStreetMap entries.
 
+## Open the national screening map
+
+South Africa screening is available at `http://127.0.0.1:8001/outputs/south_africa_map/index.html` while the repository-root server is running. It retains all 832 source records, screens 831 against the checked mainland representation, and preserves one excluded coastal record for review. Rebuild from retained data with `.venv/bin/python -m heritage_flood.national`. See [national methods and limitations](research/south_africa.md) and `notebooks/09_south_africa_screening.ipynb`.
+
 ## Open the local research map
 
 The interactive eThekwini evidence explorer is available locally, with
@@ -153,3 +157,12 @@ centers. Locations with multiple categories appear in each applicable layer.
 
 Data comes from [OpenStreetMap contributors](https://www.openstreetmap.org/copyright)
 under the Open Database License (ODbL). The map includes OpenStreetMap attribution.
+
+The national explorer also includes landscape, residential population, mapped access
+features and separate provincial climate scenarios. See [context methods](research/national_context.md)
+and [notebook 10](notebooks/10_national_context.ipynb). Open **Context** in the local
+map to switch themes and download CSV or QGIS layers. Rebuild from retained inputs:
+
+```sh
+.venv/bin/python -m heritage_flood.national_context --build
+```

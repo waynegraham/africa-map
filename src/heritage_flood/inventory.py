@@ -8,18 +8,19 @@ import unicodedata
 
 import geopandas as gpd
 import pandas as pd
-from pyproj import CRS
+from pyproj import CRS, Geod
 from shapely.geometry import Point
 
 
 def audit_inventory(collection, boundary, *, analysis_crs,
-                    proximity_distance_m=30, same_name_distance_m=250):
+                    proximity_distance_m=30, same_name_distance_m=250, distance_method="projected"):
     """Select points covered by a polygon, retaining all records and review evidence.
 
     Input GeoJSON follows longitude/latitude WGS84 conventions. Boundary edges
     are included, polygon holes excluded. Duplicate candidates are heuristics,
     never instructions to merge. Source-row IDs are stable for a fixed source
-    snapshot; valid OSM IDs remain stable across snapshots.
+    snapshot; valid OSM IDs remain stable across snapshots. Optional geodesic
+    review distances use the WGS84 ellipsoid for national multi-zone coverage.
     """
     if boundary.crs is None:
         raise ValueError("Boundary CRS must be known")
@@ -87,22 +88,28 @@ def audit_inventory(collection, boundary, *, analysis_crs,
     institutions = gpd.GeoDataFrame(selected, columns=columns, geometry="geometry", crs=4326)
     id_counts = Counter(institutions.institution_id)
     institutions["repeated_identity"] = institutions.institution_id.map(lambda v: id_counts[v] > 1).astype(bool)
-    projected = institutions.to_crs(metric_crs)
+    if distance_method not in ("projected", "geodesic"):
+        raise ValueError("Distance method must be projected or geodesic")
+    projected = institutions.to_crs(metric_crs) if distance_method == "projected" else None
+    metric_geometries = list(projected.geometry) if projected is not None else None
+    geod = Geod(ellps="WGS84")
+    records = institutions.to_dict("records")
     pairs = []
-    for i in range(len(institutions)):
-        for j in range(i + 1, len(institutions)):
-            a, b = institutions.iloc[i], institutions.iloc[j]
-            distance = projected.geometry.iloc[i].distance(projected.geometry.iloc[j])
+    for i, a in enumerate(records):
+        for j in range(i + 1, len(records)):
+            b = records[j]
+            distance = (geod.inv(a["longitude"], a["latitude"], b["longitude"], b["latitude"])[2]
+                        if distance_method == "geodesic" else metric_geometries[i].distance(metric_geometries[j]))
             reasons = []
-            if a.institution_id == b.institution_id:
+            if a["institution_id"] == b["institution_id"]:
                 reasons.append("repeated_identity")
             if distance <= proximity_distance_m:
                 reasons.append("nearby_locations")
-            if a.normalized_name and a.normalized_name == b.normalized_name and distance <= same_name_distance_m:
+            if a["normalized_name"] and a["normalized_name"] == b["normalized_name"] and distance <= same_name_distance_m:
                 reasons.append("same_name_nearby")
             if reasons:
-                pairs.append({"record_a": a.source_record_id, "record_b": b.source_record_id,
-                              "institution_a": a.institution_id, "institution_b": b.institution_id,
+                pairs.append({"record_a": a["source_record_id"], "record_b": b["source_record_id"],
+                              "institution_a": a["institution_id"], "institution_b": b["institution_id"],
                               "name_a": a["name"], "name_b": b["name"], "distance_m": distance,
                               "reasons": ";".join(reasons), "review_status": "unreviewed", "review_notes": ""})
     pair_columns = ["record_a", "record_b", "institution_a", "institution_b", "name_a", "name_b",

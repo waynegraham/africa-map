@@ -1,0 +1,16 @@
+{
+  "data/raw/south_africa_20261020/ADM0.geojson": "9b8745825e62ed10b478a93aa12f9a64a1b6d583a7e13eee4d1bf22f3f48843f",
+  "data/raw/south_africa_20261020/ADM0_metadata.json": "2078fba256f18a2524219703dd3f2e2326a69bb88b8ebf8ccd43dc53749aa76b",
+  "data/raw/south_africa_20261020/ADM1.geojson": "5d82ed95b034f50d69d96c9b7136e9b5868a5fb4ef2d8905a6a6ac3715fef452",
+  "data/raw/south_africa_20261020/ADM1_metadata.json": "8274642880064eb7c93c1000b05bd45db3f32a738991462e9f3e85605bb21a1b",
+  "data/raw/south_africa_20261020/boundary_access.json": "9a70246e75d5c086b58a80b4b0b084581510dd7c782f98f2343e319302b5e657",
+  "data/raw/south_africa_20261020/hazard_ID128_S20_E10.json": "8b2f529406dddf446e1c2dea96610106df5f994946b147c15fa52ddf22e37211",
+  "data/raw/south_africa_20261020/hazard_ID129_S30_E10.json": "4e39979c59f82ae5fe6697ead1c1ba8f554d067a33aa5318d01816f2ccea2d34",
+  "data/raw/south_africa_20261020/hazard_ID140_S20_E20.json": "9bdded2a8951c74f4bc54895ed5ccc82c61493e1a90a77f546095bd785c29f74",
+  "data/raw/south_africa_20261020/hazard_ID141_S30_E20.json": "eb456e068ca76805883703eee25363cb1bc8443a2164d89a6acf71f3cad2a6f6",
+  "data/raw/south_africa_20261020/hazard_ID152_S20_E30.json": "14556b78b385290578cc1a2bd4254eec07414ab96b148b12f8c68552edacf2e1",
+  "data/raw/south_africa_20261020/hazard_ID153_S30_E30.json": "1b11b368c5bae543c70da506aa98113ce3bf87ca110ab51b1f438dcd625817db",
+  "data/raw/south_africa_20261020/hazard_assets.json": "a2137aa7c4ca9a379cfe8227a0ccb3cc29a2615796c19d1632847bf2fce12dc8",
+  "data/raw/south_africa_20261020/hazard_definition.json": "5372d43dfbde7b56d36e08b1d9e4181a89d84b0013aebe99bce605adc5f97480",
+  "data/raw/south_africa_20261020/hazard_results.json": "3acf45e49a02ca10a4dd71bda08205d600f136d19f32974a8c71bc3c4e27293f"
+}

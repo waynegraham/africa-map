@@ -1,0 +1,367 @@
+{
+  "source_records": 832,
+  "selected_records": 831,
+  "selection_counts": {
+    "selected": 831,
+    "outside_boundary": 1
+  },
+  "categories": {
+    "library": 455,
+    "museum": 373,
+    "archive": 3
+  },
+  "missing_names": 109,
+  "bounding_box_centers": 466,
+  "repeated_identity_records": 0,
+  "duplicate_candidate_pairs": 41,
+  "province_counts": {
+    "Western Cape": 282,
+    "Gauteng": 167,
+    "KwaZulu-Natal": 99,
+    "Eastern Cape": 98,
+    "Northern Cape": 55,
+    "Mpumalanga": 27,
+    "North West": 31,
+    "Free State": 41,
+    "Limpopo": 31
+  },
+  "boundary": {
+    "country_area_km2": 1220812.6144042218,
+    "province_union_difference_km2": 7.321188254466672e-07,
+    "controls": {
+      "Cape Town": true,
+      "Pretoria": true,
+      "Durban": true,
+      "Lesotho": true,
+      "Eswatini": true,
+      "Windhoek": true
+    },
+    "year_represented": "2020",
+    "current_legal_status": "not_verified",
+    "territorial_scope": "Mainland representation and nearby coastal islands; excludes offshore Prince Edward Islands",
+    "province_display_correction": "Source Nothern Cape (NC) retained; Northern Cape used for display only"
+  },
+  "distance_method": "WGS84 ellipsoidal geodesic; no national single-UTM distances",
+  "limitations": "OSM inventory is incomplete and source points unverified. Boundary is a research representation, not proof of current legal boundaries.",
+  "run_id": "south_africa_20261020T195033773853Z",
+  "hazard_statistics": {
+    "10": {
+      "point_status_counts": {
+        "no_depth_observation": 820,
+        "modeled_positive_depth": 2,
+        "suspected_model_artifact": 9
+      },
+      "point_positive_records": 2,
+      "positive_within_context_records": 12,
+      "context_only_positive_records": 10
+    },
+    "100": {
+      "point_status_counts": {
+        "no_depth_observation": 813,
+        "modeled_positive_depth": 9,
+        "suspected_model_artifact": 9
+      },
+      "point_positive_records": 9,
+      "positive_within_context_records": 15,
+      "context_only_positive_records": 6
+    },
+    "500": {
+      "point_status_counts": {
+        "no_depth_observation": 813,
+        "modeled_positive_depth": 9,
+        "suspected_model_artifact": 9
+      },
+      "point_positive_records": 9,
+      "positive_within_context_records": 17,
+      "context_only_positive_records": 8
+    }
+  },
+  "province_summary": [
+    {
+      "province": "Eastern Cape",
+      "return_period_years": 10,
+      "records": 98,
+      "point_positive_records": 0,
+      "positive_within_context_records": 1,
+      "missing_names": 13,
+      "unverified_coordinates": 98,
+      "run_id": "south_africa_20261020T195033773853Z"
+    },
+    {
+      "province": "Eastern Cape",
+      "return_period_years": 100,
+      "records": 98,
+      "point_positive_records": 0,
+      "positive_within_context_records": 1,
+      "missing_names": 13,
+      "unverified_coordinates": 98,
+      "run_id": "south_africa_20261020T195033773853Z"
+    },
+    {
+      "province": "Eastern Cape",
+      "return_period_years": 500,
+      "records": 98,
+      "point_positive_records": 0,
+      "positive_within_context_records": 3,
+      "missing_names": 13,
+      "unverified_coordinates": 98,
+      "run_id": "south_africa_20261020T195033773853Z"
+    },
+    {
+      "province": "Free State",
+      "return_period_years": 10,
+      "records": 41,
+      "point_positive_records": 0,
+      "positive_within_context_records": 0,
+      "missing_names": 3,
+      "unverified_coordinates": 41,
+      "run_id": "south_africa_20261020T195033773853Z"
+    },
+    {
+      "province": "Free State",
+      "return_period_years": 100,
+      "records": 41,
+      "point_positive_records": 0,
+      "positive_within_context_records": 0,
+      "missing_names": 3,
+      "unverified_coordinates": 41,
+      "run_id": "south_africa_20261020T195033773853Z"
+    },
+    {
+      "province": "Free State",
+      "return_period_years": 500,
+      "records": 41,
+      "point_positive_records": 0,
+      "positive_within_context_records": 0,
+      "missing_names": 3,
+      "unverified_coordinates": 41,
+      "run_id": "south_africa_20261020T195033773853Z"
+    },
+    {
+      "province": "Gauteng",
+      "return_period_years": 10,
+      "records": 167,
+      "point_positive_records": 0,
+      "positive_within_context_records": 0,
+      "missing_names": 23,
+      "unverified_coordinates": 167,
+      "run_id": "south_africa_20261020T195033773853Z"
+    },
+    {
+      "province": "Gauteng",
+      "return_period_years": 100,
+      "records": 167,
+      "point_positive_records": 0,
+      "positive_within_context_records": 0,
+      "missing_names": 23,
+      "unverified_coordinates": 167,
+      "run_id": "south_africa_20261020T195033773853Z"
+    },
+    {
+      "province": "Gauteng",
+      "return_period_years": 500,
+      "records": 167,
+      "point_positive_records": 0,
+      "positive_within_context_records": 0,
+      "missing_names": 23,
+      "unverified_coordinates": 167,
+      "run_id": "south_africa_20261020T195033773853Z"
+    },
+    {
+      "province": "KwaZulu-Natal",
+      "return_period_years": 10,
+      "records": 99,
+      "point_positive_records": 0,
+      "positive_within_context_records": 6,
+      "missing_names": 24,
+      "unverified_coordinates": 99,
+      "run_id": "south_africa_20261020T195033773853Z"
+    },
+    {
+      "province": "KwaZulu-Natal",
+      "return_period_years": 100,
+      "records": 99,
+      "point_positive_records": 5,
+      "positive_within_context_records": 7,
+      "missing_names": 24,
+      "unverified_coordinates": 99,
+      "run_id": "south_africa_20261020T195033773853Z"
+    },
+    {
+      "province": "KwaZulu-Natal",
+      "return_period_years": 500,
+      "records": 99,
+      "point_positive_records": 5,
+      "positive_within_context_records": 7,
+      "missing_names": 24,
+      "unverified_coordinates": 99,
+      "run_id": "south_africa_20261020T195033773853Z"
+    },
+    {
+      "province": "Limpopo",
+      "return_period_years": 10,
+      "records": 31,
+      "point_positive_records": 0,
+      "positive_within_context_records": 0,
+      "missing_names": 3,
+      "unverified_coordinates": 31,
+      "run_id": "south_africa_20261020T195033773853Z"
+    },
+    {
+      "province": "Limpopo",
+      "return_period_years": 100,
+      "records": 31,
+      "point_positive_records": 0,
+      "positive_within_context_records": 0,
+      "missing_names": 3,
+      "unverified_coordinates": 31,
+      "run_id": "south_africa_20261020T195033773853Z"
+    },
+    {
+      "province": "Limpopo",
+      "return_period_years": 500,
+      "records": 31,
+      "point_positive_records": 0,
+      "positive_within_context_records": 0,
+      "missing_names": 3,
+      "unverified_coordinates": 31,
+      "run_id": "south_africa_20261020T195033773853Z"
+    },
+    {
+      "province": "Mpumalanga",
+      "return_period_years": 10,
+      "records": 27,
+      "point_positive_records": 0,
+      "positive_within_context_records": 0,
+      "missing_names": 6,
+      "unverified_coordinates": 27,
+      "run_id": "south_africa_20261020T195033773853Z"
+    },
+    {
+      "province": "Mpumalanga",
+      "return_period_years": 100,
+      "records": 27,
+      "point_positive_records": 0,
+      "positive_within_context_records": 0,
+      "missing_names": 6,
+      "unverified_coordinates": 27,
+      "run_id": "south_africa_20261020T195033773853Z"
+    },
+    {
+      "province": "Mpumalanga",
+      "return_period_years": 500,
+      "records": 27,
+      "point_positive_records": 0,
+      "positive_within_context_records": 0,
+      "missing_names": 6,
+      "unverified_coordinates": 27,
+      "run_id": "south_africa_20261020T195033773853Z"
+    },
+    {
+      "province": "North West",
+      "return_period_years": 10,
+      "records": 31,
+      "point_positive_records": 1,
+      "positive_within_context_records": 1,
+      "missing_names": 2,
+      "unverified_coordinates": 31,
+      "run_id": "south_africa_20261020T195033773853Z"
+    },
+    {
+      "province": "North West",
+      "return_period_years": 100,
+      "records": 31,
+      "point_positive_records": 1,
+      "positive_within_context_records": 2,
+      "missing_names": 2,
+      "unverified_coordinates": 31,
+      "run_id": "south_africa_20261020T195033773853Z"
+    },
+    {
+      "province": "North West",
+      "return_period_years": 500,
+      "records": 31,
+      "point_positive_records": 1,
+      "positive_within_context_records": 2,
+      "missing_names": 2,
+      "unverified_coordinates": 31,
+      "run_id": "south_africa_20261020T195033773853Z"
+    },
+    {
+      "province": "Northern Cape",
+      "return_period_years": 10,
+      "records": 55,
+      "point_positive_records": 0,
+      "positive_within_context_records": 2,
+      "missing_names": 8,
+      "unverified_coordinates": 55,
+      "run_id": "south_africa_20261020T195033773853Z"
+    },
+    {
+      "province": "Northern Cape",
+      "return_period_years": 100,
+      "records": 55,
+      "point_positive_records": 2,
+      "positive_within_context_records": 3,
+      "missing_names": 8,
+      "unverified_coordinates": 55,
+      "run_id": "south_africa_20261020T195033773853Z"
+    },
+    {
+      "province": "Northern Cape",
+      "return_period_years": 500,
+      "records": 55,
+      "point_positive_records": 2,
+      "positive_within_context_records": 3,
+      "missing_names": 8,
+      "unverified_coordinates": 55,
+      "run_id": "south_africa_20261020T195033773853Z"
+    },
+    {
+      "province": "Western Cape",
+      "return_period_years": 10,
+      "records": 282,
+      "point_positive_records": 1,
+      "positive_within_context_records": 2,
+      "missing_names": 27,
+      "unverified_coordinates": 282,
+      "run_id": "south_africa_20261020T195033773853Z"
+    },
+    {
+      "province": "Western Cape",
+      "return_period_years": 100,
+      "records": 282,
+      "point_positive_records": 1,
+      "positive_within_context_records": 2,
+      "missing_names": 27,
+      "unverified_coordinates": 282,
+      "run_id": "south_africa_20261020T195033773853Z"
+    },
+    {
+      "province": "Western Cape",
+      "return_period_years": 500,
+      "records": 282,
+      "point_positive_records": 1,
+      "positive_within_context_records": 2,
+      "missing_names": 27,
+      "unverified_coordinates": 282,
+      "run_id": "south_africa_20261020T195033773853Z"
+    }
+  ],
+  "source_records_on_map": 832,
+  "pilot_records_with_existing_context": 28,
+  "native_model_resolution": "3 arc-seconds (~90 m), source projection retained per tile",
+  "context_buffer_m": 100,
+  "hazard_version": "JRC/CEMS_GLOFAS/FloodHazard/v2_1",
+  "hazard_asset_ids": [
+    "JRC/CEMS_GLOFAS/FloodHazard/v2_1/ID128_S20_E10",
+    "JRC/CEMS_GLOFAS/FloodHazard/v2_1/ID129_S30_E10",
+    "JRC/CEMS_GLOFAS/FloodHazard/v2_1/ID140_S20_E20",
+    "JRC/CEMS_GLOFAS/FloodHazard/v2_1/ID141_S30_E20",
+    "JRC/CEMS_GLOFAS/FloodHazard/v2_1/ID152_S20_E30",
+    "JRC/CEMS_GLOFAS/FloodHazard/v2_1/ID153_S30_E30"
+  ],
+  "flood_damage_or_safety_labels_assigned": false,
+  "imagery_method": "Region/event review pending outside the linked eThekwini case study",
+  "hazard_limitations": "Static modeled river hazard only; missing depth is unknown, not safe. Point/100m contexts are not building inundation, stormwater/coastal hazard or future climate risk. Auxiliary flags do not capture every model artifact."
+}

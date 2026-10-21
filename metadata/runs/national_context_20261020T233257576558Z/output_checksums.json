@@ -1,0 +1,8 @@
+{
+  "data/processed/national_context/provincial_scenarios.csv": "a925423261d42118532f105472d717288c35459472a388e0c6e88af297a79c02",
+  "data/processed/national_context/evidence_review_template.csv": "d70ed0d6c54ea5f4f5ab5f1619e22ac6db20599d98b57d71e4bfd02e11e8bd6d",
+  "data/processed/national_context/national_context.gpkg": "b6eafdd8bda5f3efabfae05864286be2b7aaff102f5a34d8e66b67c1b517361a",
+  "data/processed/national_context/institution_context.csv": "d04b5c13e8b8fd151663ca93c948ae7e06f425a60f7ad13528c59262130096c8",
+  "data/processed/national_context/access.geojson": "dd4a8d4a3260c62773e4fe82d32d50e17304380840bcd2893326562d260759e2",
+  "data/processed/national_context/context.json": "ac5b6c2b88a958df24346c10d911365d5978e0b99b9ef53b09c59cbe8c76b519"
+}
