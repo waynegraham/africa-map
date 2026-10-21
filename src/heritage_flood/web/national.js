@@ -1,7 +1,7 @@
 "use strict";
 const node=(tag,text,className)=>{const el=document.createElement(tag);if(text!==undefined)el.textContent=text;if(className)el.className=className;return el;};
 async function boot(){
- const response=await fetch("data.json");if(!response.ok)throw new Error("Local national dataset unavailable");const data=await response.json();
+ const response=await fetch("data.json");if(!response.ok)throw new Error("National map snapshot unavailable");const data=await response.json();
  const features=data.institutions.features,profiles=data.profiles;let period=100;
  const map=L.map("map",{preferCanvas:true}).setView([-29,25],6);
  L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>'}).addTo(map);
@@ -46,7 +46,7 @@ async function boot(){
   }
   profile.append(node("h3","Evidence and next research"),node("p",detail.outline_status==="current_osm_outline_not_2022_verified"?"A current OSM outline was reviewed in the pilot; 2022 geometry remains unverified.":"No reviewed building outline is recorded in this project.","fine"));
   profile.append(node("p","Independent dated event evidence, institutional vulnerability and preparedness remain unestablished. These are evidence gaps, not evidence of no impact.","fine"));
-  if(detail.pilot_available){const link=node("a","Explore the eThekwini April 2022 case study ↗");link.href="../research_map/index.html";link.target="_blank";link.rel="noopener";profile.append(link,node("p","Existing local imagery context is available. It does not establish peak inundation or damage.","fine"));}
+  if(detail.pilot_available){const link=node("a","Explore the eThekwini April 2022 case study ↗");link.href="../research_map/index.html";link.target="_blank";link.rel="noopener";profile.append(link,node("p","The pilot retains local imagery context; the public snapshot omits mixed-source figures. It does not establish peak inundation or damage.","fine"));}
   else profile.append(node("p","Select a relevant regional event and assess imagery coverage, acquisition geometry and independent comparison evidence before image analysis.","fine"));
   contextExplorer.profile(feature,profile);
   const match=/^osm:(node|way|relation)\/(\d+)$/.exec(p.institution_id||"");if(match){const link=node("a","Inspect the source OSM record ↗");link.href="https://www.openstreetmap.org/"+match[1]+"/"+match[2];link.target="_blank";link.rel="noopener noreferrer";profile.append(link);}
@@ -74,4 +74,4 @@ async function boot(){
  const contextExplorer=initNationalContext({data,map,provinces,features,refresh:render,showProfile});
  render();provincialTable();map.fitBounds(country.getBounds(),{padding:[20,20]});new ResizeObserver(()=>map.invalidateSize()).observe(document.getElementById("map"));
 }
-boot().catch(error=>{const el=document.getElementById("national-load-error");el.hidden=false;el.textContent="Could not open the national explorer. Serve the repository root with python3 -m http.server 8001 --bind 127.0.0.1 and open /outputs/south_africa_map/index.html. "+error.message;});
+boot().catch(error=>{const el=document.getElementById("national-load-error");el.hidden=false;el.textContent="Could not load the national map snapshot. Try reloading or return to the landing page. "+error.message;});

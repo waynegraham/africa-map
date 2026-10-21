@@ -1,0 +1,48 @@
+{
+  "purpose": "Filtered public presentation; not a new scientific processing run",
+  "source_bundle": "outputs/south_africa_map",
+  "source_payload_sha256": "0f19753df07cabf84bfb12e1c4762ba574b53441785514b170f756ce5e1f15f5",
+  "source_built_at_utc": "2026-10-21T00:35:14.726931+00:00",
+  "source_build_manifest": {
+    "purpose": "Local South Africa source-record/model-context screening; no publication or event labels",
+    "input_sha256": {
+      "data/processed/south_africa/screening.geojson": "5f4e69300ef5c9c9eb5c96166e5223b9ca5e877a5b9e0614404231196e4ca8eb",
+      "data/processed/south_africa/profiles.json": "7db3d6371310403f4e977014abfdc7d10f5ad3a0dcd4271cd19d05ce36f11eb3",
+      "data/processed/south_africa/summary.json": "6b78a1f112a33cf2f439cd2753edf5e96aaeb8337a14397e29a4ae2fbbb73eac",
+      "data/processed/south_africa/national_screening.gpkg": "5b3de4278b8cbe0d1b7b26b176356dc9c5960e63a168a6a1bcd28ce9cf5ede4b",
+      "data/processed/national_context/context.json": "d5512afd66c05fd779dff5cba62c9f1660d90ed94fb7d76299bc0f6c4725d6cf",
+      "data/processed/climate_layers/climate.json": "82933e7d7287fe7e6e04a078b66e9d9b92666d1dab08bbd3e69fcbc35a1369dd"
+    },
+    "code_sha256": {
+      "src/heritage_flood/national.py": "f9fe76cc819b9db826c17b2fc1b13bcee2e5f82555558c2b78e86054be2b00c8",
+      "src/heritage_flood/inventory.py": "957b58d263e476319ae3e500d937f84bc714e12f68d6a3107038b41d781998a9",
+      "src/heritage_flood/web/national.html": "da9a1c427c5c9a4c4a1ae93034d714cc05b41a7f62158893fc1b7d917f45272f",
+      "src/heritage_flood/web/national.js": "dedcf9233f7f03c82282e06033624bf38afd595592423b3f724cb1ca32edc1a1",
+      "src/heritage_flood/web/national_context.js": "b5c2628aec0d3ab2a5846da6bd5082e1cb742c9de07a95de59a0af6c8dd46eb6",
+      "src/heritage_flood/web/climate.js": "e372622b91ee9b1ebb54a213d2c0e060c5524cb7c6fae3c18c1c7b699209fb8c",
+      "src/heritage_flood/web/map.css": "087446bb28f8ce88c0597dbd166c544ba133107bb5a993d5d133dede462f7976"
+    },
+    "display_only_boundary_simplification_m": 100
+  },
+  "packaging_code_commit": "e1eb3300df496eac2d80b233e4a8b48be252b020",
+  "packaging_code_sha256": "52fc3e9c4601a4f2eb7fc48bfcfda439c09fbfe533b35f55abee82f5c7a6f2ee",
+  "packaging_working_tree_dirty": true,
+  "validation_status": "Prepared; run scripts/check_pages.py before deployment",
+  "omissions": [
+    "NASA static landslide susceptibility: explicit file license not independently verified.",
+    "Detailed road/bridge geometry and local analytical downloads: outside this public presentation package; summary counts retained."
+  ],
+  "files_sha256": {
+    "climate.js": "82a01aca858a2e0c914df4b5c33927adf78c7a1a06f5e336cbae4301b8f4960a",
+    "data.json": "7a415856c45d5da79060af37a5a95c955497b31edd811b0d489cd011c1eda425",
+    "index.html": "9cb5b16e9d5bb93e8cbc387445c7a09a35af6261199c88b1867f08d3bc3503f3",
+    "map.css": "e0c306856084d453ed5ba67619f4e4433b26ab14dae231bf36863ca00c20f8f1",
+    "national.js": "9ac4c2cc96725a3053b2e199a631d70ac3b00b379c2da0d4bdc6d1c99347e3c4",
+    "national_context.js": "73e0a465da81f65b4c6e591443f985e6774a1c46b611adeea0a96b17461be629",
+    "vendor/LICENSE": "53e8dc25862014e4324741ca18fbe3611e11d42ef69f59f86ea8c5389647d4cb",
+    "vendor/images/layers-2x.png": "066daca850d8ffbef007af00b06eac0015728dee279c51f3cb6c716df7c42edf",
+    "vendor/images/layers.png": "1dbbe9d028e292f36fcba8f8b3a28d5e8932754fc2215b9ac69e4cdecf5107c6",
+    "vendor/leaflet.css": "a7837102824184820dfa198d1ebcd109ff6d0ff9a2672a074b9a1b4d147d04c6",
+    "vendor/leaflet.js": "db49d009c841f5ca34a888c96511ae936fd9f5533e90d8b2c4d57596f4e5641a"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "run_id": "public_maps_20261021T142916249299Z",
+  "prepared_at_utc": "2026-10-21T14:29:16.249242+00:00",
+  "scope": "Filtered public presentation snapshots; no acquisition or scientific recomputation",
+  "code_commit": "e1eb3300df496eac2d80b233e4a8b48be252b020",
+  "working_tree_dirty": true,
+  "packaging_code_sha256": "52fc3e9c4601a4f2eb7fc48bfcfda439c09fbfe533b35f55abee82f5c7a6f2ee",
+  "bundles": {
+    "research_map": {
+      "source_bundle": "outputs/research_map",
+      "source_payload_sha256": "8b0a5b344fa3d9e9a637b6d1a8856424f82d00c8b7b403a612d61d589e420e37",
+      "published_payload_sha256": "4ff550bd0649d91f1fcd78e98a3b80202d825ee069ffdcecd019cd94a011e3bc",
+      "omissions": [
+        "Municipal boundary and historical floodplain geometry and derived overlap/distance results: redistribution rights unresolved.",
+        "Comparison figures, SAR overlays, municipal-mask context rasters and area-aggregated rainfall: municipal reference inputs; retained locally.",
+        "Identity-document excerpts and proposed identities: source redistribution terms unresolved."
+      ]
+    },
+    "south_africa_map": {
+      "source_bundle": "outputs/south_africa_map",
+      "source_payload_sha256": "0f19753df07cabf84bfb12e1c4762ba574b53441785514b170f756ce5e1f15f5",
+      "published_payload_sha256": "7a415856c45d5da79060af37a5a95c955497b31edd811b0d489cd011c1eda425",
+      "omissions": [
+        "NASA static landslide susceptibility: explicit file license not independently verified.",
+        "Detailed road/bridge geometry and local analytical downloads: outside this public presentation package; summary counts retained."
+      ]
+    }
+  }
+}

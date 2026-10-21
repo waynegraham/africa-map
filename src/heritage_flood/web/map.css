@@ -2,3 +2,5 @@
 .leaflet-control-layers input{width:auto;padding:0;margin:0 5px 0 0;vertical-align:middle}.focus-links{display:flex;gap:8px;align-items:center;padding:2px 24px 12px;font-size:11px;color:var(--muted)}.focus-links button{border:1px solid #c4d4cb;background:#fff;border-radius:12px;padding:3px 10px;color:var(--teal);font-size:11px}.focus-links button:hover{background:#e7efea}
 
 #context-view{overflow:auto;flex:1;min-height:0;padding:20px 24px}.context-card{border-top:1px solid var(--line);padding:8px 0}.context-card label{font-size:11px;color:var(--muted)}.context-card select{font-size:11px;margin-top:4px}.context-raster{image-rendering:pixelated}#context-map-legend{border-top:1px solid var(--line);margin-top:8px;padding-top:7px;font-size:10px}#context-map-legend strong{display:block}#rain-chart svg{display:block;width:100%;height:110px;margin:12px 0 5px}#rain-chart .axis-label{font-size:10px;fill:#617278}.context-note{padding:8px;background:#edf0eb;font-size:11px;color:var(--muted);border-left:3px solid #82938e}
+
+.publication-note{padding:14px 24px 12px;border-bottom:1px solid var(--line);font-size:11px}.publication-note p{margin:7px 0 0}

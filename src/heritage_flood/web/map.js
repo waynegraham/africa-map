@@ -8,25 +8,28 @@ const node = (tag, text, className) => {
 
 async function boot() {
   const response = await fetch("data.json");
-  if (!response.ok) throw new Error("The local research dataset could not be loaded.");
+  if (!response.ok) throw new Error("The map snapshot could not be loaded.");
   const data = await response.json();
+  const publicSnapshot = data.publication?.snapshot === true;
   const map = L.map("map", {preferCanvas: true}).setView([-29.85, 30.95], 10);
   map.createPane("sarPane"); map.getPane("sarPane").style.zIndex = 350;
   map.getPane("sarPane").style.pointerEvents = "none";
   L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
     maxZoom: 19, attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>'
   }).addTo(map);
-  const boundary = L.geoJSON(data.boundary, {style: {color: "#506761", weight: 1.5, fillOpacity: 0}}).addTo(map);
-  const flood = L.geoJSON(data.floodplain, {style: {color: "#b66b2a", weight: 0.8, fillColor: "#eaaa61", fillOpacity: 0.25},
+  const boundary = L.geoJSON(data.boundary || data.institutions, {style: {color: "#506761", weight: 1.5, fillOpacity: 0}});
+  if (!publicSnapshot) boundary.addTo(map);
+  const flood = L.geoJSON(data.floodplain || {type:"FeatureCollection",features:[]}, {style: {color: "#b66b2a", weight: 0.8, fillColor: "#eaaa61", fillOpacity: 0.25},
     onEachFeature: (feature, layer) => {
       const p = feature.properties;
       const label = node("div"); label.append(node("strong", p.RIVER_NAME || "Unnamed mapped river"), node("div", "Source capture field: " + (p.CAPT_DATE || "unknown")), node("small", "Historical mapping; not observed April 2022 flooding."));
       layer.bindPopup(label);
-    }}).addTo(map);
-  const layers = {"Municipal boundary (date unconfirmed)": boundary, "Historical 100-year floodplain": flood};
+    }});
+  if (!publicSnapshot) flood.addTo(map);
+  const layers = publicSnapshot ? {} : {"Municipal boundary (date unconfirmed)": boundary, "Historical 100-year floodplain": flood};
   if (data.reviewed_outlines?.features.length) layers["Current OSM outlines (two reviewed sites)"] = L.geoJSON(data.reviewed_outlines, {style: {color: "#0891b2", weight: 2, fillOpacity: 0.05}});
   const selectedSar = L.layerGroup();
-  layers["Selected institution: exploratory VV change"] = selectedSar;
+  if (data.sar_overlays?.length) layers["Selected institution: exploratory VV change"] = selectedSar;
   map.createPane("contextPane"); map.getPane("contextPane").style.zIndex = 330;
   map.getPane("contextPane").style.pointerEvents = "none";
   const context = data.context || {}, rasters = context.rasters || [];
@@ -139,7 +142,7 @@ async function boot() {
     back.onclick = () => { profile.hidden = true; list.hidden = false; selected = null; };
     profile.append(back, node("div", category(feature).join(" · ").toUpperCase(), "eyebrow"), node("h2", label(feature)), node("div", p.institution_id, "fine"));
     if (detail.identity_review?.identity_review_status === "candidate_address_consistent") profile.append(node("p", "Proposed identity: " + detail.identity_review.proposed_name + ". Address context is consistent; the exact building identity remains unconfirmed.", "fine"));
-    const status = node("div", inMapped(feature) ? "Source point intersects a historical mapped floodplain. This is provisional exposure screening." : "No mapped point intersection. Flood-hazard coverage remains unknown; this is not a low-risk classification.", "status" + (inMapped(feature) ? "" : " unknown"));
+    const status = node("div", publicSnapshot ? "Municipal floodplain screening is withheld pending clarification of redistribution terms. Local flood exposure remains unknown." : inMapped(feature) ? "Source point intersects a historical mapped floodplain. This is provisional exposure screening." : "No mapped point intersection. Flood-hazard coverage remains unknown; this is not a low-risk classification.", "status" + (inMapped(feature) ? "" : " unknown"));
     profile.append(status);
     const flags = node("ul", undefined, "flags");
     flags.append(node("li", "Coordinates: not independently verified"), node("li", "Location: " + (p.location_representation === "bounding_box_center" ? "source building bounding-box center" : "OSM point")));
@@ -162,7 +165,9 @@ async function boot() {
       profile.append(node("h3","Evidence status"),node("p",(c.evidence.footprint==="no_reviewed_outline"?"No reviewed building outline. ":"Current OSM outline available; April 2022 geometry unverified. ")+"Independent event evidence, vulnerability and preparedness remain unestablished in this register. UNOSAT analysis coverage at this location is unresolved.","fine"));
     }
     profile.append(node("h3", "Imagery evidence"));
-    if (detail.context_geometry_basis) {
+    if (publicSnapshot) {
+      profile.append(node("p", "Imagery figures and SAR overlays are retained locally because they include municipal reference inputs with unresolved reuse terms. No confirmed flood or damage label is available.", "fine"));
+    } else if (detail.context_geometry_basis) {
       profile.append(node("p", "Imagery uses a 100 m buffer around the unverified source point, not a reviewed building footprint. Comparison sheets are generated; individual site interpretations remain pending.", "fine"));
       const quality = node("ul", undefined, "flags");
       for (const item of (detail.quality || []).filter(q => q.sensor === "S2")) {
@@ -229,5 +234,5 @@ async function boot() {
 }
 boot().catch(error => {
   const box = document.getElementById("load-error"); box.hidden = false;
-  box.textContent = "Could not open the explorer. Serve the repository with python3 -m http.server 8001 --bind 127.0.0.1, then open /outputs/research_map/index.html. " + error.message;
+  box.textContent = "Could not load the map snapshot. Try reloading or return to the landing page. " + error.message;
 });

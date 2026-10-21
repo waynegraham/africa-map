@@ -4,6 +4,21 @@ Explore museums, libraries, and archives from OpenStreetMap across Africa.
 The interactive map includes category toggles, location details, coordinates,
 and links to the original OpenStreetMap entries.
 
+## Share the maps
+
+The public landing page is `docs/index.html`. It introduces three separately
+shareable explorers:
+
+- `africa/index.html`: the existing Africa-wide Cultural Heritage POIs map.
+- `south_africa_map/index.html`: the filtered South Africa national snapshot.
+- `research_map/index.html`: the filtered eThekwini event case study.
+
+Public source credits and withheld layers are explained in `docs/sources.html`.
+The complete local research bundles remain available below. Public snapshots
+omit municipal geometry/results and mixed-source figures with unresolved reuse
+terms, plus the unverified-license landslide layer. See
+[publication maintenance](research/publication.md) for the exact scope.
+
 ## Open the national screening map
 
 South Africa screening is available at `http://127.0.0.1:8001/outputs/south_africa_map/index.html` while the repository-root server is running. It retains all 832 source records, screens 831 against the checked mainland representation, and preserves one excluded coastal record for review. Rebuild from retained data with `.venv/bin/python -m heritage_flood.national`. See [national methods and limitations](research/south_africa.md) and `notebooks/09_south_africa_screening.ipynb`.
@@ -130,24 +145,38 @@ After updating that file, regenerate the page from the repository root:
 ```sh
 python3 -m venv .venv
 .venv/bin/python -m pip install -r requirements.txt
-.venv/bin/python -c 'from poi_map import create_poi_map; create_poi_map(output_path="docs/index.html")'
+.venv/bin/python -c 'from poi_map import create_poi_map; create_poi_map(output_path="docs/africa/index.html")'
 ```
 
-Commit the updated `docs/index.html` along with any data changes. Keep
+Commit the updated `docs/africa/index.html` along with any data changes.
+Keep the landing page at `docs/index.html`; retain the map’s link back to it. Keep
 `docs/.nojekyll` so GitHub Pages serves the generated files directly.
 The existing notebook and `data/africa_pois_map.html` output remain available
 for local analysis.
 
 ## Publish on GitHub Pages
 
-1. Push this repository, including the `docs` folder, to GitHub.
-2. In the GitHub repository, open **Settings → Pages**.
-3. Under **Build and deployment**, select **Deploy from a branch**.
-4. Select the branch containing the website and the **/docs** folder, then save.
-5. Wait for the Pages deployment to finish. The Pages settings show the site URL.
+1. Commit and push the prepared public files and `.github/workflows/pages.yml`
+   to `main`.
+2. In **Settings → Pages → Build and deployment**, select **GitHub Actions**.
+3. Open **Actions → Validate and deploy heritage maps** to watch the run or
+   choose **Run workflow**. The deployment provides the live landing-page URL.
 
-Future pushes that change the published folder update the website. See
-[GitHub's publishing source documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
+Pull requests validate the site without deploying. Pushes affecting the website
+on `main` validate and deploy `docs/` only. No research data acquisition,
+Earth Engine authentication, imagery export or analysis runs in CI. The workflow
+follows [GitHub’s custom Pages workflow](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
+
+To refresh the research snapshots after rebuilding the complete local explorers:
+
+```sh
+.venv/bin/python -m heritage_flood.publication
+.venv/bin/python scripts/check_pages.py
+```
+
+Review filtered payloads, source terms and manifests before committing. CI uses
+the committed public snapshots; Git-ignored local artifacts are not available
+on GitHub runners. See [publication maintenance](research/publication.md).
 
 ## Data coverage
 
