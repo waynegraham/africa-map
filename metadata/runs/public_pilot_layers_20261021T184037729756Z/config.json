@@ -1,0 +1,17 @@
+{
+  "source_directory": "data/raw/public_pilot_layers_20261021",
+  "output_directory": "data/processed/public_pilot_layers_20261021",
+  "rectangle_wgs84": [
+    30.5,
+    -30.35,
+    31.3,
+    -29.45
+  ],
+  "hazard_collection": "JRC/CEMS_GLOFAS/FloodHazard/v2_1",
+  "rain_collection": "UCSB-CHG/CHIRPS/DAILY",
+  "event_start": "2022-04-11",
+  "event_end_exclusive": "2022-04-14",
+  "scope": "Presentation rectangle only; no municipal mask, source-point reselection, exposure recomputation or municipal aggregate",
+  "code_commit": "5b9a920fcf848242b48aaa81e84cc941322538bc",
+  "working_tree_dirty": true
+}

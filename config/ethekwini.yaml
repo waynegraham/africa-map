@@ -159,5 +159,20 @@
     "rain_timeline_end_exclusive": "2022-05-01",
     "unosat_product_url": "https://unosat.org/products/3283",
     "unosat_services_url": "https://unosatgis.cern.ch/rapidmapping/rest/services/FL20220418ZAF?f=pjson"
+  },
+  "public_context_layers": {
+    "source_directory": "data/raw/public_pilot_layers_20261021",
+    "output_directory": "data/processed/public_pilot_layers_20261021",
+    "rectangle_wgs84": [
+      30.5,
+      -30.35,
+      31.3,
+      -29.45
+    ],
+    "hazard_collection": "JRC/CEMS_GLOFAS/FloodHazard/v2_1",
+    "rain_collection": "UCSB-CHG/CHIRPS/DAILY",
+    "event_start": "2022-04-11",
+    "event_end_exclusive": "2022-04-14",
+    "scope": "Presentation rectangle only; no municipal mask, source-point reselection, exposure recomputation or municipal aggregate"
   }
 }

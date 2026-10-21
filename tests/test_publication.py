@@ -120,6 +120,56 @@ class PublicationTests(unittest.TestCase):
             national = json.loads((root / 'docs/south_africa_map/data.json').read_text())
             self.assertNotIn('landslide_class', national['climate']['records']['a'])
 
+    def public_context_fixture(self, root):
+        directory = root / 'data/processed/public_pilot_layers_20261021'
+        directory.mkdir(parents=True)
+        rasters=[]
+        for identifier in ['jrc_rp10','jrc_rp100','jrc_rp500','jrc_flags','rain_event','rain_anomaly']:
+            (directory / (identifier+'.png')).write_bytes(b'public rectangle PNG')
+            rasters.append({'id':identifier,'path':'assets/public_context/'+identifier+'.png'})
+        context={'schema_version':1,'geographic_support':'rectangle','municipal_mask':False,
+                 'rasters':rasters,'sources':{'boundary':{'license':'Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)'}},
+                 'reference_boundary':{'type':'FeatureCollection','features':[]}}
+        (directory/'context.json').write_text(json.dumps(context))
+        (directory/'reference_boundary.geojson').write_text(json.dumps(context['reference_boundary']))
+        files={p.name:hashlib.sha256(p.read_bytes()).hexdigest() for p in directory.iterdir()}
+        (directory/'manifest.json').write_text(json.dumps({'municipal_mask':False,'files_sha256':files}))
+        return directory
+
+    def test_public_context_packages_only_reviewed_rectangle_assets_and_preserves_omissions(self):
+        from heritage_flood.publication import prepare
+        with tempfile.TemporaryDirectory() as temp:
+            root=Path(temp);self.fixture(root);source=self.public_context_fixture(root)
+            prepare(root)
+            payload=json.loads((root/'docs/research_map/data.json').read_text())
+            self.assertEqual(len(payload['public_context']['rasters']),6)
+            self.assertEqual(payload['context']['rasters'],[])
+            self.assertNotIn('boundary',payload);self.assertNotIn('floodplain',payload)
+            self.assertEqual((source/'rain_event.png').read_bytes(),(root/'docs/research_map/assets/public_context/rain_event.png').read_bytes())
+            manifest=json.loads((root/'docs/research_map/publication_manifest.json').read_text())
+            self.assertIn('assets/public_context/rain_event.png',manifest['files_sha256'])
+
+    def test_changed_public_context_fails_before_replacing_a_page(self):
+        from heritage_flood.publication import prepare
+        with tempfile.TemporaryDirectory() as temp:
+            root=Path(temp);self.fixture(root);source=self.public_context_fixture(root)
+            (source/'rain_event.png').write_bytes(b'changed')
+            page=root/'docs/research_map/index.html';page.parent.mkdir(parents=True);page.write_text('previous')
+            with self.assertRaisesRegex(ValueError,'context'):
+                prepare(root)
+            self.assertEqual(page.read_text(),'previous')
+
+    def test_existing_public_layers_cannot_be_silently_removed_by_a_missing_source_package(self):
+        from heritage_flood.publication import prepare
+        with tempfile.TemporaryDirectory() as temp:
+            root=Path(temp);self.fixture(root);source=self.public_context_fixture(root)
+            prepare(root)
+            page=root/'docs/research_map/data.json';before=page.read_bytes()
+            (source/'manifest.json').unlink()
+            with self.assertRaisesRegex(FileNotFoundError,'public context'):
+                prepare(root)
+            self.assertEqual(page.read_bytes(),before)
+
     def test_absent_vendor_fails_before_replacing_a_public_page(self):
         from heritage_flood.publication import prepare
         with tempfile.TemporaryDirectory() as temp:

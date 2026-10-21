@@ -1,0 +1,19 @@
+{
+  "data/processed/public_pilot_layers_20261021/context.json": "4277dcad9bcd586697b2b9fb29c3762599e226017eb6801298532e676aa9a66f",
+  "data/processed/public_pilot_layers_20261021/jrc_flags.png": "68d8eac36ce69922c0eae7d4349d9cbe97f648722b404d5af49e12927739868a",
+  "data/processed/public_pilot_layers_20261021/jrc_rp10.png": "8e0f7bb4ea59185fbf5744458c0a70981f2567a351af76cec71dee372c360fde",
+  "data/processed/public_pilot_layers_20261021/jrc_rp100.png": "928535a6384392a6e87819a6bb5573f7d88dc92d1025a2d772758a55dc5c3f7f",
+  "data/processed/public_pilot_layers_20261021/jrc_rp500.png": "3fe6f9cb1ff50a8599bb87777307f6f5c66722cd1855a6494c0c914905e006a6",
+  "data/processed/public_pilot_layers_20261021/manifest.json": "cca1dad241b2f081d00c9cf2cad12b778fe532c9f63224e2d204f89efdbe0f89",
+  "data/processed/public_pilot_layers_20261021/rain_anomaly.png": "a7e2fdb14d9b211a163400916bb2cc1eca28dad4a9016a6507c2262d77b0d2e8",
+  "data/processed/public_pilot_layers_20261021/rain_event.png": "fbad3340d89098101d4e6477b81b26a7741874f92b7957dfa8d799851993cfcc",
+  "data/processed/public_pilot_layers_20261021/reference_boundary.geojson": "3ef14d64dd1862648ee13c2a74adae65f33df26abe211e36577a43b47ae80682",
+  "docs/research_map/data.json": "82b22f54f4203e46d59912feec1956f15fd3cdb80a0274354d9192fffa7c4387",
+  "docs/research_map/publication_manifest.json": "ea212a47e8e97311dd2f02a5d4ded91bfac78a2f5ad1ad7f8ac4a1168e110e5e",
+  "docs/research_map/assets/public_context/jrc_rp10.png": "8e0f7bb4ea59185fbf5744458c0a70981f2567a351af76cec71dee372c360fde",
+  "docs/research_map/assets/public_context/rain_event.png": "fbad3340d89098101d4e6477b81b26a7741874f92b7957dfa8d799851993cfcc",
+  "docs/research_map/assets/public_context/jrc_rp100.png": "928535a6384392a6e87819a6bb5573f7d88dc92d1025a2d772758a55dc5c3f7f",
+  "docs/research_map/assets/public_context/jrc_rp500.png": "3fe6f9cb1ff50a8599bb87777307f6f5c66722cd1855a6494c0c914905e006a6",
+  "docs/research_map/assets/public_context/jrc_flags.png": "68d8eac36ce69922c0eae7d4349d9cbe97f648722b404d5af49e12927739868a",
+  "docs/research_map/assets/public_context/rain_anomaly.png": "a7e2fdb14d9b211a163400916bb2cc1eca28dad4a9016a6507c2262d77b0d2e8"
+}

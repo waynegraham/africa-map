@@ -72,6 +72,18 @@ def check(root=ROOT):
                 errors.append('research_map: restricted geometry/overlays found')
             if data['context']['rasters'] or 'rainfall' in data['context']:
                 errors.append('research_map: municipal-mask context found')
+            context = data.get('public_context')
+            if context:
+                raster_ids={'jrc_rp10','jrc_rp100','jrc_rp500','jrc_flags','rain_event','rain_anomaly'}
+                if (context.get('schema_version') != 1 or context.get('municipal_mask') is not False
+                        or context.get('geographic_support') != 'rectangle'
+                        or context.get('sources',{}).get('boundary',{}).get('license') != 'Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)'
+                        or {s.get('id') for s in context.get('rasters',[])} != raster_ids):
+                    errors.append('research_map: public context has unreviewed support, license or raster identities')
+                for raster in context.get('rasters',[]):
+                    name='assets/public_context/'+str(raster.get('id'))+'.png'
+                    if raster.get('path') != name or name not in listed:
+                        errors.append('research_map: public context raster is not a checked page asset')
             for f in data['institutions']['features']:
                 if any(k.startswith('buffer_') or k in ('point_intersects', 'distance_to_mapped_floodplain_m') for k in f['properties']):
                     errors.append('research_map: restricted screening results found')

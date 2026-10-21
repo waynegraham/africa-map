@@ -1,0 +1,12 @@
+{
+  "data/raw/public_pilot_layers_20261021/ADM2_simplified.geojson": "bb4800b804811ce9cfa5f6bf535466e3f812751249f0e1b7375d5f5753570e7c",
+  "data/raw/public_pilot_layers_20261021/boundary_access.json": "568aad5d1eadd8b39e4543609765702935cb3d519a6680a270d7add2bc2d98af",
+  "data/raw/public_pilot_layers_20261021/boundary_metadata.json": "4cdc4b311fe3429d3370d1505eb4f92bfd35a89b182988783f50744980c2d388",
+  "data/raw/public_pilot_layers_20261021/chirps_event.json": "cf16125902b9d4287404f4ff66da44005459117a827059b5cd116814e8eb1a47",
+  "data/raw/public_pilot_layers_20261021/chirps_event.tif": "0a23490cf9b887c73ae8a9b26ac3efde4596f68bbe2442bcd9f7658dc9cc5fce",
+  "data/raw/public_pilot_layers_20261021/definition.json": "086c693e3d53cc456c491fd4648f723e11af79d3b7403cdb68081d9f251c7e67",
+  "data/raw/public_pilot_layers_20261021/hazard_assets.json": "2fddc8eb7538d59a0f2b09e5477917c6fac842ee88b482d30ea1990206975543",
+  "data/raw/public_pilot_layers_20261021/jrc_hazard.json": "6bbfa18a9e60ccacef7b764388e97307c816b19e41cde67eb19ed091db088a64",
+  "data/raw/public_pilot_layers_20261021/jrc_hazard.tif": "544efe5465283338fb23f51088282b4d0739ff83eff1a4ff6e6ff9637cf49088",
+  "data/raw/public_pilot_layers_20261021/rainfall_assets.json": "a8bcbccf758e6d186dd9bd2339a0de41c96e2943dd16587bd396c51f6ec06b32"
+}

@@ -82,3 +82,19 @@ class PagesValidationTests(unittest.TestCase):
             authored.write_text('export const value=99;')
             result,output=self.result(root)
             self.assertEqual(result,1);self.assertIn('authored',output.lower())
+
+    def test_public_context_cannot_claim_municipal_mask_is_shareable(self):
+        with tempfile.TemporaryDirectory() as temp:
+            root=Path(temp);self.fixture(root)
+            payload=root/'docs/research_map/data.json';data=json.loads(payload.read_text())
+            data['public_context']={'schema_version':1,'municipal_mask':True,'geographic_support':'rectangle'}
+            payload.write_text(json.dumps(data))
+            manifest=root/'docs/research_map/publication_manifest.json';m=json.loads(manifest.read_text());m['files_sha256']['data.json']=sha(payload);manifest.write_text(json.dumps(m))
+            registration=root/'metadata/datasets.csv'
+            with registration.open(newline='') as f:rows=list(csv.DictReader(f))
+            for row in rows:
+                if row['storage_location']=='docs/research_map':row['sha256']=sha(payload)
+            with registration.open('w',newline='') as f:
+                writer=csv.DictWriter(f,['storage_location','sha256']);writer.writeheader();writer.writerows(rows)
+            result,output=self.result(root)
+            self.assertEqual(result,1);self.assertIn('public context',output.lower())

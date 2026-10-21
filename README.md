@@ -14,6 +14,11 @@ shareable explorers:
 - `research_map/index.html`: the filtered eThekwini event case study.
 
 Public source credits and withheld layers are explained in `docs/sources.html`.
+The public eThekwini MapLibre page now supports separately prepared rectangular
+JRC river-depth and CHIRPS rainfall overlays plus a licensed 2020 boundary
+reference. The municipal historical floodplain remains local; it is a different
+source from the JRC 100-year model.
+
 The complete local research bundles remain available below. Public snapshots
 omit municipal geometry/results and mixed-source figures with unresolved reuse
 terms, plus the unverified-license landslide layer. See

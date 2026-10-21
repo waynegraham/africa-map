@@ -15,3 +15,8 @@ test('public, external, manifest and unrelated links retain their destinations',
  const page='http://127.0.0.1:8001/docs/index.html';
  for(const href of ['https://example.com/research_map/index.html','africa/index.html','south_africa_map/index.html','research_map/publication_manifest.json','#explorers'])assert.equal(localMapHref(href,page,true),href);
 });
+
+test('in-page anchors on the public pilot remain in that page',()=>{
+ const page='http://127.0.0.1:8001/docs/research_map/index.html';
+ assert.equal(localMapHref('#inventory-view',page,true),'#inventory-view');
+});

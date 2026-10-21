@@ -43,6 +43,35 @@ New rendering capability does not establish reuse rights or validate exploratory
 SAR output as flood/damage evidence. Source credits and qualifications are retained
 in the public sources page and profiles.
 
+## Shareable pilot context added 2026-10-21
+
+The original municipal-mask rasters and municipal geometry remain excluded.
+A separate checked package in `data/processed/public_pilot_layers_20261021/`
+adds `public_context` to the public pilot: six new rectangular display images
+and a licensed geoBoundaries 2020 ADM2 reference polygon. The polygon does not
+replace the pilot selection boundary or recompute the 28-record inventory.
+JRC's 100-year model is a separate product, not a recreation of the municipal
+historical floodplain. The latter still needs explicit redistribution permission.
+
+Run `python -m heritage_flood.public_pilot_layers --acquire` only when obtaining
+an explicitly new small snapshot. It uses existing interactive/environment-managed
+Earth Engine authentication and no batch exports. Later rebuilds omit `--acquire`.
+The public rectangle, collections, dates and output paths are in
+`config/ethekwini.yaml` under `public_context_layers`. Acquisition never loads the
+municipal polygon. Native grids and missing values are retained; rainfall needs
+three event days and 30 complete same-date baseline windows. No institutional
+exposure or municipal aggregate is recomputed. Display images use the existing
+color scales and nearest-neighbor Web Mercator presentation.
+
+`publication.prepare` preflights an exact file/ID allowlist and checksums before
+adding this optional package. An absent package permits the older filtered snapshot only when no public
+context was previously packaged. Once added, a missing package fails explicitly
+rather than silently removing layers. Changed or unreviewed assets likewise fail
+before public pages are replaced.
+The public manifest records the context receipt and all six image checksums.
+Pages validation separately rejects municipal-mask support or unreviewed source
+licenses. `public_payload` never promotes local context automatically.
+
 ## Projection and failures
 
 Map defaults to Mercator. Globe saves the flat camera and gives broad orientation;

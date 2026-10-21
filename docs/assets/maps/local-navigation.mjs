@@ -2,7 +2,7 @@
 const loopback=hostname=>['localhost','127.0.0.1','[::1]'].includes(hostname);
 export function localMapHref(href,pageUrl,available){
  const page=new URL(pageUrl);
- if(!available||!loopback(page.hostname))return href;
+ if(!available||!loopback(page.hostname)||href.startsWith('#'))return href;
  let target;try{target=new URL(href,page);}catch{return href;}
  if(target.origin!==page.origin||!target.pathname.endsWith('/research_map/index.html'))return href;
  return '/outputs/research_map_maplibre/index.html'+target.search+target.hash;

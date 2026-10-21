@@ -122,8 +122,8 @@
       "sar_resampling": "nearest; warped to Web Mercator for Leaflet image alignment"
     }
   },
-  "packaging_code_commit": "f212d4e8dcd0cf4233e355b9ba5a90f43ea27f83",
-  "packaging_code_sha256": "5cd8067eafbe2835c672b2becc1edeb21324e08080c5b679844fdeb8a1bac0ac",
+  "packaging_code_commit": "5b9a920fcf848242b48aaa81e84cc941322538bc",
+  "packaging_code_sha256": "d661314ae8166f76cf2e77e70f77c79e2e7cddc7f293765b269cc5ccada645fa",
   "packaging_working_tree_dirty": true,
   "validation_status": "Prepared; run scripts/check_pages.py before deployment",
   "omissions": [
@@ -133,19 +133,25 @@
   ],
   "files_sha256": {
     "index.html": "aba77003cada38a8246908dafdeca6938354fe887508c7d396982abdc3ce0ef5",
-    "data.json": "56591d892617d57ed16dd52b979466258d94fe8b890b0698c01e03be875ce2f6"
+    "data.json": "82b22f54f4203e46d59912feec1956f15fd3cdb80a0274354d9192fffa7c4387",
+    "assets/public_context/jrc_rp10.png": "8e0f7bb4ea59185fbf5744458c0a70981f2567a351af76cec71dee372c360fde",
+    "assets/public_context/jrc_rp100.png": "928535a6384392a6e87819a6bb5573f7d88dc92d1025a2d772758a55dc5c3f7f",
+    "assets/public_context/jrc_rp500.png": "3fe6f9cb1ff50a8599bb87777307f6f5c66722cd1855a6494c0c914905e006a6",
+    "assets/public_context/jrc_flags.png": "68d8eac36ce69922c0eae7d4349d9cbe97f648722b404d5af49e12927739868a",
+    "assets/public_context/rain_event.png": "fbad3340d89098101d4e6477b81b26a7741874f92b7957dfa8d799851993cfcc",
+    "assets/public_context/rain_anomaly.png": "a7e2fdb14d9b211a163400916bb2cc1eca28dad4a9016a6507c2262d77b0d2e8"
   },
   "shared_files_sha256": {
     "assets/maps/africa.mjs": "d7c4d920781d4cd825c2984af7c5c5e8484a11cccf109576a86c02999d15bce1",
     "assets/maps/atlas-map.css": "6551635c610cc4db063d2d6d503dd428a2e7b0d6a42aec4c0fa859e0a4889280",
     "assets/maps/climate.mjs": "12614f5e00890791535941fe20ac27bb2d5f07c823123518178c9fac773f6acb",
     "assets/maps/image-layers.mjs": "f37659229ba687040e200c1d4791bbc867531b6b457a0ba3113bba054f170cc2",
-    "assets/maps/local-navigation.mjs": "517922adc635300a193e39e76625224a00e321d2660b35595ed33aedfe7a465a",
+    "assets/maps/local-navigation.mjs": "15c9a5dc0943163602a255c6a5052644f724e67bbd3ece554af359967b7a6619",
     "assets/maps/map-runtime.mjs": "5aa537d5d7addc05ff1418025df8cfd921e064837338fe846b5736f97d413ab8",
     "assets/maps/national-context.mjs": "076258f68bb7c8dfd962dbe16ebc983a89d9651c354670d73b9f9d81c5c8f7bb",
     "assets/maps/national.mjs": "2bdb57cb8e6f2abd20156f1b774eebc87e91214e249fcb43b7851a51e95d1f34",
-    "assets/maps/pilot-rasters.mjs": "00858eebc903169d59f18961f36471653051b408faf156bef0aeb1c0f089c85b",
-    "assets/maps/pilot.mjs": "0e7eb2de674f366c79fe363a510ee148c37586c2b0db0de046d7be41d2dcead7",
+    "assets/maps/pilot-rasters.mjs": "01a6eb15f70b136100cf0aaf4473362a6018f6c66b13b567d75a5542d56f4607",
+    "assets/maps/pilot.mjs": "87c5386b2a748ceaa25c785ff965855987c9b67ba34b64b88e451fcdf9438e02",
     "assets/maps/shell.mjs": "201e42b1c03f774133f4a3920fc767c695d4b4b7eb3183ed922067cf970f8726",
     "assets/maps/state.mjs": "e978b7650aa6547275c8f4b14e30936ed47bae34d595fec906833668bf10c6d2",
     "assets/maps/style.json": "4047c0da40bbe15afe3e9dfb8762c517c874667496f4f6314089cdc128ac4173",
@@ -155,5 +161,32 @@
     "assets/maps/vendor/maplibre-gl-worker.mjs": "1c69066368331aae63967ed24a9affcf962cf55fcc6d8f532a8b040f736dbcfa",
     "assets/maps/vendor/maplibre-gl.css": "a90798a1953017790e590f7e1bd35ff103a8a4263972cb47290b78adf86f8c20",
     "assets/maps/vendor/maplibre-gl.mjs": "41198b23679a7d8892183408bbef2eabdc74745beb90261f6be0f660b7aeb2fd"
+  },
+  "public_context_provenance": {
+    "purpose": "Explicitly shareable pilot context; independent rectangle and licensed reference boundary",
+    "built_at_utc": "2026-10-21T18:34:36.977672+00:00",
+    "municipal_mask": false,
+    "input_checksums": {
+      "data/raw/public_pilot_layers_20261021/ADM2_simplified.geojson": "bb4800b804811ce9cfa5f6bf535466e3f812751249f0e1b7375d5f5753570e7c",
+      "data/raw/public_pilot_layers_20261021/boundary_access.json": "568aad5d1eadd8b39e4543609765702935cb3d519a6680a270d7add2bc2d98af",
+      "data/raw/public_pilot_layers_20261021/boundary_metadata.json": "4cdc4b311fe3429d3370d1505eb4f92bfd35a89b182988783f50744980c2d388",
+      "data/raw/public_pilot_layers_20261021/chirps_event.json": "cf16125902b9d4287404f4ff66da44005459117a827059b5cd116814e8eb1a47",
+      "data/raw/public_pilot_layers_20261021/chirps_event.tif": "0a23490cf9b887c73ae8a9b26ac3efde4596f68bbe2442bcd9f7658dc9cc5fce",
+      "data/raw/public_pilot_layers_20261021/definition.json": "086c693e3d53cc456c491fd4648f723e11af79d3b7403cdb68081d9f251c7e67",
+      "data/raw/public_pilot_layers_20261021/hazard_assets.json": "2fddc8eb7538d59a0f2b09e5477917c6fac842ee88b482d30ea1990206975543",
+      "data/raw/public_pilot_layers_20261021/jrc_hazard.json": "6bbfa18a9e60ccacef7b764388e97307c816b19e41cde67eb19ed091db088a64",
+      "data/raw/public_pilot_layers_20261021/jrc_hazard.tif": "544efe5465283338fb23f51088282b4d0739ff83eff1a4ff6e6ff9637cf49088",
+      "data/raw/public_pilot_layers_20261021/rainfall_assets.json": "a8bcbccf758e6d186dd9bd2339a0de41c96e2943dd16587bd396c51f6ec06b32"
+    },
+    "files_sha256": {
+      "context.json": "4277dcad9bcd586697b2b9fb29c3762599e226017eb6801298532e676aa9a66f",
+      "jrc_flags.png": "68d8eac36ce69922c0eae7d4349d9cbe97f648722b404d5af49e12927739868a",
+      "jrc_rp10.png": "8e0f7bb4ea59185fbf5744458c0a70981f2567a351af76cec71dee372c360fde",
+      "jrc_rp100.png": "928535a6384392a6e87819a6bb5573f7d88dc92d1025a2d772758a55dc5c3f7f",
+      "jrc_rp500.png": "3fe6f9cb1ff50a8599bb87777307f6f5c66722cd1855a6494c0c914905e006a6",
+      "rain_anomaly.png": "a7e2fdb14d9b211a163400916bb2cc1eca28dad4a9016a6507c2262d77b0d2e8",
+      "rain_event.png": "fbad3340d89098101d4e6477b81b26a7741874f92b7957dfa8d799851993cfcc",
+      "reference_boundary.geojson": "3ef14d64dd1862648ee13c2a74adae65f33df26abe211e36577a43b47ae80682"
+    }
   }
 }

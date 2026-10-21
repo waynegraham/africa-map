@@ -52,6 +52,7 @@ def public_payload(source, bundle):
     if bundle not in BUNDLES:
         raise ValueError(f'Unknown map bundle: {bundle}')
     result = copy.deepcopy(source)
+    result.pop('public_context', None)  # Only the checked public-context package can add this.
     result['publication'] = {'snapshot': True, 'omissions': OMISSIONS[bundle]}
     if bundle == 'research_map':
         # Allowlist prevents newly added municipal-derived properties leaking.
@@ -83,6 +84,39 @@ def public_payload(source, bundle):
     return result
 
 
+PUBLIC_RASTER_IDS = {'jrc_rp10','jrc_rp100','jrc_rp500','jrc_flags','rain_event','rain_anomaly'}
+PUBLIC_BOUNDARY_LICENSE = 'Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)'
+
+
+def load_public_context(root):
+    """Preflight the independently produced public package; never use local masks."""
+    directory = root / 'data/processed/public_pilot_layers_20261021'
+    manifest_path = directory / 'manifest.json'
+    if not manifest_path.is_file():
+        previous = root / 'docs/research_map/data.json'
+        if previous.is_file() and json.loads(previous.read_text()).get('public_context'):
+            raise FileNotFoundError('Missing retained public context package; rebuild public_pilot_layers before preparing the site')
+        return None
+    manifest = json.loads(manifest_path.read_text())
+    expected = {'context.json','reference_boundary.geojson',*[name+'.png' for name in PUBLIC_RASTER_IDS]}
+    if manifest.get('municipal_mask') is not False or set(manifest['files_sha256']) != expected:
+        raise ValueError('Public context manifest is incomplete or has unreviewed assets')
+    for name, digest in manifest['files_sha256'].items():
+        path = directory / name
+        if not path.is_file() or hashlib.sha256(path.read_bytes()).hexdigest() != digest:
+            raise ValueError('Public context artifact missing or changed: '+name)
+    context = json.loads((directory/'context.json').read_text())
+    if (context.get('schema_version') != 1 or context.get('municipal_mask') is not False
+            or context.get('geographic_support') != 'rectangle'
+            or context.get('sources',{}).get('boundary',{}).get('license') != PUBLIC_BOUNDARY_LICENSE
+            or {s['id'] for s in context.get('rasters',[])} != PUBLIC_RASTER_IDS):
+        raise ValueError('Public context provenance or geographic support needs review')
+    for spec in context['rasters']:
+        if spec['path'] != 'assets/public_context/'+spec['id']+'.png':
+            raise ValueError('Public context path is not allowlisted')
+    return directory, context, manifest
+
+
 def prepare(root):
     """Package three native public explorers without modifying research inputs."""
     root = Path(root).resolve()
@@ -112,6 +146,9 @@ def prepare(root):
             raise FileNotFoundError(f'Missing public template {template}')
     payloads = {'africa': africa_payload(json.loads(africa_raw))}
     payloads.update({name: public_payload(json.loads(raw), name) for name, (raw, _) in inputs.items()})
+    public_context = load_public_context(root)
+    if public_context:
+        payloads['research_map']['public_context'] = public_context[1]
     docs = root / 'docs'
     shared = docs / 'assets/maps'
     shared.mkdir(parents=True, exist_ok=True)
@@ -140,6 +177,14 @@ def prepare(root):
                     raise ValueError('Publication manifest path escapes its bundle')
                 if name not in ('index.html', 'data.json') and path.is_file():
                     path.unlink()
+        extra_files = []
+        if bundle == 'research_map' and public_context:
+            directory, context, receipt = public_context
+            for spec in context['rasters']:
+                target = destination / spec['path']
+                target.parent.mkdir(parents=True, exist_ok=True)
+                shutil.copyfile(directory / (spec['id']+'.png'), target)
+                extra_files.append(spec['path'])
         payload = payloads[bundle]
         (destination / 'index.html').write_text((web / template).read_text())
         (destination / 'data.json').write_text(json.dumps(payload, ensure_ascii=False, allow_nan=False) + '\n')
@@ -155,8 +200,9 @@ def prepare(root):
             'packaging_working_tree_dirty': bool(dirty.stdout.strip()) if dirty.returncode == 0 else None,
             'validation_status': 'Prepared; run scripts/check_pages.py before deployment',
             'omissions': payload['publication']['omissions'],
-            'files_sha256': {name: sha(destination / name) for name in ('index.html', 'data.json')},
+            'files_sha256': {name: sha(destination / name) for name in ['index.html', 'data.json', *extra_files]},
             'shared_files_sha256': shared_hashes,
+            **({'public_context_provenance': public_context[2]} if bundle == 'research_map' and public_context else {}),
         }
         prior.write_text(json.dumps(manifest, indent=2) + '\n')
         print(f'Prepared docs/{bundle}: {len(payload["institutions"]["features"])} records')
